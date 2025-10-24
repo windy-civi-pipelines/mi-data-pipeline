@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "reported with recommendation without amendment",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4403"
+}

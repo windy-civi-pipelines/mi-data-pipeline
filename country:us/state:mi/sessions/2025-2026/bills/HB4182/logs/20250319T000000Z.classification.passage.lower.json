@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #35 Yeas 65 Nays 43 Excused 0 Not Voting 2",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4182"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "placed on immediate passage",
+    "date": "2025-09-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4951"
+}

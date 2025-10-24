@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Joseph Pavlov",
+    "date": "2025-09-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 0167"
+}

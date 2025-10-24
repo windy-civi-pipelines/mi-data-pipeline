@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "INTRODUCED BY SENATOR JONATHAN LINDSEY",
+    "date": "2025-09-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0588"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HOUSE NAMED CONFEREES 10/1/2025: REPS. ANN BOLLIN, MATT MADDOCK, ALABAS FARHAT",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4706"
+}

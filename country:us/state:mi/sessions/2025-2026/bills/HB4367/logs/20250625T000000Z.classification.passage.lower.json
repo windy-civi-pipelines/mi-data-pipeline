@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #162 Yeas 102 Nays 4 Excused 0 Not Voting 4",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4367"
+}

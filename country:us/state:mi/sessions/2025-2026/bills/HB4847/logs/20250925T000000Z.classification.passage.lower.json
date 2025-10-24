@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #231 Yeas 99 Nays 0 Excused 0 Not Voting 11",
+    "date": "2025-09-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4847"
+}

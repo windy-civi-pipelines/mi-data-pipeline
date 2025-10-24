@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "presented to the Governor 08/14/2025 01:28 PM",
+    "date": "2025-08-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4003"
+}

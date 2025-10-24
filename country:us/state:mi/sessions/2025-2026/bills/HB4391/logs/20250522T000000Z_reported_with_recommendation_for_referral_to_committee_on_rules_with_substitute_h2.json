@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "reported with recommendation for referral to Committee on Rules with substitute (H-2)",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4391"
+}

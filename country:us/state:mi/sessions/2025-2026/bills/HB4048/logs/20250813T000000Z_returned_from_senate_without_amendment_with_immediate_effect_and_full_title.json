@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "returned from Senate without amendment with immediate effect and full title",
+    "date": "2025-08-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4048"
+}

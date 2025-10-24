@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "reported with recommendation for referral to Committee on Communications and Technology",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4668"
+}

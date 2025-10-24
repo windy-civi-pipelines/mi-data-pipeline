@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "referred to Committee on Select Committee on Protecting Michigan Employees and Small Businesses",
+    "date": "2025-01-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4001"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Luke Meerman",
+    "date": "2025-09-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 0165"
+}

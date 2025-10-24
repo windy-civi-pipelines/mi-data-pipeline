@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PASSED BY HOUSE WITH IMMEDIATE EFFECT",
+    "date": "2025-09-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4596"
+}

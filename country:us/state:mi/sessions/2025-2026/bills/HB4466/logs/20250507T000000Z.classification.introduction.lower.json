@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Jaime Greene",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4466"
+}

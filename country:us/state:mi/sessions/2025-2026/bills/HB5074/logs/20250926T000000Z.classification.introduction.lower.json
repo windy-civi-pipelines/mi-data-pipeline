@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Jamie Thompson",
+    "date": "2025-09-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5074"
+}

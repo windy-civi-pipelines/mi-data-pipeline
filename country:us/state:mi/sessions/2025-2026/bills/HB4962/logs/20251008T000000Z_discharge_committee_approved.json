@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "DISCHARGE COMMITTEE APPROVED",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4962"
+}

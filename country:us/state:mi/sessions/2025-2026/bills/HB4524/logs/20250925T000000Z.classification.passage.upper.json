@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 233 YEAS 35 NAYS 0 EXCUSED 0 NOT VOTING 2",
+    "date": "2025-09-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4524"
+}

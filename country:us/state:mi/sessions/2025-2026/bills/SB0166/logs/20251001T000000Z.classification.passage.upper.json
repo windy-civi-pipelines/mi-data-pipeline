@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PASSED BY HOUSE WITH SUBSTITUTE (H-5)",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0166"
+}

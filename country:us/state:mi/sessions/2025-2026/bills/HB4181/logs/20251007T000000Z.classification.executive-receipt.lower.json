@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "presented to the Governor 10/06/2025 03:10 PM",
+    "date": "2025-10-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4181"
+}

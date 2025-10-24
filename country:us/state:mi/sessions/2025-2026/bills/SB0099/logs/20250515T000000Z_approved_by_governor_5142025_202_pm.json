@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "APPROVED BY GOVERNOR 5/14/2025 2:02 PM",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0099"
+}

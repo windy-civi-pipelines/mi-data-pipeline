@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "re-received from Senate with notice of nonconcurrence in House substitute (H-5)",
+    "date": "2025-10-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0166"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PRESENTED TO GOVERNOR 10/7/2025 9:36 AM",
+    "date": "2025-10-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0578"
+}

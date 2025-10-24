@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 264 YEAS 19 NAYS 17 EXCUSED 1 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-10-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "b9c8f4b8-b131-11f0-9f5e-d2365b3d281f",
+  "bill_action": null,
+  "bill_identifier": "HB 4951",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Polehanki Singh Victory Wojno",
+      "voter_id": "~{\"name\": \"Polehanki Singh Victory Wojno\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Albert Bellino Bumstead",
+      "voter_id": "~{\"name\": \"Albert Bellino Bumstead\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Damoose Hauck",
+      "voter_id": "~{\"name\": \"Damoose Hauck\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hertel Hoitenga Huizenga Irwin",
+      "voter_id": "~{\"name\": \"Hertel Hoitenga Huizenga Irwin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson Lindsey Nesbitt Runestad",
+      "voter_id": "~{\"name\": \"Johnson Lindsey Nesbitt Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana Shink Theis Webber",
+      "voter_id": "~{\"name\": \"Santana Shink Theis Webber\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Outman",
+      "voter_id": "~{\"name\": \"Outman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-10-03-088.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

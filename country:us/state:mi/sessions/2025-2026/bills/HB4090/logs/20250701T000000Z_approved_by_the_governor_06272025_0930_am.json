@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "approved by the Governor 06/27/2025 09:30 AM",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4090"
+}

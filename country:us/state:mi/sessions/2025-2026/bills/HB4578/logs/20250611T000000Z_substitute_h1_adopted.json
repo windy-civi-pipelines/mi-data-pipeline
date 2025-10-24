@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "substitute (H-1) adopted",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4578"
+}

@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 262 YEAS 22 NAYS 14 EXCUSED 1 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-10-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "bdd52022-b131-11f0-9f5e-d2365b3d281f",
+  "bill_action": null,
+  "bill_identifier": "HB 4961",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert Bellino Bumstead",
+      "voter_id": "~{\"name\": \"Albert Bellino Bumstead\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daley",
+      "voter_id": "~{\"name\": \"Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Damoose Hauck Hoitenga",
+      "voter_id": "~{\"name\": \"Damoose Hauck Hoitenga\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers Lindsey Nesbitt",
+      "voter_id": "~{\"name\": \"Lauwers Lindsey Nesbitt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad Theis Victory",
+      "voter_id": "~{\"name\": \"Runestad Theis Victory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Outman",
+      "voter_id": "~{\"name\": \"Outman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-10-03-088.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

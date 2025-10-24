@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "assigned PA 11'25 with immediate effect",
+    "date": "2025-08-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4047"
+}

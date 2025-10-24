@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "bill electronically reproduced 05/08/2025",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4485"
+}

@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "PASSED ROLL CALL # 79 YEAS 22 NAYS 13 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-07",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "2fd26fe8-b12f-11f0-9f5e-d2365b3d281f",
+  "bill_action": null,
+  "bill_identifier": "SB 0160",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert Bellino",
+      "voter_id": "~{\"name\": \"Albert Bellino\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bumstead Daley",
+      "voter_id": "~{\"name\": \"Bumstead Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Damoose Hauck Hoitenga",
+      "voter_id": "~{\"name\": \"Damoose Hauck Hoitenga\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers Nesbitt Outman",
+      "voter_id": "~{\"name\": \"Lauwers Nesbitt Outman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad Theis Victory",
+      "voter_id": "~{\"name\": \"Runestad Theis Victory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Camilleri Johnson",
+      "voter_id": "~{\"name\": \"Camilleri Johnson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-05-07-041.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

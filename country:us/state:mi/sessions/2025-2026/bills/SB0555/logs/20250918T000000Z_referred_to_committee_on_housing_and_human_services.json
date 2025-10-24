@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REFERRED TO COMMITTEE ON HOUSING AND HUMAN SERVICES",
+    "date": "2025-09-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0555"
+}

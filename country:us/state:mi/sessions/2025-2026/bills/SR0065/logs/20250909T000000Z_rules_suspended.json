@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "RULES SUSPENDED",
+    "date": "2025-09-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SR 0065"
+}

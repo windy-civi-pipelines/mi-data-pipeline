@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees named 10/01/2025: Reps. Ann Bollin Matt Maddock Alabas Farhat",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4706"
+}

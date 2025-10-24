@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "approved by the Governor 02/21/2025 11:40 AM",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4002"
+}

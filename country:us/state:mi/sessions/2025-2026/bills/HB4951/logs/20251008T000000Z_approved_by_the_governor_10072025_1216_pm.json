@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "approved by the Governor 10/07/2025 12:16 PM",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4951"
+}

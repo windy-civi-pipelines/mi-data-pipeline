@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "roll call Roll Call #252 Yeas 98 Nays 11 Excused 0 Not Voting 1",
+    "date": "2025-10-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4183"
+}

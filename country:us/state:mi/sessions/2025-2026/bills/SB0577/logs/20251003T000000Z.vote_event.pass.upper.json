@@ -1,0 +1,205 @@
+{
+  "identifier": "",
+  "motion_text": "ROLL CALL: ROLL CALL # 266 YEAS 23 NAYS 13 EXCUSED 1 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-10-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "e51897ce-b12f-11f0-9f5e-d2365b3d281f",
+  "bill_action": null,
+  "bill_identifier": "SB 0577",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Anthony",
+      "voter_id": "~{\"name\": \"Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cherry",
+      "voter_id": "~{\"name\": \"Cherry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Klinefelt",
+      "voter_id": "~{\"name\": \"Klinefelt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bayer",
+      "voter_id": "~{\"name\": \"Bayer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daley",
+      "voter_id": "~{\"name\": \"Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shink",
+      "voter_id": "~{\"name\": \"Shink\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brinks",
+      "voter_id": "~{\"name\": \"Brinks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Geiss",
+      "voter_id": "~{\"name\": \"Geiss\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCann",
+      "voter_id": "~{\"name\": \"McCann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Singh",
+      "voter_id": "~{\"name\": \"Singh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Camilleri",
+      "voter_id": "~{\"name\": \"Camilleri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hertel",
+      "voter_id": "~{\"name\": \"Hertel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McMorrow",
+      "voter_id": "~{\"name\": \"McMorrow\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Webber",
+      "voter_id": "~{\"name\": \"Webber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cavanagh",
+      "voter_id": "~{\"name\": \"Cavanagh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Huizenga",
+      "voter_id": "~{\"name\": \"Huizenga\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moss",
+      "voter_id": "~{\"name\": \"Moss\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wojno",
+      "voter_id": "~{\"name\": \"Wojno\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Irwin",
+      "voter_id": "~{\"name\": \"Irwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Polehanki",
+      "voter_id": "~{\"name\": \"Polehanki\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Albert Bellino Bumstead Damoose",
+      "voter_id": "~{\"name\": \"Albert Bellino Bumstead Damoose\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hauck Hoitenga Johnson",
+      "voter_id": "~{\"name\": \"Hauck Hoitenga Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey McBroom Nesbitt",
+      "voter_id": "~{\"name\": \"Lindsey McBroom Nesbitt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad Theis Victory",
+      "voter_id": "~{\"name\": \"Runestad Theis Victory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Outman",
+      "voter_id": "~{\"name\": \"Outman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-10-03-088.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

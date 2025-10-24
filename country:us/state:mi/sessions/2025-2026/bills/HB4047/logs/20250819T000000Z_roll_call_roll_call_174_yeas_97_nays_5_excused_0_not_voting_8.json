@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "roll call Roll Call #174 Yeas 97 Nays 5 Excused 0 Not Voting 8",
+    "date": "2025-08-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4047"
+}

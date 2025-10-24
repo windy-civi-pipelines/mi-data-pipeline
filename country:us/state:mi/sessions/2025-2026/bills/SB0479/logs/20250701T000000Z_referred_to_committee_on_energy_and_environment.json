@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REFERRED TO COMMITTEE ON ENERGY AND ENVIRONMENT",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0479"
+}

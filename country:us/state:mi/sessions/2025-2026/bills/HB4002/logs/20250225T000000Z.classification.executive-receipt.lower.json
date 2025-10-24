@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "presented to the Governor 02/21/2025 01:30 AM",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4002"
+}

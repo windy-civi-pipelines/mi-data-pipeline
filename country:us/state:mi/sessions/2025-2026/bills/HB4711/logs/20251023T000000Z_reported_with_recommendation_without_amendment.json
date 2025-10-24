@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "reported with recommendation without amendment",
+    "date": "2025-10-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4711"
+}

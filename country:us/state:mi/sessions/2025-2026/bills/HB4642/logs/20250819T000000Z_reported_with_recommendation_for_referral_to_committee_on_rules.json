@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "reported with recommendation for referral to Committee on Rules",
+    "date": "2025-08-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4642"
+}

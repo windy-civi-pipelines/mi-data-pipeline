@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "rule suspended",
+    "date": "2025-09-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4537"
+}

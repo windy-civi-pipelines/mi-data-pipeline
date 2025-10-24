@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "referred to Committee on Families and Veterans",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4696"
+}

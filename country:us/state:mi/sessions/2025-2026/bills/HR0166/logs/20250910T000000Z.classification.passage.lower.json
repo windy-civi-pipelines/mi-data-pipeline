@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "adopted by unanimous standing vote",
+    "date": "2025-09-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 0166"
+}

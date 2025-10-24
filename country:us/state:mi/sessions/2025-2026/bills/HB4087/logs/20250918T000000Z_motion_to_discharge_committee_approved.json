@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "motion to discharge committee approved",
+    "date": "2025-09-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4087"
+}

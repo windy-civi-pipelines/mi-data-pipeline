@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "roll call Roll Call #6 Yeas 105 Nays 0 Excused 0 Not Voting 5",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 0014"
+}

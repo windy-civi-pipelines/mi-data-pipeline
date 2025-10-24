@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "postponed temporarily",
+    "date": "2025-09-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4664"
+}

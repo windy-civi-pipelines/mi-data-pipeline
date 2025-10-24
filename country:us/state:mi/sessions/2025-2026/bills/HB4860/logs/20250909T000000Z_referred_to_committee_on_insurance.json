@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "referred to Committee on Insurance",
+    "date": "2025-09-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4860"
+}

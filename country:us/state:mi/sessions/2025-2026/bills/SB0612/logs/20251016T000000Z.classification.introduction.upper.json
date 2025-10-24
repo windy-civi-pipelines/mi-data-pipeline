@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "INTRODUCED BY SENATOR RUTH JOHNSON",
+    "date": "2025-10-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0612"
+}

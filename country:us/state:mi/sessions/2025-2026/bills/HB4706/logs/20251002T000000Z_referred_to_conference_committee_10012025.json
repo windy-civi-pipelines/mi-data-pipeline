@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "referred to conference committee 10/01/2025",
+    "date": "2025-10-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4706"
+}

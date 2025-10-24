@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "approved by the Governor 10/01/2025 03:50 AM",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4161"
+}

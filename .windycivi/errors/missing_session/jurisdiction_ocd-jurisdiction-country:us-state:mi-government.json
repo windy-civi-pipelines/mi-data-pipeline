@@ -1,0 +1,77 @@
+{
+  "id": "ocd-jurisdiction/country:us/state:mi/government",
+  "name": "Michigan",
+  "url": "http://www.legislature.mi.gov",
+  "division_id": "ocd-division/country:us/state:mi",
+  "classification": "state",
+  "legislative_sessions": [
+    {
+      "_scraped_name": "2011-2012",
+      "classification": "primary",
+      "identifier": "2011-2012",
+      "name": "2011-2012 Regular Session",
+      "start_date": "2011-01-12",
+      "end_date": "2012-12-27"
+    },
+    {
+      "_scraped_name": "2013-2014",
+      "classification": "primary",
+      "identifier": "2013-2014",
+      "name": "2013-2014 Regular Session",
+      "start_date": "2013-01-09",
+      "end_date": "2014-12-31"
+    },
+    {
+      "_scraped_name": "2015-2016",
+      "classification": "primary",
+      "identifier": "2015-2016",
+      "name": "2015-2016 Regular Session",
+      "start_date": "2015-01-14",
+      "end_date": "2016-12-31"
+    },
+    {
+      "_scraped_name": "2017-2018",
+      "classification": "primary",
+      "identifier": "2017-2018",
+      "name": "2017-2018 Regular Session",
+      "start_date": "2017-01-11",
+      "end_date": "2018-12-28"
+    },
+    {
+      "_scraped_name": "2019-2020",
+      "classification": "primary",
+      "identifier": "2019-2020",
+      "name": "2019-2020 Regular Session",
+      "start_date": "2019-01-09",
+      "end_date": "2020-12-31"
+    },
+    {
+      "_scraped_name": "2021-2022",
+      "classification": "primary",
+      "identifier": "2021-2022",
+      "name": "2021-2022 Regular Session",
+      "start_date": "2021-01-13",
+      "end_date": "2022-12-22",
+      "active": false
+    },
+    {
+      "_scraped_name": "2023-2024",
+      "classification": "primary",
+      "identifier": "2023-2024",
+      "name": "2023-2024 Regular Session",
+      "start_date": "2023-01-11",
+      "end_date": "2024-12-22",
+      "active": false
+    },
+    {
+      "_scraped_name": "2025-2026",
+      "classification": "primary",
+      "identifier": "2025-2026",
+      "name": "2025-2026 Regular Session",
+      "start_date": "2025-01-08",
+      "end_date": "2025-12-31",
+      "active": true
+    }
+  ],
+  "extras": {}
+}

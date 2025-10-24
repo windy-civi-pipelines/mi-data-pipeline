@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REPORTED FAVORABLY WITH SUBSTITUTE (S-2) 9/3/2025",
+    "date": "2025-09-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0396"
+}

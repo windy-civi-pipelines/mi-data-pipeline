@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "returned from Senate without amendment with immediate effect",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4090"
+}

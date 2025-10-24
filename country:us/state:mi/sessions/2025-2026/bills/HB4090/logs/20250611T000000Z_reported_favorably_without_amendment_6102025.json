@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 6/10/2025",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4090"
+}

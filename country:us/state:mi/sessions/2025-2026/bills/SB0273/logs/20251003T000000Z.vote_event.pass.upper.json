@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "ROLL CALL: ROLL CALL # 265 YEAS 35 NAYS 1 EXCUSED 1 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-10-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "6bfb023c-b12f-11f0-9f5e-d2365b3d281f",
+  "bill_action": null,
+  "bill_identifier": "SB 0273",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Irwin",
+      "voter_id": "~{\"name\": \"Irwin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Outman",
+      "voter_id": "~{\"name\": \"Outman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2025-SJ-10-03-088.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
