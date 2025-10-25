@@ -1,0 +1,1492 @@
+Title: HOUSE BILL NO. 4578
+Official Title: HOUSE BILL NO. 4578
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to make appropriations for the department of lifelong
+education, advancement, and potential for the fiscal year ending
+September 30, 2026; and to provide for the expenditure of the
+appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of lifelong
+4 education, advancement, and potential for the fiscal year ending
+5 September 30, 2026, from the following funds:
+6 DEPARTMENT OF LIFELONG EDUCATION, ADVANCEMENT,
+7 AND POTENTIAL
+8 APPROPRIATION SUMMARY
+OOI H01054'25 (H-1) z9gsnm
+2
+1 Full-time equated unclassified positions 6.0
+2 Full-time equated classified positions 275.0
+3 GROSS APPROPRIATION $ 640,469,100
+4 Interdepartmental grant revenues:
+5 Total interdepartmental grants and
+6 intradepartmental transfers 0
+7 ADJUSTED GROSS APPROPRIATION $ 640,469,100
+8 Federal revenues:
+9 Total federal revenues 455,475,800
+10 Special revenue funds:
+11 Total private revenues 250,000
+12 Total other state restricted revenues 1,863,900
+13 State general fund/general purpose $ 182,879,400
+14 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+15 SUPPORT
+16 Full-time equated unclassified positions 6.0
+17 Full-time equated classified positions 15.0
+18 Unclassified salaries--FTEs 6.0 $ 500,000
+19 Executive direction and operations--FTEs 15.0 3,765,600
+20 Property management 254,500
+21 GROSS APPROPRIATION $ 4,520,100
+22 Appropriated from:
+23 Federal revenues:
+24 Federal revenues 1,004,500
+25 State general fund/general purpose $ 3,515,600
+26 Sec. 103. INFORMATION TECHNOLOGY
+27 Information technology services and projects $ 848,900
+28 GROSS APPROPRIATION $ 848,900
+OOI H01054'25 (H-1) z9gsnm
+3
+1 Appropriated from:
+2 Federal revenues:
+3 Federal revenues 222,500
+4 State general fund/general purpose $ 626,400
+5 Sec. 104. OFFICE OF EARLY CHILDHOOD EDUCATION
+6 Full-time equated classified positions 214.0
+7 Child care licensing and regulation--FTEs 144.0 $ 24,803,500
+8 Child development and care contracted services 22,900,000
+9 Child development and care external support 11,028,100
+10 Child development and care public assistance 543,312,000
+11 Head start collaboration office--FTE 1.0 425,100
+12 Office of great start operations--FTEs 69.0 17,322,400
+13 Tri-share child care program 3,400,000
+14 GROSS APPROPRIATION $ 623,191,100
+15 Appropriated from:
+16 Federal revenues:
+17 Federal revenues 454,248,800
+18 Special revenue funds:
+19 Private foundations 250,000
+20 Certification fees 64,600
+21 Child care home and center licenses fund 501,700
+22 State general fund/general purpose $ 168,126,000
+23 Sec. 105. OFFICE OF EDUCATION PARTNERSHIPS
+24 Full-time equated classified positions 15.0
+25 Before- and after-school administration--FTEs 2.0 $ 366,500
+26 Camp licensing unit--FTEs 7.0 700,300
+27 Family and community engagement--FTEs 6.0 1,062,500
+28 GROSS APPROPRIATION $ 2,129,300
+OOI H01054'25 (H-1) z9gsnm
+4
+1 Appropriated from:
+2 Special revenue funds:
+3 Adult foster care facilities licenses fund 42,900
+4 State general fund/general purpose $ 2,086,400
+5 Sec. 106. OFFICE OF HIGHER EDUCATION
+6 Full-time equated classified positions 31.0
+7 Dual enrollment payments $ 3,500,000
+8 Michigan Indian tuition waiver--FTE 1.0 157,000
+9 Student financial assistance programs--FTEs 30.0 6,122,700
+10 GROSS APPROPRIATION $ 9,779,700
+11 Appropriated from:
+12 Special revenue funds:
+13 Michigan merit award trust fund 1,254,700
+14 State general fund/general purpose $ 8,525,000
+15
+16 PART 2
+17 PROVISIONS CONCERNING APPROPRIATIONS
+18 FOR FISCAL YEAR 2025-2026
+19 GENERAL SECTIONS
+20 Sec. 201. In accordance with section 30 of article IX of the
+21 state constitution of 1963, for the fiscal year ending September
+22 30, 2026, total state spending under part 1 from state sources is
+23 $184,743,300.00 and total state spending under part 1 from state
+24 sources to be paid to local units of government is $0.00.
+25 Sec. 202. The appropriations under this part and part 1 are
+26 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+27 to 18.1594.
+28 Sec. 203. As used in this part and part 1:
+29 (a) "Department" means the department of lifelong education,
+OOI H01054'25 (H-1) z9gsnm
+5
+1 advancement, and potential.
+2 (b) "DHHS" means the Michigan department of health and human
+3 services.
+4 (c) "Director" means the director of the department.
+5 (d) "FTE" means full-time equated position in the classified
+6 service of this state.
+7 (e) "IDG" means interdepartmental grant.
+8 (f) "Standard report recipients" means the senate and house
+9 appropriations subcommittee on the department, the senate and house
+10 fiscal agencies, the senate and house policy offices, and the state
+11 budget office.
+12 Sec. 204. The department shall use the internet to fulfill the
+13 reporting requirements of this part. This requirement includes
+14 transmitting reports to the standard report recipients and any
+15 other required recipients by email and posting the reports on an
+16 internet site.
+17 Sec. 205. To the extent permissible under section 261 of the
+18 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+19 following apply to the expenditure of funds appropriated in part 1:
+20 (a) The funds must not be used for the purchase of foreign
+21 goods or services, or both, if competitively priced and of
+22 comparable quality American goods or services, or both, are
+23 available.
+24 (b) Preference must be given to goods or services, or both,
+25 manufactured or provided by Michigan businesses, if they are
+26 competitively priced and of comparable quality.
+27 (c) Preference must be given to goods or services, or both,
+28 that are manufactured or provided by Michigan businesses owned and
+29 operated by veterans, if they are competitively priced and of
+OOI H01054'25 (H-1) z9gsnm
+6
+1 comparable quality.
+2 Sec. 206. The department shall not take disciplinary action
+3 against an employee of the department for communicating with a
+4 member of the legislature or legislative staff, unless the
+5 communication is prohibited by law and the department is exercising
+6 its authority as provided by law.
+7 Sec. 207. Consistent with section 217 of the management and
+8 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+9 a report on out-of-state travel expenses not later than January 1.
+10 The report must list all travel outside this state by classified
+11 and unclassified employees in the previous fiscal year that was
+12 funded in whole or in part with funds appropriated in the
+13 department's budget. The department shall submit the report to the
+14 standard report recipients and to the senate and house
+15 appropriations committees. The report must include all of the
+16 following information:
+17 (a) The dates of each travel occurrence.
+18 (b) The total transportation and related costs of each travel
+19 occurrence and the proportions funded with state general
+20 fund/general purpose revenues, state restricted revenues, federal
+21 revenues, local revenues, and private revenues, including specific
+22 sources of state restricted, federal, local, and private revenues.
+23 Sec. 208. The department shall not use funds appropriated in
+24 part 1 to hire a person to provide legal services that are the
+25 responsibility of the attorney general. This section does not apply
+26 to legal services for bonding activities or to outside legal
+27 services that the attorney general authorizes.
+28 Sec. 209. Not later than December 15, the state budget office
+29 shall prepare and submit a report that provides estimates of the
+OOI H01054'25 (H-1) z9gsnm
+7
+1 total general fund/general purpose appropriation lapses at the
+2 close of the previous fiscal year. The report must summarize the
+3 projected year-end general fund/general purpose appropriation
+4 lapses by major departmental program or program area. The state
+5 budget office shall submit the report to the standard report
+6 recipients and to the chairpersons of the senate and house
+7 appropriations committees.
+8 Sec. 210. (1) In addition to the funds appropriated in part 1,
+9 there is appropriated an amount not to exceed $10,000,000.00 for
+10 federal contingency authorization. Amounts appropriated under this
+11 subsection are not available for expenditure until they have been
+12 transferred to another line item in part 1 under section 393(2) of
+13 the management and budget act, 1984 PA 431, MCL 18.1393.
+14 (2) In addition to the funds appropriated in part 1, there is
+15 appropriated an amount not to exceed $500,000.00 for state
+16 restricted contingency authorization. Amounts appropriated under
+17 this subsection are not available for expenditure until they have
+18 been transferred to another line item in part 1 under section
+19 393(2) of the management and budget act, 1984 PA 431, MCL 18.1393.
+20 (3) In addition to the funds appropriated in part 1, there is
+21 appropriated an amount not to exceed $350,000.00 for local
+22 contingency authorization. Amounts appropriated under this
+23 subsection are not available for expenditure until they have been
+24 transferred to another line item in part 1 under section 393(2) of
+25 the management and budget act, 1984 PA 431, MCL 18.1393.
+26 (4) In addition to the funds appropriated in part 1, there is
+27 appropriated an amount not to exceed $2,000,000.00 for private
+28 contingency authorization. Amounts appropriated under this
+29 subsection are not available for expenditure until they have been
+OOI H01054'25 (H-1) z9gsnm
+8
+1 transferred to another line item in part 1 under section 393(2) of
+2 the management and budget act, 1984 PA 431, MCL 18.1393.
+3 Sec. 211. (1) The department shall cooperate with the
+4 department of technology, management, and budget to maintain a
+5 searchable website accessible by the public at no cost that
+6 includes, but is not limited to, all of the following for the
+7 department:
+8 (a) Fiscal year-to-date expenditures by category.
+9 (b) Fiscal year-to-date expenditures by appropriation unit.
+10 (c) Fiscal year-to-date payments to a selected vendor,
+11 including the vendor name, payment date, payment amount, and
+12 payment description.
+13 (2) The department shall cooperate with the department of
+14 technology, management, and budget to update the searchable website
+15 on a quarterly basis.
+16 Sec. 212. Not later than 14 days after the release of the
+17 executive budget recommendation, the department shall cooperate
+18 with the state budget office to provide an annual report on
+19 estimated state restricted fund balances, state restricted fund
+20 projected revenues, and state restricted fund expenditures for the
+21 previous 2 fiscal years. The report must be submitted to the
+22 standard report recipients and to the chairpersons of the senate
+23 and house appropriations committees.
+24 Sec. 216. On a quarterly basis, the department shall report on
+25 the number of full-time equated positions in pay status by civil
+26 service classification, including a comparison by line item of the
+27 number of full-time equated positions authorized from funds
+28 appropriated in part 1 to the actual number of full-time equated
+29 positions employed by the department at the end of the reporting
+OOI H01054'25 (H-1) z9gsnm
+9
+1 period. The report must be submitted to the senate and house
+2 appropriations committees and to the standard report recipients.
+3 Sec. 217. If the state administrative board, acting under
+4 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+5 appropriated under part 1, the legislature may, by a concurrent
+6 resolution adopted by a majority of the members elected to and
+7 serving in each house, inter-transfer funds within part 1 for the
+8 particular department, board, commission, officer, or institution.
+9 Sec. 218. The department shall submit a quarterly report that
+10 summarizes all work project accounts. The report must include all
+11 of the following:
+12 (a) A list of all work project accounts.
+13 (b) The status of all work project accounts including amounts
+14 expended, amounts encumbered, and available balances for each
+15 account.
+16 (c) The amount of funds that lapsed from any previously
+17 designated work project accounts, the name and description of the
+18 work project account, and the funds that received the lapsed
+19 amounts.
+20 Sec. 219. The department shall receive and retain copies of
+21 all reports funded from appropriations in part 1. The department
+22 shall follow federal and state law and guidelines for short-term
+23 and long-term retention of records. The department may
+24 electronically retain copies of reports unless otherwise required
+25 by federal and state guidelines.
+26 Sec. 220. Not later than April 1, the department shall report
+27 on each specific policy change made to implement a public act
+28 affecting the department that took effect during the previous
+29 calendar year. The report must include reference to the public act
+OOI H01054'25 (H-1) z9gsnm
+10
+1 that necessitates the policy change. The department shall submit
+2 the report to the standard report recipients, to the senate and
+3 house appropriations committees, and to the joint committee on
+4 administrative rules.
+5 Sec. 222. To the extent possible, the department shall not
+6 expend appropriations under part 1 until all existing authorized
+7 work project funds available for the same purposes are exhausted.
+8 Sec. 224. Total authorized appropriations from all sources
+9 under part 1 for legacy costs for the fiscal year ending September
+10 30, 2026 are estimated at $5,536,600.00. From this amount, total
+11 department appropriations for pension-related legacy costs are
+12 estimated at $4,993,700.00. Total department appropriations for
+13 retiree health care legacy costs are estimated at $542,900.00.
+14 Sec. 225. (1) From the funds appropriated in part 1, the
+15 department shall do the following:
+16 (a) Report to the standard report recipients and to the senate
+17 and house appropriations committees any amounts of severance pay
+18 for a department director, deputy director, or other high-ranking
+19 department official not later than 14 days after a severance
+20 agreement with the director, deputy director, or official is
+21 signed. The name of the director, deputy director, or official and
+22 the amount of severance pay must be included in the report required
+23 by this subdivision.
+24 (b) Not later than February 1, report on the total amount of
+25 severance pay remitted to former department employees during the
+26 prior fiscal year and the total number of former department
+27 employees that were remitted severance pay during the prior fiscal
+28 year.
+29 (2) As used in this section, "severance pay" means
+OOI H01054'25 (H-1) z9gsnm
+11
+1 compensation to which both of the following apply:
+2 (a) The compensation is payable or paid upon the termination
+3 of employment.
+4 (b) The compensation is paid in addition to wages or benefits
+5 earned during the course of employment or generally applicable
+6 retirement benefits.
+7 Sec. 226. (1) The department shall maximize the efficiency of
+8 the state workforce. The department shall prioritize employees
+9 working in person 5 days per week for each division within the
+10 department. Employees with job responsibilities that require the
+11 employees to serve in their capacities outside of the office must
+12 report to the office before beginning fieldwork. Field service
+13 employees include, but are not limited to, protective services
+14 workers, parole and probation officers, conservation officers,
+15 state troopers assigned to road patrol, inspectors, and
+16 construction and trade workers.
+17 (2) The department shall establish a policy and process for
+18 verifying that all employees are working their jobs during normal
+19 business hours.
+20 Sec. 227. (1) Funds appropriated in part 1 that are used for
+21 grants or grant programs are subject to the following conditions:
+22 (a) Grant funds must be provided only to an entity that has
+23 been established or is operating in this state or another state for
+24 at least 36 months before approval or disbursement of grant funds.
+25 (b) Grant funds must be provided only to an entity that has
+26 had an office within this state or in the service area covered
+27 under the grant for at least 12 months before approval or
+28 disbursement of grant funds.
+29 (c) Before awarding or disbursing grant funds, all grant
+OOI H01054'25 (H-1) z9gsnm
+12
+1 recipients must provide a spending plan that specifies the scope of
+2 service, the program goals, the measurement for meeting program
+3 goals, and how all grant funds will be used and must indicate if
+4 any grant funds will be provided to a third party or subrecipient.
+5 (d) Up to 20% of grant funds may be spent on administrative
+6 costs and salaries. Up to 10% is authorized for contingencies.
+7 (e) Each department or agency responsible for awarding or
+8 disbursing grant funds must annually audit the entity's use of the
+9 grant funds for each fiscal year in which the grant is active. Each
+10 entity must submit information requested by the department to
+11 confirm compliance.
+12 (f) Each department and agency shall work with the office of
+13 the auditor general to conduct an audit of the grant according to
+14 generally accepted accounting practices and audit standards. The
+15 office of the auditor general must be given access to all internal
+16 and external records. All contracts or agreements between a
+17 department or agency and a grant recipient or between a grant
+18 recipient and a third party must include a clause granting the
+19 office of the auditor general access to all internal and external
+20 records.
+21 (g) Grant recipients and their immediate family members are
+22 prohibited from being employed by the executive branch or
+23 legislative branch of this state. In addition, grant recipients are
+24 prohibited from serving on any state board that has direct or
+25 indirect responsibility for approving or auditing grant funds
+26 awarded or disbursed by any department or agency.
+27 (h) Full and complete audits of grant funds issued by the
+28 department or an agency of this state, without redaction unless
+29 required by law, must be posted to the department's website in a
+OOI H01054'25 (H-1) z9gsnm
+13
+1 conspicuous place for public review.
+2 (2) On a quarterly basis, the department shall submit a report
+3 to the standard report recipients on legislatively sponsored grant
+4 funds that includes, but is not limited to, all of the following:
+5 (a) The name of each grant recipient and the status of each
+6 grant.
+7 (b) The amount distributed to each grant recipient.
+8 (c) The remaining amount to be distributed to each grant
+9 recipient.
+10 (d) Any changes to scope or costs of program.
+11 (3) The report under subsection (2) must include the following
+12 statements made by the department:
+13 (a) A statement that confirms the department reviewed and
+14 affirmed compliance by each grant recipient to program scope and
+15 expenditure of grant funding.
+16 (b) A statement that confirms the department reviewed
+17 applicable program reports and requests for reimbursement.
+18 Sec. 228. (1) The department shall require as a condition of
+19 each contract or subcontract that the prequalified contractor or
+20 prequalified subcontractor agree to use the E-Verify system to
+21 verify that all persons hired during the contract term by the
+22 contractor or subcontractor are legally present and authorized to
+23 work in the United States.
+24 (2) The department may verify this information directly or may
+25 require contractors and subcontractors to verify the information
+26 and submit a certification to the department. The department shall
+27 submit a report to the standard report recipients not later than
+28 March 1 that describes the processes it has developed and
+29 implemented under this section.
+OOI H01054'25 (H-1) z9gsnm
+14
+1 (3) The department shall not contract with any foreign
+2 entities that are known or suspected to be enemies of the United
+3 States or known foreign adversaries.
+4 (4) As used in this section, "E-Verify" means an internet-
+5 based system operated by the Department of Homeland Security, U.S.
+6 Citizenship and Immigration Services in partnership with the Social
+7 Security Administration.
+8 Sec. 229. Funds appropriated in part 1 from state or federal
+9 sources are prohibited from being used to provide services, grants,
+10 or programming to an individual who is not a citizen of the United
+11 States, unless the individual is a qualified alien as that term is
+12 defined in 8 USC 1641. This section does not prohibit the
+13 department, political subdivision, state university, or other state
+14 agency from expending funds for the purpose of detaining
+15 individuals who are not citizens of the United States, including
+16 any costs associated with housing such individuals in county jails
+17 or state correctional facilities.
+18 Sec. 230. (1) The department shall maintain, on a publicly
+19 accessible website, a department scorecard that identifies, tracks,
+20 and updates on a quarterly basis key metrics that are used to
+21 monitor and improve the department's performance.
+22 (2) The department shall notify the standard report recipients
+23 when the quarterly updates to the department scorecard are
+24 available on a publicly accessible website.
+25 Sec. 231. (1) Unless specifically authorized elsewhere in this
+26 part or part 1, funds appropriated in part 1 must not be used to
+27 pay for a state obligation that exceeds $200,000.00 for a court-
+28 approved judgment, settlement, award, or claim.
+29 (2) If a state obligation for a court-approved judgment,
+OOI H01054'25 (H-1) z9gsnm
+15
+1 settlement, award, or claim results in a change from current
+2 statute, the department shall notify the legislature.
+3 (3) This section does not apply to compensation and other
+4 relief to individuals wrongfully imprisoned as required under the
+5 wrongful imprisonment compensation act, 2016 PA 343, MCL 691.1751
+6 to 691.1757.
+7 Sec. 232. Not later than November 15, the department shall
+8 disclose on a publicly accessible website private and other third-
+9 party funds received by the department in the previous fiscal year.
+10 The report must include the amount and source of funding received,
+11 the purpose for which funding was expended, and the amount of any
+12 remaining funds. The report must be submitted to the standard
+13 report recipients and to the chairpersons of the senate and house
+14 appropriations committees.
+15 Sec. 233. State funds must not be used for diversity, equity,
+16 and inclusion, or DEI initiatives or programs or as outlined in
+17 Exec. Order No. 14151, 90 Fed. Reg. 8339 (Jan. 29, 2025) "Ending
+18 Radical and Wasteful Government DEI Programs and Preferencing",
+19 Exec. Order No. 14168, "Defending Women from Gender Ideology
+20 Extremism and Restoring Biological Truth to the Federal
+21 Government", or Exec. Order No. 14173, 90 Fed. Reg. 8633 (Jan. 31,
+22 2025) "Ending Illegal Discrimination and Restoring Merit-Based
+23 Opportunity".
+24
+25 DEPARTMENT-SPECIFIC GENERAL SECTIONS
+26 Sec. 301. (1) Money appropriated in part 1 must not be used to
+27 purchase business cards or letterhead that lists pronouns or to
+28 purchase or operate technology, including email systems, that is
+29 used to list pronouns. The department is subject to a civil fine of
+OOI H01054'25 (H-1) z9gsnm
+16
+1 $100.00 for each violation of this section.
+2 (2) Any taxpayer of this state has standing to bring an action
+3 in the court of claims to enforce this section and, if the taxpayer
+4 prevails, is entitled to receive from the department his or her
+5 costs incurred in bringing the action.
+6
+7 OFFICE OF EDUCATION PARTNERSHIPS
+8 Sec. 401. From the funds appropriated in part 1 for family and
+9 community engagement, the department shall, at a minimum, do all of
+10 the following:
+11 (a) Establish or partner with family engagement centers across
+12 this state to increase parent and guardian involvement in their
+13 child's education.
+14 (b) Ensure translation and interpretation services are
+15 available and implemented pursuant to department guidance.
+16 (c) Partner with intermediate school districts to assist in
+17 getting information and resources to their constituent districts.
+18 (d) Develop an early literacy engagement plan to help parents
+19 or guardians become involved in their child's education.
+20
+21 OFFICE OF HIGHER EDUCATION
+22 Sec. 701. (1) From the funds appropriated in part 1, in
+23 addition to other statutorily required duties, the department shall
+24 do all of the following:
+25 (a) Review and evaluate all state financial aid programs. The
+26 department shall prioritize improving postsecondary educational
+27 outcomes, including student completion rates, and improving
+28 affordability of postsecondary programs in this state.
+29 (b) Serve as the coordinating office for all agencies of the
+OOI H01054'25 (H-1) z9gsnm
+17
+1 executive branch of government that are responsible for financial
+2 aid programs administered by this state.
+3 (c) Survey stakeholders, including public, tribal, and private
+4 not-for-profit colleges and universities, state departments and
+5 agencies, and statewide postsecondary education associations on
+6 student financial aid policy to improve this state's administration
+7 of programs.
+8 (d) Collaborate with the center for educational performance
+9 and information and individual colleges and universities to ensure
+10 streamlined and coordinated collection of data analyzing the
+11 following:
+12 (i) Postsecondary education costs, including a comparison to
+13 national and regional averages.
+14 (ii) Student enrollment.
+15 (iii) Degree completion.
+16 (e) Provide access to higher education institutional data
+17 inventory on an accessible, public facing dashboard to assist
+18 students, prospective students, and their families in making
+19 decisions on postsecondary education.
+20 (f) Coordinate with other state agencies and school districts
+21 to increase utilization and awareness of postsecondary
+22 opportunities, including, but not limited to, early and middle
+23 college, dual enrollment, and private skills training scholarships.
+24 (g) Track and provide resources to increase completion of the
+25 free application for federal student aid.
+26 (2) From the funds appropriated in part 1, the department
+27 shall meet, at a minimum, the following transparency requirements:
+28 (a) Collect data necessary to complete all statutory reporting
+29 requirements. The department shall notify the chairs of the house
+OOI H01054'25 (H-1) z9gsnm
+18
+1 and senate appropriations committees within 10 days if an entity
+2 receiving funds from part 1 fails to comply with data collection
+3 requirements.
+4 (b) Maintain a link on the department's website to find data
+5 submitted by postsecondary institutions through higher education
+6 institutional data inventory.
+7 (c) Maintain a link on the department's website to the center
+8 for educational performance and information's MI School Data page
+9 on postsecondary enrollment and completion tracking.
+10 (3) As used in this section, "center for educational
+11 performance and information" means the center for educational
+12 performance and information created in section 94a of the state
+13 school aid act of 1979, 1979 PA 94, MCL 388.1694a.
+14 Sec. 705. The funds appropriated in part 1 for dual enrollment
+15 payments for an eligible student enrolled in a state-approved
+16 nonpublic school shall be distributed as provided under the
+17 postsecondary enrollment options act, 1996 PA 160, MCL 388.511 to
+18 388.524, and the career and technical preparation act, 2000 PA 258,
+19 MCL 388.1901 to 388.1913, in a form and manner as determined by the
+20 department.
+21
+22 OFFICE OF EARLY CHILDHOOD EDUCATION
+23 Sec. 1002. (1) From the funds appropriated in part 1, the
+24 department shall ensure that the final child development and care
+25 provider reimbursement rates are published on the department and
+26 Great Start to Quality webpages.
+27 (2) If the average cases over a 3-month period in the child
+28 development and care program result in the current projected fiscal
+29 year caseloads falling below the caseload agreement from the May
+OOI H01054'25 (H-1) z9gsnm
+19
+1 consensus revenue estimating conference, the department may
+2 increase the hourly reimbursement rate to child care providers if
+3 the following conditions are met:
+4 (a) The level of expenditures for the remainder of the year is
+5 estimated to be significantly below the level estimated from the
+6 May consensus revenue estimating conference.
+7 (b) The department plans to expend the funds through an
+8 ongoing rate increase to providers for the remainder of the fiscal
+9 year.
+10 (c) The department makes this request to the state budget
+11 director not less than 30 days before the expenditure of the funds
+12 that includes the rate increase.
+13 (3) The department must notify the senate and house fiscal
+14 agencies of the amount being appropriated, the estimated rate
+15 increase to providers, and if the rate increase to providers is 1-
+16 time or ongoing in nature.
+17 (4) The department may withdraw the intent to expend the funds
+18 under subsection (2) by notifying the chairpersons of the senate
+19 and house appropriations committees in writing.
+20 Sec. 1003. (1) From the funds appropriated in part 1 for child
+21 development and care contracted services, the department shall
+22 create a report on all funding appropriated to contracts for the
+23 early childhood comprehensive systems planning by this state during
+24 the previous fiscal year. The report required under this section is
+25 due by April 1 and must contain at least all of the following
+26 information:
+27 (a) Total funding appropriated to contracts for the early
+28 childhood comprehensive systems planning by this state during the
+29 previous fiscal year.
+OOI H01054'25 (H-1) z9gsnm
+20
+1 (b) The amount of funding for each grant awarded.
+2 (c) The grant recipients.
+3 (d) The activities funded by each grant.
+4 (e) An analysis of each grant recipient's success in
+5 addressing the development of a comprehensive system of early
+6 childhood services and supports.
+7 (2) All department contracts for early childhood comprehensive
+8 systems planning must be bid out through a statewide request-for-
+9 proposal process.
+10 Sec. 1007. (1) From the funds appropriated in part 1 for child
+11 development and care – external support, child development and care
+12 contracted services, and child care licensing and regulation, the
+13 department shall create a joint report that includes, but is not
+14 limited to, the following:
+15 (a) The affordability of child care in this state, including,
+16 but not limited to, the number of children eligible for and
+17 participating in the child development and care program, the number
+18 of children eligible for and participating in the child development
+19 and care program for the last 5 years, and key takeaways from the
+20 most recent market rate survey.
+21 (b) The availability of child care in this state by county,
+22 including, but not limited to, the number of licensed child care
+23 providers, the change in the number of licensed child care
+24 providers and slots over time, and the estimated demand for care.
+25 (c) The health and safety of child care, including, but not
+26 limited to, the 10 most common rule violations, the number of
+27 licenses revoked and summarily suspended, and the number of license
+28 violations for incomplete health and safety training and safe sleep
+29 training.
+OOI H01054'25 (H-1) z9gsnm
+21
+1 (d) Any actions taken to strengthen health and safety of care,
+2 including, but not limited to, the number of licensing consultants,
+3 their average caseload, the number of on-site visits they complete
+4 by provider type and region, the types of activities that are
+5 intended to improve health and safety in licensed care, and the
+6 number of times those activities are performed by licensing
+7 consultants.
+8 (e) Information on the child care licensing process,
+9 including, but not limited to, all of the following:
+10 (i) The number of initial applications, initial applications
+11 denied, license renewals, and licenses allowed to expire,
+12 aggregated by license type.
+13 (ii) The average amount of time to approve or deny completed
+14 applications and a description of the most common reasons
+15 applications are denied.
+16 (iii) A description of the types of complaints received, a
+17 description of the process used to resolve complaints, the average
+18 amount of time to complete investigations, and the percentage of
+19 investigations completed on time.
+20 (iv) The number of complaints received, investigated,
+21 determined to be unsubstantiated, and that result in disciplinary
+22 action or rule violations.
+23 (v) The number of administrative hearing adjudications.
+24 (f) The quality of child care, including, but not limited to,
+25 the number of licensed providers participating in the Great Start
+26 to Quality program and the workforce registry, the number of new
+27 participants and how participation has changed over the last 5
+28 years, and the number of children participating in the child
+29 development and care program enrolled in an enhancing quality level
+OOI H01054'25 (H-1) z9gsnm
+22
+1 or higher program.
+2 (g) Any actions taken to improve child care quality,
+3 including, but not limited to, the number of quality consultants,
+4 the average caseload, the number of on-site visits completed by
+5 region, the types of activities that are intended to improve
+6 quality and the number of times those activities are performed, and
+7 the number of providers that have improved the provider's quality
+8 rating since the start of the current fiscal year compared to the
+9 same time period in the preceding fiscal year, reported as the
+10 number of providers in each region.
+11 (h) The child care workforce, including, but not limited to,
+12 the number of child care professionals, average wages by role, the
+13 number of individuals participating in the TEACH scholarship and
+14 earning a credential, and the level of demand for staff.
+15 (2) The department must post the joint report on the
+16 department website and send the joint report to the state budget
+17 director, the house and senate subcommittees that oversee the
+18 department budget, and the house and senate fiscal agencies by
+19 April 1 of the current fiscal year reflecting data for the previous
+20 fiscal year.
+21 Sec. 1008. From the funds appropriated in part 1 for office of
+22 early childhood education, the department shall ensure efficient
+23 service provision to coordinate services provided to families for
+24 home visits, reduce duplication of state services and spending,
+25 increase efficiencies including the home visits funded under
+26 section 32p of the state school aid act of 1979, 1979 PA 94, MCL
+27 388.1632p, and work with the DHHS as necessary.
+28 Sec. 1009. From the funds appropriated in part 1 for child
+29 development and care public assistance, the income entrance
+OOI H01054'25 (H-1) z9gsnm
+23
+1 eligibility threshold for the child development and care program is
+2 set to not more than 200% of the federal poverty guidelines.
+3 Sec. 1011. From the funds appropriated in part 1 for child
+4 development and care public assistance, for eligible children in
+5 the child development and care program, the department shall
+6 implement payments to providers based on enrollment rather than
+7 based on attendance. This shall be done in a manner determined by
+8 the department.
+9 Sec. 1012. From the funds appropriated in part 1 for child
+10 development and care contracted services, $1,500,000.00 must be for
+11 the department to work in collaboration with DHHS to continue the
+12 network of infant and early childhood mental health consultation,
+13 which provides mental health consultation to child care providers.
+14 Sec. 1030. (1) The funds appropriated in part 1 for the tri-
+15 share child care program must be awarded for the continuation of
+16 the child care facilitator program originally initiated and funded
+17 as a pilot project in section 1047(31) of article 5 of 2020 PA 166.
+18 (2) Except as otherwise provided in this subsection, funding
+19 appropriated in part 1 must be used to fund existing child care
+20 facilitator hubs. The department may fund new child care
+21 facilitator hubs provided sufficient funding exists to support all
+22 existing child care facilitator hubs, including child care
+23 facilitator hubs currently funded with private dollars. Any new
+24 child care facilitator hubs added must increase the number of
+25 participating counties or serve statewide employers.
+26 (3) The department must create benchmarks for regional
+27 facilitator hubs receiving appropriated funding.
+28 (4) Any child care facilitator receiving funds under this
+29 section must be a nonprofit, limited liability company, C-
+OOI H01054'25 (H-1) z9gsnm
+24
+1 corporation, S-corporation, or a sole proprietor.
+2 (5) Child care facilitator hubs may use funds to enroll in the
+3 tri-share child care program families living in Wisconsin but who
+4 have 1 or more family members who are employed in Michigan.
+Final Page
+OOI H01054'25 (H-1) z9gsnm
+[DELETED:   H z D A A    ]
+[DELETED:   H z 6   2  N$6        0N$6        4      2   1e$1     6   1   6 $ 5 1  3   2N$4           1e$3      $ 8N$8  ]
+[DELETED:   H z         2e$6     2   1 $ 2   2   1   5 1  4 6  1   3N$6           4      2   6   5e$1     1   2 $ 3 7  7 6  1N$2  ]
+[DELETED:   H z         4e$2     3    $ 3 1  1 3  6N$9           1e$8  ]
+[DELETED:   H z           ]
+[DELETED:   H z       ]
+[DELETED:   H z     ]
+[DELETED:   H z    ]
+[DELETED:   H z  ]
+[DELETED:   H z  ]
+[DELETED:   H z]
+[DELETED:   H z]
+[DELETED:   H z]
+[DELETED:   H z]
+[DELETED:   H z D]
+[DELETED:   H z O       O   ]
+[DELETED:   H z    4i i s d ( ( f ()))]
+[DELETED:   H z      O  ]
+[DELETED:   H z     ]
+[DELETED:   H z    ]
+[DELETED:   H z    3)))))]
+[DELETED:   H z     ]
+[DELETED:   H z    ]
+[DELETED:   H z ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4578
+A bill to make appropriations for the department of lifelong
+education, advancement, and potential for the fiscal year ending
+September 30, 2026; and to provide for the expenditure of the
+appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of lifelong
+4 education, advancement, and potential for the fiscal year ending
+5 September 30, 2026, from the following funds:
+6 DEPARTMENT OF LIFELONG EDUCATION, ADVANCEMENT,
+7 AND POTENTIAL
+8 APPROPRIATION SUMMARY
+OOI H01054'25 (H-1) z9gsnm
+
+2
+1 Full-time equated unclassified positions 6.0
+2 Full-time equated classified positions 275.0
+3 GROSS APPROPRIATION $ 640,469,100
+4 Interdepartmental grant revenues:
+5 Total interdepartmental grants and
+6 intradepartmental transfers 0
+7 ADJUSTED GROSS APPROPRIATION $ 640,469,100
+8 Federal revenues:
+9 Total federal revenues 455,475,800
+10 Special revenue funds:
+11 Total private revenues 250,000
+12 Total other state restricted revenues 1,863,900
+13 State general fund/general purpose $ 182,879,400
+14 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+15 SUPPORT
+16 Full-time equated unclassified positions 6.0
+17 Full-time equated classified positions 15.0
+18 Unclassified salaries--FTEs 6.0 $ 500,000
+19 Executive direction and operations--FTEs 15.0 3,765,600
+20 Property management 254,500
+21 GROSS APPROPRIATION $ 4,520,100
+22 Appropriated from:
+23 Federal revenues:
+24 Federal revenues 1,004,500
+25 State general fund/general purpose $ 3,515,600
+26 Sec. 103. INFORMATION TECHNOLOGY
+27 Information technology services and projects $ 848,900
+28 GROSS APPROPRIATION $ 848,900
+OOI H01054'25 (H-1) z9gsnm
+
+3
+1 Appropriated from:
+2 Federal revenues:
+3 Federal revenues 222,500
+4 State general fund/general purpose $ 626,400
+5 Sec. 104. OFFICE OF EARLY CHILDHOOD EDUCATION
+6 Full-time equated classified positions 214.0
+7 Child care licensing and regulation--FTEs 144.0 $ 24,803,500
+8 Child development and care contracted services 22,900,000
+9 Child development and care external support 11,028,100
+10 Child development and care public assistance 543,312,000
+11 Head start collaboration office--FTE 1.0 425,100
+12 Office of great start operations--FTEs 69.0 17,322,400
+13 Tri-share child care program 3,400,000
+14 GROSS APPROPRIATION $ 623,191,100
+15 Appropriated from:
+16 Federal revenues:
+17 Federal revenues 454,248,800
+18 Special revenue funds:
+19 Private foundations 250,000
+20 Certification fees 64,600
+21 Child care home and center licenses fund 501,700
+22 State general fund/general purpose $ 168,126,000
+23 Sec. 105. OFFICE OF EDUCATION PARTNERSHIPS
+24 Full-time equated classified positions 15.0
+25 Before- and after-school administration--FTEs 2.0 $ 366,500
+26 Camp licensing unit--FTEs 7.0 700,300
+27 Family and community engagement--FTEs 6.0 1,062,500
+28 GROSS APPROPRIATION $ 2,129,300
+OOI H01054'25 (H-1) z9gsnm
+
+4
+1 Appropriated from:
+2 Special revenue funds:
+3 Adult foster care facilities licenses fund 42,900
+4 State general fund/general purpose $ 2,086,400
+5 Sec. 106. OFFICE OF HIGHER EDUCATION
+6 Full-time equated classified positions 31.0
+7 Dual enrollment payments $ 3,500,000
+8 Michigan Indian tuition waiver--FTE 1.0 157,000
+9 Student financial assistance programs--FTEs 30.0 6,122,700
+10 GROSS APPROPRIATION $ 9,779,700
+11 Appropriated from:
+12 Special revenue funds:
+13 Michigan merit award trust fund 1,254,700
+14 State general fund/general purpose $ 8,525,000
+15
+16 PART 2
+17 PROVISIONS CONCERNING APPROPRIATIONS
+18 FOR FISCAL YEAR 2025-2026
+19 GENERAL SECTIONS
+20 Sec. 201. In accordance with section 30 of article IX of the
+21 state constitution of 1963, for the fiscal year ending September
+22 30, 2026, total state spending under part 1 from state sources is
+23 $184,743,300.00 and total state spending under part 1 from state
+24 sources to be paid to local units of government is $0.00.
+25 Sec. 202. The appropriations under this part and part 1 are
+26 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+27 to 18.1594.
+28 Sec. 203. As used in this part and part 1:
+29 (a) "Department" means the department of lifelong education,
+OOI H01054'25 (H-1) z9gsnm
+
+5
+1 advancement, and potential.
+2 (b) "DHHS" means the Michigan department of health and human
+3 services.
+4 (c) "Director" means the director of the department.
+5 (d) "FTE" means full-time equated position in the classified
+6 service of this state.
+7 (e) "IDG" means interdepartmental grant.
+8 (f) "Standard report recipients" means the senate and house
+9 appropriations subcommittee on the department, the senate and house
+10 fiscal agencies, the senate and house policy offices, and the state
+11 budget office.
+12 Sec. 204. The department shall use the internet to fulfill the
+13 reporting requirements of this part. This requirement includes
+14 transmitting reports to the standard report recipients and any
+15 other required recipients by email and posting the reports on an
+16 internet site.
+17 Sec. 205. To the extent permissible under section 261 of the
+18 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+19 following apply to the expenditure of funds appropriated in part 1:
+20 (a) The funds must not be used for the purchase of foreign
+21 goods or services, or both, if competitively priced and of
+22 comparable quality American goods or services, or both, are
+23 available.
+24 (b) Preference must be given to goods or services, or both,
+25 manufactured or provided by Michigan businesses, if they are
+26 competitively priced and of comparable quality.
+27 (c) Preference must be given to goods or services, or both,
+28 that are manufactured or provided by Michigan businesses owned and
+29 operated by veterans, if they are competitively priced and of
+OOI H01054'25 (H-1) z9gsnm
+
+6
+1 comparable quality.
+2 Sec. 206. The department shall not take disciplinary action
+3 against an employee of the department for communicating with a
+4 member of the legislature or legislative staff, unless the
+5 communication is prohibited by law and the department is exercising
+6 its authority as provided by law.
+7 Sec. 207. Consistent with section 217 of the management and
+8 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+9 a report on out-of-state travel expenses not later than January 1.
+10 The report must list all travel outside this state by classified
+11 and unclassified employees in the previous fiscal year that was
+12 funded in whole or in part with funds appropriated in the
+13 department's budget. The department shall submit the report to the
+14 standard report recipients and to the senate and house
+15 appropriations committees. The report must include all of the
+16 following information:
+17 (a) The dates of each travel occurrence.
+18 (b) The total transportation and related costs of each travel
+19 occurrence and the proportions funded with state general
+20 fund/general purpose revenues, state restricted revenues, federal
+21 revenues, local revenues, and private revenues, including specific
+22 sources of state restricted, federal, local, and private revenues.
+23 Sec. 208. The department shall not use funds appropriated in
+24 part 1 to hire a person to provide legal services that are the
+25 responsibility of the attorney general. This section does not apply
+26 to legal services for bonding activities or to outside legal
+27 services that the attorney general authorizes.
+28 Sec. 209. Not later than December 15, the state budget office
+29 shall prepare and submit a report that provides estimates of the
+OOI H01054'25 (H-1) z9gsnm
+
+7
+1 total general fund/general purpose appropriation lapses at the
+2 close of the previous fiscal year. The report must summarize the
+3 projected year-end general fund/general purpose appropriation
+4 lapses by major departmental program or program area. The state
+5 budget office shall submit the report to the standard report
+6 recipients and to the chairpersons of the senate and house
+7 appropriations committees.
+8 Sec. 210. (1) In addition to the funds appropriated in part 1,
+9 there is appropriated an amount not to exceed $10,000,000.00 for
+10 federal contingency authorization. Amounts appropriated under this
+11 subsection are not available for expenditure until they have been
+12 transferred to another line item in part 1 under section 393(2) of
+13 the management and budget act, 1984 PA 431, MCL 18.1393.
+14 (2) In addition to the funds appropriated in part 1, there is
+15 appropriated an amount not to exceed $500,000.00 for state
+16 restricted contingency authorization. Amounts appropriated under
+17 this subsection are not available for expenditure until they have
+18 been transferred to another line item in part 1 under section
+19 393(2) of the management and budget act, 1984 PA 431, MCL 18.1393.
+20 (3) In addition to the funds appropriated in part 1, there is
+21 appropriated an amount not to exceed $350,000.00 for local
+22 contingency authorization. Amounts appropriated under this
+23 subsection are not available for expenditure until they have been
+24 transferred to another line item in part 1 under section 393(2) of
+25 the management and budget act, 1984 PA 431, MCL 18.1393.
+26 (4) In addition to the funds appropriated in part 1, there is
+27 appropriated an amount not to exceed $2,000,000.00 for private
+28 contingency authorization. Amounts appropriated under this
+29 subsection are not available for expenditure until they have been
+OOI H01054'25 (H-1) z9gsnm
+
+8
+1 transferred to another line item in part 1 under section 393(2) of
+2 the management and budget act, 1984 PA 431, MCL 18.1393.
+3 Sec. 211. (1) The department shall cooperate with the
+4 department of technology, management, and budget to maintain a
+5 searchable website accessible by the public at no cost that
+6 includes, but is not limited to, all of the following for the
+7 department:
+8 (a) Fiscal year-to-date expenditures by category.
+9 (b) Fiscal year-to-date expenditures by appropriation unit.
+10 (c) Fiscal year-to-date payments to a selected vendor,
+11 including the vendor name, payment date, payment amount, and
+12 payment description.
+13 (2) The department shall cooperate with the department of
+14 technology, management, and budget to update the searchable website
+15 on a quarterly basis.
+16 Sec. 212. Not later than 14 days after the release of the
+17 executive budget recommendation, the department shall cooperate
+18 with the state budget office to provide an annual report on
+19 estimated state restricted fund balances, state restricted fund
+20 projected revenues, and state restricted fund expenditures for the
+21 previous 2 fiscal years. The report must be submitted to the
+22 standard report recipients and to the chairpersons of the senate
+23 and house appropriations committees.
+24 Sec. 216. On a quarterly basis, the department shall report on
+25 the number of full-time equated positions in pay status by civil
+26 service classification, including a comparison by line item of the
+27 number of full-time equated positions authorized from funds
+28 appropriated in part 1 to the actual number of full-time equated
+29 positions employed by the department at the end of the reporting
+OOI H01054'25 (H-1) z9gsnm
+
+9
+1 period. The report must be submitted to the senate and house
+2 appropriations committees and to the standard report recipients.
+3 Sec. 217. If the state administrative board, acting under
+4 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+5 appropriated under part 1, the legislature may, by a concurrent
+6 resolution adopted by a majority of the members elected to and
+7 serving in each house, inter-transfer funds within part 1 for the
+8 particular department, board, commission, officer, or institution.
+9 Sec. 218. The department shall submit a quarterly report that
+10 summarizes all work project accounts. The report must include all
+11 of the following:
+12 (a) A list of all work project accounts.
+13 (b) The status of all work project accounts including amounts
+14 expended, amounts encumbered, and available balances for each
+15 account.
+16 (c) The amount of funds that lapsed from any previously
+17 designated work project accounts, the name and description of the
+18 work project account, and the funds that received the lapsed
+19 amounts.
+20 Sec. 219. The department shall receive and retain copies of
+21 all reports funded from appropriations in part 1. The department
+22 shall follow federal and state law and guidelines for short-term
+23 and long-term retention of records. The department may
+24 electronically retain copies of reports unless otherwise required
+25 by federal and state guidelines.
+26 Sec. 220. Not later than April 1, the department shall report
+27 on each specific policy change made to implement a public act
+28 affecting the department that took effect during the previous
+29 calendar year. The report must include reference to the public act
+OOI H01054'25 (H-1) z9gsnm
+
+10
+1 that necessitates the policy change. The department shall submit
+2 the report to the standard report recipients, to the senate and
+3 house appropriations committees, and to the joint committee on
+4 administrative rules.
+5 Sec. 222. To the extent possible, the department shall not
+6 expend appropriations under part 1 until all existing authorized
+7 work project funds available for the same purposes are exhausted.
+8 Sec. 224. Total authorized appropriations from all sources
+9 under part 1 for legacy costs for the fiscal year ending September
+10 30, 2026 are estimated at $5,536,600.00. From this amount, total
+11 department appropriations for pension-related legacy costs are
+12 estimated at $4,993,700.00. Total department appropriations for
+13 retiree health care legacy costs are estimated at $542,900.00.
+14 Sec. 225. (1) From the funds appropriated in part 1, the
+15 department shall do the following:
+16 (a) Report to the standard report recipients and to the senate
+17 and house appropriations committees any amounts of severance pay
+18 for a department director, deputy director, or other high-ranking
+19 department official not later than 14 days after a severance
+20 agreement with the director, deputy director, or official is
+21 signed. The name of the director, deputy director, or official and
+22 the amount of severance pay must be included in the report required
+23 by this subdivision.
+24 (b) Not later than February 1, report on the total amount of
+25 severance pay remitted to former department employees during the
+26 prior fiscal year and the total number of former department
+27 employees that were remitted severance pay during the prior fiscal
+28 year.
+29 (2) As used in this section, "severance pay" means
+OOI H01054'25 (H-1) z9gsnm
+
+11
+1 compensation to which both of the following apply:
+2 (a) The compensation is payable or paid upon the termination
+3 of employment.
+4 (b) The compensation is paid in addition to wages or benefits
+5 earned during the course of employment or generally applicable
+6 retirement benefits.
+7 Sec. 226. (1) The department shall maximize the efficiency of
+8 the state workforce. The department shall prioritize employees
+9 working in person 5 days per week for each division within the
+10 department. Employees with job responsibilities that require the
+11 employees to serve in their capacities outside of the office must
+12 report to the office before beginning fieldwork. Field service
+13 employees include, but are not limited to, protective services
+14 workers, parole and probation officers, conservation officers,
+15 state troopers assigned to road patrol, inspectors, and
+16 construction and trade workers.
+17 (2) The department shall establish a policy and process for
+18 verifying that all employees are working their jobs during normal
+19 business hours.
+20 Sec. 227. (1) Funds appropriated in part 1 that are used for
+21 grants or grant programs are subject to the following conditions:
+22 (a) Grant funds must be provided only to an entity that has
+23 been established or is operating in this state or another state for
+24 at least 36 months before approval or disbursement of grant funds.
+25 (b) Grant funds must be provided only to an entity that has
+26 had an office within this state or in the service area covered
+27 under the grant for at least 12 months before approval or
+28 disbursement of grant funds.
+29 (c) Before awarding or disbursing grant funds, all grant
+OOI H01054'25 (H-1) z9gsnm
+
+12
+1 recipients must provide a spending plan that specifies the scope of
+2 service, the program goals, the measurement for meeting program
+3 goals, and how all grant funds will be used and must indicate if
+4 any grant funds will be provided to a third party or subrecipient.
+5 (d) Up to 20% of grant funds may be spent on administrative
+6 costs and salaries. Up to 10% is authorized for contingencies.
+7 (e) Each department or agency responsible for awarding or
+8 disbursing grant funds must annually audit the entity's use of the
+9 grant funds for each fiscal year in which the grant is active. Each
+10 entity must submit information requested by the department to
+11 confirm compliance.
+12 (f) Each department and agency shall work with the office of
+13 the auditor general to conduct an audit of the grant according to
+14 generally accepted accounting practices and audit standards. The
+15 office of the auditor general must be given access to all internal
+16 and external records. All contracts or agreements between a
+17 department or agency and a grant recipient or between a grant
+18 recipient and a third party must include a clause granting the
+19 office of the auditor general access to all internal and external
+20 records.
+21 (g) Grant recipients and their immediate family members are
+22 prohibited from being employed by the executive branch or
+23 legislative branch of this state. In addition, grant recipients are
+24 prohibited from serving on any state board that has direct or
+25 indirect responsibility for approving or auditing grant funds
+26 awarded or disbursed by any department or agency.
+27 (h) Full and complete audits of grant funds issued by the
+28 department or an agency of this state, without redaction unless
+29 required by law, must be posted to the department's website in a
+OOI H01054'25 (H-1) z9gsnm
+
+13
+1 conspicuous place for public review.
+2 (2) On a quarterly basis, the department shall submit a report
+3 to the standard report recipients on legislatively sponsored grant
+4 funds that includes, but is not limited to, all of the following:
+5 (a) The name of each grant recipient and the status of each
+6 grant.
+7 (b) The amount distributed to each grant recipient.
+8 (c) The remaining amount to be distributed to each grant
+9 recipient.
+10 (d) Any changes to scope or costs of program.
+11 (3) The report under subsection (2) must include the following
+12 statements made by the department:
+13 (a) A statement that confirms the department reviewed and
+14 affirmed compliance by each grant recipient to program scope and
+15 expenditure of grant funding.
+16 (b) A statement that confirms the department reviewed
+17 applicable program reports and requests for reimbursement.
+18 Sec. 228. (1) The department shall require as a condition of
+19 each contract or subcontract that the prequalified contractor or
+20 prequalified subcontractor agree to use the E-Verify system to
+21 verify that all persons hired during the contract term by the
+22 contractor or subcontractor are legally present and authorized to
+23 work in the United States.
+24 (2) The department may verify this information directly or may
+25 require contractors and subcontractors to verify the information
+26 and submit a certification to the department. The department shall
+27 submit a report to the standard report recipients not later than
+28 March 1 that describes the processes it has developed and
+29 implemented under this section.
+OOI H01054'25 (H-1) z9gsnm
+
+14
+1 (3) The department shall not contract with any foreign
+2 entities that are known or suspected to be enemies of the United
+3 States or known foreign adversaries.
+4 (4) As used in this section, "E-Verify" means an internet-
+5 based system operated by the Department of Homeland Security, U.S.
+6 Citizenship and Immigration Services in partnership with the Social
+7 Security Administration.
+8 Sec. 229. Funds appropriated in part 1 from state or federal
+9 sources are prohibited from being used to provide services, grants,
+10 or programming to an individual who is not a citizen of the United
+11 States, unless the individual is a qualified alien as that term is
+12 defined in 8 USC 1641. This section does not prohibit the
+13 department, political subdivision, state university, or other state
+14 agency from expending funds for the purpose of detaining
+15 individuals who are not citizens of the United States, including
+16 any costs associated with housing such individuals in county jails
+17 or state correctional facilities.
+18 Sec. 230. (1) The department shall maintain, on a publicly
+19 accessible website, a department scorecard that identifies, tracks,
+20 and updates on a quarterly basis key metrics that are used to
+21 monitor and improve the department's performance.
+22 (2) The department shall notify the standard report recipients
+23 when the quarterly updates to the department scorecard are
+24 available on a publicly accessible website.
+25 Sec. 231. (1) Unless specifically authorized elsewhere in this
+26 part or part 1, funds appropriated in part 1 must not be used to
+27 pay for a state obligation that exceeds $200,000.00 for a court-
+28 approved judgment, settlement, award, or claim.
+29 (2) If a state obligation for a court-approved judgment,
+OOI H01054'25 (H-1) z9gsnm
+
+15
+1 settlement, award, or claim results in a change from current
+2 statute, the department shall notify the legislature.
+3 (3) This section does not apply to compensation and other
+4 relief to individuals wrongfully imprisoned as required under the
+5 wrongful imprisonment compensation act, 2016 PA 343, MCL 691.1751
+6 to 691.1757.
+7 Sec. 232. Not later than November 15, the department shall
+8 disclose on a publicly accessible website private and other third-
+9 party funds received by the department in the previous fiscal year.
+10 The report must include the amount and source of funding received,
+11 the purpose for which funding was expended, and the amount of any
+12 remaining funds. The report must be submitted to the standard
+13 report recipients and to the chairpersons of the senate and house
+14 appropriations committees.
+15 Sec. 233. State funds must not be used for diversity, equity,
+16 and inclusion, or DEI initiatives or programs or as outlined in
+17 Exec. Order No. 14151, 90 Fed. Reg. 8339 (Jan. 29, 2025) "Ending
+18 Radical and Wasteful Government DEI Programs and Preferencing",
+19 Exec. Order No. 14168, "Defending Women from Gender Ideology
+20 Extremism and Restoring Biological Truth to the Federal
+21 Government", or Exec. Order No. 14173, 90 Fed. Reg. 8633 (Jan. 31,
+22 2025) "Ending Illegal Discrimination and Restoring Merit-Based
+23 Opportunity".
+24
+25 DEPARTMENT-SPECIFIC GENERAL SECTIONS
+26 Sec. 301. (1) Money appropriated in part 1 must not be used to
+27 purchase business cards or letterhead that lists pronouns or to
+28 purchase or operate technology, including email systems, that is
+29 used to list pronouns. The department is subject to a civil fine of
+OOI H01054'25 (H-1) z9gsnm
+
+16
+1 $100.00 for each violation of this section.
+2 (2) Any taxpayer of this state has standing to bring an action
+3 in the court of claims to enforce this section and, if the taxpayer
+4 prevails, is entitled to receive from the department his or her
+5 costs incurred in bringing the action.
+6
+7 OFFICE OF EDUCATION PARTNERSHIPS
+8 Sec. 401. From the funds appropriated in part 1 for family and
+9 community engagement, the department shall, at a minimum, do all of
+10 the following:
+11 (a) Establish or partner with family engagement centers across
+12 this state to increase parent and guardian involvement in their
+13 child's education.
+14 (b) Ensure translation and interpretation services are
+15 available and implemented pursuant to department guidance.
+16 (c) Partner with intermediate school districts to assist in
+17 getting information and resources to their constituent districts.
+18 (d) Develop an early literacy engagement plan to help parents
+19 or guardians become involved in their child's education.
+20
+21 OFFICE OF HIGHER EDUCATION
+22 Sec. 701. (1) From the funds appropriated in part 1, in
+23 addition to other statutorily required duties, the department shall
+24 do all of the following:
+25 (a) Review and evaluate all state financial aid programs. The
+26 department shall prioritize improving postsecondary educational
+27 outcomes, including student completion rates, and improving
+28 affordability of postsecondary programs in this state.
+29 (b) Serve as the coordinating office for all agencies of the
+OOI H01054'25 (H-1) z9gsnm
+
+17
+1 executive branch of government that are responsible for financial
+2 aid programs administered by this state.
+3 (c) Survey stakeholders, including public, tribal, and private
+4 not-for-profit colleges and universities, state departments and
+5 agencies, and statewide postsecondary education associations on
+6 student financial aid policy to improve this state's administration
+7 of programs.
+8 (d) Collaborate with the center for educational performance
+9 and information and individual colleges and universities to ensure
+10 streamlined and coordinated collection of data analyzing the
+11 following:
+12 (i) Postsecondary education costs, including a comparison to
+13 national and regional averages.
+14 (ii) Student enrollment.
+15 (iii) Degree completion.
+16 (e) Provide access to higher education institutional data
+17 inventory on an accessible, public facing dashboard to assist
+18 students, prospective students, and their families in making
+19 decisions on postsecondary education.
+20 (f) Coordinate with other state agencies and school districts
+21 to increase utilization and awareness of postsecondary
+22 opportunities, including, but not limited to, early and middle
+23 college, dual enrollment, and private skills training scholarships.
+24 (g) Track and provide resources to increase completion of the
+25 free application for federal student aid.
+26 (2) From the funds appropriated in part 1, the department
+27 shall meet, at a minimum, the following transparency requirements:
+28 (a) Collect data necessary to complete all statutory reporting
+29 requirements. The department shall notify the chairs of the house
+OOI H01054'25 (H-1) z9gsnm
+
+18
+1 and senate appropriations committees within 10 days if an entity
+2 receiving funds from part 1 fails to comply with data collection
+3 requirements.
+4 (b) Maintain a link on the department's website to find data
+5 submitted by postsecondary institutions through higher education
+6 institutional data inventory.
+7 (c) Maintain a link on the department's website to the center
+8 for educational performance and information's MI School Data page
+9 on postsecondary enrollment and completion tracking.
+10 (3) As used in this section, "center for educational
+11 performance and information" means the center for educational
+12 performance and information created in section 94a of the state
+13 school aid act of 1979, 1979 PA 94, MCL 388.1694a.
+14 Sec. 705. The funds appropriated in part 1 for dual enrollment
+15 payments for an eligible student enrolled in a state-approved
+16 nonpublic school shall be distributed as provided under the
+17 postsecondary enrollment options act, 1996 PA 160, MCL 388.511 to
+18 388.524, and the career and technical preparation act, 2000 PA 258,
+19 MCL 388.1901 to 388.1913, in a form and manner as determined by the
+20 department.
+21
+22 OFFICE OF EARLY CHILDHOOD EDUCATION
+23 Sec. 1002. (1) From the funds appropriated in part 1, the
+24 department shall ensure that the final child development and care
+25 provider reimbursement rates are published on the department and
+26 Great Start to Quality webpages.
+27 (2) If the average cases over a 3-month period in the child
+28 development and care program result in the current projected fiscal
+29 year caseloads falling below the caseload agreement from the May
+OOI H01054'25 (H-1) z9gsnm
+
+19
+1 consensus revenue estimating conference, the department may
+2 increase the hourly reimbursement rate to child care providers if
+3 the following conditions are met:
+4 (a) The level of expenditures for the remainder of the year is
+5 estimated to be significantly below the level estimated from the
+6 May consensus revenue estimating conference.
+7 (b) The department plans to expend the funds through an
+8 ongoing rate increase to providers for the remainder of the fiscal
+9 year.
+10 (c) The department makes this request to the state budget
+11 director not less than 30 days before the expenditure of the funds
+12 that includes the rate increase.
+13 (3) The department must notify the senate and house fiscal
+14 agencies of the amount being appropriated, the estimated rate
+15 increase to providers, and if the rate increase to providers is 1-
+16 time or ongoing in nature.
+17 (4) The department may withdraw the intent to expend the funds
+18 under subsection (2) by notifying the chairpersons of the senate
+19 and house appropriations committees in writing.
+20 Sec. 1003. (1) From the funds appropriated in part 1 for child
+21 development and care contracted services, the department shall
+22 create a report on all funding appropriated to contracts for the
+23 early childhood comprehensive systems planning by this state during
+24 the previous fiscal year. The report required under this section is
+25 due by April 1 and must contain at least all of the following
+26 information:
+27 (a) Total funding appropriated to contracts for the early
+28 childhood comprehensive systems planning by this state during the
+29 previous fiscal year.
+OOI H01054'25 (H-1) z9gsnm
+
+20
+1 (b) The amount of funding for each grant awarded.
+2 (c) The grant recipients.
+3 (d) The activities funded by each grant.
+4 (e) An analysis of each grant recipient's success in
+5 addressing the development of a comprehensive system of early
+6 childhood services and supports.
+7 (2) All department contracts for early childhood comprehensive
+8 systems planning must be bid out through a statewide request-for-
+9 proposal process.
+10 Sec. 1007. (1) From the funds appropriated in part 1 for child
+11 development and care – external support, child development and care
+12 contracted services, and child care licensing and regulation, the
+13 department shall create a joint report that includes, but is not
+14 limited to, the following:
+15 (a) The affordability of child care in this state, including,
+16 but not limited to, the number of children eligible for and
+17 participating in the child development and care program, the number
+18 of children eligible for and participating in the child development
+19 and care program for the last 5 years, and key takeaways from the
+20 most recent market rate survey.
+21 (b) The availability of child care in this state by county,
+22 including, but not limited to, the number of licensed child care
+23 providers, the change in the number of licensed child care
+24 providers and slots over time, and the estimated demand for care.
+25 (c) The health and safety of child care, including, but not
+26 limited to, the 10 most common rule violations, the number of
+27 licenses revoked and summarily suspended, and the number of license
+28 violations for incomplete health and safety training and safe sleep
+29 training.
+OOI H01054'25 (H-1) z9gsnm
+
+21
+1 (d) Any actions taken to strengthen health and safety of care,
+2 including, but not limited to, the number of licensing consultants,
+3 their average caseload, the number of on-site visits they complete
+4 by provider type and region, the types of activities that are
+5 intended to improve health and safety in licensed care, and the
+6 number of times those activities are performed by licensing
+7 consultants.
+8 (e) Information on the child care licensing process,
+9 including, but not limited to, all of the following:
+10 (i) The number of initial applications, initial applications
+11 denied, license renewals, and licenses allowed to expire,
+12 aggregated by license type.
+13 (ii) The average amount of time to approve or deny completed
+14 applications and a description of the most common reasons
+15 applications are denied.
+16 (iii) A description of the types of complaints received, a
+17 description of the process used to resolve complaints, the average
+18 amount of time to complete investigations, and the percentage of
+19 investigations completed on time.
+20 (iv) The number of complaints received, investigated,
+21 determined to be unsubstantiated, and that result in disciplinary
+22 action or rule violations.
+23 (v) The number of administrative hearing adjudications.
+24 (f) The quality of child care, including, but not limited to,
+25 the number of licensed providers participating in the Great Start
+26 to Quality program and the workforce registry, the number of new
+27 participants and how participation has changed over the last 5
+28 years, and the number of children participating in the child
+29 development and care program enrolled in an enhancing quality level
+OOI H01054'25 (H-1) z9gsnm
+
+22
+1 or higher program.
+2 (g) Any actions taken to improve child care quality,
+3 including, but not limited to, the number of quality consultants,
+4 the average caseload, the number of on-site visits completed by
+5 region, the types of activities that are intended to improve
+6 quality and the number of times those activities are performed, and
+7 the number of providers that have improved the provider's quality
+8 rating since the start of the current fiscal year compared to the
+9 same time period in the preceding fiscal year, reported as the
+10 number of providers in each region.
+11 (h) The child care workforce, including, but not limited to,
+12 the number of child care professionals, average wages by role, the
+13 number of individuals participating in the TEACH scholarship and
+14 earning a credential, and the level of demand for staff.
+15 (2) The department must post the joint report on the
+16 department website and send the joint report to the state budget
+17 director, the house and senate subcommittees that oversee the
+18 department budget, and the house and senate fiscal agencies by
+19 April 1 of the current fiscal year reflecting data for the previous
+20 fiscal year.
+21 Sec. 1008. From the funds appropriated in part 1 for office of
+22 early childhood education, the department shall ensure efficient
+23 service provision to coordinate services provided to families for
+24 home visits, reduce duplication of state services and spending,
+25 increase efficiencies including the home visits funded under
+26 section 32p of the state school aid act of 1979, 1979 PA 94, MCL
+27 388.1632p, and work with the DHHS as necessary.
+28 Sec. 1009. From the funds appropriated in part 1 for child
+29 development and care public assistance, the income entrance
+OOI H01054'25 (H-1) z9gsnm
+
+23
+1 eligibility threshold for the child development and care program is
+2 set to not more than 200% of the federal poverty guidelines.
+3 Sec. 1011. From the funds appropriated in part 1 for child
+4 development and care public assistance, for eligible children in
+5 the child development and care program, the department shall
+6 implement payments to providers based on enrollment rather than
+7 based on attendance. This shall be done in a manner determined by
+8 the department.
+9 Sec. 1012. From the funds appropriated in part 1 for child
+10 development and care contracted services, $1,500,000.00 must be for
+11 the department to work in collaboration with DHHS to continue the
+12 network of infant and early childhood mental health consultation,
+13 which provides mental health consultation to child care providers.
+14 Sec. 1030. (1) The funds appropriated in part 1 for the tri-
+15 share child care program must be awarded for the continuation of
+16 the child care facilitator program originally initiated and funded
+17 as a pilot project in section 1047(31) of article 5 of 2020 PA 166.
+18 (2) Except as otherwise provided in this subsection, funding
+19 appropriated in part 1 must be used to fund existing child care
+20 facilitator hubs. The department may fund new child care
+21 facilitator hubs provided sufficient funding exists to support all
+22 existing child care facilitator hubs, including child care
+23 facilitator hubs currently funded with private dollars. Any new
+24 child care facilitator hubs added must increase the number of
+25 participating counties or serve statewide employers.
+26 (3) The department must create benchmarks for regional
+27 facilitator hubs receiving appropriated funding.
+28 (4) Any child care facilitator receiving funds under this
+29 section must be a nonprofit, limited liability company, C-
+OOI H01054'25 (H-1) z9gsnm
+
+24
+1 corporation, S-corporation, or a sole proprietor.
+2 (5) Child care facilitator hubs may use funds to enroll in the
+3 tri-share child care program families living in Wisconsin but who
+4 have 1 or more family members who are employed in Michigan.
+Final Page
+OOI H01054'25 (H-1) z9gsnm
+
+[DELETED:   H z D A A    ]
+[DELETED:   H z 6   2  N$6        0N$6        4      2   1e$1     6   1   6 $ 5 1  3   2N$4           1e$3      $ 8N$8  ]
+[DELETED:   H z         2e$6     2   1 $ 2   2   1   5 1  4 6  1   3N$6           4      2   6   5e$1     1   2 $ 3 7  7 6  1N$2  ]
+[DELETED:   H z         4e$2     3    $ 3 1  1 3  6N$9           1e$8  ]
+[DELETED:   H z           ]
+[DELETED:   H z       ]
+[DELETED:   H z     ]
+[DELETED:   H z    ]
+[DELETED:   H z  ]
+[DELETED:   H z  ]
+[DELETED:   H z]
+[DELETED:   H z]
+[DELETED:   H z]
+[DELETED:   H z]
+[DELETED:   H z D]
+[DELETED:   H z O       O   ]
+[DELETED:   H z    4i i s d ( ( f ()))]
+[DELETED:   H z      O  ]
+[DELETED:   H z     ]
+[DELETED:   H z    ]
+[DELETED:   H z    3)))))]
+[DELETED:   H z     ]
+[DELETED:   H z    ]
+[DELETED:   H z ]

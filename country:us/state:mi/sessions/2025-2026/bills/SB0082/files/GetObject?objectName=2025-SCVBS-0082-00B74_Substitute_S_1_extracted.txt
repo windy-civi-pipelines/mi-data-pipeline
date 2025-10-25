@@ -1,0 +1,584 @@
+Title: SENATE BILL NO. 82
+Official Title: SENATE BILL NO. 82
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to protect the safety of judges and certain other
+individuals; to protect certain information of judges and certain
+other individuals from disclosure; to provide for the powers and
+duties of certain state and local governmental officers and certain
+other people and entities; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "judicial protection
+2 act".
+3 Sec. 2. As used in this act:
+4 (a) "Immediate family member" means any of the following whose
+5 permanent residence is the same as the judge's permanent residence:
+6 (i) The judge's spouse.
+7 (ii) The judge's child.
+SCS S00983'25 (S-1) eszxct
+2
+1 (iii) The judge's parent.
+2 (iv) Any other familial relative of a judge.
+3 (b) "Judge" means any of the following:
+4 (i) A state court judge, which includes only a judge or justice
+5 who is serving by election or appointment on the district court,
+6 probate court, circuit court, court of appeals, or supreme court of
+7 this state.
+8 (ii) A federal judge as that term is defined in the Daniel
+9 Anderl judicial security and privacy act of 2022, Public Law 117-
+10 263, or a senior, recalled, or retired federal judge, and who
+11 serves, served, or has a residential address in this state.
+12 (iii) A judge serving on a tribal court for a federally
+13 recognized tribe located in this state.
+14 (c) "Person" means an individual, corporation, limited
+15 liability company, partnership, firm, organization, association, or
+16 other legal entity but does not include a public body.
+17 (d) "Personal identifying information" means any 1 or more of
+18 the following:
+19 (i) Except as provided in section 3(5), date of birth.
+20 (ii) Except for the city and township of residence, permanent
+21 residential address.
+22 (iii) Address of other property owned.
+23 (iv) Home or cellular telephone number.
+24 (v) State identification number or driver license number.
+25 (vi) Social Security number.
+26 (vii) Personal email address.
+27 (viii) Federal or state tax identification number.
+28 (ix) Personal credit, charge, or debit card information.
+SCS S00983'25 (S-1) eszxct
+3
+1 (x) Bank account information, including account or PIN
+2 numbers.
+3 (xi) License plate number or other unique identifier of a
+4 vehicle that is owned, leased, or regularly used by a judge or a
+5 judge's immediate family member.
+6 (xii) Current or future school or day-care information
+7 including, but not limited to, the name or address of the school or
+8 day care attended, schedule of attendance, or route taken to or
+9 from the school or day care by a judge or a judge's immediate
+10 family member.
+11 (xiii) Information on the employment location, except a court
+12 house, of a judge or a judge's immediate family member including
+13 the name or address of the employer, employment schedules, or
+14 routes taken to or from the employer.
+15 (e) "Public body" means any of the following:
+16 (i) A state officer, employee, agency, department, division,
+17 bureau, board, commission, council, authority, or other body in the
+18 executive branch of the state government, but does not include the
+19 governor or lieutenant governor, the executive office of the
+20 governor or lieutenant governor, or employees of the governor or
+21 lieutenant governor.
+22 (ii) An agency, board, commission, or council in the
+23 legislative branch of the state government.
+24 (iii) A county, city, township, village, intercounty, intercity,
+25 or regional governing body, council, school district, special
+26 district, or municipal corporation, or a board, department,
+27 commission, council, or agency.
+28 (iv) Except as provided under subparagraph (v), any other body
+29 that is created by state or local authority or is primarily funded
+SCS S00983'25 (S-1) eszxct
+4
+1 by or through state or local authority, except that the judiciary,
+2 including the office of the county clerk and its employees when
+3 acting in the capacity of clerk to the circuit court, is not
+4 included in the definition of public body.
+5 (v) If approved by the supreme court, the judiciary.
+6 (f) "Publicly post or display" means to communicate or
+7 otherwise make personal identifying information available to the
+8 general public.
+9 (g) "Residential address" means the place that is the settled
+10 home or domicile at which an individual legally resides and is a
+11 residence as that term is defined in section 11 of the Michigan
+12 election law, 1954 PA 116, MCL 168.11.
+13 (h) "Transfer" means to sell, license, trade, or exchange for
+14 consideration the personal identifying information of a judge or
+15 judge's immediate family member.
+16 Sec. 3. (1) A judge may request that a public body or person
+17 not publicly post or display the personal identifying information
+18 of a judge or a judge's immediate family member.
+19 (2) A judge may submit a written request, on a form prescribed
+20 by the state court administrative office, to a public body or
+21 person to remove a public posting or display of personal
+22 identifying information of the judge or the judge's immediate
+23 family member. The form must include both of the following:
+24 (a) Proof of the judge's office and identity.
+25 (b) The personal identifying information of the judge or the
+26 judge's immediate family member that the judge desires to protect.
+27 (3) A written request provided to a public body or person
+28 under subsection (2) remains in force and effect until the judge
+29 provides a signed written request to rescind or modify the prior
+SCS S00983'25 (S-1) eszxct
+5
+1 request.
+2 (4) On the written delegation of authority by a state court
+3 judge as that term is defined in section 2(b)(i) to the state court
+4 administrative office, the state court administrative office may
+5 submit a written request to a public body or person on behalf of a
+6 judge under subsection (2). A written request under this subsection
+7 must be given the same force and effect as a written request
+8 submitted by a judge.
+9 (5) To comply with section 19 of article VI of the state
+10 constitution of 1963, a judge's date of birth may be obtained by
+11 any person by contacting the state court administrative office.
+12 (6) A written request provided to the office of the county
+13 register of deeds must include a list of all instruments to be
+14 protected by liber and page or other unique identifying number.
+15 Sec. 4. (1) Except as otherwise provided, a public body that
+16 has received a request under section 3 shall not publicly post or
+17 display or provide to a person the specified personal identifying
+18 information of a judge or a judge's immediate family member, as
+19 applicable. A public body that has already publicly posted or
+20 displayed the specified personal identifying information shall
+21 remove the personal identifying information not later than 5
+22 business days after receiving the request. This act does not
+23 require a public body to permanently delete personal identifying
+24 information that is not accessible to the public.
+25 (2) Except as otherwise provided, a person that has received a
+26 request under section 3 shall not publicly post or display or
+27 transfer the specified personal identifying information of a judge
+28 or a judge's immediate family member, as applicable. A person that
+29 has already publicly posted or displayed the personal identifying
+SCS S00983'25 (S-1) eszxct
+6
+1 information shall remove the personal identifying information not
+2 later than 5 business days after receiving the request.
+3 (3) A public body may comply with the requirements of this
+4 section by redacting the specified personal identifying information
+5 that is publicly posted or displayed or by masking the entire
+6 contents of a document or record that contains the specified
+7 personal identifying information. This section does not alter or
+8 amend a public body's obligations under the freedom of information
+9 act, 1976 PA 442, MCL 15.231 to 15.246.
+10 Sec. 5. This act does not apply to any of the following:
+11 (a) The display of the personal identifying information of a
+12 judge or a judge's immediate family member if the information is
+13 relevant to and displayed as part of a news story, commentary,
+14 editorial, or other speech on a matter of public concern.
+15 (b) After the effective date of this act, personal identifying
+16 information voluntarily published by the judge or the judge's
+17 immediate family member.
+18 (c) The dissemination of personal identifying information made
+19 at the request of the judge or judge's immediate family member or
+20 that is necessary to effectuate the request of the judge or judge's
+21 immediate family member.
+22 (d) The use of personal identifying information internally to
+23 provide access to businesses under common ownership or affiliated
+24 by corporate control, or to sell or provide data for a transaction
+25 or service requested by or that concerns the individual whose
+26 personal identifying information is being transferred.
+27 (e) The provision of publicly available personal identifying
+28 information by a real-time or near-real-time alert service for a
+29 health or safety purpose.
+SCS S00983'25 (S-1) eszxct
+7
+1 (f) The use of personal identifying information by a consumer
+2 reporting agency subject to the fair credit reporting act, 15 USC
+3 1681 to 1681x.
+4 (g) The use of personal identifying information by a
+5 commercial entity engaged in the collection, maintenance,
+6 disclosure, sale, communication, or use of personal identifying
+7 information bearing on a consumer's credit worthiness, credit
+8 standing, credit capacity, character, general reputation, personal
+9 characteristics, or mode of living by a consumer reporting agency,
+10 furnisher, or user that provides personal identifying information
+11 for use in a consumer report, and by a user of a consumer report,
+12 but only to the extent that such activity is regulated by and
+13 authorized under the fair credit reporting act, 15 USC 1681 to
+14 1681x.
+15 (h) The use of personal identifying information by a
+16 commercial entity using personal identifying information that was
+17 collected, processed, sold, or disclosed in compliance with the
+18 driver's privacy protection act of 1994, 18 USC 2721 to 2725.
+19 (i) The use of personal identifying information subject to the
+20 Gramm-Leach-Bliley act, 15 USC 6801 to 6809.
+21 (j) The use of personal identifying information by a financial
+22 institution, 1 or more of a financial institution's affiliates, or
+23 an independent contractor acting on behalf of a financial
+24 institution or a financial institution's affiliates, subject to the
+25 Gramm-Leach-Bliley Act, 15 USC 6801 to 6809.
+26 (k) The use of personal identifying information by an entity
+27 covered by the privacy regulations promulgated under section 1320d-
+28 2(c) of the health insurance portability and accountability act of
+29 1996, 42 USC 1320d-2.
+SCS S00983'25 (S-1) eszxct
+8
+1 (l) Except as otherwise provided in this subdivision, the use
+2 of personal identifying information by a commercial entity to do
+3 any of the following: prevent, detect, protect against, or respond
+4 to security incidents, identity theft, fraud, harassment, malicious
+5 or deceptive activities, or any illegal activity; preserve the
+6 integrity or security of systems; or investigate, report, or
+7 prosecute any person responsible for any such action. A commercial
+8 entity that uses personal identifying information to do any of the
+9 activities described in this subdivision shall not disseminate the
+10 personal identifying information to the public or publicly post or
+11 display the personal identifying information.
+12 (m) The collection and sale or licensing of personal
+13 identifying information incidental to conducting the activities
+14 under subdivisions (a) to (l).
+15 (n) Nothing in this section prohibits a public body from
+16 providing access to records that contain the personal identifying
+17 information of a judge or judge's immediate family member to a
+18 person when the access is incidental to conducting the activities
+19 under subdivisions (a) to (l).
+20 (o) The display of a property address on a real estate or
+21 mapping platform when the address is not displayed or disclosed in
+22 connection with any ownership or occupancy information or other
+23 protected personal information of a judge or a judge's immediate
+24 family member.
+25 Sec. 6. Any personal identifying information covered by a
+26 written request under section 4(1) is exempt from disclosure under
+27 section 13(1)(d) of the freedom of information act, 1976 PA 442,
+28 MCL 15.243, by the public body that received the written request.
+29 Sec. 7. (1) If 5 business days after a public body or a person
+SCS S00983'25 (S-1) eszxct
+9
+1 has received a written request under section 3 the public body or
+2 person is not in compliance with this act, the judge or the judge's
+3 immediate family member may commence a civil action to compel
+4 compliance or to enjoin further noncompliance with this act.
+5 (2) An action for injunctive relief against a local public
+6 body or person must be commenced in the circuit court, and venue is
+7 proper in any county in which the judge serves. An action for an
+8 injunction against a state public body must be commenced in the
+9 court of claims. If a judge or a judge's immediate family member
+10 commences an action for injunctive relief, the judge or the judge's
+11 immediate family member is not required to post security as a
+12 condition for obtaining a preliminary injunction or a temporary
+13 restraining order.
+14 (3) An action for mandamus against a public body under this
+15 act must be commenced in the court of appeals.
+16 (4) If a public body or person is not complying with this act,
+17 and a judge or a judge's immediate family member commences a civil
+18 action against the public body or person for injunctive relief to
+19 compel compliance or to enjoin further noncompliance with this act
+20 and succeeds in obtaining relief in the action, the judge or
+21 judge's immediate family member must recover court costs and actual
+22 attorney fees for the action.
+23 (5) It is not a defense to a violation of this act that the
+24 personal identifying information disclosed was publicly available
+25 from another source.
+26 Sec. 8. This act must be construed liberally to effectuate the
+27 legislative intent and the purpose of this act as complete and
+28 independent authorization for the performance of each and every act
+29 and thing authorized in the act, and all powers granted in this act
+SCS S00983'25 (S-1) eszxct
+10
+1 must be broadly interpreted to effectuate the intent and purpose of
+2 this act and not as to limitation of powers.
+3 Enacting section 1. This act takes effect 180 days after the
+4 date it is enacted into law.
+Final Page
+SCS S00983'25 (S-1) eszxct
+[DELETED:   S e S a S ( p () ()]
+[DELETED:   S e () () ( () w p t () A 2 s () r ( l o ( t () () r () () () () () () ()]
+[DELETED:   S e () n () v j () i d f f () h t r ( () b e g g l () l () o d c ()()v t]
+[DELETED:   S e b i a i () ( o g ( h r e ( c j S n o ( b p i f ( ( j ( u p]
+[DELETED:   S e r ( j() a s j m s ( c a ( r p S h d i a d r b r i ( r t o h]
+[DELETED:   S e i l ( s t c p a a S ( j r e ( i i ( a t i ( p b o p ( i h]
+[DELETED:   S e ( r 1 ( c d i s c f f b a 1 ( c c d ( G ( i a i G ( c 2 1]
+[DELETED:   S e () o a t o i p e a p d ( i u() ( p i p u() ( m c p f S w s M S]
+[DELETED:   S e h p i c ( b p i c c i c r ( a ( a a c a j a ( p f S l i a]
+[DELETED:   S e m t E d]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 82
+A bill to protect the safety of judges and certain other
+individuals; to protect certain information of judges and certain
+other individuals from disclosure; to provide for the powers and
+duties of certain state and local governmental officers and certain
+other people and entities; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "judicial protection
+2 act".
+3 Sec. 2. As used in this act:
+4 (a) "Immediate family member" means any of the following whose
+5 permanent residence is the same as the judge's permanent residence:
+6 (i) The judge's spouse.
+7 (ii) The judge's child.
+SCS S00983'25 (S-1) eszxct
+
+2
+1 (iii) The judge's parent.
+2 (iv) Any other familial relative of a judge.
+3 (b) "Judge" means any of the following:
+4 (i) A state court judge, which includes only a judge or justice
+5 who is serving by election or appointment on the district court,
+6 probate court, circuit court, court of appeals, or supreme court of
+7 this state.
+8 (ii) A federal judge as that term is defined in the Daniel
+9 Anderl judicial security and privacy act of 2022, Public Law 117-
+10 263, or a senior, recalled, or retired federal judge, and who
+11 serves, served, or has a residential address in this state.
+12 (iii) A judge serving on a tribal court for a federally
+13 recognized tribe located in this state.
+14 (c) "Person" means an individual, corporation, limited
+15 liability company, partnership, firm, organization, association, or
+16 other legal entity but does not include a public body.
+17 (d) "Personal identifying information" means any 1 or more of
+18 the following:
+19 (i) Except as provided in section 3(5), date of birth.
+20 (ii) Except for the city and township of residence, permanent
+21 residential address.
+22 (iii) Address of other property owned.
+23 (iv) Home or cellular telephone number.
+24 (v) State identification number or driver license number.
+25 (vi) Social Security number.
+26 (vii) Personal email address.
+27 (viii) Federal or state tax identification number.
+28 (ix) Personal credit, charge, or debit card information.
+SCS S00983'25 (S-1) eszxct
+
+3
+1 (x) Bank account information, including account or PIN
+2 numbers.
+3 (xi) License plate number or other unique identifier of a
+4 vehicle that is owned, leased, or regularly used by a judge or a
+5 judge's immediate family member.
+6 (xii) Current or future school or day-care information
+7 including, but not limited to, the name or address of the school or
+8 day care attended, schedule of attendance, or route taken to or
+9 from the school or day care by a judge or a judge's immediate
+10 family member.
+11 (xiii) Information on the employment location, except a court
+12 house, of a judge or a judge's immediate family member including
+13 the name or address of the employer, employment schedules, or
+14 routes taken to or from the employer.
+15 (e) "Public body" means any of the following:
+16 (i) A state officer, employee, agency, department, division,
+17 bureau, board, commission, council, authority, or other body in the
+18 executive branch of the state government, but does not include the
+19 governor or lieutenant governor, the executive office of the
+20 governor or lieutenant governor, or employees of the governor or
+21 lieutenant governor.
+22 (ii) An agency, board, commission, or council in the
+23 legislative branch of the state government.
+24 (iii) A county, city, township, village, intercounty, intercity,
+25 or regional governing body, council, school district, special
+26 district, or municipal corporation, or a board, department,
+27 commission, council, or agency.
+28 (iv) Except as provided under subparagraph (v), any other body
+29 that is created by state or local authority or is primarily funded
+SCS S00983'25 (S-1) eszxct
+
+4
+1 by or through state or local authority, except that the judiciary,
+2 including the office of the county clerk and its employees when
+3 acting in the capacity of clerk to the circuit court, is not
+4 included in the definition of public body.
+5 (v) If approved by the supreme court, the judiciary.
+6 (f) "Publicly post or display" means to communicate or
+7 otherwise make personal identifying information available to the
+8 general public.
+9 (g) "Residential address" means the place that is the settled
+10 home or domicile at which an individual legally resides and is a
+11 residence as that term is defined in section 11 of the Michigan
+12 election law, 1954 PA 116, MCL 168.11.
+13 (h) "Transfer" means to sell, license, trade, or exchange for
+14 consideration the personal identifying information of a judge or
+15 judge's immediate family member.
+16 Sec. 3. (1) A judge may request that a public body or person
+17 not publicly post or display the personal identifying information
+18 of a judge or a judge's immediate family member.
+19 (2) A judge may submit a written request, on a form prescribed
+20 by the state court administrative office, to a public body or
+21 person to remove a public posting or display of personal
+22 identifying information of the judge or the judge's immediate
+23 family member. The form must include both of the following:
+24 (a) Proof of the judge's office and identity.
+25 (b) The personal identifying information of the judge or the
+26 judge's immediate family member that the judge desires to protect.
+27 (3) A written request provided to a public body or person
+28 under subsection (2) remains in force and effect until the judge
+29 provides a signed written request to rescind or modify the prior
+SCS S00983'25 (S-1) eszxct
+
+5
+1 request.
+2 (4) On the written delegation of authority by a state court
+3 judge as that term is defined in section 2(b)(i) to the state court
+4 administrative office, the state court administrative office may
+5 submit a written request to a public body or person on behalf of a
+6 judge under subsection (2). A written request under this subsection
+7 must be given the same force and effect as a written request
+8 submitted by a judge.
+9 (5) To comply with section 19 of article VI of the state
+10 constitution of 1963, a judge's date of birth may be obtained by
+11 any person by contacting the state court administrative office.
+12 (6) A written request provided to the office of the county
+13 register of deeds must include a list of all instruments to be
+14 protected by liber and page or other unique identifying number.
+15 Sec. 4. (1) Except as otherwise provided, a public body that
+16 has received a request under section 3 shall not publicly post or
+17 display or provide to a person the specified personal identifying
+18 information of a judge or a judge's immediate family member, as
+19 applicable. A public body that has already publicly posted or
+20 displayed the specified personal identifying information shall
+21 remove the personal identifying information not later than 5
+22 business days after receiving the request. This act does not
+23 require a public body to permanently delete personal identifying
+24 information that is not accessible to the public.
+25 (2) Except as otherwise provided, a person that has received a
+26 request under section 3 shall not publicly post or display or
+27 transfer the specified personal identifying information of a judge
+28 or a judge's immediate family member, as applicable. A person that
+29 has already publicly posted or displayed the personal identifying
+SCS S00983'25 (S-1) eszxct
+
+6
+1 information shall remove the personal identifying information not
+2 later than 5 business days after receiving the request.
+3 (3) A public body may comply with the requirements of this
+4 section by redacting the specified personal identifying information
+5 that is publicly posted or displayed or by masking the entire
+6 contents of a document or record that contains the specified
+7 personal identifying information. This section does not alter or
+8 amend a public body's obligations under the freedom of information
+9 act, 1976 PA 442, MCL 15.231 to 15.246.
+10 Sec. 5. This act does not apply to any of the following:
+11 (a) The display of the personal identifying information of a
+12 judge or a judge's immediate family member if the information is
+13 relevant to and displayed as part of a news story, commentary,
+14 editorial, or other speech on a matter of public concern.
+15 (b) After the effective date of this act, personal identifying
+16 information voluntarily published by the judge or the judge's
+17 immediate family member.
+18 (c) The dissemination of personal identifying information made
+19 at the request of the judge or judge's immediate family member or
+20 that is necessary to effectuate the request of the judge or judge's
+21 immediate family member.
+22 (d) The use of personal identifying information internally to
+23 provide access to businesses under common ownership or affiliated
+24 by corporate control, or to sell or provide data for a transaction
+25 or service requested by or that concerns the individual whose
+26 personal identifying information is being transferred.
+27 (e) The provision of publicly available personal identifying
+28 information by a real-time or near-real-time alert service for a
+29 health or safety purpose.
+SCS S00983'25 (S-1) eszxct
+
+7
+1 (f) The use of personal identifying information by a consumer
+2 reporting agency subject to the fair credit reporting act, 15 USC
+3 1681 to 1681x.
+4 (g) The use of personal identifying information by a
+5 commercial entity engaged in the collection, maintenance,
+6 disclosure, sale, communication, or use of personal identifying
+7 information bearing on a consumer's credit worthiness, credit
+8 standing, credit capacity, character, general reputation, personal
+9 characteristics, or mode of living by a consumer reporting agency,
+10 furnisher, or user that provides personal identifying information
+11 for use in a consumer report, and by a user of a consumer report,
+12 but only to the extent that such activity is regulated by and
+13 authorized under the fair credit reporting act, 15 USC 1681 to
+14 1681x.
+15 (h) The use of personal identifying information by a
+16 commercial entity using personal identifying information that was
+17 collected, processed, sold, or disclosed in compliance with the
+18 driver's privacy protection act of 1994, 18 USC 2721 to 2725.
+19 (i) The use of personal identifying information subject to the
+20 Gramm-Leach-Bliley act, 15 USC 6801 to 6809.
+21 (j) The use of personal identifying information by a financial
+22 institution, 1 or more of a financial institution's affiliates, or
+23 an independent contractor acting on behalf of a financial
+24 institution or a financial institution's affiliates, subject to the
+25 Gramm-Leach-Bliley Act, 15 USC 6801 to 6809.
+26 (k) The use of personal identifying information by an entity
+27 covered by the privacy regulations promulgated under section 1320d-
+28 2(c) of the health insurance portability and accountability act of
+29 1996, 42 USC 1320d-2.
+SCS S00983'25 (S-1) eszxct
+
+8
+1 (l) Except as otherwise provided in this subdivision, the use
+2 of personal identifying information by a commercial entity to do
+3 any of the following: prevent, detect, protect against, or respond
+4 to security incidents, identity theft, fraud, harassment, malicious
+5 or deceptive activities, or any illegal activity; preserve the
+6 integrity or security of systems; or investigate, report, or
+7 prosecute any person responsible for any such action. A commercial
+8 entity that uses personal identifying information to do any of the
+9 activities described in this subdivision shall not disseminate the
+10 personal identifying information to the public or publicly post or
+11 display the personal identifying information.
+12 (m) The collection and sale or licensing of personal
+13 identifying information incidental to conducting the activities
+14 under subdivisions (a) to (l).
+15 (n) Nothing in this section prohibits a public body from
+16 providing access to records that contain the personal identifying
+17 information of a judge or judge's immediate family member to a
+18 person when the access is incidental to conducting the activities
+19 under subdivisions (a) to (l).
+20 (o) The display of a property address on a real estate or
+21 mapping platform when the address is not displayed or disclosed in
+22 connection with any ownership or occupancy information or other
+23 protected personal information of a judge or a judge's immediate
+24 family member.
+25 Sec. 6. Any personal identifying information covered by a
+26 written request under section 4(1) is exempt from disclosure under
+27 section 13(1)(d) of the freedom of information act, 1976 PA 442,
+28 MCL 15.243, by the public body that received the written request.
+29 Sec. 7. (1) If 5 business days after a public body or a person
+SCS S00983'25 (S-1) eszxct
+
+9
+1 has received a written request under section 3 the public body or
+2 person is not in compliance with this act, the judge or the judge's
+3 immediate family member may commence a civil action to compel
+4 compliance or to enjoin further noncompliance with this act.
+5 (2) An action for injunctive relief against a local public
+6 body or person must be commenced in the circuit court, and venue is
+7 proper in any county in which the judge serves. An action for an
+8 injunction against a state public body must be commenced in the
+9 court of claims. If a judge or a judge's immediate family member
+10 commences an action for injunctive relief, the judge or the judge's
+11 immediate family member is not required to post security as a
+12 condition for obtaining a preliminary injunction or a temporary
+13 restraining order.
+14 (3) An action for mandamus against a public body under this
+15 act must be commenced in the court of appeals.
+16 (4) If a public body or person is not complying with this act,
+17 and a judge or a judge's immediate family member commences a civil
+18 action against the public body or person for injunctive relief to
+19 compel compliance or to enjoin further noncompliance with this act
+20 and succeeds in obtaining relief in the action, the judge or
+21 judge's immediate family member must recover court costs and actual
+22 attorney fees for the action.
+23 (5) It is not a defense to a violation of this act that the
+24 personal identifying information disclosed was publicly available
+25 from another source.
+26 Sec. 8. This act must be construed liberally to effectuate the
+27 legislative intent and the purpose of this act as complete and
+28 independent authorization for the performance of each and every act
+29 and thing authorized in the act, and all powers granted in this act
+SCS S00983'25 (S-1) eszxct
+
+10
+1 must be broadly interpreted to effectuate the intent and purpose of
+2 this act and not as to limitation of powers.
+3 Enacting section 1. This act takes effect 180 days after the
+4 date it is enacted into law.
+Final Page
+SCS S00983'25 (S-1) eszxct
+
+[DELETED:   S e S a S ( p () ()]
+[DELETED:   S e () () ( () w p t () A 2 s () r ( l o ( t () () r () () () () () () ()]
+[DELETED:   S e () n () v j () i d f f () h t r ( () b e g g l () l () o d c ()()v t]
+[DELETED:   S e b i a i () ( o g ( h r e ( c j S n o ( b p i f ( ( j ( u p]
+[DELETED:   S e r ( j() a s j m s ( c a ( r p S h d i a d r b r i ( r t o h]
+[DELETED:   S e i l ( s t c p a a S ( j r e ( i i ( a t i ( p b o p ( i h]
+[DELETED:   S e ( r 1 ( c d i s c f f b a 1 ( c c d ( G ( i a i G ( c 2 1]
+[DELETED:   S e () o a t o i p e a p d ( i u() ( p i p u() ( m c p f S w s M S]
+[DELETED:   S e h p i c ( b p i c c i c r ( a ( a a c a j a ( p f S l i a]
+[DELETED:   S e m t E d]

@@ -1,0 +1,663 @@
+Title: HOUSE BILL NO. 4556
+Official Title: HOUSE BILL NO. 4556
+Number of Sections: 2
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending section 1279g (MCL 380.1279g), as amended by 2016 PA
+
+Section 2:
+170.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1279g. (1) The board of a school district or board of
+2 directors of a public school academy shall comply with this section
+3 and shall administer the Michigan merit examination to pupils in
+4 grade 11, and to pupils in grade 12 who did not take the complete
+5 Michigan merit examination in grade 11, as provided in this
+6 section. The Michigan merit examination consists of a college
+7 entrance test, work skills test, and the summative assessment known
+8 as the Michigan student test of educational progress (M-STEP).
+CRM H02513'25 (H-2) 2du50s
+2
+1 (2) For the purposes of this section, the department of
+2 technology, management, and budget shall contract with 1 or more
+3 providers to develop, supply, and score the Michigan merit
+4 examination. The Michigan merit examination shall must consist of
+5 all of the following:
+6 (a) Assessment instruments that measure English language arts,
+7 mathematics, reading, and science and are used by colleges and
+8 universities in this state for entrance or placement purposes. This
+9 shall include a writing component in which the pupil produces an
+10 extended writing sample. The Michigan merit examination shall not
+11 require any other extended writing sample.In selecting assessment
+12 instruments to fulfill the requirements of this subdivision, the
+13 department may consider the degree to which those assessment
+14 instruments are aligned with this state's content standards.
+15 (b) One or more tests from 1 or more test developers that
+16 assess a pupil's ability to apply at least reading and mathematics
+17 skills in a manner that is intended to allow employers to use the
+18 results in making employment decisions. The department of
+19 technology, management, and budget and the superintendent of public
+20 instruction shall ensure that any test or tests selected under this
+21 subdivision have all the components necessary to allow a pupil to
+22 be eligible to receive the results of a nationally recognized
+23 evaluation of workforce readiness if the pupil's test performance
+24 is adequate.
+25 (c) A social studies component.
+26 (d) Any other component that is necessary to obtain the
+27 approval of the United States Department of Education to use the
+28 Michigan merit examination for the purposes of the no child left
+29 behind act of 2001, Public Law 107-110, or the every student
+CRM H02513'25 (H-2) 2du50s
+3
+1 succeeds act, Public Law 114-95.
+2 (3) In addition to all other requirements of this section, all
+3 of the following apply to the Michigan merit examination:
+4 (a) The department of technology, management, and budget and
+5 the superintendent of public instruction shall ensure that any
+6 contractor used for scoring the Michigan merit examination supplies
+7 an individual report for each pupil that will identify for the
+8 pupil's parents or legal guardians and teachers whether the pupil
+9 met expectations or failed to meet expectations for each standard,
+10 to allow the pupil's parents and teachers to assess and remedy
+11 problems before the pupil moves to the next grade.
+12 (b) The department of technology, management, and budget and
+13 the superintendent of public instruction shall ensure that any
+14 contractor used for scoring, developing, or processing the Michigan
+15 merit examination meets quality management standards commonly used
+16 in the assessment industry, including at least meeting level 2 of
+17 the capability maturity model developed by the Software Engineering
+18 Institute of Carnegie Mellon University for the first year the
+19 Michigan merit examination is offered to all grade 11 pupils and at
+20 least meeting level 3 of the capability maturity model for
+21 subsequent years.
+22 (c) The department of technology, management, and budget and
+23 the superintendent of public instruction shall ensure that any
+24 contract for scoring, administering, or developing the Michigan
+25 merit examination includes specific deadlines for all steps of the
+26 assessment process, including, but not limited to, deadlines for
+27 the correct testing materials to be supplied to schools and for the
+28 correct results to be returned to schools, and includes penalties
+29 for noncompliance with these deadlines.
+CRM H02513'25 (H-2) 2du50s
+4
+1 (d) The superintendent of public instruction shall ensure that
+2 the Michigan merit examination meets all of the following:
+3 (i) Is designed to test pupils on grade level content
+4 expectations or course content expectations and this state's
+5 content standards, as appropriate, in all subjects tested.
+6 (ii) Complies with requirements of the no child left behind act
+7 of 2001, Public Law 107-110, or the every student succeeds act,
+8 Public Law 114-95, as applicable.
+9 (iii) Is consistent with the code of fair testing practices in
+10 education prepared by the joint committee Joint Committee on
+11 testing practices Testing Practices of the American Psychological
+12 Association.
+13 (iv) Is factually accurate. If the superintendent of public
+14 instruction determines that a question is not factually accurate
+15 and should be excluded from scoring, the state board and the
+16 superintendent of public instruction shall ensure that the question
+17 is excluded from scoring.
+18 (4) A school district or public school academy that operates a
+19 high school shall include the number of school days a pupil was in
+20 attendance at school each school year during high school and the
+21 total number of school days in session for each of those school
+22 years on each the pupil's high school transcript. all of the
+23 following:
+24 (a) For each high school graduate who has completed the
+25 Michigan merit examination under this section, the pupil's scaled
+26 score on each subject area component of the Michigan merit
+27 examination.
+28 (b) The number of school days the pupil was in attendance at
+29 school each school year during high school and the total number of
+CRM H02513'25 (H-2) 2du50s
+5
+1 school days in session for each of those school years.
+2 (5) The superintendent of public instruction shall work with
+3 the provider or providers of the Michigan merit examination to
+4 produce Michigan merit examination subject area scores for each
+5 pupil participating in the Michigan merit examination. , including
+6 scaling and merging of test items for the different subject area
+7 components. To the extent that the department determines that
+8 additional test items beyond those included in the college entrance
+9 component of the Michigan merit examination are required in a
+10 particular subject area, the department shall ensure that all test
+11 items in that subject area are scaled and merged for the purposes
+12 of producing a Michigan merit examination subject area score. The
+13 superintendent of public instruction shall design and distribute to
+14 school districts, public school academies, intermediate school
+15 districts, and nonpublic schools a simple and concise document that
+16 describes the scoring for each subject area and indicates the
+17 scaled score ranges for each subject area.
+18 (6) The Michigan merit examination shall must be administered
+19 each year after March 1 and before June 1 to pupils in grade 11. in
+20 each school district and public school academy during the last 12
+21 weeks of the school district's or public school academy's school
+22 year. The superintendent of public instruction shall ensure that
+23 the Michigan merit examination is scored and the scores are
+24 returned to pupils, their pupils' parents or legal guardians, and
+25 schools not later than the beginning of the pupil's first semester
+26 of grade 12. The returned scores shall must indicate at least the
+27 pupil's scaled score for each subject area component and the range
+28 of scaled scores for each subject area. In reporting the scores to
+29 pupils, parents or legal guardians, and schools, the superintendent
+CRM H02513'25 (H-2) 2du50s
+6
+1 of public instruction shall provide standards-specific, meaningful,
+2 and timely feedback on the pupil's performance on the Michigan
+3 merit examination.
+4 (7) A school district or public school academy shall
+5 administer the complete Michigan merit examination to a pupil only
+6 once and shall not administer the complete Michigan merit
+7 examination to the same pupil more than once. If a pupil does not
+8 take the complete Michigan merit examination in grade 11, the
+9 school district or public school academy shall administer the
+10 complete Michigan merit examination to the pupil in grade 12. If a
+11 pupil chooses to retake the college entrance examination component
+12 of the Michigan merit examination, as described in subsection
+13 (2)(a), the pupil may do so through the provider of the college
+14 entrance examination component and the cost of the retake is the
+15 responsibility of the pupil unless all of the following are met:
+16 (a) The pupil has taken the complete Michigan merit
+17 examination.
+18 (b) The pupil meets the income eligibility criteria for free
+19 breakfast, lunch, or milk, as determined under the Richard B.
+20 Russell national school lunch act, 42 USC 1751 to 1769j.
+21 (c) The pupil has applied to the provider of the college
+22 entrance examination component for a scholarship or fee waiver to
+23 cover the cost of the retake and that application has been denied.
+24 (d) After taking the complete Michigan merit examination, the
+25 pupil has not already received a free retake of the college
+26 entrance examination component paid for either by this state or
+27 through a scholarship or fee waiver by the provider.
+28 (8) The superintendent of public instruction shall ensure that
+29 the length of the Michigan merit examination and the combined total
+CRM H02513'25 (H-2) 2du50s
+7
+1 time necessary to administer all of the components of the Michigan
+2 merit examination are the shortest possible that will still
+3 maintain the degree of reliability and validity of the Michigan
+4 merit examination results determined necessary by the
+5 superintendent of public instruction. The superintendent of public
+6 instruction shall ensure that the maximum total combined length of
+7 time that schools are required to set aside for pupils to answer
+8 all test questions on the Michigan merit examination does not
+9 exceed 8 hours if the superintendent of public instruction
+10 determines that sufficient alignment to with applicable Michigan
+11 merit curriculum content standards can be achieved within that time
+12 limit.
+13 (9) A school district or public school academy shall provide
+14 accommodations to a pupil with disabilities for the Michigan merit
+15 examination, as provided under section 504 of title V of the
+16 rehabilitation act of 1973, 29 USC 794; subtitle part A of title
+17 subchapter II of the Americans with disabilities act of 1990, 42
+18 USC 12131 to 12134; the individuals with disabilities education act
+19 amendments of 1997, Public Law 105-17; and the implementing
+20 regulations for those statutes. The provider or providers of the
+21 Michigan merit examination and the superintendent of public
+22 instruction shall mutually agree upon on the accommodations to be
+23 provided under this subsection.
+24 (10) To the greatest extent possible, the Michigan merit
+25 examination shall must be based on grade level content expectations
+26 or course content expectations and this state's content standards,
+27 as appropriate. Not later than July 1, 2008, the department shall
+28 identify specific grade level content expectations to be taught
+29 before and after the middle of grade 11, so that teachers will know
+CRM H02513'25 (H-2) 2du50s
+8
+1 what content will be covered within the Michigan merit
+2 examination.Annually, after each administration of the Michigan
+3 merit examination, the department shall provide a report of the
+4 points per standard so that teachers will know what content will be
+5 covered within the Michigan merit examination. The department may
+6 augment the college entrance and work skills components of the
+7 Michigan merit examination to develop the assessment, depending on
+8 the alignment of those components to this state's content
+9 standards. If these components do not align with these standards,
+10 the department shall produce additional components as required by
+11 law, while minimizing the amount of time needed for assessments.
+12 (11) A child who is a student in a nonpublic school or home
+13 school may take the Michigan merit examination under this section.
+14 To take the Michigan merit examination, a child who is a student in
+15 a home school shall contact the school district in which the child
+16 resides, and that school district shall administer the Michigan
+17 merit examination, or the child may take the Michigan merit
+18 examination at a nonpublic school if allowed by the nonpublic
+19 school. Upon request from a nonpublic school, the superintendent of
+20 public instruction shall direct the provider or providers to supply
+21 the Michigan merit examination to the nonpublic school and the
+22 nonpublic school may administer the Michigan merit examination. If
+23 a school district administers the Michigan merit examination under
+24 this subsection to a child who is not enrolled in the school
+25 district, the scores for that child are not considered for any
+26 purpose to be scores of a pupil of the school district.
+27 (12) In contracting under subsection (2), the department of
+28 technology, management, and budget shall consider a contractor that
+29 provides electronically-scored essays with the ability to score
+CRM H02513'25 (H-2) 2du50s
+9
+1 constructed response feedback in multiple languages and provide
+2 ongoing instruction and feedback.
+3 (12) (13) The purpose of the Michigan merit examination is to
+4 assess pupil performance in mathematics, science, social studies,
+5 and English language arts for the purpose of improving academic
+6 achievement and establishing a statewide standard of competency.
+7 The assessment under this section provides a common measure of data
+8 that will contribute to the improvement of Michigan schools'
+9 curriculum and instruction by encouraging alignment with Michigan's
+10 curriculum framework standards and promotes pupil participation in
+11 higher level mathematics, science, social studies, and English
+12 language arts courses. These standards are based upon on the
+13 expectations of what pupils should learn through high school and
+14 are aligned with national standards.
+15 (13) (14) In addition to the other requirements of this
+16 section and the requirements of 1970 PA 38, MCL 388.1081 to
+17 388.1086, beginning with assessments conducted during the 2016-2017
+18 school year, the superintendent of public instruction shall ensure
+19 that the Michigan merit examination social studies component and
+20 the M-STEP and any successor state assessment for social studies,
+21 as appropriate, include questions related to the learning
+22 objectives in the state board recommended model core academic
+23 curriculum standards concerning genocide, including, but not
+24 limited to, the Holocaust and the Armenian Genocide.
+25 (14) For a pupil enrolled in a middle college program, other
+26 than a middle college operated as a shared educational entity or a
+27 specialized shared educational entity, if the pupil receives at
+28 least 50% of the pupil's instruction at the high school while in
+29 grade 11, the Michigan merit examination must be administered to
+CRM H02513'25 (H-2) 2du50s
+10
+1 the pupil at the high school at which the pupil receives high
+2 school instruction, and the department shall include the pupil's
+3 scores on the Michigan merit examination in the scores for that
+4 high school for all purposes for which a school's or district's
+5 results are reported. The department shall allow the middle college
+6 program to use a 5-year graduation rate for determining adequate
+7 yearly progress. As used in this subsection, "middle college" means
+8 a program consisting of a series of courses and other requirements
+9 and conditions, including an early college or other program created
+10 under a memorandum of understanding, that allows a pupil to
+11 graduate from high school with both a high school diploma and a
+12 certificate or degree from a community college or state public
+13 university.
+14 (15) For each report that the department issues that includes
+15 the statewide assessment results for a school building, the
+16 department shall include the scores for the statewide assessment
+17 and the graduation rate for consortium pupils with the scores for
+18 the school building in the participating district in which the
+19 consortium pupil is enrolled or would otherwise attend. The
+20 statewide assessment for a consortium pupil may be administered
+21 either at the consortium location or at the school building in the
+22 participating district in which the consortium pupil is enrolled or
+23 would otherwise attend. As used in this subsection, "consortium
+24 pupil" means a pupil who is enrolled or participating in a
+25 participating district in a school or program operated as a
+26 consortium or under a cooperative arrangement formed by 2 or more
+27 districts or intermediate districts, including, but not limited to,
+28 a consortium or cooperative arrangement operated as a program, a
+29 shared educational entity, a specialized educational entity, or a
+CRM H02513'25 (H-2) 2du50s
+11
+1 special education center program.
+2 (16) (15) As used in this section:
+3 (a) "Armenian Genocide", "genocide", and "Holocaust" mean
+4 those terms as defined in section 1168.
+5 (b) "English language arts" means reading and writing.
+6 (c) "Social studies" means United States history, world
+7 history, world geography, economics, and American government.
+8 Enacting section 1. This amendatory act takes effect June 30,
+9 2026.
+Final Page
+CRM H02513'25 (H-2) 2du50s
+[DELETED:   H 2 S d a g M s ]
+[DELETED:   H 2 ( t p e c a ( m u s e r  ( a s r t i s b e i ( ( a M b]
+[DELETED:   H 2 s ( o ( t c a p a m t p ( t c m i t I M l s ( t c m a t c f]
+[DELETED:   H 2 ( t () e , () o P () e o t o A () i a s i ( h t . o pta f ( M s e ( s]
+[DELETED:   H 2 s ( t p pn, s c T s s d d s ( b e T t r p s o i p o ps,]
+[DELETED:   H 2 o a m ( a o e t s c p o ( e r ( e ( b R ( e c ( p e t ( t]
+[DELETED:   H 2 t m m m s i t a e d a m l ( a e r A I U a r M i t p ( e b os, a i b]
+[DELETED:   H 2 w e  ( s T a r m e s p t n a t d p ( t p]
+[DELETED:   H 2 c o ( a a a T t c c h l t e a ( s 3 s t t a o c l]
+[DELETED:   H 2]
+[DELETED:   H 2  ( ( t ( ( h E 2]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4556
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending section 1279g (MCL 380.1279g), as amended by 2016 PA
+170.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1279g. (1) The board of a school district or board of
+2 directors of a public school academy shall comply with this section
+3 and shall administer the Michigan merit examination to pupils in
+4 grade 11, and to pupils in grade 12 who did not take the complete
+5 Michigan merit examination in grade 11, as provided in this
+6 section. The Michigan merit examination consists of a college
+7 entrance test, work skills test, and the summative assessment known
+8 as the Michigan student test of educational progress (M-STEP).
+CRM H02513'25 (H-2) 2du50s
+
+2
+1 (2) For the purposes of this section, the department of
+2 technology, management, and budget shall contract with 1 or more
+3 providers to develop, supply, and score the Michigan merit
+4 examination. The Michigan merit examination shall must consist of
+5 all of the following:
+6 (a) Assessment instruments that measure English language arts,
+7 mathematics, reading, and science and are used by colleges and
+8 universities in this state for entrance or placement purposes. This
+9 shall include a writing component in which the pupil produces an
+10 extended writing sample. The Michigan merit examination shall not
+11 require any other extended writing sample.In selecting assessment
+12 instruments to fulfill the requirements of this subdivision, the
+13 department may consider the degree to which those assessment
+14 instruments are aligned with this state's content standards.
+15 (b) One or more tests from 1 or more test developers that
+16 assess a pupil's ability to apply at least reading and mathematics
+17 skills in a manner that is intended to allow employers to use the
+18 results in making employment decisions. The department of
+19 technology, management, and budget and the superintendent of public
+20 instruction shall ensure that any test or tests selected under this
+21 subdivision have all the components necessary to allow a pupil to
+22 be eligible to receive the results of a nationally recognized
+23 evaluation of workforce readiness if the pupil's test performance
+24 is adequate.
+25 (c) A social studies component.
+26 (d) Any other component that is necessary to obtain the
+27 approval of the United States Department of Education to use the
+28 Michigan merit examination for the purposes of the no child left
+29 behind act of 2001, Public Law 107-110, or the every student
+CRM H02513'25 (H-2) 2du50s
+
+3
+1 succeeds act, Public Law 114-95.
+2 (3) In addition to all other requirements of this section, all
+3 of the following apply to the Michigan merit examination:
+4 (a) The department of technology, management, and budget and
+5 the superintendent of public instruction shall ensure that any
+6 contractor used for scoring the Michigan merit examination supplies
+7 an individual report for each pupil that will identify for the
+8 pupil's parents or legal guardians and teachers whether the pupil
+9 met expectations or failed to meet expectations for each standard,
+10 to allow the pupil's parents and teachers to assess and remedy
+11 problems before the pupil moves to the next grade.
+12 (b) The department of technology, management, and budget and
+13 the superintendent of public instruction shall ensure that any
+14 contractor used for scoring, developing, or processing the Michigan
+15 merit examination meets quality management standards commonly used
+16 in the assessment industry, including at least meeting level 2 of
+17 the capability maturity model developed by the Software Engineering
+18 Institute of Carnegie Mellon University for the first year the
+19 Michigan merit examination is offered to all grade 11 pupils and at
+20 least meeting level 3 of the capability maturity model for
+21 subsequent years.
+22 (c) The department of technology, management, and budget and
+23 the superintendent of public instruction shall ensure that any
+24 contract for scoring, administering, or developing the Michigan
+25 merit examination includes specific deadlines for all steps of the
+26 assessment process, including, but not limited to, deadlines for
+27 the correct testing materials to be supplied to schools and for the
+28 correct results to be returned to schools, and includes penalties
+29 for noncompliance with these deadlines.
+CRM H02513'25 (H-2) 2du50s
+
+4
+1 (d) The superintendent of public instruction shall ensure that
+2 the Michigan merit examination meets all of the following:
+3 (i) Is designed to test pupils on grade level content
+4 expectations or course content expectations and this state's
+5 content standards, as appropriate, in all subjects tested.
+6 (ii) Complies with requirements of the no child left behind act
+7 of 2001, Public Law 107-110, or the every student succeeds act,
+8 Public Law 114-95, as applicable.
+9 (iii) Is consistent with the code of fair testing practices in
+10 education prepared by the joint committee Joint Committee on
+11 testing practices Testing Practices of the American Psychological
+12 Association.
+13 (iv) Is factually accurate. If the superintendent of public
+14 instruction determines that a question is not factually accurate
+15 and should be excluded from scoring, the state board and the
+16 superintendent of public instruction shall ensure that the question
+17 is excluded from scoring.
+18 (4) A school district or public school academy that operates a
+19 high school shall include the number of school days a pupil was in
+20 attendance at school each school year during high school and the
+21 total number of school days in session for each of those school
+22 years on each the pupil's high school transcript. all of the
+23 following:
+24 (a) For each high school graduate who has completed the
+25 Michigan merit examination under this section, the pupil's scaled
+26 score on each subject area component of the Michigan merit
+27 examination.
+28 (b) The number of school days the pupil was in attendance at
+29 school each school year during high school and the total number of
+CRM H02513'25 (H-2) 2du50s
+
+5
+1 school days in session for each of those school years.
+2 (5) The superintendent of public instruction shall work with
+3 the provider or providers of the Michigan merit examination to
+4 produce Michigan merit examination subject area scores for each
+5 pupil participating in the Michigan merit examination. , including
+6 scaling and merging of test items for the different subject area
+7 components. To the extent that the department determines that
+8 additional test items beyond those included in the college entrance
+9 component of the Michigan merit examination are required in a
+10 particular subject area, the department shall ensure that all test
+11 items in that subject area are scaled and merged for the purposes
+12 of producing a Michigan merit examination subject area score. The
+13 superintendent of public instruction shall design and distribute to
+14 school districts, public school academies, intermediate school
+15 districts, and nonpublic schools a simple and concise document that
+16 describes the scoring for each subject area and indicates the
+17 scaled score ranges for each subject area.
+18 (6) The Michigan merit examination shall must be administered
+19 each year after March 1 and before June 1 to pupils in grade 11. in
+20 each school district and public school academy during the last 12
+21 weeks of the school district's or public school academy's school
+22 year. The superintendent of public instruction shall ensure that
+23 the Michigan merit examination is scored and the scores are
+24 returned to pupils, their pupils' parents or legal guardians, and
+25 schools not later than the beginning of the pupil's first semester
+26 of grade 12. The returned scores shall must indicate at least the
+27 pupil's scaled score for each subject area component and the range
+28 of scaled scores for each subject area. In reporting the scores to
+29 pupils, parents or legal guardians, and schools, the superintendent
+CRM H02513'25 (H-2) 2du50s
+
+6
+1 of public instruction shall provide standards-specific, meaningful,
+2 and timely feedback on the pupil's performance on the Michigan
+3 merit examination.
+4 (7) A school district or public school academy shall
+5 administer the complete Michigan merit examination to a pupil only
+6 once and shall not administer the complete Michigan merit
+7 examination to the same pupil more than once. If a pupil does not
+8 take the complete Michigan merit examination in grade 11, the
+9 school district or public school academy shall administer the
+10 complete Michigan merit examination to the pupil in grade 12. If a
+11 pupil chooses to retake the college entrance examination component
+12 of the Michigan merit examination, as described in subsection
+13 (2)(a), the pupil may do so through the provider of the college
+14 entrance examination component and the cost of the retake is the
+15 responsibility of the pupil unless all of the following are met:
+16 (a) The pupil has taken the complete Michigan merit
+17 examination.
+18 (b) The pupil meets the income eligibility criteria for free
+19 breakfast, lunch, or milk, as determined under the Richard B.
+20 Russell national school lunch act, 42 USC 1751 to 1769j.
+21 (c) The pupil has applied to the provider of the college
+22 entrance examination component for a scholarship or fee waiver to
+23 cover the cost of the retake and that application has been denied.
+24 (d) After taking the complete Michigan merit examination, the
+25 pupil has not already received a free retake of the college
+26 entrance examination component paid for either by this state or
+27 through a scholarship or fee waiver by the provider.
+28 (8) The superintendent of public instruction shall ensure that
+29 the length of the Michigan merit examination and the combined total
+CRM H02513'25 (H-2) 2du50s
+
+7
+1 time necessary to administer all of the components of the Michigan
+2 merit examination are the shortest possible that will still
+3 maintain the degree of reliability and validity of the Michigan
+4 merit examination results determined necessary by the
+5 superintendent of public instruction. The superintendent of public
+6 instruction shall ensure that the maximum total combined length of
+7 time that schools are required to set aside for pupils to answer
+8 all test questions on the Michigan merit examination does not
+9 exceed 8 hours if the superintendent of public instruction
+10 determines that sufficient alignment to with applicable Michigan
+11 merit curriculum content standards can be achieved within that time
+12 limit.
+13 (9) A school district or public school academy shall provide
+14 accommodations to a pupil with disabilities for the Michigan merit
+15 examination, as provided under section 504 of title V of the
+16 rehabilitation act of 1973, 29 USC 794; subtitle part A of title
+17 subchapter II of the Americans with disabilities act of 1990, 42
+18 USC 12131 to 12134; the individuals with disabilities education act
+19 amendments of 1997, Public Law 105-17; and the implementing
+20 regulations for those statutes. The provider or providers of the
+21 Michigan merit examination and the superintendent of public
+22 instruction shall mutually agree upon on the accommodations to be
+23 provided under this subsection.
+24 (10) To the greatest extent possible, the Michigan merit
+25 examination shall must be based on grade level content expectations
+26 or course content expectations and this state's content standards,
+27 as appropriate. Not later than July 1, 2008, the department shall
+28 identify specific grade level content expectations to be taught
+29 before and after the middle of grade 11, so that teachers will know
+CRM H02513'25 (H-2) 2du50s
+
+8
+1 what content will be covered within the Michigan merit
+2 examination.Annually, after each administration of the Michigan
+3 merit examination, the department shall provide a report of the
+4 points per standard so that teachers will know what content will be
+5 covered within the Michigan merit examination. The department may
+6 augment the college entrance and work skills components of the
+7 Michigan merit examination to develop the assessment, depending on
+8 the alignment of those components to this state's content
+9 standards. If these components do not align with these standards,
+10 the department shall produce additional components as required by
+11 law, while minimizing the amount of time needed for assessments.
+12 (11) A child who is a student in a nonpublic school or home
+13 school may take the Michigan merit examination under this section.
+14 To take the Michigan merit examination, a child who is a student in
+15 a home school shall contact the school district in which the child
+16 resides, and that school district shall administer the Michigan
+17 merit examination, or the child may take the Michigan merit
+18 examination at a nonpublic school if allowed by the nonpublic
+19 school. Upon request from a nonpublic school, the superintendent of
+20 public instruction shall direct the provider or providers to supply
+21 the Michigan merit examination to the nonpublic school and the
+22 nonpublic school may administer the Michigan merit examination. If
+23 a school district administers the Michigan merit examination under
+24 this subsection to a child who is not enrolled in the school
+25 district, the scores for that child are not considered for any
+26 purpose to be scores of a pupil of the school district.
+27 (12) In contracting under subsection (2), the department of
+28 technology, management, and budget shall consider a contractor that
+29 provides electronically-scored essays with the ability to score
+CRM H02513'25 (H-2) 2du50s
+
+9
+1 constructed response feedback in multiple languages and provide
+2 ongoing instruction and feedback.
+3 (12) (13) The purpose of the Michigan merit examination is to
+4 assess pupil performance in mathematics, science, social studies,
+5 and English language arts for the purpose of improving academic
+6 achievement and establishing a statewide standard of competency.
+7 The assessment under this section provides a common measure of data
+8 that will contribute to the improvement of Michigan schools'
+9 curriculum and instruction by encouraging alignment with Michigan's
+10 curriculum framework standards and promotes pupil participation in
+11 higher level mathematics, science, social studies, and English
+12 language arts courses. These standards are based upon on the
+13 expectations of what pupils should learn through high school and
+14 are aligned with national standards.
+15 (13) (14) In addition to the other requirements of this
+16 section and the requirements of 1970 PA 38, MCL 388.1081 to
+17 388.1086, beginning with assessments conducted during the 2016-2017
+18 school year, the superintendent of public instruction shall ensure
+19 that the Michigan merit examination social studies component and
+20 the M-STEP and any successor state assessment for social studies,
+21 as appropriate, include questions related to the learning
+22 objectives in the state board recommended model core academic
+23 curriculum standards concerning genocide, including, but not
+24 limited to, the Holocaust and the Armenian Genocide.
+25 (14) For a pupil enrolled in a middle college program, other
+26 than a middle college operated as a shared educational entity or a
+27 specialized shared educational entity, if the pupil receives at
+28 least 50% of the pupil's instruction at the high school while in
+29 grade 11, the Michigan merit examination must be administered to
+CRM H02513'25 (H-2) 2du50s
+
+10
+1 the pupil at the high school at which the pupil receives high
+2 school instruction, and the department shall include the pupil's
+3 scores on the Michigan merit examination in the scores for that
+4 high school for all purposes for which a school's or district's
+5 results are reported. The department shall allow the middle college
+6 program to use a 5-year graduation rate for determining adequate
+7 yearly progress. As used in this subsection, "middle college" means
+8 a program consisting of a series of courses and other requirements
+9 and conditions, including an early college or other program created
+10 under a memorandum of understanding, that allows a pupil to
+11 graduate from high school with both a high school diploma and a
+12 certificate or degree from a community college or state public
+13 university.
+14 (15) For each report that the department issues that includes
+15 the statewide assessment results for a school building, the
+16 department shall include the scores for the statewide assessment
+17 and the graduation rate for consortium pupils with the scores for
+18 the school building in the participating district in which the
+19 consortium pupil is enrolled or would otherwise attend. The
+20 statewide assessment for a consortium pupil may be administered
+21 either at the consortium location or at the school building in the
+22 participating district in which the consortium pupil is enrolled or
+23 would otherwise attend. As used in this subsection, "consortium
+24 pupil" means a pupil who is enrolled or participating in a
+25 participating district in a school or program operated as a
+26 consortium or under a cooperative arrangement formed by 2 or more
+27 districts or intermediate districts, including, but not limited to,
+28 a consortium or cooperative arrangement operated as a program, a
+29 shared educational entity, a specialized educational entity, or a
+CRM H02513'25 (H-2) 2du50s
+
+11
+1 special education center program.
+2 (16) (15) As used in this section:
+3 (a) "Armenian Genocide", "genocide", and "Holocaust" mean
+4 those terms as defined in section 1168.
+5 (b) "English language arts" means reading and writing.
+6 (c) "Social studies" means United States history, world
+7 history, world geography, economics, and American government.
+8 Enacting section 1. This amendatory act takes effect June 30,
+9 2026.
+Final Page
+CRM H02513'25 (H-2) 2du50s
+
+[DELETED:   H 2 S d a g M s ]
+[DELETED:   H 2 ( t p e c a ( m u s e r  ( a s r t i s b e i ( ( a M b]
+[DELETED:   H 2 s ( o ( t c a p a m t p ( t c m i t I M l s ( t c m a t c f]
+[DELETED:   H 2 ( t () e , () o P () e o t o A () i a s i ( h t . o pta f ( M s e ( s]
+[DELETED:   H 2 s ( t p pn, s c T s s d d s ( b e T t r p s o i p o ps,]
+[DELETED:   H 2 o a m ( a o e t s c p o ( e r ( e ( b R ( e c ( p e t ( t]
+[DELETED:   H 2 t m m m s i t a e d a m l ( a e r A I U a r M i t p ( e b os, a i b]
+[DELETED:   H 2 w e  ( s T a r m e s p t n a t d p ( t p]
+[DELETED:   H 2 c o ( a a a T t c c h l t e a ( s 3 s t t a o c l]
+[DELETED:   H 2]
+[DELETED:   H 2  ( ( t ( ( h E 2]

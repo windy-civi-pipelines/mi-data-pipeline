@@ -1,0 +1,82 @@
+Title: HOUSE BILL NO. 4219
+Official Title: HOUSE BILL NO. 4219
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1974 PA 258, entitled
+"Mental health code,"
+by amending section 416 (MCL 330.1416), as amended by 2018 PA 595.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 416. Upon the commencement of mental health treatment ,
+2 the rights that the patient has described in section 415, both of
+3 the following must occur:
+4 (a) A patient's rights during the mental health treatment,
+5 including the right to object to the mental health treatment, must
+6 be communicated orally communicated and in writing to the patient
+7 and to the individual who executed the written consent. In
+8 addition, a copy of the written consent A patient's rights include,
+9 but are not limited to, the right to end voluntary mental health
+WAM H00388'25 (H-1) e2c9b6
+2
+1 treatment. The oral and written communication of a patient's rights
+2 must include the process by which a patient can end voluntary
+3 mental health treatment.
+4 (b) Both of the following must be given to the patient, and
+5 the individual who executed the written consent, and to 1 other
+6 individual designated by the patient:
+7 (i) A copy of the written consent.
+8 (ii) Notwithstanding any other provision under this act, a copy
+9 of the form described under section 419 even if the patient or
+10 other individual described in section 419 does not communicate an
+11 intention to terminate the patient's mental health treatment to a
+12 hospital or provider of mental health treatment.
+Final Page
+WAM H00388'25 (H-1) e2c9b6
+[DELETED:   H e S ct,  t d i b o t a a a]
+[DELETED:   H e  mt  tt  i) .) ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4219
+A bill to amend 1974 PA 258, entitled
+"Mental health code,"
+by amending section 416 (MCL 330.1416), as amended by 2018 PA 595.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 416. Upon the commencement of mental health treatment ,
+2 the rights that the patient has described in section 415, both of
+3 the following must occur:
+4 (a) A patient's rights during the mental health treatment,
+5 including the right to object to the mental health treatment, must
+6 be communicated orally communicated and in writing to the patient
+7 and to the individual who executed the written consent. In
+8 addition, a copy of the written consent A patient's rights include,
+9 but are not limited to, the right to end voluntary mental health
+WAM H00388'25 (H-1) e2c9b6
+
+2
+1 treatment. The oral and written communication of a patient's rights
+2 must include the process by which a patient can end voluntary
+3 mental health treatment.
+4 (b) Both of the following must be given to the patient, and
+5 the individual who executed the written consent, and to 1 other
+6 individual designated by the patient:
+7 (i) A copy of the written consent.
+8 (ii) Notwithstanding any other provision under this act, a copy
+9 of the form described under section 419 even if the patient or
+10 other individual described in section 419 does not communicate an
+11 intention to terminate the patient's mental health treatment to a
+12 hospital or provider of mental health treatment.
+Final Page
+WAM H00388'25 (H-1) e2c9b6
+
+[DELETED:   H e S ct,  t d i b o t a a a]
+[DELETED:   H e  mt  tt  i) .) ]

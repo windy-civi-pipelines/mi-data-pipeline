@@ -1,0 +1,72 @@
+Title: HOUSE BILL NO. 4599
+Official Title: HOUSE BILL NO. 4599
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2012 PA 455, entitled
+"Organized retail crime act,"
+(MCL 752.1081 to 752.1087) by adding section 3a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3a. As used in section 4:
+2 (a) "Gift card" means a physical or digital closed-loop gift
+3 card or open-loop gift card that is either activated or
+4 inactivated.
+5 (b) "Gift card redemption information" means information
+6 unique to each gift card that allows the cardholder to access,
+7 transfer, or spend the funds on the gift card.
+8 (c) "Issuer" means a person that issues a gift card or the
+9 agent of the person with respect to that gift card.
+ELF H03135'25 (H-1) 9cr1dm
+2
+1 (d) "Seller" means a merchant that is engaged in the business
+2 of selling gift cards to consumers.
+3 Enacting section 1. This amendatory act takes effect 90 days
+4 after the date it is enacted into law.
+5 Enacting section 2. This amendatory act does not take effect
+6 unless House Bill No. 4598 of the 103rd Legislature is enacted into
+7 law.
+Final Page
+ELF H03135'25 (H-1) 9cr1dm
+[DELETED:   H 9  ]
+[DELETED:   H 9  E a E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4599
+A bill to amend 2012 PA 455, entitled
+"Organized retail crime act,"
+(MCL 752.1081 to 752.1087) by adding section 3a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3a. As used in section 4:
+2 (a) "Gift card" means a physical or digital closed-loop gift
+3 card or open-loop gift card that is either activated or
+4 inactivated.
+5 (b) "Gift card redemption information" means information
+6 unique to each gift card that allows the cardholder to access,
+7 transfer, or spend the funds on the gift card.
+8 (c) "Issuer" means a person that issues a gift card or the
+9 agent of the person with respect to that gift card.
+ELF H03135'25 (H-1) 9cr1dm
+
+2
+1 (d) "Seller" means a merchant that is engaged in the business
+2 of selling gift cards to consumers.
+3 Enacting section 1. This amendatory act takes effect 90 days
+4 after the date it is enacted into law.
+5 Enacting section 2. This amendatory act does not take effect
+6 unless House Bill No. 4598 of the 103rd Legislature is enacted into
+7 law.
+Final Page
+ELF H03135'25 (H-1) 9cr1dm
+
+[DELETED:   H 9  ]
+[DELETED:   H 9  E a E u l]

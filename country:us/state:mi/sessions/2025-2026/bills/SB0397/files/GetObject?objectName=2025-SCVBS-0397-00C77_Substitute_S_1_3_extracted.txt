@@ -1,0 +1,214 @@
+Title: SENATE BILL NO. 397
+Official Title: SENATE BILL NO. 397
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1939 PA 280, entitled
+"The social welfare act,"
+by amending section 109h (MCL 400.109h), as amended by 2022 PA 19.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 109h. (1) If the department develops a prior
+2 authorization process for prescription drugs as part of the
+3 pharmaceutical services offered under the medical assistance
+4 program administered under this act, the department shall not
+5 require prior authorization for the following single source brand
+6 name, generic equivalent of a multiple source brand name, or other
+7 prescription drugs:
+8 (a) A central nervous system prescription drug that is
+9 classified as an anticonvulsant, antidepressant, antipsychotic, or
+OOI S00525'25 (S-1) yag3h7
+2
+1 a noncontrolled substance antianxiety drug in a generally accepted
+2 standard medical reference.
+3 (b) A prescription drug that is cross-indicated for a central
+4 nervous system drug exempted under subdivision (a) as documented in
+5 a generally accepted standard medical reference.
+6 (c) Unless the prescription drug is a controlled substance or
+7 the prescription drug is being prescribed to treat a condition that
+8 is excluded from coverage under this act, a prescription drug that
+9 is recognized in a generally accepted standard medical reference as
+10 effective in the treatment of conditions specified in the most
+11 recent diagnostic and statistical manual of mental disorders
+12 published by the American Psychiatric Association, including
+13 substance use disorder. The department or the department's agent
+14 shall not deny a request for prior authorization of a controlled
+15 substance under this subdivision unless the department or the
+16 department's agent determines that the controlled substance or the
+17 dosage of the controlled substance being prescribed is not
+18 consistent with its licensed indications or with generally accepted
+19 medical practice as documented in a standard medical reference.
+20 (d) A prescription drug that is recognized in a generally
+21 accepted standard medical reference to prevent acquisition of or to
+22 treat human immunodeficiency virus infection or complication of the
+23 human immunodeficiency virus or acquired immunodeficiency syndrome.
+24 (e) A prescription drug that is recognized in a generally
+25 accepted standard medical reference for the treatment of and is
+26 being prescribed to a patient for the treatment of any of the
+27 following:
+28 (i) Cancer.
+29 (ii) Organ replacement therapy.
+OOI S00525'25 (S-1) yag3h7
+3
+1 (iii) Epilepsy or seizure disorder.
+2 (iv) Opioid withdrawal symptom management or opioid use
+3 disorder. For purposes of this subparagraph, the department shall
+4 not require a dosage maximum for a prescription drug for the
+5 treatment of opioid withdrawal symptom management or opioid use
+6 disorder.
+7 (2) This section applies to drugs being provided under a
+8 contract between the department and a health maintenance
+9 organization.
+10 (3) This section does not prohibit the department from
+11 contracting with a managed care organization for pharmaceutical
+12 services offered under the medical assistance program administered
+13 under this act as long as the contract complies with the provisions
+14 of this section.
+15 (4) As used in this section:
+16 (a) "Controlled substance" means that term as defined in
+17 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+18 (b) "Cross-indicated" means a drug that is used for a purpose
+19 generally held to be reasonable, appropriate, and within community
+20 standards of practice even though the use is not included in the
+21 United States Food and Drug Administration's approved labeled
+22 indications for that drug.
+23 (c) "Prescriber" means that term as defined in section 17708
+24 of the public health code, 1978 PA 368, MCL 333.17708.
+25 (d) "Prescription" or "prescription drug" means that term as
+26 defined in section 17708 of the public health code, 1978 PA 368,
+27 MCL 333.17708.
+28 (e) "Prior authorization" means a process implemented by the
+29 department that conditions, delays, or denies the delivery of
+OOI S00525'25 (S-1) yag3h7
+4
+1 particular pharmaceutical services to Medicaid beneficiaries upon
+2 application of predetermined criteria by the department or the
+3 department's agent for those pharmaceutical services covered by the
+4 department on a fee-for-service basis or according to a contract
+5 for those services. The process may require a prescriber to verify
+6 with the department or the department's agent that the proposed
+7 medical use of a prescription drug being prescribed for a patient
+8 meets the predetermined criteria for a prescription drug that is
+9 otherwise covered under this act or require a prescriber to obtain
+10 authorization from the department or the department's agent before
+11 prescribing or dispensing a prescription drug that is not included
+12 on a preferred drug list or that is subject to special access or
+13 reimbursement restrictions.
+Final Page
+OOI S00525'25 (S-1) yag3h7
+[DELETED:   S y S a p p r n p ( c]
+[DELETED:   S y a s ( n a ( t i i e r p s s s d d c m ( a t h ( a b f () ()]
+[DELETED:   S y () () . ( c o ( c s u o ( ( s ( g s U i ( o ( d M ( d]
+[DELETED:   S y p a d d f w m m o a p o r]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 397
+A bill to amend 1939 PA 280, entitled
+"The social welfare act,"
+by amending section 109h (MCL 400.109h), as amended by 2022 PA 19.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 109h. (1) If the department develops a prior
+2 authorization process for prescription drugs as part of the
+3 pharmaceutical services offered under the medical assistance
+4 program administered under this act, the department shall not
+5 require prior authorization for the following single source brand
+6 name, generic equivalent of a multiple source brand name, or other
+7 prescription drugs:
+8 (a) A central nervous system prescription drug that is
+9 classified as an anticonvulsant, antidepressant, antipsychotic, or
+OOI S00525'25 (S-1) yag3h7
+
+2
+1 a noncontrolled substance antianxiety drug in a generally accepted
+2 standard medical reference.
+3 (b) A prescription drug that is cross-indicated for a central
+4 nervous system drug exempted under subdivision (a) as documented in
+5 a generally accepted standard medical reference.
+6 (c) Unless the prescription drug is a controlled substance or
+7 the prescription drug is being prescribed to treat a condition that
+8 is excluded from coverage under this act, a prescription drug that
+9 is recognized in a generally accepted standard medical reference as
+10 effective in the treatment of conditions specified in the most
+11 recent diagnostic and statistical manual of mental disorders
+12 published by the American Psychiatric Association, including
+13 substance use disorder. The department or the department's agent
+14 shall not deny a request for prior authorization of a controlled
+15 substance under this subdivision unless the department or the
+16 department's agent determines that the controlled substance or the
+17 dosage of the controlled substance being prescribed is not
+18 consistent with its licensed indications or with generally accepted
+19 medical practice as documented in a standard medical reference.
+20 (d) A prescription drug that is recognized in a generally
+21 accepted standard medical reference to prevent acquisition of or to
+22 treat human immunodeficiency virus infection or complication of the
+23 human immunodeficiency virus or acquired immunodeficiency syndrome.
+24 (e) A prescription drug that is recognized in a generally
+25 accepted standard medical reference for the treatment of and is
+26 being prescribed to a patient for the treatment of any of the
+27 following:
+28 (i) Cancer.
+29 (ii) Organ replacement therapy.
+OOI S00525'25 (S-1) yag3h7
+
+3
+1 (iii) Epilepsy or seizure disorder.
+2 (iv) Opioid withdrawal symptom management or opioid use
+3 disorder. For purposes of this subparagraph, the department shall
+4 not require a dosage maximum for a prescription drug for the
+5 treatment of opioid withdrawal symptom management or opioid use
+6 disorder.
+7 (2) This section applies to drugs being provided under a
+8 contract between the department and a health maintenance
+9 organization.
+10 (3) This section does not prohibit the department from
+11 contracting with a managed care organization for pharmaceutical
+12 services offered under the medical assistance program administered
+13 under this act as long as the contract complies with the provisions
+14 of this section.
+15 (4) As used in this section:
+16 (a) "Controlled substance" means that term as defined in
+17 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+18 (b) "Cross-indicated" means a drug that is used for a purpose
+19 generally held to be reasonable, appropriate, and within community
+20 standards of practice even though the use is not included in the
+21 United States Food and Drug Administration's approved labeled
+22 indications for that drug.
+23 (c) "Prescriber" means that term as defined in section 17708
+24 of the public health code, 1978 PA 368, MCL 333.17708.
+25 (d) "Prescription" or "prescription drug" means that term as
+26 defined in section 17708 of the public health code, 1978 PA 368,
+27 MCL 333.17708.
+28 (e) "Prior authorization" means a process implemented by the
+29 department that conditions, delays, or denies the delivery of
+OOI S00525'25 (S-1) yag3h7
+
+4
+1 particular pharmaceutical services to Medicaid beneficiaries upon
+2 application of predetermined criteria by the department or the
+3 department's agent for those pharmaceutical services covered by the
+4 department on a fee-for-service basis or according to a contract
+5 for those services. The process may require a prescriber to verify
+6 with the department or the department's agent that the proposed
+7 medical use of a prescription drug being prescribed for a patient
+8 meets the predetermined criteria for a prescription drug that is
+9 otherwise covered under this act or require a prescriber to obtain
+10 authorization from the department or the department's agent before
+11 prescribing or dispensing a prescription drug that is not included
+12 on a preferred drug list or that is subject to special access or
+13 reimbursement restrictions.
+Final Page
+OOI S00525'25 (S-1) yag3h7
+
+[DELETED:   S y S a p p r n p ( c]
+[DELETED:   S y a s ( n a ( t i i e r p s s s d d c m ( a t h ( a b f () ()]
+[DELETED:   S y () () . ( c o ( c s u o ( ( s ( g s U i ( o ( d M ( d]
+[DELETED:   S y p a d d f w m m o a p o r]

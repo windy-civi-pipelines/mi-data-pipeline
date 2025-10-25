@@ -1,0 +1,1276 @@
+Title: SENATE BILL NO. 100
+Official Title: SENATE BILL NO. 100
+Number of Sections: 2
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+HOUSE SUBSTITUTE FOR
+A bill to amend 2023 PA 282, entitled
+"Candidate for office financial disclosure act,"
+by amending sections 3, 5, 7, 11, 13, and 15 (MCL 169.303, 169.305,
+
+Section 2:
+169.307, 169.311, 169.313, and 169.315), and by adding section 6.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3. As used in this act:
+2 (a) "Candidate" means that term as defined in section 3 of the
+3 Michigan campaign finance act, 1976 PA 388, MCL 169.203.
+4 (b) "Candidate for office" means a candidate for any of the
+5 following offices who is subject to the Michigan campaign finance
+6 act, 1976 PA 388, MCL 169.201 to 169.282, and whose candidate
+7 committee received or expended more than $1,000.00 during the
+8 election cycle, and who intends to appear on the ballot during the
+THS S01270'25 (H-1) j653i8
+2
+1 election cycle:
+2 (i) Governor.
+3 (ii) Lieutenant governor.
+4 (iii) Secretary of state.
+5 (iv) Attorney general.
+6 (v) State representative.
+7 (vi) State senator.
+8 (c) "Consumer Price Index" means the most comprehensive index
+9 of consumer prices available for the Detroit-Warren-Dearborn area
+10 from the Bureau of Labor Statistics of the United States Department
+11 of Labor.
+12 (d) (c) "Department" means the department of state.
+13 (e) (d) "Earned income" means salaries, wages, tips, bonuses,
+14 commissions, or other compensation or earnings from employment
+15 earned during the reporting period.
+16 (f) (e) "Form" means the financial disclosure form created
+17 provided under section 6 and published by the department in
+18 accordance with section 11.
+19 (f) "Gift" means that term as defined in section 7 of the
+20 Michigan campaign finance act, 1976 PA 388, MCL 169.207.
+21 (g) "Honorarium" means that term as defined in section 7 of
+22 the Michigan campaign finance act, 1976 PA 388, MCL 169.207.
+23 (g) (h) "Liabilities" means what a person owes to another
+24 person, including, but not limited to, mortgages or other debts.
+25 For purposes of this act, a debt does not include a revolving debt,
+26 an unsecured debt that is from a financial institution or the
+27 federal government, or a debt owed by a business entity.
+28 (h) (i) "Report" means the financial disclosure report
+29 required under section 10 of article IV of the state constitution
+THS S01270'25 (H-1) j653i8
+3
+1 of 1963. The report must be in the form provided under section 6.
+2 (i) (j) "Reporting period" means the preceding calendar year.
+3 (j) (k) "Spouse" means an individual who is lawfully married
+4 to a candidate for office as described under 26 CFR 30.7701-
+5 18.301.7701-18.
+6 (k) (l) "Unearned income" means income that is not earned from
+7 employment, including, but not limited to, financial prize,
+8 unemployment benefits, annuities, stock dividends, deferred
+9 compensation, pension, profit sharing, or retirement income.
+10 Unearned income does not include inheritance money or a familial
+11 gift.
+12 Sec. 5. (1) A Except as otherwise provided in this section, a
+13 candidate for office shall file a financial disclosure report with
+14 the department .
+15 (2) Subject to subsection (4), the report required under this
+16 section must first be filed by May 15, 2024, and by not later than
+17 May 15 of each year thereafter in which there is an election
+18 involving a candidate for office, or if the candidate for office
+19 files a statement of organization for that candidate's candidate
+20 committee after May 15 in order to be nominated by a political
+21 party at the political party's nominating convention, the report
+22 required to be filed under this subsection must be filed no later
+23 than 15 days after that candidate files the statement of
+24 organization for that candidate's candidate committee.
+25 (2) (3) If a candidate for office who is required to file a
+26 report under this act receives notice from the secretary of state
+27 under section 13(1)(g), 13(1)(h), the candidate for office shall,
+28 within not later than 9 business days after receiving the notice,
+29 file corrections to the errors or omissions or file the report, as
+THS S01270'25 (H-1) j653i8
+4
+1 applicable.
+2 (3) A candidate for office shall file the financial disclosure
+3 report for the reporting period of January 1, 2024 to December 31,
+4 2024 not later than June 13, 2025.
+5 (4) If a candidate for office is not elected, that candidate
+6 for office is not required to file the report required under this
+7 section for any year after the year in which the candidate for
+8 office ran for that public office unless that candidate runs again
+9 as a candidate for office.
+10 (5) If a candidate for office is required to report under the
+11 public officers financial disclosure act, 2023 PA 281, MCL 15.701
+12 to 15.715, the candidate for office is not required to file a
+13 report under this act.
+14 Sec. 6. A financial disclosure report must be in the following
+15 form:
+16 Basic Identifying Information
+17 1. Full name:_________________________________________________
+18 2. Mailing address:___________________________________________
+19 3. Telephone number:_____________________________________
+20 4. Email address:_____________________________________________
+21 5. Are you filing as a public officer or a
+22 candidate?__________
+23 (If you were both a public officer and a candidate during the
+24 reporting period, file as a public officer.)
+25 Spousal Information
+26 6. Were you married during the reporting period?
+27 (yes/no) ________________
+28 7. Spouse's name:_____________________________________________
+29 8. Was your spouse a registered lobbyist in the State of
+THS S01270'25 (H-1) j653i8
+5
+1 Michigan during the reporting period? _________________________
+2 9. For any employer that paid your spouse more than $1,000 in
+3 annual income during the reporting period, list the name of
+4 the employer(s) and the occupation(s) held:
+5 ______________________________________________________________
+6 ______________________________________________________________
+7 ______________________________________________________________
+8 Employment & Income
+9 10. List the name and address of each employer that paid you
+10 more than $1,000 and the positions held in the reporting period:
+11 ______________________________________________________________
+12 ______________________________________________________________
+13 ______________________________________________________________
+14 11. Did you receive unearned income over $200 in the reporting
+15 period (e.g., financial prize, unemployment benefits, annuities,
+16 stock dividends, deferred compensation, pension, profit sharing,
+17 retirement income)? If yes, list the sources of unearned income,
+18 including the origins and addresses of the sources of unearned
+19 income:
+20 ______________________________________________________________
+21 ______________________________________________________________
+22 ______________________________________________________________
+23 Organizational Roles
+24 12. List all positions you held in any organization,
+25 corporation, firm, partnership, or other business enterprise,
+26 nonprofit organization, labor organization, or educational or other
+27 institution other than this state during the reporting period
+28 (e.g., officer, director, trustee, partner, proprietor,
+29 representative, employee, or consultant). If applicable, for each,
+THS S01270'25 (H-1) j653i8
+6
+1 please provide the name of the organization and the position held:
+2 (You do not need to include positions in any: religious,
+3 social, fraternal, or political entity, or any position solely
+4 honorary in nature.)
+5 ______________________________________________________________
+6 ______________________________________________________________
+7 ______________________________________________________________
+8 ______________________________________________________________
+9 Assets
+10 13. List any real property in which you held an ownership
+11 interest during the reporting period:
+12 (Include only real property valued over $1,000; you may choose
+13 to exclude the street number, if applicable.)
+14 ______________________________________________________________
+15 ______________________________________________________________
+16 ______________________________________________________________
+17 ______________________________________________________________
+18 14. List any securities or investments (stocks, bonds, mutual
+19 funds, etc.) you held or held jointly with your spouse with a fair
+20 market value over $1,000 during the reporting period, including the
+21 origins and addresses of the securities or investments:
+22 (You are not required to disclose a stock within a widely held
+23 investment fund if neither you nor your spouse exercise control
+24 over the financial interests held by the fund and the fund is
+25 publicly traded or the assets of the fund are widely diversified.)
+26 ______________________________________________________________
+27 ______________________________________________________________
+28 ______________________________________________________________
+29 ______________________________________________________________
+THS S01270'25 (H-1) j653i8
+7
+1 15. List any other assets, other than business assets, held
+2 for the production of income, or for investment purposes, exceeding
+3 $1,000 in value that you owned during the reporting period:
+4 ______________________________________________________________
+5 ______________________________________________________________
+6 ______________________________________________________________
+7 Liabilities
+8 16. List any liabilities over $10,000 you (solely or jointly)
+9 owed at any point during the reporting period (e.g., mortgages,
+10 loans, credit lines):
+11 (You may exclude: any unsecured debt from a financial
+12 institution or the federal government, any revolving debt, or a
+13 business debt.)
+14 ______________________________________________________________
+15 ______________________________________________________________
+16 ______________________________________________________________
+17 Employment Agreements
+18 17. List any agreements or arrangements made or in effect
+19 during the reporting period with respect to the following:
+20 (a) Any future employment that would commence after you leave
+21 office.
+22 (b) A leave of absence from any former or current employer
+23 taken while serving as a public officer.
+24 (c) A continuation or deferral of payments by a former or
+25 current employer other than this state to you, or your continuing
+26 participation in an employee welfare or benefit plan maintained by
+27 a former employer.
+28 ______________________________________________________________
+29 ______________________________________________________________
+THS S01270'25 (H-1) j653i8
+8
+1 ______________________________________________________________
+2 ______________________________________________________________
+3 State Contracts
+4 18. Do you or your spouse hold a majority financial interest
+5 in any current or prospective contracts with the State of Michigan?
+6 If yes, provide the name of the company and a description of all
+7 contracts:
+8 ______________________________________________________________
+9 ______________________________________________________________
+10 ______________________________________________________________
+11 ______________________________________________________________
+12 Additional disclosures
+13 ______________________________________________________________
+14 ______________________________________________________________
+15 ______________________________________________________________
+16 ______________________________________________________________
+17 Certification
+18 "I certify that the statements I have made on this financial
+19 disclosure form are true, complete, and correct to the best of my
+20 knowledge and belief, and that I have not moved assets during the
+21 reporting period for the purpose of avoiding disclosure under the
+22 candidate for office financial disclosure act."
+23 Signed: ______________________________________________________
+24 Sec. 7. (1) A report required under section 5 must include a
+25 complete statement of all of the following:
+26 (a) The full name, mailing address, telephone number, and
+27 email address of the candidate for office.
+28 (b) The name and address of the employer or employers of the
+29 candidate for office and the positions held during the reporting
+THS S01270'25 (H-1) j653i8
+9
+1 period, if the candidate for office receives $1,000.00 or more in
+2 annual income from each position.
+3 (c) The name of the spouse of the candidate for office and, if
+4 the spouse receives $1,000.00 or more in annual income, the
+5 occupation of the spouse of the candidate for office , and the name
+6 of the employer or employers of the candidate for office's spouse.
+7 (d) Whether the spouse of the candidate for office was
+8 registered as a lobbyist or lobbyist agent under 1978 PA 472, MCL
+9 4.411 to 4.431, during the reporting period.
+10 (e) A list of all positions currently held as an officer,
+11 director, trustee, partner, proprietor, representative, employee,
+12 or consultant of any organization, corporation, firm, partnership,
+13 or other business enterprise, nonprofit organization, labor
+14 organization, or educational or other institution other than this
+15 state. If this subdivision applies, the candidate for office shall
+16 include the name of the organization. For purposes of this
+17 subdivision, positions held in any religious, social, fraternal, or
+18 political entity, or positions that are solely of an honorary
+19 nature, are excluded.
+20 (f) The source of earned income received during the reporting
+21 period by the candidate for office. For purposes of this
+22 subdivision, the candidate for office must report disclose each
+23 source of income received during the reporting period that is
+24 $1,000.00 or more.
+25 (g) Except as otherwise provided in this subdivision, a list
+26 of each asset, excluding a business asset, held for investment or
+27 production of income with a fair market value of $1,000.00 or more
+28 during the reporting period and any sources of unearned income that
+29 exceed $200.00 during the reporting period, including the origins
+THS S01270'25 (H-1) j653i8
+10
+1 and addresses of the sources of unearned income. The fair market
+2 value for the purpose of listing each asset, excluding a business
+3 asset, held for investment or production of income under this
+4 subdivision must be adjusted for inflation every 4 years using the
+5 Detroit Consumer Price Index, and rounded up to the nearest
+6 $1,000.00.
+7 (h) A list of all liabilities that exceed $10,000.00 owed by
+8 the candidate for office to a creditor at any time during the
+9 reporting period.
+10 (i) Except as otherwise provided in this subdivision, a list
+11 of any stocks, bonds, or other forms of securities held by the
+12 candidate for office or held jointly with the spouse of the
+13 candidate for office during the reporting period, including the
+14 origin and address of the security, if the security has a total
+15 aggregate fair market value of $1,000.00 or more. The fair market
+16 value for the purpose of listing stocks, bonds, or other forms of
+17 securities under this subdivision must be adjusted for inflation
+18 every 4 years using the Detroit Consumer Price Index, and rounded
+19 up to the nearest $1,000.00. For purposes of this act, a candidate
+20 for office is not required to disclose a stock in within a widely
+21 held investment fund, including, but not limited to, a mutual fund,
+22 regulated investment company, pension or deferred compensation
+23 plan, or other investment fund, if both of the following apply:
+24 (i) Either the fund is publicly traded or the assets of the
+25 fund are widely diversified.
+26 (ii) The candidate for office or the candidate for office's
+27 spouse does not exercise control over or have the ability to
+28 exercise control over the financial interests held by the fund.
+29 (j) A list of any real property in which the candidate for
+THS S01270'25 (H-1) j653i8
+11
+1 office holds an ownership or other financial interest. For purposes
+2 of this subdivision, the candidate for office is required to
+3 include a real property in the report only if that real property
+4 has a fair market value of $1,000.00 or more during the reporting
+5 period. A candidate for office filing a report may exclude the
+6 street number of a parcel of real property under this subdivision.
+7 (k) The date of, identity of parties to, and general terms of
+8 any agreements or arrangements made or in effect during the
+9 reporting period with respect to the following:
+10 (i) Any future employment , a that would commence after the
+11 candidate for office leaves office.
+12 (ii) A leave of absence from any former or current employer
+13 taken while a candidate for office. ,
+14 (iii) A continuation or deferral of payments by a former or
+15 current employer other than this state to the candidate for office,
+16 or the candidate for office's continuing participation in an
+17 employee welfare or benefit plan maintained by a former employer.
+18 (l) If applicable, a statement indicating that the candidate
+19 for office or the spouse of the candidate for office is a
+20 registered vendor with this state, has a majority interest in a
+21 company that is a registered vendor with this state, or is employed
+22 by a company that is a registered vendor with this state. If the
+23 candidate for office or the spouse of the candidate for office is a
+24 registered vendor with this state or has a majority interest in a
+25 company that is a registered vendor with this state, the candidate
+26 for office shall include the name of the company and a description
+27 of all contracts entered into with this state by the candidate for
+28 office, public spouse of the candidate for office, or company in
+29 which the candidate for office or spouse of the candidate for
+THS S01270'25 (H-1) j653i8
+12
+1 office has a majority interest during the reporting period. If the
+2 candidate for office or spouse of the candidate for office is
+3 employed by a company that is a registered vendor with this state,
+4 the candidate for office shall include the name of the company and
+5 a description of all contracts entered into with this state that
+6 the candidate for office or the spouse of the candidate for office
+7 worked on directly during the reporting period.
+8 (2) A candidate for office is not required to disclose the
+9 value of any real property or property disclosed disclosure under
+10 subsection (1).
+11 (3) A report required under section 5 must include the
+12 following certification: "I certify that the statements I have made
+13 on this financial disclosure form are true, complete, and correct
+14 to the best of my knowledge and belief, and that I have not moved
+15 assets during the reporting period for the purpose of avoiding
+16 disclosure under the candidate for office financial disclosure
+17 act.".
+18 Sec. 11. (1) Within 30 days after the effective date of this
+19 act, the department shall create a standard financial disclosure
+20 form that incorporates the requirements of section 7 for use by a
+21 candidate for office to file the financial disclosure report
+22 required under this act.
+23 (1) (2) The Except as otherwise provided in subsection (2),
+24 the department shall, no later not less than March 15, 2024, 30
+25 days before a report is due each year, make the most current
+26 version of the financial disclosure report form created under this
+27 section 6 easily accessible on its website.
+28 (2) For the financial disclosure report due on June 13, 2025,
+29 the department shall make the financial disclosure report form
+THS S01270'25 (H-1) j653i8
+13
+1 provided under section 6 easily accessible on its website not later
+2 than May 31, 2025.
+3 Sec. 13. (1) The secretary of state shall do all of the
+4 following:
+5 (a) Make available through the secretary of state's offices
+6 appropriate forms, instructions, and manuals required by under this
+7 act.
+8 (b) Create and operate an electronic, internet-accessible
+9 system to receive all statements and reports required by under this
+10 act to be filed with the secretary of state.
+11 (c) Accept statements and reports required by this act to be
+12 filed with the secretary of state that are filed via email as an
+13 acceptable alternative to the electronic filing system created
+14 under subdivision (b). This subdivision applies retroactively to
+15 statements and reports filed by email for the reporting period of
+16 January 1, 2023 to December 31, 2023.
+17 (d) (c) Create all forms, Publish the financial disclosure
+18 report form described in section 6, and create the instructions ,
+19 and manuals required under this act.
+20 (e) (d) Issue declaratory rulings to implement this act under
+21 the administrative procedures act of 1969, 1969 PA 306, MCL 24.201
+22 to 24.328.
+23 (f) (e) On receiving a written request and the required
+24 filing, waive payment of a late filing fee if the request for the
+25 waiver is based on good cause and accompanied by adequate
+26 documentation. One or more of the following reasons constitute good
+27 cause for a late filing fee waiver:
+28 (i) The incapacitating physical illness, hospitalization,
+29 accident involvement, death, or incapacitation for medical reasons
+THS S01270'25 (H-1) j653i8
+14
+1 of a candidate for office or an individual whose participation is
+2 essential to the preparation of the report.
+3 (ii) Other unique, unintentional factors beyond the control of
+4 the candidate for office that are not the result of a negligent act
+5 or nonaction so that a reasonably prudent person would excuse the
+6 filing on a temporary basis. These factors include the loss or
+7 unavailability of records because of a fire, flood, theft, or
+8 similar reason and difficulties related to the transmission of the
+9 filing to the secretary of state, such as exceptionally bad
+10 weather.
+11 (g) (f) As soon as practicable, but not later than 5 business
+12 days after a report required to be filed under this act is
+13 received, make the report or all of the contents of the report
+14 available without charge to the public on a separate webpage or its
+15 website homepage.
+16 (h) (g) Within Not later than 9 business days after the
+17 deadline for filing a report under this act, notify, by registered
+18 mail or email, an individual of any error or omission in the
+19 individual's report or that the individual failed to file the
+20 required report.
+21 (2) The secretary of state shall issue a declaratory ruling
+22 under this section only if the person requesting the ruling has
+23 provided a reasonably complete statement of facts necessary for the
+24 ruling or if the person requesting the ruling has, with the
+25 permission of the secretary of state, supplied supplemental facts
+26 necessary for the ruling. Within Not later than 2 business days
+27 after receiving a request for a declaratory ruling, the secretary
+28 of state shall make the request available in the manner provided
+29 for under subsection (1)(f). (1)(g). An interested person may
+THS S01270'25 (H-1) j653i8
+15
+1 submit written comments regarding the request to the secretary of
+2 state within not later than 10 business days after the date the
+3 request is made available to the public. Within Not later than 45
+4 business days after receiving a declaratory ruling request, the
+5 secretary of state shall make a proposed response available in the
+6 manner provided for under subsection (1)(f). (1)(g). An interested
+7 person may submit written comments regarding the proposed response
+8 to the secretary of state within not later than 5 business days
+9 after the date the proposal is made available to the public. Except
+10 as otherwise provided in this section, the secretary of state shall
+11 issue a declaratory ruling within not later than 60 business days
+12 after receiving a request for a declaratory ruling. The secretary
+13 of state may refuse to issue a declaratory ruling or an
+14 interpretive statement under this act if the request is anonymous,
+15 the secretary of state determines that the subject matter of the
+16 request is frivolous on its face, or the request is indefinite or
+17 lacks specificity. If the secretary of state refuses to issue a
+18 declaratory ruling, the secretary of state shall notify the person
+19 making the request of the reasons for the refusal and issue an
+20 interpretive statement providing an informational response to the
+21 question presented within the 60-day period. A declaratory ruling
+22 or interpretive statement issued under this section must not state
+23 a general rule of law, other than that which is stated in this act,
+24 or under judicial order.
+25 (3) Under extenuating circumstances, the secretary of state
+26 may issue a notice extending, for not more than 30 business days,
+27 the period during which the secretary of state shall respond to a
+28 request for a declaratory ruling. The secretary of state shall not
+29 issue more than 1 notice of extension for a particular request. A
+THS S01270'25 (H-1) j653i8
+16
+1 person requesting a declaratory ruling may waive, in writing, the
+2 time limitations provided by this section.
+3 (4) The secretary of state shall make available to the public
+4 an annual summary of the declaratory rulings and interpretive
+5 statements issued by the secretary of state under this section.
+6 (5) A person may file with the secretary of state a complaint
+7 that alleges a violation of this act. Within Not later than 5
+8 business days after a complaint that meets the requirements of
+9 subsection (6) is filed, the secretary of state shall mail notice
+10 to the person against whom the complaint is filed. The notice must
+11 include a copy of the complaint. Within Not later than 15 business
+12 days after the notice is mailed, the person against whom the
+13 complaint was filed may submit a response to the secretary of
+14 state. The secretary of state may extend the period for submitting
+15 a response an additional 15 business days for good cause. The
+16 secretary of state shall mail a copy of a response received to the
+17 complainant. Within Not later than 10 business days after the
+18 response is mailed, the complainant may submit a rebuttal statement
+19 to the secretary of state. The secretary of state may extend the
+20 period for submitting a rebuttal statement an additional 10
+21 business days for good cause. The secretary of state shall provide
+22 a copy of the rebuttal statement to the person against whom the
+23 complaint was filed. If, on review of the complaint, the secretary
+24 of state determines that the complaint is frivolous, illegible,
+25 indefinite, or unsigned, or does not identify an alleged violator,
+26 allege a violation of the act, or contain a verification statement,
+27 the secretary of state may summarily dismiss the complaint without
+28 prejudice. If a complaint is summarily dismissed, the complainant
+29 must be notified in writing as to the reason the complaint was
+THS S01270'25 (H-1) j653i8
+17
+1 dismissed. The secretary of state may consolidate similar
+2 complaints.
+3 (6) A complaint filed under subsection (5) must satisfy all of
+4 the following requirements:
+5 (a) Be signed by the complainant.
+6 (b) State the name, address, and telephone number of the
+7 complainant.
+8 (c) Include the complainant's certification that, to the best
+9 of the complainant's knowledge, information, and belief, formed
+10 after a reasonable inquiry under the circumstances, each factual
+11 contention of the complaint is supported by evidence. However, if,
+12 after a reasonable inquiry under the circumstances, the complainant
+13 is unable to certify that certain factual contentions are supported
+14 by evidence, the complainant may certify that, to the best of the
+15 complainant's knowledge, information, or belief, there are grounds
+16 to conclude that those specifically identified factual contentions
+17 are likely to be supported by evidence after a reasonable
+18 opportunity for further inquiry.
+19 (7) A person shall not file a complaint with a false
+20 certificate under subsection (6)(c). A person may file a complaint
+21 under subsection (5) alleging that another person has filed a
+22 complaint with a false certificate under subsection (6)(c).
+23 (8) The secretary of state shall investigate allegations
+24 brought under this act. If an allegation involves the secretary of
+25 state, or the secretary of state's spouse, the secretary of state
+26 shall refer the matter to the attorney general to determine whether
+27 a violation of this act occurred.
+28 (9) No Not later than 45 business days after receiving a
+29 rebuttal statement submitted under subsection (5) or, if no
+THS S01270'25 (H-1) j653i8
+18
+1 response or rebuttal is received under subsection (5), 45 business
+2 days after receiving a complaint under subsection (5), the
+3 secretary of state shall post on the secretary of state's website
+4 whether there may be reason to believe that a violation of this act
+5 occurred. If the secretary of state determines whether there may be
+6 reason to believe that a violation of this act occurred or
+7 determines to terminate its proceedings, the secretary of state
+8 shall, within not later than 30 days after that determination, post
+9 on the secretary of state's website any complaint, response, or
+10 rebuttal statement received under subsection (5) regarding that
+11 violation or alleged violation and any correspondence that is
+12 dispositive of that violation or alleged violation between the
+13 secretary of state and the complainant or the person against whom
+14 the complaint was filed. If the secretary of state determines there
+15 may be reason to believe that a violation of this act occurred, the
+16 secretary of state shall endeavor to correct the violation or
+17 prevent a further violation by using informal methods such as a
+18 conference, conciliation, or persuasion, and may enter into a
+19 conciliation agreement with the person involved. Unless violated, a
+20 conciliation agreement is a complete bar to any further civil
+21 action with respect to matters covered in the conciliation
+22 agreement. The secretary of state shall, within not later than 30
+23 days after a conciliation agreement is signed, post that agreement
+24 on the department's website. If, after 90 business days, the
+25 secretary of state is unable to correct or prevent further
+26 violation by these informal methods, the secretary of state may
+27 commence a hearing as provided in subsection (10) for enforcement
+28 of this act.
+29 (10) The secretary of state may commence a hearing to
+THS S01270'25 (H-1) j653i8
+19
+1 determine whether a violation of this act occurred. The hearing
+2 must be conducted in accordance with chapter 4 of the
+3 administrative procedures act of 1969, 1969 PA 306, MCL 24.271 to
+4 24.288.
+5 (11) A final decision or order issued by the secretary of
+6 state under this act is subject to judicial review as provided
+7 under chapter 6 of the administrative procedures act of 1969, 1969
+8 PA 306, MCL 24.301 to 24.306. The secretary of state shall deposit
+9 a civil fine imposed under this act in the general fund. The
+10 secretary of state may bring an action in circuit court to recover
+11 the amount of a civil fine.
+12 (12) The secretary of state shall review a report or statement
+13 filed under this act and may investigate an apparent violation of
+14 this act. If the secretary of state determines that there may be
+15 reason to believe a violation of this act occurred and the
+16 procedures prescribed in subsection (9) have been complied with,
+17 the secretary of state may commence a hearing under subsection (10)
+18 to determine whether a violation of this act occurred.
+19 (13) There is no private right of action, either in law or in
+20 equity, under this act. The remedies provided in this act are the
+21 exclusive means by which this act may be enforced and by which any
+22 harm resulting from a violation of this act may be redressed.
+23 (14) The secretary of state shall preserve a report filed
+24 under this act for 15 years after the date the report is filed. If
+25 the secretary of state or attorney general determines under this
+26 section that a violation of this act occurred, the secretary of
+27 state shall preserve all complaints, orders, decisions, or other
+28 documents related to that violation for 15 years after the date of
+29 the determination or the date the violation is corrected, whichever
+THS S01270'25 (H-1) j653i8
+20
+1 is later. Reports filed under this act may be reproduced under the
+2 records reproduction act, 1992 PA 116, MCL 24.401 to 24.406. After
+3 the required preservation period, the reports, or the reproductions
+4 of the reports, may be disposed of in the manner prescribed in the
+5 management and budget act, 1984 PA 431, MCL 18.1101 to 18.1594, and
+6 section 11 of the Michigan history center act, 2016 PA 470, MCL
+7 399.811.
+8 Sec. 15. (1) An individual who fails to file a report as
+9 required under this act shall pay a late filing fee of $25.00 for
+10 each business day after the first 10 business days that the report
+11 remains unfiled. The fee imposed under this subsection must not
+12 exceed $1,000.00.
+13 (2) A late filing fee collected under this act must be
+14 deposited into the general fund.
+15 (3) An individual who knowingly files an incomplete or
+16 inaccurate report in violation of this act may be ordered to pay a
+17 civil fine of not more than $2,000.00.
+18 (4) A late filing fee assessed or civil fine imposed under
+19 this act that remains unpaid for more than 180 days must be
+20 referred to the department of treasury for collection.
+21 (5) The amount of a late filing fee assessed or civil fine
+22 imposed under this act must be adjusted for inflation every 4 years
+23 using the Detroit Consumer Price Index.
+Final Page
+THS S01270'25 (H-1) j653i8
+[DELETED:   S j S ( M ( f a c e]
+[DELETED:   S j : () () () () () ()  ( ( c e ( b a ( M ( t ( p F a f ( r]
+[DELETED:   S j o3 ( ( t 1. () e u c U g S c tt. ( s M i f c p r t o ( r u t w 9 f]
+[DELETED:   S j a  ( f s o a]
+[DELETED:   S j]
+[DELETED:   S j]
+[DELETED:   S j  ]
+[DELETED:   S j  S c ( e ( o c]
+[DELETED:   S j p a (e,di t oe, o ( r 4 ( d o o o s i s p n ( p s e s $ ( o p d e]
+[DELETED:   S j . v a s D $ ( t r ( o c c i a v s e u f a h r p () f () s e (]
+[DELETED:   S j o o i h p s (e, a t w)  t ft,) f l .  we,) c ce, o c e () f r c b c r c f o o w]
+[DELETED:   S j o c e t a t w ( v u s ( f o t a d a S a f c r E ( n 3 d t m m f s e ]
+[DELETED:   S j  S f ( a t a ( s t a  P (  is, a ( t t ( f w d c () a]
+[DELETED:   S j o e () t o f u s f w ( d r a w N ( 9 d m i r ( u p r p n 2 a o f A]
+[DELETED:   S j s s 1 r 4 b s m A p t 5 a a i 6 a o i t r l d m i q o a o ( m t r i]
+[DELETED:   S j p t ( a s ( t 5 b s t i 1 d c s a s c 1 r t p b a c o i a t p m]
+[DELETED:   S j d c ( t ( ( c ( o a c a i b c t a o ( c u c ( b s s a ( l r]
+[DELETED:   S j r d s w o r d s 3 o r v d s t m s p c c c a a 3 d o s v c o (]
+[DELETED:   S j d m a 2 ( s u P a s t ( f t r p t t ( e e h ( u t s s d t]
+[DELETED:   S j i r t o m s 3 S r e r e ( d ( i c ( t r ( i u]
+
+
+================================================================================
+
+Raw Text:
+HOUSE SUBSTITUTE FOR
+SENATE BILL NO. 100
+A bill to amend 2023 PA 282, entitled
+"Candidate for office financial disclosure act,"
+by amending sections 3, 5, 7, 11, 13, and 15 (MCL 169.303, 169.305,
+169.307, 169.311, 169.313, and 169.315), and by adding section 6.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3. As used in this act:
+2 (a) "Candidate" means that term as defined in section 3 of the
+3 Michigan campaign finance act, 1976 PA 388, MCL 169.203.
+4 (b) "Candidate for office" means a candidate for any of the
+5 following offices who is subject to the Michigan campaign finance
+6 act, 1976 PA 388, MCL 169.201 to 169.282, and whose candidate
+7 committee received or expended more than $1,000.00 during the
+8 election cycle, and who intends to appear on the ballot during the
+THS S01270'25 (H-1) j653i8
+
+2
+1 election cycle:
+2 (i) Governor.
+3 (ii) Lieutenant governor.
+4 (iii) Secretary of state.
+5 (iv) Attorney general.
+6 (v) State representative.
+7 (vi) State senator.
+8 (c) "Consumer Price Index" means the most comprehensive index
+9 of consumer prices available for the Detroit-Warren-Dearborn area
+10 from the Bureau of Labor Statistics of the United States Department
+11 of Labor.
+12 (d) (c) "Department" means the department of state.
+13 (e) (d) "Earned income" means salaries, wages, tips, bonuses,
+14 commissions, or other compensation or earnings from employment
+15 earned during the reporting period.
+16 (f) (e) "Form" means the financial disclosure form created
+17 provided under section 6 and published by the department in
+18 accordance with section 11.
+19 (f) "Gift" means that term as defined in section 7 of the
+20 Michigan campaign finance act, 1976 PA 388, MCL 169.207.
+21 (g) "Honorarium" means that term as defined in section 7 of
+22 the Michigan campaign finance act, 1976 PA 388, MCL 169.207.
+23 (g) (h) "Liabilities" means what a person owes to another
+24 person, including, but not limited to, mortgages or other debts.
+25 For purposes of this act, a debt does not include a revolving debt,
+26 an unsecured debt that is from a financial institution or the
+27 federal government, or a debt owed by a business entity.
+28 (h) (i) "Report" means the financial disclosure report
+29 required under section 10 of article IV of the state constitution
+THS S01270'25 (H-1) j653i8
+
+3
+1 of 1963. The report must be in the form provided under section 6.
+2 (i) (j) "Reporting period" means the preceding calendar year.
+3 (j) (k) "Spouse" means an individual who is lawfully married
+4 to a candidate for office as described under 26 CFR 30.7701-
+5 18.301.7701-18.
+6 (k) (l) "Unearned income" means income that is not earned from
+7 employment, including, but not limited to, financial prize,
+8 unemployment benefits, annuities, stock dividends, deferred
+9 compensation, pension, profit sharing, or retirement income.
+10 Unearned income does not include inheritance money or a familial
+11 gift.
+12 Sec. 5. (1) A Except as otherwise provided in this section, a
+13 candidate for office shall file a financial disclosure report with
+14 the department .
+15 (2) Subject to subsection (4), the report required under this
+16 section must first be filed by May 15, 2024, and by not later than
+17 May 15 of each year thereafter in which there is an election
+18 involving a candidate for office, or if the candidate for office
+19 files a statement of organization for that candidate's candidate
+20 committee after May 15 in order to be nominated by a political
+21 party at the political party's nominating convention, the report
+22 required to be filed under this subsection must be filed no later
+23 than 15 days after that candidate files the statement of
+24 organization for that candidate's candidate committee.
+25 (2) (3) If a candidate for office who is required to file a
+26 report under this act receives notice from the secretary of state
+27 under section 13(1)(g), 13(1)(h), the candidate for office shall,
+28 within not later than 9 business days after receiving the notice,
+29 file corrections to the errors or omissions or file the report, as
+THS S01270'25 (H-1) j653i8
+
+4
+1 applicable.
+2 (3) A candidate for office shall file the financial disclosure
+3 report for the reporting period of January 1, 2024 to December 31,
+4 2024 not later than June 13, 2025.
+5 (4) If a candidate for office is not elected, that candidate
+6 for office is not required to file the report required under this
+7 section for any year after the year in which the candidate for
+8 office ran for that public office unless that candidate runs again
+9 as a candidate for office.
+10 (5) If a candidate for office is required to report under the
+11 public officers financial disclosure act, 2023 PA 281, MCL 15.701
+12 to 15.715, the candidate for office is not required to file a
+13 report under this act.
+14 Sec. 6. A financial disclosure report must be in the following
+15 form:
+16 Basic Identifying Information
+17 1. Full name:_________________________________________________
+18 2. Mailing address:___________________________________________
+19 3. Telephone number:_____________________________________
+20 4. Email address:_____________________________________________
+21 5. Are you filing as a public officer or a
+22 candidate?__________
+23 (If you were both a public officer and a candidate during the
+24 reporting period, file as a public officer.)
+25 Spousal Information
+26 6. Were you married during the reporting period?
+27 (yes/no) ________________
+28 7. Spouse's name:_____________________________________________
+29 8. Was your spouse a registered lobbyist in the State of
+THS S01270'25 (H-1) j653i8
+
+5
+1 Michigan during the reporting period? _________________________
+2 9. For any employer that paid your spouse more than $1,000 in
+3 annual income during the reporting period, list the name of
+4 the employer(s) and the occupation(s) held:
+5 ______________________________________________________________
+6 ______________________________________________________________
+7 ______________________________________________________________
+8 Employment & Income
+9 10. List the name and address of each employer that paid you
+10 more than $1,000 and the positions held in the reporting period:
+11 ______________________________________________________________
+12 ______________________________________________________________
+13 ______________________________________________________________
+14 11. Did you receive unearned income over $200 in the reporting
+15 period (e.g., financial prize, unemployment benefits, annuities,
+16 stock dividends, deferred compensation, pension, profit sharing,
+17 retirement income)? If yes, list the sources of unearned income,
+18 including the origins and addresses of the sources of unearned
+19 income:
+20 ______________________________________________________________
+21 ______________________________________________________________
+22 ______________________________________________________________
+23 Organizational Roles
+24 12. List all positions you held in any organization,
+25 corporation, firm, partnership, or other business enterprise,
+26 nonprofit organization, labor organization, or educational or other
+27 institution other than this state during the reporting period
+28 (e.g., officer, director, trustee, partner, proprietor,
+29 representative, employee, or consultant). If applicable, for each,
+THS S01270'25 (H-1) j653i8
+
+6
+1 please provide the name of the organization and the position held:
+2 (You do not need to include positions in any: religious,
+3 social, fraternal, or political entity, or any position solely
+4 honorary in nature.)
+5 ______________________________________________________________
+6 ______________________________________________________________
+7 ______________________________________________________________
+8 ______________________________________________________________
+9 Assets
+10 13. List any real property in which you held an ownership
+11 interest during the reporting period:
+12 (Include only real property valued over $1,000; you may choose
+13 to exclude the street number, if applicable.)
+14 ______________________________________________________________
+15 ______________________________________________________________
+16 ______________________________________________________________
+17 ______________________________________________________________
+18 14. List any securities or investments (stocks, bonds, mutual
+19 funds, etc.) you held or held jointly with your spouse with a fair
+20 market value over $1,000 during the reporting period, including the
+21 origins and addresses of the securities or investments:
+22 (You are not required to disclose a stock within a widely held
+23 investment fund if neither you nor your spouse exercise control
+24 over the financial interests held by the fund and the fund is
+25 publicly traded or the assets of the fund are widely diversified.)
+26 ______________________________________________________________
+27 ______________________________________________________________
+28 ______________________________________________________________
+29 ______________________________________________________________
+THS S01270'25 (H-1) j653i8
+
+7
+1 15. List any other assets, other than business assets, held
+2 for the production of income, or for investment purposes, exceeding
+3 $1,000 in value that you owned during the reporting period:
+4 ______________________________________________________________
+5 ______________________________________________________________
+6 ______________________________________________________________
+7 Liabilities
+8 16. List any liabilities over $10,000 you (solely or jointly)
+9 owed at any point during the reporting period (e.g., mortgages,
+10 loans, credit lines):
+11 (You may exclude: any unsecured debt from a financial
+12 institution or the federal government, any revolving debt, or a
+13 business debt.)
+14 ______________________________________________________________
+15 ______________________________________________________________
+16 ______________________________________________________________
+17 Employment Agreements
+18 17. List any agreements or arrangements made or in effect
+19 during the reporting period with respect to the following:
+20 (a) Any future employment that would commence after you leave
+21 office.
+22 (b) A leave of absence from any former or current employer
+23 taken while serving as a public officer.
+24 (c) A continuation or deferral of payments by a former or
+25 current employer other than this state to you, or your continuing
+26 participation in an employee welfare or benefit plan maintained by
+27 a former employer.
+28 ______________________________________________________________
+29 ______________________________________________________________
+THS S01270'25 (H-1) j653i8
+
+8
+1 ______________________________________________________________
+2 ______________________________________________________________
+3 State Contracts
+4 18. Do you or your spouse hold a majority financial interest
+5 in any current or prospective contracts with the State of Michigan?
+6 If yes, provide the name of the company and a description of all
+7 contracts:
+8 ______________________________________________________________
+9 ______________________________________________________________
+10 ______________________________________________________________
+11 ______________________________________________________________
+12 Additional disclosures
+13 ______________________________________________________________
+14 ______________________________________________________________
+15 ______________________________________________________________
+16 ______________________________________________________________
+17 Certification
+18 "I certify that the statements I have made on this financial
+19 disclosure form are true, complete, and correct to the best of my
+20 knowledge and belief, and that I have not moved assets during the
+21 reporting period for the purpose of avoiding disclosure under the
+22 candidate for office financial disclosure act."
+23 Signed: ______________________________________________________
+24 Sec. 7. (1) A report required under section 5 must include a
+25 complete statement of all of the following:
+26 (a) The full name, mailing address, telephone number, and
+27 email address of the candidate for office.
+28 (b) The name and address of the employer or employers of the
+29 candidate for office and the positions held during the reporting
+THS S01270'25 (H-1) j653i8
+
+9
+1 period, if the candidate for office receives $1,000.00 or more in
+2 annual income from each position.
+3 (c) The name of the spouse of the candidate for office and, if
+4 the spouse receives $1,000.00 or more in annual income, the
+5 occupation of the spouse of the candidate for office , and the name
+6 of the employer or employers of the candidate for office's spouse.
+7 (d) Whether the spouse of the candidate for office was
+8 registered as a lobbyist or lobbyist agent under 1978 PA 472, MCL
+9 4.411 to 4.431, during the reporting period.
+10 (e) A list of all positions currently held as an officer,
+11 director, trustee, partner, proprietor, representative, employee,
+12 or consultant of any organization, corporation, firm, partnership,
+13 or other business enterprise, nonprofit organization, labor
+14 organization, or educational or other institution other than this
+15 state. If this subdivision applies, the candidate for office shall
+16 include the name of the organization. For purposes of this
+17 subdivision, positions held in any religious, social, fraternal, or
+18 political entity, or positions that are solely of an honorary
+19 nature, are excluded.
+20 (f) The source of earned income received during the reporting
+21 period by the candidate for office. For purposes of this
+22 subdivision, the candidate for office must report disclose each
+23 source of income received during the reporting period that is
+24 $1,000.00 or more.
+25 (g) Except as otherwise provided in this subdivision, a list
+26 of each asset, excluding a business asset, held for investment or
+27 production of income with a fair market value of $1,000.00 or more
+28 during the reporting period and any sources of unearned income that
+29 exceed $200.00 during the reporting period, including the origins
+THS S01270'25 (H-1) j653i8
+
+10
+1 and addresses of the sources of unearned income. The fair market
+2 value for the purpose of listing each asset, excluding a business
+3 asset, held for investment or production of income under this
+4 subdivision must be adjusted for inflation every 4 years using the
+5 Detroit Consumer Price Index, and rounded up to the nearest
+6 $1,000.00.
+7 (h) A list of all liabilities that exceed $10,000.00 owed by
+8 the candidate for office to a creditor at any time during the
+9 reporting period.
+10 (i) Except as otherwise provided in this subdivision, a list
+11 of any stocks, bonds, or other forms of securities held by the
+12 candidate for office or held jointly with the spouse of the
+13 candidate for office during the reporting period, including the
+14 origin and address of the security, if the security has a total
+15 aggregate fair market value of $1,000.00 or more. The fair market
+16 value for the purpose of listing stocks, bonds, or other forms of
+17 securities under this subdivision must be adjusted for inflation
+18 every 4 years using the Detroit Consumer Price Index, and rounded
+19 up to the nearest $1,000.00. For purposes of this act, a candidate
+20 for office is not required to disclose a stock in within a widely
+21 held investment fund, including, but not limited to, a mutual fund,
+22 regulated investment company, pension or deferred compensation
+23 plan, or other investment fund, if both of the following apply:
+24 (i) Either the fund is publicly traded or the assets of the
+25 fund are widely diversified.
+26 (ii) The candidate for office or the candidate for office's
+27 spouse does not exercise control over or have the ability to
+28 exercise control over the financial interests held by the fund.
+29 (j) A list of any real property in which the candidate for
+THS S01270'25 (H-1) j653i8
+
+11
+1 office holds an ownership or other financial interest. For purposes
+2 of this subdivision, the candidate for office is required to
+3 include a real property in the report only if that real property
+4 has a fair market value of $1,000.00 or more during the reporting
+5 period. A candidate for office filing a report may exclude the
+6 street number of a parcel of real property under this subdivision.
+7 (k) The date of, identity of parties to, and general terms of
+8 any agreements or arrangements made or in effect during the
+9 reporting period with respect to the following:
+10 (i) Any future employment , a that would commence after the
+11 candidate for office leaves office.
+12 (ii) A leave of absence from any former or current employer
+13 taken while a candidate for office. ,
+14 (iii) A continuation or deferral of payments by a former or
+15 current employer other than this state to the candidate for office,
+16 or the candidate for office's continuing participation in an
+17 employee welfare or benefit plan maintained by a former employer.
+18 (l) If applicable, a statement indicating that the candidate
+19 for office or the spouse of the candidate for office is a
+20 registered vendor with this state, has a majority interest in a
+21 company that is a registered vendor with this state, or is employed
+22 by a company that is a registered vendor with this state. If the
+23 candidate for office or the spouse of the candidate for office is a
+24 registered vendor with this state or has a majority interest in a
+25 company that is a registered vendor with this state, the candidate
+26 for office shall include the name of the company and a description
+27 of all contracts entered into with this state by the candidate for
+28 office, public spouse of the candidate for office, or company in
+29 which the candidate for office or spouse of the candidate for
+THS S01270'25 (H-1) j653i8
+
+12
+1 office has a majority interest during the reporting period. If the
+2 candidate for office or spouse of the candidate for office is
+3 employed by a company that is a registered vendor with this state,
+4 the candidate for office shall include the name of the company and
+5 a description of all contracts entered into with this state that
+6 the candidate for office or the spouse of the candidate for office
+7 worked on directly during the reporting period.
+8 (2) A candidate for office is not required to disclose the
+9 value of any real property or property disclosed disclosure under
+10 subsection (1).
+11 (3) A report required under section 5 must include the
+12 following certification: "I certify that the statements I have made
+13 on this financial disclosure form are true, complete, and correct
+14 to the best of my knowledge and belief, and that I have not moved
+15 assets during the reporting period for the purpose of avoiding
+16 disclosure under the candidate for office financial disclosure
+17 act.".
+18 Sec. 11. (1) Within 30 days after the effective date of this
+19 act, the department shall create a standard financial disclosure
+20 form that incorporates the requirements of section 7 for use by a
+21 candidate for office to file the financial disclosure report
+22 required under this act.
+23 (1) (2) The Except as otherwise provided in subsection (2),
+24 the department shall, no later not less than March 15, 2024, 30
+25 days before a report is due each year, make the most current
+26 version of the financial disclosure report form created under this
+27 section 6 easily accessible on its website.
+28 (2) For the financial disclosure report due on June 13, 2025,
+29 the department shall make the financial disclosure report form
+THS S01270'25 (H-1) j653i8
+
+13
+1 provided under section 6 easily accessible on its website not later
+2 than May 31, 2025.
+3 Sec. 13. (1) The secretary of state shall do all of the
+4 following:
+5 (a) Make available through the secretary of state's offices
+6 appropriate forms, instructions, and manuals required by under this
+7 act.
+8 (b) Create and operate an electronic, internet-accessible
+9 system to receive all statements and reports required by under this
+10 act to be filed with the secretary of state.
+11 (c) Accept statements and reports required by this act to be
+12 filed with the secretary of state that are filed via email as an
+13 acceptable alternative to the electronic filing system created
+14 under subdivision (b). This subdivision applies retroactively to
+15 statements and reports filed by email for the reporting period of
+16 January 1, 2023 to December 31, 2023.
+17 (d) (c) Create all forms, Publish the financial disclosure
+18 report form described in section 6, and create the instructions ,
+19 and manuals required under this act.
+20 (e) (d) Issue declaratory rulings to implement this act under
+21 the administrative procedures act of 1969, 1969 PA 306, MCL 24.201
+22 to 24.328.
+23 (f) (e) On receiving a written request and the required
+24 filing, waive payment of a late filing fee if the request for the
+25 waiver is based on good cause and accompanied by adequate
+26 documentation. One or more of the following reasons constitute good
+27 cause for a late filing fee waiver:
+28 (i) The incapacitating physical illness, hospitalization,
+29 accident involvement, death, or incapacitation for medical reasons
+THS S01270'25 (H-1) j653i8
+
+14
+1 of a candidate for office or an individual whose participation is
+2 essential to the preparation of the report.
+3 (ii) Other unique, unintentional factors beyond the control of
+4 the candidate for office that are not the result of a negligent act
+5 or nonaction so that a reasonably prudent person would excuse the
+6 filing on a temporary basis. These factors include the loss or
+7 unavailability of records because of a fire, flood, theft, or
+8 similar reason and difficulties related to the transmission of the
+9 filing to the secretary of state, such as exceptionally bad
+10 weather.
+11 (g) (f) As soon as practicable, but not later than 5 business
+12 days after a report required to be filed under this act is
+13 received, make the report or all of the contents of the report
+14 available without charge to the public on a separate webpage or its
+15 website homepage.
+16 (h) (g) Within Not later than 9 business days after the
+17 deadline for filing a report under this act, notify, by registered
+18 mail or email, an individual of any error or omission in the
+19 individual's report or that the individual failed to file the
+20 required report.
+21 (2) The secretary of state shall issue a declaratory ruling
+22 under this section only if the person requesting the ruling has
+23 provided a reasonably complete statement of facts necessary for the
+24 ruling or if the person requesting the ruling has, with the
+25 permission of the secretary of state, supplied supplemental facts
+26 necessary for the ruling. Within Not later than 2 business days
+27 after receiving a request for a declaratory ruling, the secretary
+28 of state shall make the request available in the manner provided
+29 for under subsection (1)(f). (1)(g). An interested person may
+THS S01270'25 (H-1) j653i8
+
+15
+1 submit written comments regarding the request to the secretary of
+2 state within not later than 10 business days after the date the
+3 request is made available to the public. Within Not later than 45
+4 business days after receiving a declaratory ruling request, the
+5 secretary of state shall make a proposed response available in the
+6 manner provided for under subsection (1)(f). (1)(g). An interested
+7 person may submit written comments regarding the proposed response
+8 to the secretary of state within not later than 5 business days
+9 after the date the proposal is made available to the public. Except
+10 as otherwise provided in this section, the secretary of state shall
+11 issue a declaratory ruling within not later than 60 business days
+12 after receiving a request for a declaratory ruling. The secretary
+13 of state may refuse to issue a declaratory ruling or an
+14 interpretive statement under this act if the request is anonymous,
+15 the secretary of state determines that the subject matter of the
+16 request is frivolous on its face, or the request is indefinite or
+17 lacks specificity. If the secretary of state refuses to issue a
+18 declaratory ruling, the secretary of state shall notify the person
+19 making the request of the reasons for the refusal and issue an
+20 interpretive statement providing an informational response to the
+21 question presented within the 60-day period. A declaratory ruling
+22 or interpretive statement issued under this section must not state
+23 a general rule of law, other than that which is stated in this act,
+24 or under judicial order.
+25 (3) Under extenuating circumstances, the secretary of state
+26 may issue a notice extending, for not more than 30 business days,
+27 the period during which the secretary of state shall respond to a
+28 request for a declaratory ruling. The secretary of state shall not
+29 issue more than 1 notice of extension for a particular request. A
+THS S01270'25 (H-1) j653i8
+
+16
+1 person requesting a declaratory ruling may waive, in writing, the
+2 time limitations provided by this section.
+3 (4) The secretary of state shall make available to the public
+4 an annual summary of the declaratory rulings and interpretive
+5 statements issued by the secretary of state under this section.
+6 (5) A person may file with the secretary of state a complaint
+7 that alleges a violation of this act. Within Not later than 5
+8 business days after a complaint that meets the requirements of
+9 subsection (6) is filed, the secretary of state shall mail notice
+10 to the person against whom the complaint is filed. The notice must
+11 include a copy of the complaint. Within Not later than 15 business
+12 days after the notice is mailed, the person against whom the
+13 complaint was filed may submit a response to the secretary of
+14 state. The secretary of state may extend the period for submitting
+15 a response an additional 15 business days for good cause. The
+16 secretary of state shall mail a copy of a response received to the
+17 complainant. Within Not later than 10 business days after the
+18 response is mailed, the complainant may submit a rebuttal statement
+19 to the secretary of state. The secretary of state may extend the
+20 period for submitting a rebuttal statement an additional 10
+21 business days for good cause. The secretary of state shall provide
+22 a copy of the rebuttal statement to the person against whom the
+23 complaint was filed. If, on review of the complaint, the secretary
+24 of state determines that the complaint is frivolous, illegible,
+25 indefinite, or unsigned, or does not identify an alleged violator,
+26 allege a violation of the act, or contain a verification statement,
+27 the secretary of state may summarily dismiss the complaint without
+28 prejudice. If a complaint is summarily dismissed, the complainant
+29 must be notified in writing as to the reason the complaint was
+THS S01270'25 (H-1) j653i8
+
+17
+1 dismissed. The secretary of state may consolidate similar
+2 complaints.
+3 (6) A complaint filed under subsection (5) must satisfy all of
+4 the following requirements:
+5 (a) Be signed by the complainant.
+6 (b) State the name, address, and telephone number of the
+7 complainant.
+8 (c) Include the complainant's certification that, to the best
+9 of the complainant's knowledge, information, and belief, formed
+10 after a reasonable inquiry under the circumstances, each factual
+11 contention of the complaint is supported by evidence. However, if,
+12 after a reasonable inquiry under the circumstances, the complainant
+13 is unable to certify that certain factual contentions are supported
+14 by evidence, the complainant may certify that, to the best of the
+15 complainant's knowledge, information, or belief, there are grounds
+16 to conclude that those specifically identified factual contentions
+17 are likely to be supported by evidence after a reasonable
+18 opportunity for further inquiry.
+19 (7) A person shall not file a complaint with a false
+20 certificate under subsection (6)(c). A person may file a complaint
+21 under subsection (5) alleging that another person has filed a
+22 complaint with a false certificate under subsection (6)(c).
+23 (8) The secretary of state shall investigate allegations
+24 brought under this act. If an allegation involves the secretary of
+25 state, or the secretary of state's spouse, the secretary of state
+26 shall refer the matter to the attorney general to determine whether
+27 a violation of this act occurred.
+28 (9) No Not later than 45 business days after receiving a
+29 rebuttal statement submitted under subsection (5) or, if no
+THS S01270'25 (H-1) j653i8
+
+18
+1 response or rebuttal is received under subsection (5), 45 business
+2 days after receiving a complaint under subsection (5), the
+3 secretary of state shall post on the secretary of state's website
+4 whether there may be reason to believe that a violation of this act
+5 occurred. If the secretary of state determines whether there may be
+6 reason to believe that a violation of this act occurred or
+7 determines to terminate its proceedings, the secretary of state
+8 shall, within not later than 30 days after that determination, post
+9 on the secretary of state's website any complaint, response, or
+10 rebuttal statement received under subsection (5) regarding that
+11 violation or alleged violation and any correspondence that is
+12 dispositive of that violation or alleged violation between the
+13 secretary of state and the complainant or the person against whom
+14 the complaint was filed. If the secretary of state determines there
+15 may be reason to believe that a violation of this act occurred, the
+16 secretary of state shall endeavor to correct the violation or
+17 prevent a further violation by using informal methods such as a
+18 conference, conciliation, or persuasion, and may enter into a
+19 conciliation agreement with the person involved. Unless violated, a
+20 conciliation agreement is a complete bar to any further civil
+21 action with respect to matters covered in the conciliation
+22 agreement. The secretary of state shall, within not later than 30
+23 days after a conciliation agreement is signed, post that agreement
+24 on the department's website. If, after 90 business days, the
+25 secretary of state is unable to correct or prevent further
+26 violation by these informal methods, the secretary of state may
+27 commence a hearing as provided in subsection (10) for enforcement
+28 of this act.
+29 (10) The secretary of state may commence a hearing to
+THS S01270'25 (H-1) j653i8
+
+19
+1 determine whether a violation of this act occurred. The hearing
+2 must be conducted in accordance with chapter 4 of the
+3 administrative procedures act of 1969, 1969 PA 306, MCL 24.271 to
+4 24.288.
+5 (11) A final decision or order issued by the secretary of
+6 state under this act is subject to judicial review as provided
+7 under chapter 6 of the administrative procedures act of 1969, 1969
+8 PA 306, MCL 24.301 to 24.306. The secretary of state shall deposit
+9 a civil fine imposed under this act in the general fund. The
+10 secretary of state may bring an action in circuit court to recover
+11 the amount of a civil fine.
+12 (12) The secretary of state shall review a report or statement
+13 filed under this act and may investigate an apparent violation of
+14 this act. If the secretary of state determines that there may be
+15 reason to believe a violation of this act occurred and the
+16 procedures prescribed in subsection (9) have been complied with,
+17 the secretary of state may commence a hearing under subsection (10)
+18 to determine whether a violation of this act occurred.
+19 (13) There is no private right of action, either in law or in
+20 equity, under this act. The remedies provided in this act are the
+21 exclusive means by which this act may be enforced and by which any
+22 harm resulting from a violation of this act may be redressed.
+23 (14) The secretary of state shall preserve a report filed
+24 under this act for 15 years after the date the report is filed. If
+25 the secretary of state or attorney general determines under this
+26 section that a violation of this act occurred, the secretary of
+27 state shall preserve all complaints, orders, decisions, or other
+28 documents related to that violation for 15 years after the date of
+29 the determination or the date the violation is corrected, whichever
+THS S01270'25 (H-1) j653i8
+
+20
+1 is later. Reports filed under this act may be reproduced under the
+2 records reproduction act, 1992 PA 116, MCL 24.401 to 24.406. After
+3 the required preservation period, the reports, or the reproductions
+4 of the reports, may be disposed of in the manner prescribed in the
+5 management and budget act, 1984 PA 431, MCL 18.1101 to 18.1594, and
+6 section 11 of the Michigan history center act, 2016 PA 470, MCL
+7 399.811.
+8 Sec. 15. (1) An individual who fails to file a report as
+9 required under this act shall pay a late filing fee of $25.00 for
+10 each business day after the first 10 business days that the report
+11 remains unfiled. The fee imposed under this subsection must not
+12 exceed $1,000.00.
+13 (2) A late filing fee collected under this act must be
+14 deposited into the general fund.
+15 (3) An individual who knowingly files an incomplete or
+16 inaccurate report in violation of this act may be ordered to pay a
+17 civil fine of not more than $2,000.00.
+18 (4) A late filing fee assessed or civil fine imposed under
+19 this act that remains unpaid for more than 180 days must be
+20 referred to the department of treasury for collection.
+21 (5) The amount of a late filing fee assessed or civil fine
+22 imposed under this act must be adjusted for inflation every 4 years
+23 using the Detroit Consumer Price Index.
+Final Page
+THS S01270'25 (H-1) j653i8
+
+[DELETED:   S j S ( M ( f a c e]
+[DELETED:   S j : () () () () () ()  ( ( c e ( b a ( M ( t ( p F a f ( r]
+[DELETED:   S j o3 ( ( t 1. () e u c U g S c tt. ( s M i f c p r t o ( r u t w 9 f]
+[DELETED:   S j a  ( f s o a]
+[DELETED:   S j]
+[DELETED:   S j]
+[DELETED:   S j  ]
+[DELETED:   S j  S c ( e ( o c]
+[DELETED:   S j p a (e,di t oe, o ( r 4 ( d o o o s i s p n ( p s e s $ ( o p d e]
+[DELETED:   S j . v a s D $ ( t r ( o c c i a v s e u f a h r p () f () s e (]
+[DELETED:   S j o o i h p s (e, a t w)  t ft,) f l .  we,) c ce, o c e () f r c b c r c f o o w]
+[DELETED:   S j o c e t a t w ( v u s ( f o t a d a S a f c r E ( n 3 d t m m f s e ]
+[DELETED:   S j  S f ( a t a ( s t a  P (  is, a ( t t ( f w d c () a]
+[DELETED:   S j o e () t o f u s f w ( d r a w N ( 9 d m i r ( u p r p n 2 a o f A]
+[DELETED:   S j s s 1 r 4 b s m A p t 5 a a i 6 a o i t r l d m i q o a o ( m t r i]
+[DELETED:   S j p t ( a s ( t 5 b s t i 1 d c s a s c 1 r t p b a c o i a t p m]
+[DELETED:   S j d c ( t ( ( c ( o a c a i b c t a o ( c u c ( b s s a ( l r]
+[DELETED:   S j r d s w o r d s 3 o r v d s t m s p c c c a a 3 d o s v c o (]
+[DELETED:   S j d m a 2 ( s u P a s t ( f t r p t t ( e e h ( u t s s d t]
+[DELETED:   S j i r t o m s 3 S r e r e ( d ( i c ( t r ( i u]

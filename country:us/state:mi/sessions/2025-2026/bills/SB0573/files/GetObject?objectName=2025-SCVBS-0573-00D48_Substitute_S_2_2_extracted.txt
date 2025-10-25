@@ -1,0 +1,580 @@
+Title: SENATE BILL NO. 573
+Official Title: SENATE BILL NO. 573
+Number of Sections: 1
+Source: versions - Substitute (S-2) - 2
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 51 and 695 (MCL 206.51 and 206.695), as
+amended by 2023 PA 4, and by adding section 51a; and to repeal acts
+and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 51. (1) For receiving, earning, or otherwise acquiring
+2 income from any source whatsoever, there is levied and imposed
+3 under this part upon the taxable income of every person other than
+4 a corporation a tax at the following rates in the following
+5 circumstances:
+6 (a) On and after October 1, 2007 and before October 1, 2012,
+7 4.35%.
+KAS S04918'25 (S-2) 5v2if3
+2
+1 (b) Except as otherwise provided under subdivision (c), on and
+2 after October 1, 2012, 4.25%.
+3 (c) For each tax year beginning on and after January 1, 2023,
+4 if the percentage increase in the total general fund/general
+5 purpose revenue from the immediately preceding fiscal year is
+6 greater than the inflation rate for the same period and the
+7 inflation rate is positive, then the current rate shall must be
+8 reduced by an amount determined by multiplying that rate by a
+9 fraction, the numerator of which is the difference between the
+10 total general fund/general purpose revenue from the immediately
+11 preceding state fiscal year and the capped general fund/general
+12 purpose revenue and the denominator of which is the total revenue
+13 collected from this part in the immediately preceding state fiscal
+14 year. For purposes of this subdivision only, the state treasurer,
+15 the director of the senate fiscal agency, and the director of the
+16 house fiscal agency shall determine whether the total revenue
+17 distributed to general fund/general purpose revenue has increased
+18 as required under this subdivision based on the comprehensive
+19 annual financial report prepared and published by the department of
+20 technology, management, and budget in accordance with section 23 of
+21 article IX of the state constitution of 1963. The state treasurer,
+22 the director of the senate fiscal agency, and the director of the
+23 house fiscal agency shall make the determination under this
+24 subdivision no later than the date of the January 2023 revenue
+25 estimating conference conducted pursuant to sections 367a through
+26 367f of the management and budget act, 1984 PA 431, MCL 18.1367a to
+27 18.1367f, and the date of each January revenue estimating
+28 conference conducted each year thereafter. As used in this
+29 subdivision:
+KAS S04918'25 (S-2) 5v2if3
+3
+1 (i) "Capped general fund/general purpose revenue" means the
+2 total general fund/general purpose revenue from the 2020-2021 state
+3 fiscal year multiplied by the sum of 1 plus the product of 1.425
+4 times the difference between a fraction, the numerator of which is
+5 the Consumer Price Index for the state fiscal year ending in the
+6 tax year prior to the tax year for which the adjustment is being
+7 made and the denominator of which is the Consumer Price Index for
+8 the 2020-2021 state fiscal year, and 1.
+9 (ii) "Total general fund/general purpose revenue" means the
+10 total general fund/general purpose revenue and other financing
+11 sources as published in the comprehensive annual financial report
+12 schedule of revenue and other financing sources – general fund for
+13 that fiscal year plus any distribution made pursuant to former
+14 section 51d or section 51a(d).
+15 (2) Except as otherwise provided for December 1, 2018 through
+16 September 30, 2019, beginning January 1, 2000 through September 30,
+17 2023, that percentage of the gross collections before refunds from
+18 the tax levied under this section that is equal to 1.012% divided
+19 by the income tax rate levied under this section shall be deposited
+20 in the state school aid fund created in section 11 of article IX of
+21 the state constitution of 1963. For December 1, 2018 through
+22 September 30, 2019 only, that percentage of the gross collections
+23 before refunds from the tax levied under this section that is equal
+24 to 0.954% divided by the income tax rate levied under this section
+25 shall be deposited in the state school aid fund created in section
+26 11 of article IX of the state constitution of 1963. For October 1,
+27 2023 through September 30, 2024 only, that percentage of the gross
+28 collections before refunds from the tax levied under this section
+29 that is equal to 1.015% divided by the income tax rate levied under
+KAS S04918'25 (S-2) 5v2if3
+4
+1 this section shall be deposited in the state school aid fund
+2 created in section 11 of article IX of the state constitution of
+3 1963. For October 1, 2024 through September 30, 2025 only, that
+4 percentage of the gross collections before refunds from the tax
+5 levied under this section that is equal to 1.023% divided by the
+6 income tax rate levied under this section shall be deposited in the
+7 state school aid fund created in section 11 of article IX of the
+8 state constitution of 1963. For October 1, 2025 through September
+9 30, 2026 only, that percentage of the gross collections before
+10 refunds from the tax levied under this section that is equal to
+11 1.033% divided by the income tax rate levied under this section
+12 shall be deposited in the state school aid fund created in section
+13 11 of article IX of the state constitution of 1963. Beginning
+14 October 1, 2026, that percentage of the gross collections before
+15 refunds from the tax levied under this section that is equal to
+16 1.040% divided by the income tax rate levied under this section
+17 shall be deposited in the state school aid fund created in section
+18 11 of article IX of the state constitution of 1963.
+19 (3) In addition to the distributions under subsections (2) and
+20 (4) and sections 51d, 51e, and 51f, beginning October 1, 2016, from
+21 the revenue collected under this section an amount equal to 3.5% of
+22 the average amount of farmland tax credits claimed under section
+23 36109 of the natural resources and environmental protection act,
+24 1994 PA 451, MCL 324.36109, for the immediately preceding 3 state
+25 fiscal years shall be deposited into the agricultural preservation
+26 fund created in section 36202 of the natural resources and
+27 environmental protection act, 1994 PA 451, MCL 324.36202.
+28 (4) In addition to the distributions under subsections (2) and
+29 (3) and sections 51d, 51e, and 51f, and subject to the limitation
+KAS S04918'25 (S-2) 5v2if3
+5
+1 under this subsection, beginning with the 2018-2019 state fiscal
+2 year and each fiscal year thereafter, from the revenue collected
+3 under this section $69,000,000.00 shall be deposited into the renew
+4 Michigan fund created in section 51g. However, if, in any 1 of the
+5 2018-2019 through the 2021-2022 state fiscal years, the minimum
+6 foundation allowance falls below the 2017-2018 minimum foundation
+7 allowance established under section 20 of the state school aid act
+8 of 1979, 1979 PA 94, MCL 388.1620, as amended by 2017 PA 108, then
+9 no money shall be deposited into the renew Michigan fund pursuant
+10 to this subsection for that fiscal year.
+11 (2) (5) The department shall annualize rates provided in
+12 subsection (1) as necessary. The applicable annualized rate shall
+13 be is imposed upon the taxable income of every person other than a
+14 corporation for those tax years.
+15 (3) (6) The taxable income of a nonresident shall must be
+16 computed in the same manner that the taxable income of a resident
+17 is computed, subject to the allocation and apportionment provisions
+18 of this part.
+19 (4) (7) A resident beneficiary of a trust whose taxable income
+20 includes all or part of an accumulation distribution by a trust, as
+21 defined in section 665 of the internal revenue code, shall be is
+22 allowed a credit against the tax otherwise due under this part. The
+23 credit shall must be all or a proportionate part of any tax paid by
+24 the trust under this part for any preceding taxable year that would
+25 not have been payable if the trust had in fact made distribution to
+26 its beneficiaries at the times and in the amounts specified in
+27 section 666 of the internal revenue code. The credit shall does not
+28 reduce the tax otherwise due from the beneficiary to an amount less
+29 than would have been due if the accumulation distribution were
+KAS S04918'25 (S-2) 5v2if3
+6
+1 excluded from taxable income.
+2 (5) (8) The taxable income of a resident who is required to
+3 include income from a trust in the resident's federal income tax
+4 return under the provisions of 26 USC 671 to 679, shall include
+5 includes items of income and deductions from the trust in taxable
+6 income to the extent required by this part with respect to property
+7 owned outright.
+8 (6) (9) It is the intention of this section that the income
+9 subject to tax of every person other than corporations shall must
+10 be computed in like manner and be the same as provided in the
+11 internal revenue code subject to adjustments specifically provided
+12 for in this part.
+13 (7) (10) As used in this section:
+14 (a) "Consumer Price Index" means the United States Consumer
+15 Price Index for all urban consumers as defined and reported by the
+16 United States Department of Labor, Bureau of Labor Statistics.
+17 (b) "Inflation rate" means the annual percentage change in the
+18 Consumer Price Index, as determined by the department, comparing
+19 the 2 most recent completed state fiscal years.
+20 (c) "Person other than a corporation" means a resident or
+21 nonresident individual or any of the following:
+22 (i) A partner in a partnership as defined in the internal
+23 revenue code.
+24 (ii) A beneficiary of an estate or a trust as defined in the
+25 internal revenue code.
+26 (iii) An estate or trust as defined in the internal revenue
+27 code.
+28 (d) "Taxable income" means taxable income as defined in this
+29 part subject to the applicable source and attribution rules
+KAS S04918'25 (S-2) 5v2if3
+7
+1 contained in this part.
+2 Sec. 51a. Except as otherwise provided under this section,
+3 beginning October 1, 2025, the following amounts of revenue
+4 collected from the tax levied under section 51 must be deposited in
+5 the following manner:
+6 (a) For October 1, 2025 through September 30, 2026 only, that
+7 percentage of the gross collections before refunds from the tax
+8 levied under section 51 that is equal to 1.033% divided by the
+9 income tax rate levied under section 51 to the state school aid
+10 fund created in section 11 of article IX of the state constitution
+11 of 1963. Beginning October 1, 2026, that percentage of the gross
+12 collections before refunds from the tax levied under section 51
+13 that is equal to 1.040% divided by the income tax rate levied under
+14 section 51 to the state school aid fund created in section 11 of
+15 article IX of the state constitution of 1963.
+16 (b) An amount equal to 3.5% of the average amount of farmland
+17 tax credits claimed under section 36109 of the natural resources
+18 and environmental protection act, 1994 PA 451, MCL 324.36109, for
+19 the immediately preceding 3 state fiscal years to the agricultural
+20 preservation fund created in section 36202 of the natural resources
+21 and environmental protection act, 1994 PA 451, MCL 324.36202.
+22 (c) $69,000,000.00 to the renew Michigan fund created in
+23 section 51g.
+24 (d) $600,000.00 to the Michigan transportation fund created in
+25 section 10 of 1951 PA 51, MCL 247.660, and disbursed as provided in
+26 section 10(1)(l) of 1951 PA 51, MCL 247.660.
+27 (e) An amount equal to the construction period tax capture
+28 revenues, withholding tax capture revenues, and income tax capture
+29 revenues due to be transmitted under all transformational
+KAS S04918'25 (S-2) 5v2if3
+8
+1 brownfield plans adopted under the brownfield redevelopment
+2 financing act, 1996 PA 381, MCL 125.2651 to 125.2670, to the state
+3 brownfield redevelopment fund created in section 8a of the
+4 brownfield redevelopment financing act, 1996 PA 381, MCL 125.2658a.
+5 As used in this subdivision, "construction period tax capture
+6 revenues", "income tax capture revenues", and "withholding tax
+7 capture revenues" mean those terms as defined in section 2 of the
+8 brownfield redevelopment financing act, 1996 PA 381, MCL 125.2652.
+9 (f) An amount equal to that portion of the withholding tax
+10 capture revenues attributable to certified new jobs and due to be
+11 paid to an authorized business pursuant to a written agreement
+12 entered into under chapter 8D of the Michigan strategic fund act,
+13 1984 PA 270, MCL 125.2090g to 125.2090j, to the good jobs for
+14 Michigan fund created in section 90j of the Michigan strategic fund
+15 act, 1984 PA 270, MCL 125.2090j. As used in this subdivision,
+16 "authorized business", "certified new jobs", "withholding tax
+17 capture revenues", and "written agreement" mean those terms as
+18 defined in section 90g of the Michigan strategic fund act, 1984 PA
+19 270, MCL 125.2090g.
+20 Sec. 695. (1) Except as otherwise provided under this section,
+21 the revenue collected under this part shall be distributed to the
+22 general fund. If the amendatory act that added section 51h takes
+23 effect before April 18, 2023, then for the 2021-2022 state fiscal
+24 year only, from the tax levied under this part, $800,000,000.00 of
+25 the revenue collected is appropriated and must be deposited into
+26 the state treasury to the credit of the Michigan taxpayer rebate
+27 fund created in section 51h, and the balance of the revenue
+28 collected under this part for that state fiscal year shall be
+29 deposited to the general fund.
+KAS S04918'25 (S-2) 5v2if3
+9
+1 (2) Beginning with the 2022-2023 state fiscal year through the
+2 2024-2025 state fiscal year, from the tax levied under this part,
+3 the revenue collected under this part shall be deposited in the
+4 following manner:
+5 (a) Up to $1,200,000,000.00 to the general fund.
+6 (b) After the deposit under subdivision (a), up to
+7 $50,000,000.00, if available, to the Michigan housing and community
+8 development fund created in section 58a of the state housing
+9 development authority act of 1966, 1966 PA 346, MCL 125.1458a.
+10 (c) After the deposits under subdivisions (a) and (b), up to
+11 $50,000,000.00, if available, to the revitalization and placemaking
+12 fund created in section 696.
+13 (d) After the deposits under subdivisions (a), (b), and (c),
+14 up to $500,000,000.00, if available, to the strategic outreach and
+15 attraction reserve fund created in section 4 of the Michigan trust
+16 fund act, 2000 PA 489, MCL 12.254.
+17 (e) The balance of any revenue collected under this part after
+18 the deposits under subdivisions (a), (b), (c), and (d), to the
+19 general fund.
+20 (3) Beginning with the 2025-2026 state fiscal year, from the
+21 tax levied under this part, $50,000,000.00 of the revenue collected
+22 under this part shall must be deposited to the Michigan housing and
+23 community development fund created in section 58a of the state
+24 housing development authority act of 1966, 1966 PA 346, MCL
+25 125.1458a, and the balance of the revenue collected under this part
+26 for that state fiscal year shall must be deposited to the general
+27 fund.
+28 Enacting section 1. Sections 51d to 51f, 51h, and 476 of the
+29 income tax act of 1967, 1967 PA 281, MCL 206.51d to 206.51f,
+KAS S04918'25 (S-2) 5v2if3
+10
+1 206.51h, and 206.476, are repealed.
+Final Page
+KAS S04918'25 (S-2) 5v2if3
+[DELETED:   S 5 S i u a c ( 4]
+[DELETED:   S 5 ( a ( i p g i b r f t p p c y t h d a a t a t h s e 3 1 c s]
+[DELETED:   S 5 () t f t t t m t () t s s t sd. ( S 2 t b i t S b t s 1 2 c t]
+[DELETED:   S 5 t c 1 p l i s s 3 r 1 s 1 O r 1 s 1 ( ( t t 3 1 f f e ( (]
+[DELETED:   S 5 u y u M 2 f a o n t ( s b i c m ( b c i o ( i d a c b t n i s n r t]
+[DELETED:   S 5 e ( i r i i o ( s b i f ( ( P U ( C t ( n () r () i () c ( p]
+[DELETED:   S 5 c()]
+[DELETED:   S 5 S t g e y t t f c d]
+[DELETED:   S 5 ( 2 t f ( ( $ d d ( $ f ( u a f ( t g ( t u b c h 1 f b f E i]
+[DELETED:   S 5 2]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 573
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 51 and 695 (MCL 206.51 and 206.695), as
+amended by 2023 PA 4, and by adding section 51a; and to repeal acts
+and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 51. (1) For receiving, earning, or otherwise acquiring
+2 income from any source whatsoever, there is levied and imposed
+3 under this part upon the taxable income of every person other than
+4 a corporation a tax at the following rates in the following
+5 circumstances:
+6 (a) On and after October 1, 2007 and before October 1, 2012,
+7 4.35%.
+KAS S04918'25 (S-2) 5v2if3
+
+2
+1 (b) Except as otherwise provided under subdivision (c), on and
+2 after October 1, 2012, 4.25%.
+3 (c) For each tax year beginning on and after January 1, 2023,
+4 if the percentage increase in the total general fund/general
+5 purpose revenue from the immediately preceding fiscal year is
+6 greater than the inflation rate for the same period and the
+7 inflation rate is positive, then the current rate shall must be
+8 reduced by an amount determined by multiplying that rate by a
+9 fraction, the numerator of which is the difference between the
+10 total general fund/general purpose revenue from the immediately
+11 preceding state fiscal year and the capped general fund/general
+12 purpose revenue and the denominator of which is the total revenue
+13 collected from this part in the immediately preceding state fiscal
+14 year. For purposes of this subdivision only, the state treasurer,
+15 the director of the senate fiscal agency, and the director of the
+16 house fiscal agency shall determine whether the total revenue
+17 distributed to general fund/general purpose revenue has increased
+18 as required under this subdivision based on the comprehensive
+19 annual financial report prepared and published by the department of
+20 technology, management, and budget in accordance with section 23 of
+21 article IX of the state constitution of 1963. The state treasurer,
+22 the director of the senate fiscal agency, and the director of the
+23 house fiscal agency shall make the determination under this
+24 subdivision no later than the date of the January 2023 revenue
+25 estimating conference conducted pursuant to sections 367a through
+26 367f of the management and budget act, 1984 PA 431, MCL 18.1367a to
+27 18.1367f, and the date of each January revenue estimating
+28 conference conducted each year thereafter. As used in this
+29 subdivision:
+KAS S04918'25 (S-2) 5v2if3
+
+3
+1 (i) "Capped general fund/general purpose revenue" means the
+2 total general fund/general purpose revenue from the 2020-2021 state
+3 fiscal year multiplied by the sum of 1 plus the product of 1.425
+4 times the difference between a fraction, the numerator of which is
+5 the Consumer Price Index for the state fiscal year ending in the
+6 tax year prior to the tax year for which the adjustment is being
+7 made and the denominator of which is the Consumer Price Index for
+8 the 2020-2021 state fiscal year, and 1.
+9 (ii) "Total general fund/general purpose revenue" means the
+10 total general fund/general purpose revenue and other financing
+11 sources as published in the comprehensive annual financial report
+12 schedule of revenue and other financing sources – general fund for
+13 that fiscal year plus any distribution made pursuant to former
+14 section 51d or section 51a(d).
+15 (2) Except as otherwise provided for December 1, 2018 through
+16 September 30, 2019, beginning January 1, 2000 through September 30,
+17 2023, that percentage of the gross collections before refunds from
+18 the tax levied under this section that is equal to 1.012% divided
+19 by the income tax rate levied under this section shall be deposited
+20 in the state school aid fund created in section 11 of article IX of
+21 the state constitution of 1963. For December 1, 2018 through
+22 September 30, 2019 only, that percentage of the gross collections
+23 before refunds from the tax levied under this section that is equal
+24 to 0.954% divided by the income tax rate levied under this section
+25 shall be deposited in the state school aid fund created in section
+26 11 of article IX of the state constitution of 1963. For October 1,
+27 2023 through September 30, 2024 only, that percentage of the gross
+28 collections before refunds from the tax levied under this section
+29 that is equal to 1.015% divided by the income tax rate levied under
+KAS S04918'25 (S-2) 5v2if3
+
+4
+1 this section shall be deposited in the state school aid fund
+2 created in section 11 of article IX of the state constitution of
+3 1963. For October 1, 2024 through September 30, 2025 only, that
+4 percentage of the gross collections before refunds from the tax
+5 levied under this section that is equal to 1.023% divided by the
+6 income tax rate levied under this section shall be deposited in the
+7 state school aid fund created in section 11 of article IX of the
+8 state constitution of 1963. For October 1, 2025 through September
+9 30, 2026 only, that percentage of the gross collections before
+10 refunds from the tax levied under this section that is equal to
+11 1.033% divided by the income tax rate levied under this section
+12 shall be deposited in the state school aid fund created in section
+13 11 of article IX of the state constitution of 1963. Beginning
+14 October 1, 2026, that percentage of the gross collections before
+15 refunds from the tax levied under this section that is equal to
+16 1.040% divided by the income tax rate levied under this section
+17 shall be deposited in the state school aid fund created in section
+18 11 of article IX of the state constitution of 1963.
+19 (3) In addition to the distributions under subsections (2) and
+20 (4) and sections 51d, 51e, and 51f, beginning October 1, 2016, from
+21 the revenue collected under this section an amount equal to 3.5% of
+22 the average amount of farmland tax credits claimed under section
+23 36109 of the natural resources and environmental protection act,
+24 1994 PA 451, MCL 324.36109, for the immediately preceding 3 state
+25 fiscal years shall be deposited into the agricultural preservation
+26 fund created in section 36202 of the natural resources and
+27 environmental protection act, 1994 PA 451, MCL 324.36202.
+28 (4) In addition to the distributions under subsections (2) and
+29 (3) and sections 51d, 51e, and 51f, and subject to the limitation
+KAS S04918'25 (S-2) 5v2if3
+
+5
+1 under this subsection, beginning with the 2018-2019 state fiscal
+2 year and each fiscal year thereafter, from the revenue collected
+3 under this section $69,000,000.00 shall be deposited into the renew
+4 Michigan fund created in section 51g. However, if, in any 1 of the
+5 2018-2019 through the 2021-2022 state fiscal years, the minimum
+6 foundation allowance falls below the 2017-2018 minimum foundation
+7 allowance established under section 20 of the state school aid act
+8 of 1979, 1979 PA 94, MCL 388.1620, as amended by 2017 PA 108, then
+9 no money shall be deposited into the renew Michigan fund pursuant
+10 to this subsection for that fiscal year.
+11 (2) (5) The department shall annualize rates provided in
+12 subsection (1) as necessary. The applicable annualized rate shall
+13 be is imposed upon the taxable income of every person other than a
+14 corporation for those tax years.
+15 (3) (6) The taxable income of a nonresident shall must be
+16 computed in the same manner that the taxable income of a resident
+17 is computed, subject to the allocation and apportionment provisions
+18 of this part.
+19 (4) (7) A resident beneficiary of a trust whose taxable income
+20 includes all or part of an accumulation distribution by a trust, as
+21 defined in section 665 of the internal revenue code, shall be is
+22 allowed a credit against the tax otherwise due under this part. The
+23 credit shall must be all or a proportionate part of any tax paid by
+24 the trust under this part for any preceding taxable year that would
+25 not have been payable if the trust had in fact made distribution to
+26 its beneficiaries at the times and in the amounts specified in
+27 section 666 of the internal revenue code. The credit shall does not
+28 reduce the tax otherwise due from the beneficiary to an amount less
+29 than would have been due if the accumulation distribution were
+KAS S04918'25 (S-2) 5v2if3
+
+6
+1 excluded from taxable income.
+2 (5) (8) The taxable income of a resident who is required to
+3 include income from a trust in the resident's federal income tax
+4 return under the provisions of 26 USC 671 to 679, shall include
+5 includes items of income and deductions from the trust in taxable
+6 income to the extent required by this part with respect to property
+7 owned outright.
+8 (6) (9) It is the intention of this section that the income
+9 subject to tax of every person other than corporations shall must
+10 be computed in like manner and be the same as provided in the
+11 internal revenue code subject to adjustments specifically provided
+12 for in this part.
+13 (7) (10) As used in this section:
+14 (a) "Consumer Price Index" means the United States Consumer
+15 Price Index for all urban consumers as defined and reported by the
+16 United States Department of Labor, Bureau of Labor Statistics.
+17 (b) "Inflation rate" means the annual percentage change in the
+18 Consumer Price Index, as determined by the department, comparing
+19 the 2 most recent completed state fiscal years.
+20 (c) "Person other than a corporation" means a resident or
+21 nonresident individual or any of the following:
+22 (i) A partner in a partnership as defined in the internal
+23 revenue code.
+24 (ii) A beneficiary of an estate or a trust as defined in the
+25 internal revenue code.
+26 (iii) An estate or trust as defined in the internal revenue
+27 code.
+28 (d) "Taxable income" means taxable income as defined in this
+29 part subject to the applicable source and attribution rules
+KAS S04918'25 (S-2) 5v2if3
+
+7
+1 contained in this part.
+2 Sec. 51a. Except as otherwise provided under this section,
+3 beginning October 1, 2025, the following amounts of revenue
+4 collected from the tax levied under section 51 must be deposited in
+5 the following manner:
+6 (a) For October 1, 2025 through September 30, 2026 only, that
+7 percentage of the gross collections before refunds from the tax
+8 levied under section 51 that is equal to 1.033% divided by the
+9 income tax rate levied under section 51 to the state school aid
+10 fund created in section 11 of article IX of the state constitution
+11 of 1963. Beginning October 1, 2026, that percentage of the gross
+12 collections before refunds from the tax levied under section 51
+13 that is equal to 1.040% divided by the income tax rate levied under
+14 section 51 to the state school aid fund created in section 11 of
+15 article IX of the state constitution of 1963.
+16 (b) An amount equal to 3.5% of the average amount of farmland
+17 tax credits claimed under section 36109 of the natural resources
+18 and environmental protection act, 1994 PA 451, MCL 324.36109, for
+19 the immediately preceding 3 state fiscal years to the agricultural
+20 preservation fund created in section 36202 of the natural resources
+21 and environmental protection act, 1994 PA 451, MCL 324.36202.
+22 (c) $69,000,000.00 to the renew Michigan fund created in
+23 section 51g.
+24 (d) $600,000.00 to the Michigan transportation fund created in
+25 section 10 of 1951 PA 51, MCL 247.660, and disbursed as provided in
+26 section 10(1)(l) of 1951 PA 51, MCL 247.660.
+27 (e) An amount equal to the construction period tax capture
+28 revenues, withholding tax capture revenues, and income tax capture
+29 revenues due to be transmitted under all transformational
+KAS S04918'25 (S-2) 5v2if3
+
+8
+1 brownfield plans adopted under the brownfield redevelopment
+2 financing act, 1996 PA 381, MCL 125.2651 to 125.2670, to the state
+3 brownfield redevelopment fund created in section 8a of the
+4 brownfield redevelopment financing act, 1996 PA 381, MCL 125.2658a.
+5 As used in this subdivision, "construction period tax capture
+6 revenues", "income tax capture revenues", and "withholding tax
+7 capture revenues" mean those terms as defined in section 2 of the
+8 brownfield redevelopment financing act, 1996 PA 381, MCL 125.2652.
+9 (f) An amount equal to that portion of the withholding tax
+10 capture revenues attributable to certified new jobs and due to be
+11 paid to an authorized business pursuant to a written agreement
+12 entered into under chapter 8D of the Michigan strategic fund act,
+13 1984 PA 270, MCL 125.2090g to 125.2090j, to the good jobs for
+14 Michigan fund created in section 90j of the Michigan strategic fund
+15 act, 1984 PA 270, MCL 125.2090j. As used in this subdivision,
+16 "authorized business", "certified new jobs", "withholding tax
+17 capture revenues", and "written agreement" mean those terms as
+18 defined in section 90g of the Michigan strategic fund act, 1984 PA
+19 270, MCL 125.2090g.
+20 Sec. 695. (1) Except as otherwise provided under this section,
+21 the revenue collected under this part shall be distributed to the
+22 general fund. If the amendatory act that added section 51h takes
+23 effect before April 18, 2023, then for the 2021-2022 state fiscal
+24 year only, from the tax levied under this part, $800,000,000.00 of
+25 the revenue collected is appropriated and must be deposited into
+26 the state treasury to the credit of the Michigan taxpayer rebate
+27 fund created in section 51h, and the balance of the revenue
+28 collected under this part for that state fiscal year shall be
+29 deposited to the general fund.
+KAS S04918'25 (S-2) 5v2if3
+
+9
+1 (2) Beginning with the 2022-2023 state fiscal year through the
+2 2024-2025 state fiscal year, from the tax levied under this part,
+3 the revenue collected under this part shall be deposited in the
+4 following manner:
+5 (a) Up to $1,200,000,000.00 to the general fund.
+6 (b) After the deposit under subdivision (a), up to
+7 $50,000,000.00, if available, to the Michigan housing and community
+8 development fund created in section 58a of the state housing
+9 development authority act of 1966, 1966 PA 346, MCL 125.1458a.
+10 (c) After the deposits under subdivisions (a) and (b), up to
+11 $50,000,000.00, if available, to the revitalization and placemaking
+12 fund created in section 696.
+13 (d) After the deposits under subdivisions (a), (b), and (c),
+14 up to $500,000,000.00, if available, to the strategic outreach and
+15 attraction reserve fund created in section 4 of the Michigan trust
+16 fund act, 2000 PA 489, MCL 12.254.
+17 (e) The balance of any revenue collected under this part after
+18 the deposits under subdivisions (a), (b), (c), and (d), to the
+19 general fund.
+20 (3) Beginning with the 2025-2026 state fiscal year, from the
+21 tax levied under this part, $50,000,000.00 of the revenue collected
+22 under this part shall must be deposited to the Michigan housing and
+23 community development fund created in section 58a of the state
+24 housing development authority act of 1966, 1966 PA 346, MCL
+25 125.1458a, and the balance of the revenue collected under this part
+26 for that state fiscal year shall must be deposited to the general
+27 fund.
+28 Enacting section 1. Sections 51d to 51f, 51h, and 476 of the
+29 income tax act of 1967, 1967 PA 281, MCL 206.51d to 206.51f,
+KAS S04918'25 (S-2) 5v2if3
+
+10
+1 206.51h, and 206.476, are repealed.
+Final Page
+KAS S04918'25 (S-2) 5v2if3
+
+[DELETED:   S 5 S i u a c ( 4]
+[DELETED:   S 5 ( a ( i p g i b r f t p p c y t h d a a t a t h s e 3 1 c s]
+[DELETED:   S 5 () t f t t t m t () t s s t sd. ( S 2 t b i t S b t s 1 2 c t]
+[DELETED:   S 5 t c 1 p l i s s 3 r 1 s 1 O r 1 s 1 ( ( t t 3 1 f f e ( (]
+[DELETED:   S 5 u y u M 2 f a o n t ( s b i c m ( b c i o ( i d a c b t n i s n r t]
+[DELETED:   S 5 e ( i r i i o ( s b i f ( ( P U ( C t ( n () r () i () c ( p]
+[DELETED:   S 5 c()]
+[DELETED:   S 5 S t g e y t t f c d]
+[DELETED:   S 5 ( 2 t f ( ( $ d d ( $ f ( u a f ( t g ( t u b c h 1 f b f E i]
+[DELETED:   S 5 2]

@@ -1,0 +1,2056 @@
+Title: SENATE BILL NO. 579
+Official Title: SENATE BILL NO. 579
+Number of Sections: 3
+Source: versions - Substitute (H-3) - 2
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+HOUSE SUBSTITUTE FOR
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 3104, 3110, 3118, 3120, 4104, 11153, 30104,
+30109, 32312, and 32513 (MCL 324.3104, 324.3110, 324.3118,
+
+Section 2:
+324.3120, 324.4104, 324.11153, 324.30104, 324.30109, 324.32312, and
+
+Section 3:
+324.32513), as amended by 2021 PA 91.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3104. (1) The department is designated the state agency
+2 to cooperate and negotiate with other governments, governmental
+3 units, and governmental agencies in matters concerning the water
+4 resources of this state, including, but not limited to, flood
+5 control, beach erosion control, water quality control planning,
+6 development, and management, and the control of aquatic nuisance
+JJB S04570'25 (H-3) dok28x
+2
+1 species. The department shall have control over the alterations of
+2 natural or present watercourses of all rivers and streams in this
+3 state to ensure that the channels and the portions of the
+4 floodplains that are the floodways are not inhabited and are kept
+5 free and clear of interference or obstruction that will cause any
+6 undue restriction of the capacity of the floodway. The department
+7 may take steps as may be necessary to take advantage of any act of
+8 congress that may be of assistance in carrying out the purposes of
+9 this part, including the water resources planning act, 42 USC 1962
+10 to 1962d-3, and the federal water pollution control act, 33 USC
+11 1251 to 1388.1389.
+12 (2) To address discharges of aquatic nuisance species from
+13 oceangoing vessels that damage water quality, aquatic habitat, or
+14 fish or wildlife, the department shall facilitate the formation of
+15 a Great Lakes aquatic nuisance species coalition. The Great Lakes
+16 aquatic nuisance species coalition must be formed through an
+17 agreement entered into with other states in the Great Lakes basin
+18 to implement on a basin-wide basis water pollution laws that
+19 prohibit the discharge of aquatic nuisance species into the Great
+20 Lakes from oceangoing vessels. Upon entering into the agreement,
+21 the department shall notify the Canadian Great Lakes provinces of
+22 the terms of the agreement. The department shall seek funding from
+23 the Great Lakes protection fund authorized under part 331 to
+24 implement the Great Lakes aquatic nuisance species coalition.
+25 (3) The department shall report to the governor and the
+26 legislature at least annually on any plans or projects being
+27 implemented or considered for implementation. The report must
+28 include requests for legislation needed to implement any proposed
+29 projects or agreements made necessary as a result of a plan or
+JJB S04570'25 (H-3) dok28x
+3
+1 project, together with any requests for appropriations. The
+2 department may make recommendations to the governor on the
+3 designation of areawide water quality planning regions and
+4 organizations relative to the governor's responsibilities under the
+5 federal water pollution control act, 33 USC 1251 to 1388.1389.
+6 (4) A person shall not alter a floodplain except as authorized
+7 by a floodplain permit issued by the department under part 13. An
+8 application for a floodplain permit must include information
+9 required by the department to assess the proposed alteration's
+10 impact on the floodplain. If an alteration includes activities at
+11 multiple locations in a floodplain, 1 application may be filed for
+12 combined activities.
+13 (5) Except as otherwise provided in this section, until
+14 October 1, 2025, 2029, an application for a floodplain permit must
+15 be accompanied by a fee of $500.00. Until October 1, 2025, if 2029,
+16 if the department determines that engineering computations are
+17 required to assess the impact of a proposed floodplain alteration
+18 on flood stage or discharge characteristics, the department shall
+19 assess the applicant an additional $1,500.00 to cover the
+20 department's cost of review.
+21 (6) After providing notice and an opportunity for a public
+22 hearing, the department shall establish minor project categories of
+23 activities within floodplains and floodplain projects that are
+24 similar in nature, have minimal potential for causing harmful
+25 interference when performed separately, and will have only minimal
+26 cumulative adverse effects on the environment. All other provisions
+27 of this part, except provisions applicable only to floodplain
+28 general permits, are applicable to a minor project. A minor project
+29 category must not be valid for more than 5 years, but may be re-
+JJB S04570'25 (H-3) dok28x
+4
+1 established. Until October 1, 2025, an 2029, an application for a
+2 floodplain permit for a minor project category must be accompanied
+3 by a fee of $100.00.
+4 (7) The department, after notice and an opportunity for a
+5 public hearing, shall issue general permits on a statewide basis or
+6 within a local unit of government for floodplain projects that are
+7 similar in nature, have minimal potential for causing harmful
+8 interference when performed separately, and will have only minimal
+9 cumulative adverse effects on the environment. A general permit
+10 category must not be valid for more than 5 years, but may be re-
+11 established. Until October 1, 2025, an 2029, an application for a
+12 floodplain permit for a general permit category must be accompanied
+13 by a fee of $50.00.
+14 (8) By December 31, 2019, the department shall propose new
+15 minor project and general project categories as authorized under
+16 subsections (6) and (7).
+17 (9) The department may issue, deny, or impose conditions on
+18 project activities authorized under a floodplain permit for a minor
+19 project category or a general permit category if the conditions are
+20 designed to remove an impairment to a river and its floodplain, or
+21 to mitigate the effects of the project. The department may also
+22 establish a reasonable time when the proposed project is to be
+23 completed or terminated.
+24 (10) If the department determines that activity in a proposed
+25 project, although within a floodplain minor project category or a
+26 floodplain general permit category, is likely to cause more than
+27 minimal adverse environmental effects, the department may require
+28 that the application be processed according to subsection (5).
+29 (11) If work has been done in violation of a permit
+JJB S04570'25 (H-3) dok28x
+5
+1 requirement under this part and restoration is not ordered by the
+2 department, the department may accept an application for a permit
+3 for that work if the application is accompanied by a fee equal to 2
+4 times the permit fee otherwise required under this section.
+5 (12) The department shall forward fees collected under this
+6 section to the state treasurer for deposit in the land and water
+7 management permit fee fund created in section 30113.
+8 (13) A project that requires review and approval under this
+9 part and 1 or more of the following is subject to only the single
+10 highest permit fee required under this part or the following:
+11 (a) Part 301.
+12 (b) Part 303.
+13 (c) Part 323.
+14 (d) Part 325.
+15 (e) Section 117 of the land division act, 1967 PA 288, MCL
+16 560.117.
+17 Sec. 3110. (1) Each industrial or commercial entity, other
+18 than a concentrated animal feed operation, that discharges liquid
+19 wastes into any surface water or groundwater or underground or on
+20 the ground other than through a public sanitary sewer shall have
+21 waste treatment or control facilities under the specific
+22 supervision and control of individuals who are certified by the
+23 department as properly qualified to operate the facilities. The
+24 department shall examine all supervisory personnel having
+25 supervision and control of the facilities, other than a
+26 concentrated animal feed operation, and certify that the
+27 individuals are properly qualified to operate or supervise the
+28 facilities.
+29 (2) The department may conduct a program for training
+JJB S04570'25 (H-3) dok28x
+6
+1 individuals seeking who seek to be certified as operators or
+2 supervisors under subsection (1), section 4104, or section 9 of the
+3 safe drinking water act, 1976 PA 399, MCL 325.1009. Until October
+4 1, 2025, the 2029, the department may charge a fee based on the
+5 costs to the department of operating this training program. The
+6 fees must be deposited into the operator training and certification
+7 fund created in section 3134.
+8 (3) The department shall administer certification operator
+9 programs for individuals seeking who seek to be certified as
+10 operators or supervisors under subsection (1), section 4104, or
+11 section 9 of the safe drinking water act, 1976 PA 399, MCL
+12 325.1009. An individual that who wishes to become certified as an
+13 operator or a supervisor shall submit an application to the
+14 department that contains the information required by the
+15 department. Information submitted as part of the application must
+16 be considered part of the examination for certification. Until
+17 October 1, 2025, the 2029, the department may charge a
+18 certification examination fee and a certification renewal fee in
+19 accordance with the following fee schedule:
+20 (a) For certification examinations under subsection (1), the
+21 following fees apply:
+22 (i) Industrial wastewater certification level 1 or 2
+23 examination as described under subrule (2) of R 323.1253 of the
+24 Michigan Administrative Code, $35.00.
+25 (ii) Industrial wastewater certification level 3 examination as
+26 described under subrule (2) of R 323.1253 of the Michigan
+27 Administrative Code, $40.00.
+28 (iii) Industrial wastewater special classification A-1a
+29 examination or noncontact cooling water A-1h examination as
+JJB S04570'25 (H-3) dok28x
+7
+1 described under subrule (2) of R 323.1253 of the Michigan
+2 Administrative Code, $30.00.
+3 (iv) Stormwater industrial certification A-1i examination as
+4 described under subrule (2) of R 323.1253 of the Michigan
+5 Administrative Code, $30.00.
+6 (b) For certification examinations under section 4104, the
+7 following fees apply:
+8 (i) Municipal wastewater certification level A, B, C, or D
+9 examination as described under subrule (1) of R 299.2911 of the
+10 Michigan Administrative Code, $70.00.
+11 (ii) Municipal wastewater certification level L2 examination as
+12 described under subrule (3)(a) of R 299.2911 of the Michigan
+13 Administrative Code, $45.00.
+14 (iii) Municipal wastewater certification level L1 examination as
+15 described under subrule (3)(b) of R 299.2911 of the Michigan
+16 Administrative Code, $45.00.
+17 (iv) Municipal wastewater certification level SC examination as
+18 described under subrule (4) of R 299.2911 of the Michigan
+19 Administrative Code, $45.00.
+20 (c) For certification examinations under section 9 of the safe
+21 drinking water act, 1976 PA 399, MCL 325.1009, for operators of the
+22 following systems, the following fees apply:
+23 (i) Drinking water complete treatment system classes F-1, F-2,
+24 F-3, or F-4 as described under subrule (1) of R 325.11901 of the
+25 Michigan Administrative Code, $70.00.
+26 (ii) Drinking water limited treatment system classes D-1, D-2,
+27 D-3, or D-4 as described under subrule (2) of R 325.11901 of the
+28 Michigan Administrative Code, $70.00.
+29 (iii) Drinking water distribution system classes S-1, S-2, S-3,
+JJB S04570'25 (H-3) dok28x
+8
+1 or S-4 as described under R 325.11902 of the Michigan
+2 Administrative Code, $70.00.
+3 (iv) Drinking water complete treatment system class F-5 as
+4 described under subrule (1) of R 325.11901 of the Michigan
+5 Administrative Code, $45.00.
+6 (v) Drinking water limited treatment system class D-5 as
+7 described under subrule (2) of R 325.11901 of the Michigan
+8 Administrative Code, $45.00.
+9 (vi) Drinking water distribution system class S-5 as described
+10 under R 325.11902 of the Michigan Administrative Code, $45.00.
+11 (d) For certification renewals under subsection (1), the
+12 following fees apply:
+13 (i) Stormwater industrial certification A-1i as described under
+14 subrule (2) of R 323.1253 of the Michigan Administrative Code,
+15 $95.00.
+16 (ii) Stormwater construction certification A-1j as described
+17 under subrule (2) of R 323.1253 of the Michigan Administrative
+18 Code, $95.00.
+19 (iii) All other industrial wastewater certification levels 1, 2,
+20 or 3 as described under subrule (2) of R 323.1253 of the Michigan
+21 Administrative Code and issued on a single certificate, $95.00.
+22 (e) For certification renewals under section 4104 for all
+23 municipal wastewater certification levels as described under R
+24 299.2911 of the Michigan Administrative Code and issued on a single
+25 certificate, $95.00.
+26 (f) For certification renewals under section 9 of the safe
+27 drinking water act, 1976 PA 399, MCL 325.1009, for all drinking
+28 water certification levels as described under R 325.11901 or R
+29 325.11902 of the Michigan Administrative Code and issued on a
+JJB S04570'25 (H-3) dok28x
+9
+1 single certificate, $95.00.
+2 (4) The failure to pay a required certification examination
+3 fee within 90 days after taking an examination is considered
+4 failure of the examination. The department shall not allow an
+5 individual to take a future examination within the failed
+6 examination program unless he or she the individual pays the prior
+7 fee in full.
+8 (5) The department shall conduct a program for persons or
+9 organizations seeking to offer approved continuing education
+10 courses to be used by certified operators and supervisors when
+11 renewing their certifications under subsection (1), section 4104,
+12 and section 9 of the safe drinking water act, 1976 PA 399, MCL
+13 325.1009. The department may charge continuing education providers
+14 a course application fee and course renewal fee as provided in the
+15 following fee schedule:
+16 (a) An application for approval of a training course, $75.00
+17 for each course.
+18 (b) An application for renewal of an approved training course,
+19 $50.00 for each course.
+20 (6) All fees collected under this section must be deposited in
+21 the operator training and certification fund created in section
+22 3134.
+23 (7) An individual certified as required by subsection (1)
+24 shall file monthly, or at longer intervals as the department may
+25 designate, on forms provided by the department, reports showing the
+26 effectiveness of the treatment or control facility operation and
+27 the quantity and quality of discharged liquid wastes. If an
+28 individual knowingly makes a false statement in a report, the
+29 department may revoke his or her the individual's certificate as an
+JJB S04570'25 (H-3) dok28x
+10
+1 approved treatment facility operator.
+2 (8) This section does not apply to water, gas, or other
+3 material that is injected into a well to facilitate production of
+4 oil or gas or to water derived in association with oil or gas
+5 production and disposed of in a well, if the well is used either to
+6 facilitate production or for disposal purposes and is under permit
+7 by the state supervisor of wells.
+8 Sec. 3118. (1) Except as otherwise provided in this section,
+9 until October 1, 2025, 2029, the department shall collect the
+10 following stormwater discharge fees from persons that apply for or
+11 have been issued stormwater discharge permits:
+12 (a) A 1-time fee of $400.00 for a permit related solely to a
+13 site of construction activity for each permitted site. The fee must
+14 be submitted with the application for an individual permit or for a
+15 certificate of coverage under a general permit. For a permit by
+16 rule, the fee must be submitted by the construction site permittee
+17 with the notice of coverage. A person needing that needs more than
+18 1 permit may submit a single payment for more than 1 permit and
+19 receive appropriate credit. Payment of the fee under this
+20 subdivision or verification of prepayment is a necessary part of a
+21 valid permit application or notice of coverage under a permit by
+22 rule.
+23 (b) An annual fee of $260.00 for a permit related solely to a
+24 stormwater discharge associated with industrial activity or from a
+25 commercial site for which the department determines a permit is
+26 needed.
+27 (c) Except as provided in subdivision (d), (e), or (f), an
+28 annual fee of $500.00 for a permit for a municipal separate storm
+29 sewer system.
+JJB S04570'25 (H-3) dok28x
+11
+1 (d) For a permit for a municipal separate storm sewer system
+2 issued to a city, village, or township, an annual fee determined by
+3 its population in an urbanized area as defined by the United States
+4 Bureau of the Census Bureau and, except as provided in subsection
+5 (11), based on the latest available decennial census, as follows:
+6 (i) For a population of 1,000 people or fewer, $500.00.
+7 (ii) For a population of more than 1,000 people, but fewer than
+8 3,001 people, $1,000.00.
+9 (iii) For a population of more than 3,000 people, but fewer than
+10 10,001 people, $2,000.00.
+11 (iv) For a population of more than 10,000 people, but fewer
+12 than 30,001 people, $3,000.00.
+13 (v) For a population of more than 30,000 people, but fewer
+14 than 50,001 people, $4,000.00.
+15 (vi) For a population of more than 50,000 people, but fewer
+16 than 75,001 people, $5,000.00.
+17 (vii) For a population of more than 75,000 people, but fewer
+18 than 100,001 people, $6,000.00.
+19 (viii) For a population of more than 100,000 people, $7,000.00.
+20 (e) An annual fee of $3,000.00 for a permit for a municipal
+21 separate storm sewer system issued to a county.
+22 (f) For a single municipal separate storm sewer systems permit
+23 authorizing a state or federal agency to operate municipal separate
+24 storm sewer systems in multiple locations statewide, an annual fee
+25 determined pursuant to in accordance with a memorandum of
+26 understanding between that state or federal agency and the
+27 department and based on the projected costs of the department to
+28 administer the permit.
+29 (2) A stormwater discharge permit is not required for a
+JJB S04570'25 (H-3) dok28x
+12
+1 municipality that does not own or operate a separate storm sewer
+2 system. The department shall not collect stormwater discharge fees
+3 under this section from a municipality that does not own or operate
+4 a separate storm sewer system.
+5 (3) Permit fees required under this section are nonrefundable.
+6 (4) A person possessing that possesses a permit not related
+7 solely to a site of construction activity as of January 1 shall be
+8 assessed a fee. The department shall notify those persons of their
+9 the fee assessments by February 1. Payment must be postmarked no
+10 later than March 15. Failure by the department to send a person a
+11 fee assessment notification by the deadline, or failure of a person
+12 to receive a fee assessment notification, does not relieve that
+13 person of the obligation to pay the fee. If the department does not
+14 meet the February deadline for sending the fee assessment, the fee
+15 assessment is due not later than 45 days after the permittee
+16 receives a fee notification.
+17 (5) If a stormwater permit is issued for a drainage district,
+18 the drainage district is responsible for the applicable fee under
+19 this section.
+20 (6) The department shall assess interest on all fee payments
+21 submitted under this section after the due date. The permittee
+22 shall pay an additional amount equal to 0.75% of the payment due
+23 for each month or portion of a month the payment remains past due.
+24 (7) The department shall forward fees and interest payments
+25 collected under this section to the state treasurer for deposit
+26 into the fund.
+27 (8) The department shall require the payment of the fee
+28 assessed under this section as a condition of issuance or
+29 reissuance of a permit not related solely to a site of construction
+JJB S04570'25 (H-3) dok28x
+13
+1 activity.
+2 (9) In addition to any other penalty provided in this part, if
+3 a person fails to pay the fee required under this section by its
+4 the due date, the person is in violation of this part and the
+5 department may undertake enforcement actions as authorized under
+6 this part.
+7 (10) The attorney general may bring an action to collect
+8 overdue fees and interest payments imposed under this section.
+9 (11) If the permit is for a municipal separate storm sewer
+10 system and the population served by that system is different than
+11 that determined by the latest decennial census, the permittee may
+12 appeal the annual fee determination and submit written verification
+13 of actual population served by the municipal separate storm sewer
+14 system.
+15 (12) A person that wishes to appeal either a fee or a penalty
+16 assessed under this section is limited to an administrative appeal
+17 under section 631 of the revised judicature act of 1961, 1961 PA
+18 236, MCL 600.631. The appeal must be filed within not later than 30
+19 days after the department's fee notification under subsection (4).
+20 (13) As used in this section and section 3119:
+21 (a) "Certificate of coverage" means a document issued by the
+22 department that authorizes a discharge under a general permit.
+23 (b) "Clean water act" means the federal water pollution
+24 control act, 33 USC 1251 to 1388.1389.
+25 (c) "Construction activity" means a human-made earth change or
+26 disturbance in the existing cover or topography of land that is 5
+27 acres or more in size, for which a national permit is required
+28 pursuant to under 40 CFR 122.26(a), and which is described as a
+29 construction activity in 40 CFR 122.26(b)(14)(x). Construction
+JJB S04570'25 (H-3) dok28x
+14
+1 activity includes clearing, grading, and excavating activities.
+2 Construction activity does not include the practice of clearing,
+3 plowing, tilling soil, and harvesting for the purpose of crop
+4 production.
+5 (d) "Fee" means a stormwater discharge fee authorized under
+6 this section.
+7 (e) "Fund" means the stormwater storm water fund created in
+8 section 3119.
+9 (f) "General permit" means a permit issued authorizing a
+10 category of similar discharges.
+11 (g) "Individual permit" means a site-specific permit.
+12 (h) "Municipal separate storm sewer system" means all separate
+13 storm sewers that are owned or operated by the United States or a
+14 state, city, village, township, county, district, association, or
+15 other public body created by or pursuant to under state law, having
+16 jurisdiction over disposal of sewage, industrial wastes,
+17 stormwater, or other wastes, including special districts under
+18 state law, such as a sewer district, flood control district, or
+19 drainage district or similar entity, or a designated or approved
+20 management agency under section 208 of the clean water act, 33 USC
+21 1288, that discharges to waters of the state. Municipal separate
+22 storm sewer system includes systems similar to separate storm sewer
+23 systems in municipalities, such as systems at military bases, large
+24 hospital or prison complexes, and highways and other thoroughfares.
+25 Municipal separate storm sewer system does not include separate
+26 storm sewers in very discrete areas, such as individual buildings.
+27 (i) "Notice of coverage" means a notice that a person engaging
+28 in construction activity agrees to comply with a permit by rule for
+29 that activity. A notice of coverage is not required to include a
+JJB S04570'25 (H-3) dok28x
+15
+1 copy of an individual permit issued under part 91 if the notice of
+2 coverage includes a copy of a permit for the construction activity
+3 issued under part 615, 625, 631, 632, or 634, along with any forms
+4 or diagrams pertaining to soil erosion and sedimentation control
+5 that were part of the application for that permit.
+6 (j) "Permit", unless the context implies otherwise, or
+7 "stormwater discharge permit" means a permit authorizing the
+8 discharge of wastewater or any other substance to surface waters of
+9 the state under the national pollutant discharge elimination
+10 system, pursuant to the clean water act or this part and the
+11 regulations or rules promulgated under that the clean water act or
+12 this part.
+13 (k) "Public body" means the United States, this state, a city,
+14 village, township, county, school district, public college or
+15 university, or single purpose governmental agency, or any other
+16 body that is created by federal or state law.
+17 (l) "Separate storm sewer system" means a system of drainage,
+18 including, but not limited to, roads, catch basins, curbs, gutters,
+19 parking lots, ditches, conduits, pumping devices, or man-made
+20 channels, that has the following characteristics:
+21 (i) The system is not a combined sewer where stormwater mixes
+22 with sanitary wastes.
+23 (ii) The system is not part of a publicly owned treatment
+24 works.
+25 (m) "Stormwater" means stormwater runoff, snowmelt runoff, and
+26 surface runoff and drainage.
+27 (n) "Stormwater discharge associated with industrial activity"
+28 means a point source discharge of stormwater from a facility that
+29 is considered to be engaging in industrial activity under 40 CFR
+JJB S04570'25 (H-3) dok28x
+16
+1 122.26(b)(14)(i) to (ix) and (xi).
+2 Sec. 3120. (1) Until October 1, 2025, an 2029, an application
+3 for a new permit, a reissuance of a permit, or a modification of an
+4 existing permit under this part authorizing a discharge into
+5 surface water, other than a storm water discharge, must be
+6 accompanied by an application fee as follows:
+7 (a) For an EPA major facility permit, $750.00.
+8 (b) For an EPA minor facility individual permit, a CSO permit,
+9 or a wastewater stabilization lagoon individual permit, $400.00.
+10 (c) For an EPA minor facility general permit, $75.00.
+11 (2) Within Not later than 180 days after receipt of a complete
+12 application for a new or increased use permit, the department shall
+13 either grant or deny the permit, unless the applicant and the
+14 department agree to extend this time period.
+15 (3) By September 30 of the year following the submittal of a
+16 complete application for reissuance of a permit, the department
+17 shall either grant or deny the permit, unless the applicant and the
+18 department agree to extend this time period.
+19 (4) If the department fails to make a decision on an
+20 application within the applicable time period under subsection (2)
+21 or (3), all of the following apply:
+22 (a) The department shall return to the applicant the
+23 application fee submitted under subsection (1).
+24 (b) The applicant is not subject to an application fee.
+25 (c) The applicant shall receive a 15% annual discount on an
+26 annual permit fee required for a permit issued based on that
+27 application.
+28 (5) Until October 1, 2025, a 2029, a person who that receives
+29 a permit under this part authorizing a discharge into surface
+JJB S04570'25 (H-3) dok28x
+17
+1 water, other than a stormwater discharge, is subject to an annual
+2 permit fee as follows:
+3 (a) For an industrial or commercial facility that is an EPA
+4 major facility, $8,700.00.
+5 (b) For an industrial or commercial facility that is an EPA
+6 minor facility, the following amount:
+7 (i) For a general permit for a low-flow facility, $150.00.
+8 (ii) For a general permit for a high-flow facility, $400.00.
+9 (iii) For an individual permit for a low-flow facility,
+10 $1,650.00.
+11 (iv) For an individual permit for a high-flow facility,
+12 $3,650.00.
+13 (c) For a municipal facility that is an EPA major facility,
+14 the following amount:
+15 (i) For an individual permit for a facility discharging 500 MGD
+16 or more, $213,000.00.
+17 (ii) For an individual permit for a facility discharging 50 MGD
+18 or more but less than 500 MGD, $20,000.00.
+19 (iii) For an individual permit for a facility discharging 10 MGD
+20 or more but less than 50 MGD, $13,000.00.
+21 (iv) For an individual permit for a facility discharging less
+22 than 10 MGD, $5,500.00.
+23 (d) For a municipal facility that is an EPA minor facility,
+24 the following amount:
+25 (i) For an individual permit for a facility discharging 10 MGD
+26 or more, $3,775.00.
+27 (ii) For an individual permit for a facility discharging 1 MGD
+28 or more but less than 10 MGD, $3,000.00.
+29 (iii) For an individual permit for a facility discharging less
+JJB S04570'25 (H-3) dok28x
+18
+1 than 1 MGD, $1,950.00.
+2 (iv) For a general permit for a high-flow facility, $600.00.
+3 (v) For a general permit for a low-flow facility, $400.00.
+4 (e) For a municipal facility that is a CSO facility,
+5 $6,000.00.
+6 (f) For an individual permit for a wastewater stabilization
+7 lagoon, $1,525.00.
+8 (g) For an individual or general permit for an agricultural
+9 purpose, $600.00, unless either of the following applies:
+10 (i) The facility is an EPA minor facility and would qualify for
+11 a general permit for a low-flow facility, in which case the fee is
+12 $150.00.
+13 (ii) The facility is an EPA major facility that is not a
+14 farmers' cooperative corporation, in which case the fee is
+15 $8,700.00.
+16 (h) For a facility that holds a permit issued under this part
+17 but has no discharge and is connected to and is authorized to
+18 discharge only to a municipal wastewater treatment system, an
+19 annual permit maintenance fee of $100.00. However, if a facility
+20 does have a discharge or at some time is no longer connected to a
+21 municipal wastewater treatment system, the annual permit fee must
+22 be the appropriate fee as otherwise provided in this subsection.
+23 (6) If the person required to pay an application fee under
+24 subsection (1) or an annual permit fee under subsection (5) is a
+25 municipality, the municipality may pass on the application fee or
+26 the annual permit fee, or both, to each user of the municipal
+27 facility.
+28 (7) The department shall send invoices for annual permit fees
+29 under subsection (5) to all permit holders by December 1 of each
+JJB S04570'25 (H-3) dok28x
+19
+1 year. A fee must be based on the status of the facility as of
+2 October 1 of that year. A person subject to an annual permit fee
+3 shall pay the fee not later than January 15 of each year. Failure
+4 by the department to send a person an invoice by December 1, or
+5 failure of a person to receive an invoice, does not relieve that
+6 person of the obligation to pay the annual permit fee. If the
+7 department does not send invoices by December 1, the annual permit
+8 fee is due not later than 45 days after the permittee receives an
+9 invoice. The department shall forward annual permit fees received
+10 under this section to the state treasurer for deposit into the
+11 national pollutant discharge elimination system fund created in
+12 section 3121.
+13 (8) The department shall assess a penalty on all annual permit
+14 fee payments submitted under this section after the due date. The
+15 penalty is 0.75% of the payment due for each month or portion of a
+16 month the payment remains past due.
+17 (9) Following payment of an annual permit fee, if a permittee
+18 wishes to challenge its annual permit fee under this section, the
+19 owner or operator shall submit the challenge in writing to the
+20 department. The department shall not process the challenge unless
+21 it is received by the department by March 1 of the year the payment
+22 is due. A challenge must identify the facility and state the
+23 grounds upon on which the challenge is based. Within Not later than
+24 30 calendar days after receipt of the challenge, the department
+25 shall determine the validity of the challenge and provide the
+26 permittee with notification of a revised annual permit fee and a
+27 refund, if appropriate, or a statement setting forth the reason or
+28 reasons why the annual permit fee was not revised. If the owner or
+29 operator of a facility desires to further challenge its annual
+JJB S04570'25 (H-3) dok28x
+20
+1 permit fee, the owner or operator of the facility has an
+2 opportunity for a contested case hearing as provided for under the
+3 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+4 24.328.
+5 (10) The attorney general may bring an action for the
+6 collection of the annual permit fee imposed under this section.
+7 (11) As used in this section:
+8 (a) "Agricultural purpose" means the agricultural production
+9 or processing of those plants and animals useful to human beings
+10 produced by agriculture and includes, but is not limited to,
+11 forages and sod crops, grains and feed crops, field crops, dairy
+12 animals and dairy products, poultry and poultry products, cervidae,
+13 livestock, including breeding and grazing, equine, fish and other
+14 aquacultural products, bees and bee products, berries, herbs,
+15 fruits, vegetables, flowers, seeds, grasses, nursery stock, trees
+16 and tree products, mushrooms, and other similar products, or any
+17 other product, as determined by the commission of agriculture and
+18 rural development, that incorporates the use of food, feed, fiber,
+19 or fur. Agricultural purpose includes an operation or facility that
+20 produces wine.
+21 (b) "Combined sewer overflow" means a discharge from a
+22 combined sewer system that occurs when the flow capacity of the
+23 combined sewer system is exceeded at a point before the headworks
+24 of a publicly owned treatment works during wet weather conditions.
+25 (c) "Combined sewer system" means a sewer designed and used to
+26 convey both storm water runoff and sanitary sewage, and that
+27 contains lawfully installed regulators and control devices that
+28 allow for delivery of sanitary flow to treatment during dry weather
+29 periods and divert stormwater and sanitary sewage to surface waters
+JJB S04570'25 (H-3) dok28x
+21
+1 during storm flow periods.
+2 (d) "CSO facility" means a facility whose discharge is solely
+3 a combined sewer overflow.
+4 (e) "EPA major facility" means a major facility as that term
+5 is defined in 40 CFR 122.2.
+6 (f) "EPA minor facility" means a facility that is not an EPA
+7 major facility.
+8 (g) "Farmers' cooperative corporation" means a farmers'
+9 cooperative corporation organized within the limitations of section
+10 98 of 1931 PA 327, MCL 450.98.
+11 (h) "General permit" means a permit suitable for use at
+12 facilities meeting eligibility criteria as specified in the permit.
+13 With a general permit, the discharge from a specific facility is
+14 acknowledged through a certificate of coverage issued to the
+15 facility.
+16 (i) "High-flow facility" means a facility that discharges 1
+17 MGD or more.
+18 (j) "Individual permit" means a permit developed for a
+19 particular facility, taking into account that facility's specific
+20 characteristics.
+21 (k) "Industrial or commercial facility" means a facility that
+22 is not a municipal facility.
+23 (l) "Low-flow facility" means a facility that discharges less
+24 than 1 MGD.
+25 (m) "MGD" means 1,000,000 gallons per day.
+26 (n) "Municipal facility" means a facility that is designed to
+27 collect or treat sanitary wastewater, is either publicly or
+28 privately owned, and serves a residential area or a group of
+29 municipalities.
+JJB S04570'25 (H-3) dok28x
+22
+1 (o) "Wastewater stabilization lagoon" means a treatment system
+2 constructed of ponds or basins designed to receive, hold, and treat
+3 sanitary wastewater for a predetermined amount of time through a
+4 combination of physical, biological, and chemical processes.
+5 Sec. 4104. (1) The department may promulgate and enforce rules
+6 that the department considers necessary governing to govern and
+7 providing provide for a method of conducting and operating all or a
+8 part of sewerage systems including sewage treatment works. The
+9 department shall classify sewage treatment works with regard to
+10 size, type, location, and other physical conditions affecting those
+11 works and according to the skill, knowledge, experience, and
+12 character that the individual who is in charge of the active
+13 operation of the sewage treatment works must possess to
+14 successfully operate the works and prevent the discharge of
+15 deleterious matter capable of being injurious to the public health
+16 or other public interests. The department shall examine or provide
+17 for the examination of individuals as to their the qualifications
+18 to operate sewage treatment works. The department shall promulgate
+19 rules regarding the classification of sewage treatment works, the
+20 examinations for certification of operators for those works, and
+21 the issuance and revocation of certificates, and shall issue and
+22 revoke certificates as provided in those by the rules. Every sewage
+23 treatment works subject to this part must be under the supervision
+24 of a properly certified operator, except that this section does not
+25 require the employment of a certified operator in a waste treatment
+26 works that receives only wastes that are not potentially
+27 prejudicial to the public health.
+28 (2) As provided in section 3110, the department may conduct a
+29 program for training individuals seeking who seek to be certified
+JJB S04570'25 (H-3) dok28x
+23
+1 as operators under subsection (1) and shall administer operator
+2 certification programs for individuals seeking who seek to be
+3 certified as operators under subsection (1). Until October 1, 2025,
+4 the 2029, the department may charge fees for these programs as
+5 provided in section 3110. The department shall transmit fees
+6 collected under this section to the state treasurer for deposit
+7 into the operator training and certification fund created in
+8 section 3134.
+9 Sec. 11153. (1) A generator, transporter, or treatment,
+10 storage, or disposal facility shall obtain and utilize a site
+11 identification number assigned by the United States Environmental
+12 Protection Agency or the department. Until October 1, 2025, the
+13 2029, the department shall assess a site identification number user
+14 charge of $50.00 for each site identification number it the
+15 department issues. The department shall not issue a site
+16 identification number under this subsection unless the site
+17 identification number user charge and the tax identification number
+18 for the person applying for the site identification number have
+19 been are received by the department.
+20 (2) Until October 1, 2025, the 2029, the department shall
+21 annually assess hazardous waste management program user charges as
+22 follows:
+23 (a) A generator shall pay a handler user charge that is the
+24 highest of the following applicable fees:
+25 (i) A generator that generates more than 100 kilograms but less
+26 than 1,000 kilograms of hazardous waste in any month during the
+27 calendar year shall pay to the department an annual handler user
+28 charge of $100.00.
+29 (ii) A generator that generates 1,000 kilograms or more of
+JJB S04570'25 (H-3) dok28x
+24
+1 hazardous waste in any month during the calendar year and that
+2 generates less than 900,000 kilograms during the calendar year
+3 shall pay to the department an annual handler user charge of
+4 $400.00.
+5 (iii) A generator that generates 1,000 kilograms or more of
+6 hazardous waste in any month during the calendar year and that
+7 generates 900,000 kilograms or more of hazardous waste during the
+8 calendar year shall pay to the department an annual handler user
+9 charge of $1,000.00.
+10 (b) An owner or operator of a treatment, storage, or disposal
+11 facility for which an operating license is required under section
+12 11123 or for which an operating license is issued under section
+13 11125 shall pay to the department an annual handler user charge of
+14 $2,000.00.
+15 (c) A used oil processor or rerefiner, a used oil burner, or a
+16 used oil fuel marketer as defined in the rules promulgated under
+17 this part shall pay to the department an annual handler user charge
+18 of $100.00.
+19 (3) A handler shall pay the handler user charge specified in
+20 subsection (2)(a) to (c) (2) for each of the activities conducted
+21 during the previous calendar year.
+22 (4) Handler user charges must be paid using a form provided by
+23 the department. The handler shall certify that the information on
+24 the form is accurate. The department shall send forms to the
+25 handlers by not later than March 30 of each year. A handler shall
+26 return the completed forms and the appropriate payment to the
+27 department by not later than April 30 of each year.
+28 (5) A handler that fails to provide timely and accurate
+29 information, a complete form, or the appropriate handler user
+JJB S04570'25 (H-3) dok28x
+25
+1 charge is in violation of this part and is subject to both of the
+2 following:
+3 (a) Payment of the handler user charge and an administrative
+4 fine of 5% of the amount owed for each month that the payment is
+5 delinquent. Any payments received after the fifteenth of the month
+6 after the due date are delinquent for that month. However, the
+7 administrative fine must not exceed 25% of the total amount owed.
+8 (b) Beginning 5 months after the date payment of the handler
+9 user charge is due, if the amount owed under subdivision (a) is not
+10 paid in full, at the request of the department, an action by the
+11 attorney general for the collection of the amount owed under
+12 subdivision (a) and the actual cost to the department in attempting
+13 to collect the amount owed under subdivision (a).
+14 (6) The department shall maintain information regarding the
+15 site identification number user charges and the handler user
+16 charges collected under this section as necessary to satisfy the
+17 reporting requirements of subsection (8).
+18 (7) The site identification number user charges and the
+19 handler user charges collected under this section and any amounts
+20 collected under subsection (5) for a violation of this section must
+21 be forwarded to the state treasurer and deposited in the
+22 environmental pollution prevention fund created in section 11130.
+23 (8) The department shall evaluate the effectiveness and
+24 adequacy of the site identification number user charges and the
+25 handler user charges collected under this section relative to the
+26 overall revenue needs of the hazardous waste management program
+27 administered under this part. Not later than April 1 of each even-
+28 numbered year, the department shall submit to the legislature a
+29 report summarizing the department's findings under this subsection.
+JJB S04570'25 (H-3) dok28x
+26
+1 (9) As used in this section:
+2 (a) "Handler" means the person required to pay the handler
+3 user charge.
+4 (b) "Handler user charge" means an annual hazardous waste
+5 management program user charge provided for in subsection (2).
+6
+7 Sec. 30104. (1) A person shall not undertake a project subject
+8 to this part except as authorized by a permit issued by the
+9 department pursuant to under part 13. An application for a permit
+10 must include any information that may be required by the
+11 department. If a project includes activities at multiple locations,
+12 1 application may be filed for the combined activities.
+13 (2) Except as provided in subsections (3) and (4), until
+14 October 1, 2025, 2029, an application for a permit must be
+15 accompanied by an application fee based on an administrative cost
+16 in accordance with the following schedule:
+17 (a) For an initial permit for a seasonal drawdown or
+18 associated reflooding, or both, of a dam or impoundment for the
+19 purpose of weed control that is issued for the first time after
+20 October 9, 1995, a fee of $500.00, but for subsequent permits for
+21 the same purpose a fee of $50.00.
+22 (b) For activities included in a minor project category
+23 established under section 30105(7), a fee of $100.00.
+24 (c) For activities included in a general permit category
+25 established under section 30105(8), a fee of $50.00.
+26 (d) For construction or expansion of a marina, a fee as
+27 follows:
+28 (i) $50.00 for an expansion of 1-10 marina slips to an existing
+29 permitted marina.
+JJB S04570'25 (H-3) dok28x
+27
+1 (ii) $100.00 for a new marina with 1-10 proposed marina slips.
+2 (iii) $250.00 for an expansion of 11-50 marina slips to an
+3 existing permitted marina, plus $10.00 for each marina slip over
+4 50.
+5 (iv) $500.00 for a new marina with 11-50 proposed marina slips,
+6 plus $10.00 for each marina slip over 50.
+7 (v) $1,500.00 if an existing permitted marina proposes
+8 maintenance dredging of 10,000 cubic yards or more, unless the
+9 dredge material is determined through testing to be 90% or more
+10 sand, or the addition of seawalls, bulkheads, or revetments of 500
+11 feet or more.
+12 (e) For major projects other than a project described in
+13 subdivision (d)(v), involving any of the following, a fee of
+14 $2,000.00:
+15 (i) Dredging of 10,000 cubic yards or more, unless the dredge
+16 material is determined through testing to be 90% or more sand.
+17 (ii) Filling of 10,000 cubic yards or more.
+18 (iii) Seawalls, bulkheads, or revetments of 500 feet or more.
+19 (iv) Filling or draining of 1 acre or more of wetland
+20 contiguous to a lake or stream.
+21 (v) New dredging or upland boat basin excavation in areas of
+22 suspected contamination.
+23 (vi) Shore projections, such as groins and underwater
+24 stabilizers, that extend 150 feet or more into a lake or stream.
+25 (vii) New commercial docks or wharves of 300 feet or more in
+26 length.
+27 (viii) Stream enclosures 100 feet or more in length.
+28 (ix) Stream relocations 500 feet or more in length.
+JJB S04570'25 (H-3) dok28x
+28
+1 (x) New golf courses.
+2 (xi) Subdivisions.
+3 (xii) Condominiums.
+4 (f) For the removal of submerged logs from bottomland of an
+5 inland lake, a $500.00 fee.
+6 (g) For all other projects not listed in subdivisions (a) to
+7 (f), a fee of $500.00.
+8 (3) A project that requires review and approval under this
+9 part and 1 or more of the following acts or parts of acts is
+10 subject to only the single highest fee required under this part or
+11 the following acts or parts of acts:
+12 (a) Section 3104.
+13 (b) Part 303.
+14 (c) Part 323.
+15 (d) Part 325.
+16 (e) Section 117 of the land division act, 1967 PA 288, MCL
+17 560.117.
+18 (4) If work has been done in violation of a permit requirement
+19 under this part and restoration is not ordered by the department,
+20 the department may accept an application for a permit if the
+21 application is accompanied by a fee equal to 2 times the permit fee
+22 required under this section.
+23 (5) If the department denies an application for a permit under
+24 this part, the department shall promptly refund the application fee
+25 paid under this section.
+26 Sec. 30109. Upon the written request of a riparian owner and
+27 upon payment of a service fee, the department may enter into a
+28 written agreement with the riparian owner establishing the location
+29 of the ordinary high-water mark for his or her the riparian owner's
+JJB S04570'25 (H-3) dok28x
+29
+1 property. In the absence of substantially changed conditions, the
+2 agreement is conclusive proof of the location in all matters
+3 between this state and the riparian owner and his or her the
+4 riparian owner's successors in interest. Until October 1, 2025, the
+5 2029, the service fee provided for in this section is $500.00. The
+6 department shall forward service fees collected under this section
+7 to the state treasurer for deposit into the fund.
+8 Sec. 32312. (1) To regulate the uses and development of high-
+9 risk areas, flood risk areas, and environmental areas and to
+10 implement the purposes of this part, the department shall
+11 promulgate rules in accordance with the administrative procedures
+12 act of 1969, 1969 PA 306, MCL 24.201 to 24.328. If permits are
+13 required under rules promulgated under this part, the permits must
+14 be issued pursuant to in accordance with the rules and part 13.
+15 Except as provided under subsection (2), until October 1, 2025,
+16 2029, if permits are required pursuant to under the rules
+17 promulgated under this part, an application for a permit must be
+18 accompanied by a fee as follows:
+19 (a) For a commercial or multifamily residential project,
+20 $500.00.
+21 (b) For a single-family home construction, $100.00.
+22 (c) For an addition to an existing single-family home or for a
+23 project that has a minor impact on fish and wildlife resources in
+24 environmental areas as determined by the department, $50.00.
+25 (2) A project that requires review and approval under this
+26 part and under 1 or more of the following is subject to only the
+27 single highest permit fee required under this part or the
+28 following:
+29 (a) Part 301.
+JJB S04570'25 (H-3) dok28x
+30
+1 (b) Part 303.
+2 (c) Part 325.
+3 (d) Section 3104.
+4 (e) Section 117 of the land division act, 1967 PA 288, MCL
+5 560.117.
+6 (3) The department shall forward fees collected under this
+7 section to the state treasurer for deposit in the land and water
+8 management permit fee fund created in section 30113.
+9 (4) A circuit court, upon petition and a showing by the
+10 department that a rule promulgated under subsection (1) has been
+11 violated, shall issue any necessary order to the defendant to
+12 correct the violation or to restrain the defendant from further
+13 violation of the rule.
+14 Sec. 32513. (1) To obtain a permit for any activity specified
+15 in section 32512, a person shall file an application with the
+16 department on a form provided by the department. The application
+17 must include all of the following:
+18 (a) The name and address of the applicant.
+19 (b) The legal description of the lands included in the
+20 project.
+21 (c) A summary statement of the purpose of the project.
+22 (d) A map or diagram showing the proposal on an adequate scale
+23 with contours and cross-section profiles of any waterway to be
+24 constructed.
+25 (e) Other information required by the department.
+26 (2) Except as provided in subsections (3) and (4), until
+27 October 1, 2025, 2029, an application for a permit under this
+28 section must be accompanied by the following fee, as applicable:
+29 (a) For a project in a category of activities for which a
+JJB S04570'25 (H-3) dok28x
+31
+1 general permit is issued under section 32512a(2), a fee of $50.00.
+2 (b) For activities included in a minor project category
+3 established under section 32512a(1), a fee of $100.00.
+4 (c) For construction or expansion of a marina, a fee of:
+5 (i) $50.00 for an expansion of 1-10 marina slips to an existing
+6 permitted marina.
+7 (ii) $100.00 for a new marina with 1-10 proposed marina slips.
+8 (iii) $250.00 for an expansion of 11-50 marina slips to an
+9 existing permitted marina, plus $10.00 for each marina slip over
+10 50.
+11 (iv) $500.00 for a new marina with 11-50 proposed marina slips,
+12 plus $10.00 for each marina slip over 50.
+13 (v) $1,500.00 if an existing permitted marina proposes
+14 maintenance dredging of 10,000 cubic yards or more, unless the
+15 dredge material is determined through testing to be 90% or more
+16 sand, or the addition of seawalls, bulkheads, or revetments of 500
+17 feet or more.
+18 (d) For major projects other than a project described in
+19 subdivision (c)(v), involving any of the following, a fee of
+20 $2,000.00:
+21 (i) Dredging of 10,000 cubic yards or more, unless the dredge
+22 material is determined through testing to be 90% or more sand.
+23 (ii) Filling of 10,000 cubic yards or more.
+24 (iii) Seawalls, bulkheads, or revetment of 500 feet or more.
+25 (iv) Filling or draining of 1 acre or more of coastal wetland.
+26 (v) New dredging or upland boat basin excavation in areas of
+27 suspected contamination.
+28 (vi) New breakwater or channel jetty.
+JJB S04570'25 (H-3) dok28x
+32
+1 (vii) Shore protection, such as groins and underwater
+2 stabilizers, that extend 150 feet or more on Great Lakes
+3 bottomlands.
+4 (viii) New commercial dock or wharf of 300 feet or more in
+5 length.
+6 (e) For all other projects not listed in subdivisions (a) to
+7 (d), $500.00.
+8 (3) A project that requires review and approval under this
+9 part and 1 or more of the following is subject to only the single
+10 highest permit fee required under this part or the following:
+11 (a) Section 3104.
+12 (b) Part 301.
+13 (c) Part 303.
+14 (d) Part 323.
+15 (e) Section 117 of the land division act, 1967 PA 288, MCL
+16 560.117.
+17 (4) If work is done in violation of a permit requirement under
+18 this part and restoration is not ordered by the department, the
+19 department may accept an application for a permit if the
+20 application is accompanied by a fee equal to 2 times the permit fee
+21 otherwise required under this section.
+22 (5) The department shall forward fees collected under this
+23 section to the state treasurer for deposit into the land and water
+24 management permit fee fund created in section 30113.
+Final Page
+JJB S04570'25 (H-3) dok28x
+[DELETED:   S d S t u r c d]
+[DELETED:   S d s n s f f u m c t t 1. ( o f a a a t p L t t t i ( l i i p]
+[DELETED:   S d p d d o f. ( b a r i m c ( O a b t r o a d ( h a s i c o g c]
+[DELETED:   S d e a f b ( p w s i c c e a f b ( m s ( p p d t e c ( p f m t (]
+[DELETED:   S d r d f t ( s m ( p h ( ( ( ( ( 5 S t w t w s d d s c i f (]
+[DELETED:   S d i t s s 1 d c f f ( p t o s 3 w o d d b O d c a ( f () e M () d A () e]
+[DELETED:   S d d A () d A ( f () e M () d A () d A () d A ( d f () F M () D M ()]
+[DELETED:   S d o A () d A () d A () u ( f () s $ () u C () o A ( m 2 c ( d w 3]
+[DELETED:   S d s ( f f i e p f ( o c r a 3 a f ( f ( $ ( t 3 ( s d e t i d c]
+[DELETED:   S d a ( m o p f b S u t f h ( s b c r w m 1 r s v r ( s c n ( a s]
+[DELETED:   S d ( i i B a ( () () 3 () 1 () t () t () t () t () ( s ( a s d a u d a (]
+[DELETED:   S d m s u a ( ( a s a f l f t p m a r ( t t ( s s f ( c i ( a r]
+[DELETED:   S d a ( a d d t ( o ( s t a o s ( a u 2 3 d ( ( d ( c. ( d a p 4 c]
+[DELETED:   S d a C p p ( t ( f s ( c ( ( s s o s j s s d m 1 s s h M s ( i t]
+[DELETED:   S d c c i o t ( " d t s r a t ( v u b () i p c () w () w ( s ( m i]
+[DELETED:   S d 1 S a f e s a ( ( o ( ( 1 a e d ( c s d ( a o ( a ( ( a a ( p r t a]
+[DELETED:   S d w p ( m ( m () () () $ () $ ( t () o () o () o () t ( t () o () o ()]
+[DELETED:   S d t () () ( $ ( l ( p () a $ () f $ ( b d a d m b ( s m t f ( u]
+[DELETED:   S d y O s b f p d f i u n s ( f p m ( w o d i i g w N 3 s p r r o]
+[DELETED:   S d p o a 2 ( c ( ( o p f a l a f a o r o p ( c c o ( c c a p]
+[DELETED:   S d d ( a ( d ( m ( c 9 ( f W a f ( M ( p c ( i () t ( ( c p m]
+[DELETED:   S d ( c s c S t a p a p d s w c o s d o f q t r e t r r t o r w p ( p t]
+[DELETED:   S d a c t c t d p c i s S s i P d c i i i f b r ( d a f ( h () t c c ()]
+[DELETED:   S d h g s $ () h g c c ( f 1 1 $ ( u t o ( s f d ( t t h M r d A ( i]
+[DELETED:   S d c f ( f d a a ( u p a s t ( s c r ( h c b e ( a h o a n r]
+[DELETED:   S d ( ( u ( m   S t d p m d 1 ( O a a i ( a p O t ( e ( e ( f () p]
+[DELETED:   S d () () e 5 () p () m d s f ( s() $ () m () () () c () s () s () l () ()]
+[DELETED:   S d () () () ( i ( ( ( p s t ( ( ( ( ( 5 ( u t a r ( t p S u w o]
+[DELETED:   S d p a b s s d t. S r i p . r b t E u i r p a ( $ ( ( p e ( p s f (]
+[DELETED:   S d ( ( ( ( 5 ( s m ( d v c v S i d m ( ( p ( ( w c ( ( O a s (]
+[DELETED:   S d g ( e ( () p () () e 5 () p () m d s f ( s() $ () m () () () () s ()]
+[DELETED:   S d () s b () l ( ( ( p h ( ( ( ( ( 5 ( t d a o ( s m]
+
+
+================================================================================
+
+Raw Text:
+HOUSE SUBSTITUTE FOR
+SENATE BILL NO. 579
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 3104, 3110, 3118, 3120, 4104, 11153, 30104,
+30109, 32312, and 32513 (MCL 324.3104, 324.3110, 324.3118,
+324.3120, 324.4104, 324.11153, 324.30104, 324.30109, 324.32312, and
+324.32513), as amended by 2021 PA 91.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3104. (1) The department is designated the state agency
+2 to cooperate and negotiate with other governments, governmental
+3 units, and governmental agencies in matters concerning the water
+4 resources of this state, including, but not limited to, flood
+5 control, beach erosion control, water quality control planning,
+6 development, and management, and the control of aquatic nuisance
+JJB S04570'25 (H-3) dok28x
+
+2
+1 species. The department shall have control over the alterations of
+2 natural or present watercourses of all rivers and streams in this
+3 state to ensure that the channels and the portions of the
+4 floodplains that are the floodways are not inhabited and are kept
+5 free and clear of interference or obstruction that will cause any
+6 undue restriction of the capacity of the floodway. The department
+7 may take steps as may be necessary to take advantage of any act of
+8 congress that may be of assistance in carrying out the purposes of
+9 this part, including the water resources planning act, 42 USC 1962
+10 to 1962d-3, and the federal water pollution control act, 33 USC
+11 1251 to 1388.1389.
+12 (2) To address discharges of aquatic nuisance species from
+13 oceangoing vessels that damage water quality, aquatic habitat, or
+14 fish or wildlife, the department shall facilitate the formation of
+15 a Great Lakes aquatic nuisance species coalition. The Great Lakes
+16 aquatic nuisance species coalition must be formed through an
+17 agreement entered into with other states in the Great Lakes basin
+18 to implement on a basin-wide basis water pollution laws that
+19 prohibit the discharge of aquatic nuisance species into the Great
+20 Lakes from oceangoing vessels. Upon entering into the agreement,
+21 the department shall notify the Canadian Great Lakes provinces of
+22 the terms of the agreement. The department shall seek funding from
+23 the Great Lakes protection fund authorized under part 331 to
+24 implement the Great Lakes aquatic nuisance species coalition.
+25 (3) The department shall report to the governor and the
+26 legislature at least annually on any plans or projects being
+27 implemented or considered for implementation. The report must
+28 include requests for legislation needed to implement any proposed
+29 projects or agreements made necessary as a result of a plan or
+JJB S04570'25 (H-3) dok28x
+
+3
+1 project, together with any requests for appropriations. The
+2 department may make recommendations to the governor on the
+3 designation of areawide water quality planning regions and
+4 organizations relative to the governor's responsibilities under the
+5 federal water pollution control act, 33 USC 1251 to 1388.1389.
+6 (4) A person shall not alter a floodplain except as authorized
+7 by a floodplain permit issued by the department under part 13. An
+8 application for a floodplain permit must include information
+9 required by the department to assess the proposed alteration's
+10 impact on the floodplain. If an alteration includes activities at
+11 multiple locations in a floodplain, 1 application may be filed for
+12 combined activities.
+13 (5) Except as otherwise provided in this section, until
+14 October 1, 2025, 2029, an application for a floodplain permit must
+15 be accompanied by a fee of $500.00. Until October 1, 2025, if 2029,
+16 if the department determines that engineering computations are
+17 required to assess the impact of a proposed floodplain alteration
+18 on flood stage or discharge characteristics, the department shall
+19 assess the applicant an additional $1,500.00 to cover the
+20 department's cost of review.
+21 (6) After providing notice and an opportunity for a public
+22 hearing, the department shall establish minor project categories of
+23 activities within floodplains and floodplain projects that are
+24 similar in nature, have minimal potential for causing harmful
+25 interference when performed separately, and will have only minimal
+26 cumulative adverse effects on the environment. All other provisions
+27 of this part, except provisions applicable only to floodplain
+28 general permits, are applicable to a minor project. A minor project
+29 category must not be valid for more than 5 years, but may be re-
+JJB S04570'25 (H-3) dok28x
+
+4
+1 established. Until October 1, 2025, an 2029, an application for a
+2 floodplain permit for a minor project category must be accompanied
+3 by a fee of $100.00.
+4 (7) The department, after notice and an opportunity for a
+5 public hearing, shall issue general permits on a statewide basis or
+6 within a local unit of government for floodplain projects that are
+7 similar in nature, have minimal potential for causing harmful
+8 interference when performed separately, and will have only minimal
+9 cumulative adverse effects on the environment. A general permit
+10 category must not be valid for more than 5 years, but may be re-
+11 established. Until October 1, 2025, an 2029, an application for a
+12 floodplain permit for a general permit category must be accompanied
+13 by a fee of $50.00.
+14 (8) By December 31, 2019, the department shall propose new
+15 minor project and general project categories as authorized under
+16 subsections (6) and (7).
+17 (9) The department may issue, deny, or impose conditions on
+18 project activities authorized under a floodplain permit for a minor
+19 project category or a general permit category if the conditions are
+20 designed to remove an impairment to a river and its floodplain, or
+21 to mitigate the effects of the project. The department may also
+22 establish a reasonable time when the proposed project is to be
+23 completed or terminated.
+24 (10) If the department determines that activity in a proposed
+25 project, although within a floodplain minor project category or a
+26 floodplain general permit category, is likely to cause more than
+27 minimal adverse environmental effects, the department may require
+28 that the application be processed according to subsection (5).
+29 (11) If work has been done in violation of a permit
+JJB S04570'25 (H-3) dok28x
+
+5
+1 requirement under this part and restoration is not ordered by the
+2 department, the department may accept an application for a permit
+3 for that work if the application is accompanied by a fee equal to 2
+4 times the permit fee otherwise required under this section.
+5 (12) The department shall forward fees collected under this
+6 section to the state treasurer for deposit in the land and water
+7 management permit fee fund created in section 30113.
+8 (13) A project that requires review and approval under this
+9 part and 1 or more of the following is subject to only the single
+10 highest permit fee required under this part or the following:
+11 (a) Part 301.
+12 (b) Part 303.
+13 (c) Part 323.
+14 (d) Part 325.
+15 (e) Section 117 of the land division act, 1967 PA 288, MCL
+16 560.117.
+17 Sec. 3110. (1) Each industrial or commercial entity, other
+18 than a concentrated animal feed operation, that discharges liquid
+19 wastes into any surface water or groundwater or underground or on
+20 the ground other than through a public sanitary sewer shall have
+21 waste treatment or control facilities under the specific
+22 supervision and control of individuals who are certified by the
+23 department as properly qualified to operate the facilities. The
+24 department shall examine all supervisory personnel having
+25 supervision and control of the facilities, other than a
+26 concentrated animal feed operation, and certify that the
+27 individuals are properly qualified to operate or supervise the
+28 facilities.
+29 (2) The department may conduct a program for training
+JJB S04570'25 (H-3) dok28x
+
+6
+1 individuals seeking who seek to be certified as operators or
+2 supervisors under subsection (1), section 4104, or section 9 of the
+3 safe drinking water act, 1976 PA 399, MCL 325.1009. Until October
+4 1, 2025, the 2029, the department may charge a fee based on the
+5 costs to the department of operating this training program. The
+6 fees must be deposited into the operator training and certification
+7 fund created in section 3134.
+8 (3) The department shall administer certification operator
+9 programs for individuals seeking who seek to be certified as
+10 operators or supervisors under subsection (1), section 4104, or
+11 section 9 of the safe drinking water act, 1976 PA 399, MCL
+12 325.1009. An individual that who wishes to become certified as an
+13 operator or a supervisor shall submit an application to the
+14 department that contains the information required by the
+15 department. Information submitted as part of the application must
+16 be considered part of the examination for certification. Until
+17 October 1, 2025, the 2029, the department may charge a
+18 certification examination fee and a certification renewal fee in
+19 accordance with the following fee schedule:
+20 (a) For certification examinations under subsection (1), the
+21 following fees apply:
+22 (i) Industrial wastewater certification level 1 or 2
+23 examination as described under subrule (2) of R 323.1253 of the
+24 Michigan Administrative Code, $35.00.
+25 (ii) Industrial wastewater certification level 3 examination as
+26 described under subrule (2) of R 323.1253 of the Michigan
+27 Administrative Code, $40.00.
+28 (iii) Industrial wastewater special classification A-1a
+29 examination or noncontact cooling water A-1h examination as
+JJB S04570'25 (H-3) dok28x
+
+7
+1 described under subrule (2) of R 323.1253 of the Michigan
+2 Administrative Code, $30.00.
+3 (iv) Stormwater industrial certification A-1i examination as
+4 described under subrule (2) of R 323.1253 of the Michigan
+5 Administrative Code, $30.00.
+6 (b) For certification examinations under section 4104, the
+7 following fees apply:
+8 (i) Municipal wastewater certification level A, B, C, or D
+9 examination as described under subrule (1) of R 299.2911 of the
+10 Michigan Administrative Code, $70.00.
+11 (ii) Municipal wastewater certification level L2 examination as
+12 described under subrule (3)(a) of R 299.2911 of the Michigan
+13 Administrative Code, $45.00.
+14 (iii) Municipal wastewater certification level L1 examination as
+15 described under subrule (3)(b) of R 299.2911 of the Michigan
+16 Administrative Code, $45.00.
+17 (iv) Municipal wastewater certification level SC examination as
+18 described under subrule (4) of R 299.2911 of the Michigan
+19 Administrative Code, $45.00.
+20 (c) For certification examinations under section 9 of the safe
+21 drinking water act, 1976 PA 399, MCL 325.1009, for operators of the
+22 following systems, the following fees apply:
+23 (i) Drinking water complete treatment system classes F-1, F-2,
+24 F-3, or F-4 as described under subrule (1) of R 325.11901 of the
+25 Michigan Administrative Code, $70.00.
+26 (ii) Drinking water limited treatment system classes D-1, D-2,
+27 D-3, or D-4 as described under subrule (2) of R 325.11901 of the
+28 Michigan Administrative Code, $70.00.
+29 (iii) Drinking water distribution system classes S-1, S-2, S-3,
+JJB S04570'25 (H-3) dok28x
+
+8
+1 or S-4 as described under R 325.11902 of the Michigan
+2 Administrative Code, $70.00.
+3 (iv) Drinking water complete treatment system class F-5 as
+4 described under subrule (1) of R 325.11901 of the Michigan
+5 Administrative Code, $45.00.
+6 (v) Drinking water limited treatment system class D-5 as
+7 described under subrule (2) of R 325.11901 of the Michigan
+8 Administrative Code, $45.00.
+9 (vi) Drinking water distribution system class S-5 as described
+10 under R 325.11902 of the Michigan Administrative Code, $45.00.
+11 (d) For certification renewals under subsection (1), the
+12 following fees apply:
+13 (i) Stormwater industrial certification A-1i as described under
+14 subrule (2) of R 323.1253 of the Michigan Administrative Code,
+15 $95.00.
+16 (ii) Stormwater construction certification A-1j as described
+17 under subrule (2) of R 323.1253 of the Michigan Administrative
+18 Code, $95.00.
+19 (iii) All other industrial wastewater certification levels 1, 2,
+20 or 3 as described under subrule (2) of R 323.1253 of the Michigan
+21 Administrative Code and issued on a single certificate, $95.00.
+22 (e) For certification renewals under section 4104 for all
+23 municipal wastewater certification levels as described under R
+24 299.2911 of the Michigan Administrative Code and issued on a single
+25 certificate, $95.00.
+26 (f) For certification renewals under section 9 of the safe
+27 drinking water act, 1976 PA 399, MCL 325.1009, for all drinking
+28 water certification levels as described under R 325.11901 or R
+29 325.11902 of the Michigan Administrative Code and issued on a
+JJB S04570'25 (H-3) dok28x
+
+9
+1 single certificate, $95.00.
+2 (4) The failure to pay a required certification examination
+3 fee within 90 days after taking an examination is considered
+4 failure of the examination. The department shall not allow an
+5 individual to take a future examination within the failed
+6 examination program unless he or she the individual pays the prior
+7 fee in full.
+8 (5) The department shall conduct a program for persons or
+9 organizations seeking to offer approved continuing education
+10 courses to be used by certified operators and supervisors when
+11 renewing their certifications under subsection (1), section 4104,
+12 and section 9 of the safe drinking water act, 1976 PA 399, MCL
+13 325.1009. The department may charge continuing education providers
+14 a course application fee and course renewal fee as provided in the
+15 following fee schedule:
+16 (a) An application for approval of a training course, $75.00
+17 for each course.
+18 (b) An application for renewal of an approved training course,
+19 $50.00 for each course.
+20 (6) All fees collected under this section must be deposited in
+21 the operator training and certification fund created in section
+22 3134.
+23 (7) An individual certified as required by subsection (1)
+24 shall file monthly, or at longer intervals as the department may
+25 designate, on forms provided by the department, reports showing the
+26 effectiveness of the treatment or control facility operation and
+27 the quantity and quality of discharged liquid wastes. If an
+28 individual knowingly makes a false statement in a report, the
+29 department may revoke his or her the individual's certificate as an
+JJB S04570'25 (H-3) dok28x
+
+10
+1 approved treatment facility operator.
+2 (8) This section does not apply to water, gas, or other
+3 material that is injected into a well to facilitate production of
+4 oil or gas or to water derived in association with oil or gas
+5 production and disposed of in a well, if the well is used either to
+6 facilitate production or for disposal purposes and is under permit
+7 by the state supervisor of wells.
+8 Sec. 3118. (1) Except as otherwise provided in this section,
+9 until October 1, 2025, 2029, the department shall collect the
+10 following stormwater discharge fees from persons that apply for or
+11 have been issued stormwater discharge permits:
+12 (a) A 1-time fee of $400.00 for a permit related solely to a
+13 site of construction activity for each permitted site. The fee must
+14 be submitted with the application for an individual permit or for a
+15 certificate of coverage under a general permit. For a permit by
+16 rule, the fee must be submitted by the construction site permittee
+17 with the notice of coverage. A person needing that needs more than
+18 1 permit may submit a single payment for more than 1 permit and
+19 receive appropriate credit. Payment of the fee under this
+20 subdivision or verification of prepayment is a necessary part of a
+21 valid permit application or notice of coverage under a permit by
+22 rule.
+23 (b) An annual fee of $260.00 for a permit related solely to a
+24 stormwater discharge associated with industrial activity or from a
+25 commercial site for which the department determines a permit is
+26 needed.
+27 (c) Except as provided in subdivision (d), (e), or (f), an
+28 annual fee of $500.00 for a permit for a municipal separate storm
+29 sewer system.
+JJB S04570'25 (H-3) dok28x
+
+11
+1 (d) For a permit for a municipal separate storm sewer system
+2 issued to a city, village, or township, an annual fee determined by
+3 its population in an urbanized area as defined by the United States
+4 Bureau of the Census Bureau and, except as provided in subsection
+5 (11), based on the latest available decennial census, as follows:
+6 (i) For a population of 1,000 people or fewer, $500.00.
+7 (ii) For a population of more than 1,000 people, but fewer than
+8 3,001 people, $1,000.00.
+9 (iii) For a population of more than 3,000 people, but fewer than
+10 10,001 people, $2,000.00.
+11 (iv) For a population of more than 10,000 people, but fewer
+12 than 30,001 people, $3,000.00.
+13 (v) For a population of more than 30,000 people, but fewer
+14 than 50,001 people, $4,000.00.
+15 (vi) For a population of more than 50,000 people, but fewer
+16 than 75,001 people, $5,000.00.
+17 (vii) For a population of more than 75,000 people, but fewer
+18 than 100,001 people, $6,000.00.
+19 (viii) For a population of more than 100,000 people, $7,000.00.
+20 (e) An annual fee of $3,000.00 for a permit for a municipal
+21 separate storm sewer system issued to a county.
+22 (f) For a single municipal separate storm sewer systems permit
+23 authorizing a state or federal agency to operate municipal separate
+24 storm sewer systems in multiple locations statewide, an annual fee
+25 determined pursuant to in accordance with a memorandum of
+26 understanding between that state or federal agency and the
+27 department and based on the projected costs of the department to
+28 administer the permit.
+29 (2) A stormwater discharge permit is not required for a
+JJB S04570'25 (H-3) dok28x
+
+12
+1 municipality that does not own or operate a separate storm sewer
+2 system. The department shall not collect stormwater discharge fees
+3 under this section from a municipality that does not own or operate
+4 a separate storm sewer system.
+5 (3) Permit fees required under this section are nonrefundable.
+6 (4) A person possessing that possesses a permit not related
+7 solely to a site of construction activity as of January 1 shall be
+8 assessed a fee. The department shall notify those persons of their
+9 the fee assessments by February 1. Payment must be postmarked no
+10 later than March 15. Failure by the department to send a person a
+11 fee assessment notification by the deadline, or failure of a person
+12 to receive a fee assessment notification, does not relieve that
+13 person of the obligation to pay the fee. If the department does not
+14 meet the February deadline for sending the fee assessment, the fee
+15 assessment is due not later than 45 days after the permittee
+16 receives a fee notification.
+17 (5) If a stormwater permit is issued for a drainage district,
+18 the drainage district is responsible for the applicable fee under
+19 this section.
+20 (6) The department shall assess interest on all fee payments
+21 submitted under this section after the due date. The permittee
+22 shall pay an additional amount equal to 0.75% of the payment due
+23 for each month or portion of a month the payment remains past due.
+24 (7) The department shall forward fees and interest payments
+25 collected under this section to the state treasurer for deposit
+26 into the fund.
+27 (8) The department shall require the payment of the fee
+28 assessed under this section as a condition of issuance or
+29 reissuance of a permit not related solely to a site of construction
+JJB S04570'25 (H-3) dok28x
+
+13
+1 activity.
+2 (9) In addition to any other penalty provided in this part, if
+3 a person fails to pay the fee required under this section by its
+4 the due date, the person is in violation of this part and the
+5 department may undertake enforcement actions as authorized under
+6 this part.
+7 (10) The attorney general may bring an action to collect
+8 overdue fees and interest payments imposed under this section.
+9 (11) If the permit is for a municipal separate storm sewer
+10 system and the population served by that system is different than
+11 that determined by the latest decennial census, the permittee may
+12 appeal the annual fee determination and submit written verification
+13 of actual population served by the municipal separate storm sewer
+14 system.
+15 (12) A person that wishes to appeal either a fee or a penalty
+16 assessed under this section is limited to an administrative appeal
+17 under section 631 of the revised judicature act of 1961, 1961 PA
+18 236, MCL 600.631. The appeal must be filed within not later than 30
+19 days after the department's fee notification under subsection (4).
+20 (13) As used in this section and section 3119:
+21 (a) "Certificate of coverage" means a document issued by the
+22 department that authorizes a discharge under a general permit.
+23 (b) "Clean water act" means the federal water pollution
+24 control act, 33 USC 1251 to 1388.1389.
+25 (c) "Construction activity" means a human-made earth change or
+26 disturbance in the existing cover or topography of land that is 5
+27 acres or more in size, for which a national permit is required
+28 pursuant to under 40 CFR 122.26(a), and which is described as a
+29 construction activity in 40 CFR 122.26(b)(14)(x). Construction
+JJB S04570'25 (H-3) dok28x
+
+14
+1 activity includes clearing, grading, and excavating activities.
+2 Construction activity does not include the practice of clearing,
+3 plowing, tilling soil, and harvesting for the purpose of crop
+4 production.
+5 (d) "Fee" means a stormwater discharge fee authorized under
+6 this section.
+7 (e) "Fund" means the stormwater storm water fund created in
+8 section 3119.
+9 (f) "General permit" means a permit issued authorizing a
+10 category of similar discharges.
+11 (g) "Individual permit" means a site-specific permit.
+12 (h) "Municipal separate storm sewer system" means all separate
+13 storm sewers that are owned or operated by the United States or a
+14 state, city, village, township, county, district, association, or
+15 other public body created by or pursuant to under state law, having
+16 jurisdiction over disposal of sewage, industrial wastes,
+17 stormwater, or other wastes, including special districts under
+18 state law, such as a sewer district, flood control district, or
+19 drainage district or similar entity, or a designated or approved
+20 management agency under section 208 of the clean water act, 33 USC
+21 1288, that discharges to waters of the state. Municipal separate
+22 storm sewer system includes systems similar to separate storm sewer
+23 systems in municipalities, such as systems at military bases, large
+24 hospital or prison complexes, and highways and other thoroughfares.
+25 Municipal separate storm sewer system does not include separate
+26 storm sewers in very discrete areas, such as individual buildings.
+27 (i) "Notice of coverage" means a notice that a person engaging
+28 in construction activity agrees to comply with a permit by rule for
+29 that activity. A notice of coverage is not required to include a
+JJB S04570'25 (H-3) dok28x
+
+15
+1 copy of an individual permit issued under part 91 if the notice of
+2 coverage includes a copy of a permit for the construction activity
+3 issued under part 615, 625, 631, 632, or 634, along with any forms
+4 or diagrams pertaining to soil erosion and sedimentation control
+5 that were part of the application for that permit.
+6 (j) "Permit", unless the context implies otherwise, or
+7 "stormwater discharge permit" means a permit authorizing the
+8 discharge of wastewater or any other substance to surface waters of
+9 the state under the national pollutant discharge elimination
+10 system, pursuant to the clean water act or this part and the
+11 regulations or rules promulgated under that the clean water act or
+12 this part.
+13 (k) "Public body" means the United States, this state, a city,
+14 village, township, county, school district, public college or
+15 university, or single purpose governmental agency, or any other
+16 body that is created by federal or state law.
+17 (l) "Separate storm sewer system" means a system of drainage,
+18 including, but not limited to, roads, catch basins, curbs, gutters,
+19 parking lots, ditches, conduits, pumping devices, or man-made
+20 channels, that has the following characteristics:
+21 (i) The system is not a combined sewer where stormwater mixes
+22 with sanitary wastes.
+23 (ii) The system is not part of a publicly owned treatment
+24 works.
+25 (m) "Stormwater" means stormwater runoff, snowmelt runoff, and
+26 surface runoff and drainage.
+27 (n) "Stormwater discharge associated with industrial activity"
+28 means a point source discharge of stormwater from a facility that
+29 is considered to be engaging in industrial activity under 40 CFR
+JJB S04570'25 (H-3) dok28x
+
+16
+1 122.26(b)(14)(i) to (ix) and (xi).
+2 Sec. 3120. (1) Until October 1, 2025, an 2029, an application
+3 for a new permit, a reissuance of a permit, or a modification of an
+4 existing permit under this part authorizing a discharge into
+5 surface water, other than a storm water discharge, must be
+6 accompanied by an application fee as follows:
+7 (a) For an EPA major facility permit, $750.00.
+8 (b) For an EPA minor facility individual permit, a CSO permit,
+9 or a wastewater stabilization lagoon individual permit, $400.00.
+10 (c) For an EPA minor facility general permit, $75.00.
+11 (2) Within Not later than 180 days after receipt of a complete
+12 application for a new or increased use permit, the department shall
+13 either grant or deny the permit, unless the applicant and the
+14 department agree to extend this time period.
+15 (3) By September 30 of the year following the submittal of a
+16 complete application for reissuance of a permit, the department
+17 shall either grant or deny the permit, unless the applicant and the
+18 department agree to extend this time period.
+19 (4) If the department fails to make a decision on an
+20 application within the applicable time period under subsection (2)
+21 or (3), all of the following apply:
+22 (a) The department shall return to the applicant the
+23 application fee submitted under subsection (1).
+24 (b) The applicant is not subject to an application fee.
+25 (c) The applicant shall receive a 15% annual discount on an
+26 annual permit fee required for a permit issued based on that
+27 application.
+28 (5) Until October 1, 2025, a 2029, a person who that receives
+29 a permit under this part authorizing a discharge into surface
+JJB S04570'25 (H-3) dok28x
+
+17
+1 water, other than a stormwater discharge, is subject to an annual
+2 permit fee as follows:
+3 (a) For an industrial or commercial facility that is an EPA
+4 major facility, $8,700.00.
+5 (b) For an industrial or commercial facility that is an EPA
+6 minor facility, the following amount:
+7 (i) For a general permit for a low-flow facility, $150.00.
+8 (ii) For a general permit for a high-flow facility, $400.00.
+9 (iii) For an individual permit for a low-flow facility,
+10 $1,650.00.
+11 (iv) For an individual permit for a high-flow facility,
+12 $3,650.00.
+13 (c) For a municipal facility that is an EPA major facility,
+14 the following amount:
+15 (i) For an individual permit for a facility discharging 500 MGD
+16 or more, $213,000.00.
+17 (ii) For an individual permit for a facility discharging 50 MGD
+18 or more but less than 500 MGD, $20,000.00.
+19 (iii) For an individual permit for a facility discharging 10 MGD
+20 or more but less than 50 MGD, $13,000.00.
+21 (iv) For an individual permit for a facility discharging less
+22 than 10 MGD, $5,500.00.
+23 (d) For a municipal facility that is an EPA minor facility,
+24 the following amount:
+25 (i) For an individual permit for a facility discharging 10 MGD
+26 or more, $3,775.00.
+27 (ii) For an individual permit for a facility discharging 1 MGD
+28 or more but less than 10 MGD, $3,000.00.
+29 (iii) For an individual permit for a facility discharging less
+JJB S04570'25 (H-3) dok28x
+
+18
+1 than 1 MGD, $1,950.00.
+2 (iv) For a general permit for a high-flow facility, $600.00.
+3 (v) For a general permit for a low-flow facility, $400.00.
+4 (e) For a municipal facility that is a CSO facility,
+5 $6,000.00.
+6 (f) For an individual permit for a wastewater stabilization
+7 lagoon, $1,525.00.
+8 (g) For an individual or general permit for an agricultural
+9 purpose, $600.00, unless either of the following applies:
+10 (i) The facility is an EPA minor facility and would qualify for
+11 a general permit for a low-flow facility, in which case the fee is
+12 $150.00.
+13 (ii) The facility is an EPA major facility that is not a
+14 farmers' cooperative corporation, in which case the fee is
+15 $8,700.00.
+16 (h) For a facility that holds a permit issued under this part
+17 but has no discharge and is connected to and is authorized to
+18 discharge only to a municipal wastewater treatment system, an
+19 annual permit maintenance fee of $100.00. However, if a facility
+20 does have a discharge or at some time is no longer connected to a
+21 municipal wastewater treatment system, the annual permit fee must
+22 be the appropriate fee as otherwise provided in this subsection.
+23 (6) If the person required to pay an application fee under
+24 subsection (1) or an annual permit fee under subsection (5) is a
+25 municipality, the municipality may pass on the application fee or
+26 the annual permit fee, or both, to each user of the municipal
+27 facility.
+28 (7) The department shall send invoices for annual permit fees
+29 under subsection (5) to all permit holders by December 1 of each
+JJB S04570'25 (H-3) dok28x
+
+19
+1 year. A fee must be based on the status of the facility as of
+2 October 1 of that year. A person subject to an annual permit fee
+3 shall pay the fee not later than January 15 of each year. Failure
+4 by the department to send a person an invoice by December 1, or
+5 failure of a person to receive an invoice, does not relieve that
+6 person of the obligation to pay the annual permit fee. If the
+7 department does not send invoices by December 1, the annual permit
+8 fee is due not later than 45 days after the permittee receives an
+9 invoice. The department shall forward annual permit fees received
+10 under this section to the state treasurer for deposit into the
+11 national pollutant discharge elimination system fund created in
+12 section 3121.
+13 (8) The department shall assess a penalty on all annual permit
+14 fee payments submitted under this section after the due date. The
+15 penalty is 0.75% of the payment due for each month or portion of a
+16 month the payment remains past due.
+17 (9) Following payment of an annual permit fee, if a permittee
+18 wishes to challenge its annual permit fee under this section, the
+19 owner or operator shall submit the challenge in writing to the
+20 department. The department shall not process the challenge unless
+21 it is received by the department by March 1 of the year the payment
+22 is due. A challenge must identify the facility and state the
+23 grounds upon on which the challenge is based. Within Not later than
+24 30 calendar days after receipt of the challenge, the department
+25 shall determine the validity of the challenge and provide the
+26 permittee with notification of a revised annual permit fee and a
+27 refund, if appropriate, or a statement setting forth the reason or
+28 reasons why the annual permit fee was not revised. If the owner or
+29 operator of a facility desires to further challenge its annual
+JJB S04570'25 (H-3) dok28x
+
+20
+1 permit fee, the owner or operator of the facility has an
+2 opportunity for a contested case hearing as provided for under the
+3 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+4 24.328.
+5 (10) The attorney general may bring an action for the
+6 collection of the annual permit fee imposed under this section.
+7 (11) As used in this section:
+8 (a) "Agricultural purpose" means the agricultural production
+9 or processing of those plants and animals useful to human beings
+10 produced by agriculture and includes, but is not limited to,
+11 forages and sod crops, grains and feed crops, field crops, dairy
+12 animals and dairy products, poultry and poultry products, cervidae,
+13 livestock, including breeding and grazing, equine, fish and other
+14 aquacultural products, bees and bee products, berries, herbs,
+15 fruits, vegetables, flowers, seeds, grasses, nursery stock, trees
+16 and tree products, mushrooms, and other similar products, or any
+17 other product, as determined by the commission of agriculture and
+18 rural development, that incorporates the use of food, feed, fiber,
+19 or fur. Agricultural purpose includes an operation or facility that
+20 produces wine.
+21 (b) "Combined sewer overflow" means a discharge from a
+22 combined sewer system that occurs when the flow capacity of the
+23 combined sewer system is exceeded at a point before the headworks
+24 of a publicly owned treatment works during wet weather conditions.
+25 (c) "Combined sewer system" means a sewer designed and used to
+26 convey both storm water runoff and sanitary sewage, and that
+27 contains lawfully installed regulators and control devices that
+28 allow for delivery of sanitary flow to treatment during dry weather
+29 periods and divert stormwater and sanitary sewage to surface waters
+JJB S04570'25 (H-3) dok28x
+
+21
+1 during storm flow periods.
+2 (d) "CSO facility" means a facility whose discharge is solely
+3 a combined sewer overflow.
+4 (e) "EPA major facility" means a major facility as that term
+5 is defined in 40 CFR 122.2.
+6 (f) "EPA minor facility" means a facility that is not an EPA
+7 major facility.
+8 (g) "Farmers' cooperative corporation" means a farmers'
+9 cooperative corporation organized within the limitations of section
+10 98 of 1931 PA 327, MCL 450.98.
+11 (h) "General permit" means a permit suitable for use at
+12 facilities meeting eligibility criteria as specified in the permit.
+13 With a general permit, the discharge from a specific facility is
+14 acknowledged through a certificate of coverage issued to the
+15 facility.
+16 (i) "High-flow facility" means a facility that discharges 1
+17 MGD or more.
+18 (j) "Individual permit" means a permit developed for a
+19 particular facility, taking into account that facility's specific
+20 characteristics.
+21 (k) "Industrial or commercial facility" means a facility that
+22 is not a municipal facility.
+23 (l) "Low-flow facility" means a facility that discharges less
+24 than 1 MGD.
+25 (m) "MGD" means 1,000,000 gallons per day.
+26 (n) "Municipal facility" means a facility that is designed to
+27 collect or treat sanitary wastewater, is either publicly or
+28 privately owned, and serves a residential area or a group of
+29 municipalities.
+JJB S04570'25 (H-3) dok28x
+
+22
+1 (o) "Wastewater stabilization lagoon" means a treatment system
+2 constructed of ponds or basins designed to receive, hold, and treat
+3 sanitary wastewater for a predetermined amount of time through a
+4 combination of physical, biological, and chemical processes.
+5 Sec. 4104. (1) The department may promulgate and enforce rules
+6 that the department considers necessary governing to govern and
+7 providing provide for a method of conducting and operating all or a
+8 part of sewerage systems including sewage treatment works. The
+9 department shall classify sewage treatment works with regard to
+10 size, type, location, and other physical conditions affecting those
+11 works and according to the skill, knowledge, experience, and
+12 character that the individual who is in charge of the active
+13 operation of the sewage treatment works must possess to
+14 successfully operate the works and prevent the discharge of
+15 deleterious matter capable of being injurious to the public health
+16 or other public interests. The department shall examine or provide
+17 for the examination of individuals as to their the qualifications
+18 to operate sewage treatment works. The department shall promulgate
+19 rules regarding the classification of sewage treatment works, the
+20 examinations for certification of operators for those works, and
+21 the issuance and revocation of certificates, and shall issue and
+22 revoke certificates as provided in those by the rules. Every sewage
+23 treatment works subject to this part must be under the supervision
+24 of a properly certified operator, except that this section does not
+25 require the employment of a certified operator in a waste treatment
+26 works that receives only wastes that are not potentially
+27 prejudicial to the public health.
+28 (2) As provided in section 3110, the department may conduct a
+29 program for training individuals seeking who seek to be certified
+JJB S04570'25 (H-3) dok28x
+
+23
+1 as operators under subsection (1) and shall administer operator
+2 certification programs for individuals seeking who seek to be
+3 certified as operators under subsection (1). Until October 1, 2025,
+4 the 2029, the department may charge fees for these programs as
+5 provided in section 3110. The department shall transmit fees
+6 collected under this section to the state treasurer for deposit
+7 into the operator training and certification fund created in
+8 section 3134.
+9 Sec. 11153. (1) A generator, transporter, or treatment,
+10 storage, or disposal facility shall obtain and utilize a site
+11 identification number assigned by the United States Environmental
+12 Protection Agency or the department. Until October 1, 2025, the
+13 2029, the department shall assess a site identification number user
+14 charge of $50.00 for each site identification number it the
+15 department issues. The department shall not issue a site
+16 identification number under this subsection unless the site
+17 identification number user charge and the tax identification number
+18 for the person applying for the site identification number have
+19 been are received by the department.
+20 (2) Until October 1, 2025, the 2029, the department shall
+21 annually assess hazardous waste management program user charges as
+22 follows:
+23 (a) A generator shall pay a handler user charge that is the
+24 highest of the following applicable fees:
+25 (i) A generator that generates more than 100 kilograms but less
+26 than 1,000 kilograms of hazardous waste in any month during the
+27 calendar year shall pay to the department an annual handler user
+28 charge of $100.00.
+29 (ii) A generator that generates 1,000 kilograms or more of
+JJB S04570'25 (H-3) dok28x
+
+24
+1 hazardous waste in any month during the calendar year and that
+2 generates less than 900,000 kilograms during the calendar year
+3 shall pay to the department an annual handler user charge of
+4 $400.00.
+5 (iii) A generator that generates 1,000 kilograms or more of
+6 hazardous waste in any month during the calendar year and that
+7 generates 900,000 kilograms or more of hazardous waste during the
+8 calendar year shall pay to the department an annual handler user
+9 charge of $1,000.00.
+10 (b) An owner or operator of a treatment, storage, or disposal
+11 facility for which an operating license is required under section
+12 11123 or for which an operating license is issued under section
+13 11125 shall pay to the department an annual handler user charge of
+14 $2,000.00.
+15 (c) A used oil processor or rerefiner, a used oil burner, or a
+16 used oil fuel marketer as defined in the rules promulgated under
+17 this part shall pay to the department an annual handler user charge
+18 of $100.00.
+19 (3) A handler shall pay the handler user charge specified in
+20 subsection (2)(a) to (c) (2) for each of the activities conducted
+21 during the previous calendar year.
+22 (4) Handler user charges must be paid using a form provided by
+23 the department. The handler shall certify that the information on
+24 the form is accurate. The department shall send forms to the
+25 handlers by not later than March 30 of each year. A handler shall
+26 return the completed forms and the appropriate payment to the
+27 department by not later than April 30 of each year.
+28 (5) A handler that fails to provide timely and accurate
+29 information, a complete form, or the appropriate handler user
+JJB S04570'25 (H-3) dok28x
+
+25
+1 charge is in violation of this part and is subject to both of the
+2 following:
+3 (a) Payment of the handler user charge and an administrative
+4 fine of 5% of the amount owed for each month that the payment is
+5 delinquent. Any payments received after the fifteenth of the month
+6 after the due date are delinquent for that month. However, the
+7 administrative fine must not exceed 25% of the total amount owed.
+8 (b) Beginning 5 months after the date payment of the handler
+9 user charge is due, if the amount owed under subdivision (a) is not
+10 paid in full, at the request of the department, an action by the
+11 attorney general for the collection of the amount owed under
+12 subdivision (a) and the actual cost to the department in attempting
+13 to collect the amount owed under subdivision (a).
+14 (6) The department shall maintain information regarding the
+15 site identification number user charges and the handler user
+16 charges collected under this section as necessary to satisfy the
+17 reporting requirements of subsection (8).
+18 (7) The site identification number user charges and the
+19 handler user charges collected under this section and any amounts
+20 collected under subsection (5) for a violation of this section must
+21 be forwarded to the state treasurer and deposited in the
+22 environmental pollution prevention fund created in section 11130.
+23 (8) The department shall evaluate the effectiveness and
+24 adequacy of the site identification number user charges and the
+25 handler user charges collected under this section relative to the
+26 overall revenue needs of the hazardous waste management program
+27 administered under this part. Not later than April 1 of each even-
+28 numbered year, the department shall submit to the legislature a
+29 report summarizing the department's findings under this subsection.
+JJB S04570'25 (H-3) dok28x
+
+26
+1 (9) As used in this section:
+2 (a) "Handler" means the person required to pay the handler
+3 user charge.
+4 (b) "Handler user charge" means an annual hazardous waste
+5 management program user charge provided for in subsection (2).
+6
+7 Sec. 30104. (1) A person shall not undertake a project subject
+8 to this part except as authorized by a permit issued by the
+9 department pursuant to under part 13. An application for a permit
+10 must include any information that may be required by the
+11 department. If a project includes activities at multiple locations,
+12 1 application may be filed for the combined activities.
+13 (2) Except as provided in subsections (3) and (4), until
+14 October 1, 2025, 2029, an application for a permit must be
+15 accompanied by an application fee based on an administrative cost
+16 in accordance with the following schedule:
+17 (a) For an initial permit for a seasonal drawdown or
+18 associated reflooding, or both, of a dam or impoundment for the
+19 purpose of weed control that is issued for the first time after
+20 October 9, 1995, a fee of $500.00, but for subsequent permits for
+21 the same purpose a fee of $50.00.
+22 (b) For activities included in a minor project category
+23 established under section 30105(7), a fee of $100.00.
+24 (c) For activities included in a general permit category
+25 established under section 30105(8), a fee of $50.00.
+26 (d) For construction or expansion of a marina, a fee as
+27 follows:
+28 (i) $50.00 for an expansion of 1-10 marina slips to an existing
+29 permitted marina.
+JJB S04570'25 (H-3) dok28x
+
+27
+1 (ii) $100.00 for a new marina with 1-10 proposed marina slips.
+2 (iii) $250.00 for an expansion of 11-50 marina slips to an
+3 existing permitted marina, plus $10.00 for each marina slip over
+4 50.
+5 (iv) $500.00 for a new marina with 11-50 proposed marina slips,
+6 plus $10.00 for each marina slip over 50.
+7 (v) $1,500.00 if an existing permitted marina proposes
+8 maintenance dredging of 10,000 cubic yards or more, unless the
+9 dredge material is determined through testing to be 90% or more
+10 sand, or the addition of seawalls, bulkheads, or revetments of 500
+11 feet or more.
+12 (e) For major projects other than a project described in
+13 subdivision (d)(v), involving any of the following, a fee of
+14 $2,000.00:
+15 (i) Dredging of 10,000 cubic yards or more, unless the dredge
+16 material is determined through testing to be 90% or more sand.
+17 (ii) Filling of 10,000 cubic yards or more.
+18 (iii) Seawalls, bulkheads, or revetments of 500 feet or more.
+19 (iv) Filling or draining of 1 acre or more of wetland
+20 contiguous to a lake or stream.
+21 (v) New dredging or upland boat basin excavation in areas of
+22 suspected contamination.
+23 (vi) Shore projections, such as groins and underwater
+24 stabilizers, that extend 150 feet or more into a lake or stream.
+25 (vii) New commercial docks or wharves of 300 feet or more in
+26 length.
+27 (viii) Stream enclosures 100 feet or more in length.
+28 (ix) Stream relocations 500 feet or more in length.
+JJB S04570'25 (H-3) dok28x
+
+28
+1 (x) New golf courses.
+2 (xi) Subdivisions.
+3 (xii) Condominiums.
+4 (f) For the removal of submerged logs from bottomland of an
+5 inland lake, a $500.00 fee.
+6 (g) For all other projects not listed in subdivisions (a) to
+7 (f), a fee of $500.00.
+8 (3) A project that requires review and approval under this
+9 part and 1 or more of the following acts or parts of acts is
+10 subject to only the single highest fee required under this part or
+11 the following acts or parts of acts:
+12 (a) Section 3104.
+13 (b) Part 303.
+14 (c) Part 323.
+15 (d) Part 325.
+16 (e) Section 117 of the land division act, 1967 PA 288, MCL
+17 560.117.
+18 (4) If work has been done in violation of a permit requirement
+19 under this part and restoration is not ordered by the department,
+20 the department may accept an application for a permit if the
+21 application is accompanied by a fee equal to 2 times the permit fee
+22 required under this section.
+23 (5) If the department denies an application for a permit under
+24 this part, the department shall promptly refund the application fee
+25 paid under this section.
+26 Sec. 30109. Upon the written request of a riparian owner and
+27 upon payment of a service fee, the department may enter into a
+28 written agreement with the riparian owner establishing the location
+29 of the ordinary high-water mark for his or her the riparian owner's
+JJB S04570'25 (H-3) dok28x
+
+29
+1 property. In the absence of substantially changed conditions, the
+2 agreement is conclusive proof of the location in all matters
+3 between this state and the riparian owner and his or her the
+4 riparian owner's successors in interest. Until October 1, 2025, the
+5 2029, the service fee provided for in this section is $500.00. The
+6 department shall forward service fees collected under this section
+7 to the state treasurer for deposit into the fund.
+8 Sec. 32312. (1) To regulate the uses and development of high-
+9 risk areas, flood risk areas, and environmental areas and to
+10 implement the purposes of this part, the department shall
+11 promulgate rules in accordance with the administrative procedures
+12 act of 1969, 1969 PA 306, MCL 24.201 to 24.328. If permits are
+13 required under rules promulgated under this part, the permits must
+14 be issued pursuant to in accordance with the rules and part 13.
+15 Except as provided under subsection (2), until October 1, 2025,
+16 2029, if permits are required pursuant to under the rules
+17 promulgated under this part, an application for a permit must be
+18 accompanied by a fee as follows:
+19 (a) For a commercial or multifamily residential project,
+20 $500.00.
+21 (b) For a single-family home construction, $100.00.
+22 (c) For an addition to an existing single-family home or for a
+23 project that has a minor impact on fish and wildlife resources in
+24 environmental areas as determined by the department, $50.00.
+25 (2) A project that requires review and approval under this
+26 part and under 1 or more of the following is subject to only the
+27 single highest permit fee required under this part or the
+28 following:
+29 (a) Part 301.
+JJB S04570'25 (H-3) dok28x
+
+30
+1 (b) Part 303.
+2 (c) Part 325.
+3 (d) Section 3104.
+4 (e) Section 117 of the land division act, 1967 PA 288, MCL
+5 560.117.
+6 (3) The department shall forward fees collected under this
+7 section to the state treasurer for deposit in the land and water
+8 management permit fee fund created in section 30113.
+9 (4) A circuit court, upon petition and a showing by the
+10 department that a rule promulgated under subsection (1) has been
+11 violated, shall issue any necessary order to the defendant to
+12 correct the violation or to restrain the defendant from further
+13 violation of the rule.
+14 Sec. 32513. (1) To obtain a permit for any activity specified
+15 in section 32512, a person shall file an application with the
+16 department on a form provided by the department. The application
+17 must include all of the following:
+18 (a) The name and address of the applicant.
+19 (b) The legal description of the lands included in the
+20 project.
+21 (c) A summary statement of the purpose of the project.
+22 (d) A map or diagram showing the proposal on an adequate scale
+23 with contours and cross-section profiles of any waterway to be
+24 constructed.
+25 (e) Other information required by the department.
+26 (2) Except as provided in subsections (3) and (4), until
+27 October 1, 2025, 2029, an application for a permit under this
+28 section must be accompanied by the following fee, as applicable:
+29 (a) For a project in a category of activities for which a
+JJB S04570'25 (H-3) dok28x
+
+31
+1 general permit is issued under section 32512a(2), a fee of $50.00.
+2 (b) For activities included in a minor project category
+3 established under section 32512a(1), a fee of $100.00.
+4 (c) For construction or expansion of a marina, a fee of:
+5 (i) $50.00 for an expansion of 1-10 marina slips to an existing
+6 permitted marina.
+7 (ii) $100.00 for a new marina with 1-10 proposed marina slips.
+8 (iii) $250.00 for an expansion of 11-50 marina slips to an
+9 existing permitted marina, plus $10.00 for each marina slip over
+10 50.
+11 (iv) $500.00 for a new marina with 11-50 proposed marina slips,
+12 plus $10.00 for each marina slip over 50.
+13 (v) $1,500.00 if an existing permitted marina proposes
+14 maintenance dredging of 10,000 cubic yards or more, unless the
+15 dredge material is determined through testing to be 90% or more
+16 sand, or the addition of seawalls, bulkheads, or revetments of 500
+17 feet or more.
+18 (d) For major projects other than a project described in
+19 subdivision (c)(v), involving any of the following, a fee of
+20 $2,000.00:
+21 (i) Dredging of 10,000 cubic yards or more, unless the dredge
+22 material is determined through testing to be 90% or more sand.
+23 (ii) Filling of 10,000 cubic yards or more.
+24 (iii) Seawalls, bulkheads, or revetment of 500 feet or more.
+25 (iv) Filling or draining of 1 acre or more of coastal wetland.
+26 (v) New dredging or upland boat basin excavation in areas of
+27 suspected contamination.
+28 (vi) New breakwater or channel jetty.
+JJB S04570'25 (H-3) dok28x
+
+32
+1 (vii) Shore protection, such as groins and underwater
+2 stabilizers, that extend 150 feet or more on Great Lakes
+3 bottomlands.
+4 (viii) New commercial dock or wharf of 300 feet or more in
+5 length.
+6 (e) For all other projects not listed in subdivisions (a) to
+7 (d), $500.00.
+8 (3) A project that requires review and approval under this
+9 part and 1 or more of the following is subject to only the single
+10 highest permit fee required under this part or the following:
+11 (a) Section 3104.
+12 (b) Part 301.
+13 (c) Part 303.
+14 (d) Part 323.
+15 (e) Section 117 of the land division act, 1967 PA 288, MCL
+16 560.117.
+17 (4) If work is done in violation of a permit requirement under
+18 this part and restoration is not ordered by the department, the
+19 department may accept an application for a permit if the
+20 application is accompanied by a fee equal to 2 times the permit fee
+21 otherwise required under this section.
+22 (5) The department shall forward fees collected under this
+23 section to the state treasurer for deposit into the land and water
+24 management permit fee fund created in section 30113.
+Final Page
+JJB S04570'25 (H-3) dok28x
+
+[DELETED:   S d S t u r c d]
+[DELETED:   S d s n s f f u m c t t 1. ( o f a a a t p L t t t i ( l i i p]
+[DELETED:   S d p d d o f. ( b a r i m c ( O a b t r o a d ( h a s i c o g c]
+[DELETED:   S d e a f b ( p w s i c c e a f b ( m s ( p p d t e c ( p f m t (]
+[DELETED:   S d r d f t ( s m ( p h ( ( ( ( ( 5 S t w t w s d d s c i f (]
+[DELETED:   S d i t s s 1 d c f f ( p t o s 3 w o d d b O d c a ( f () e M () d A () e]
+[DELETED:   S d d A () d A ( f () e M () d A () d A () d A ( d f () F M () D M ()]
+[DELETED:   S d o A () d A () d A () u ( f () s $ () u C () o A ( m 2 c ( d w 3]
+[DELETED:   S d s ( f f i e p f ( o c r a 3 a f ( f ( $ ( t 3 ( s d e t i d c]
+[DELETED:   S d a ( m o p f b S u t f h ( s b c r w m 1 r s v r ( s c n ( a s]
+[DELETED:   S d ( i i B a ( () () 3 () 1 () t () t () t () t () ( s ( a s d a u d a (]
+[DELETED:   S d m s u a ( ( a s a f l f t p m a r ( t t ( s s f ( c i ( a r]
+[DELETED:   S d a ( a d d t ( o ( s t a o s ( a u 2 3 d ( ( d ( c. ( d a p 4 c]
+[DELETED:   S d a C p p ( t ( f s ( c ( ( s s o s j s s d m 1 s s h M s ( i t]
+[DELETED:   S d c c i o t ( " d t s r a t ( v u b () i p c () w () w ( s ( m i]
+[DELETED:   S d 1 S a f e s a ( ( o ( ( 1 a e d ( c s d ( a o ( a ( ( a a ( p r t a]
+[DELETED:   S d w p ( m ( m () () () $ () $ ( t () o () o () o () t ( t () o () o ()]
+[DELETED:   S d t () () ( $ ( l ( p () a $ () f $ ( b d a d m b ( s m t f ( u]
+[DELETED:   S d y O s b f p d f i u n s ( f p m ( w o d i i g w N 3 s p r r o]
+[DELETED:   S d p o a 2 ( c ( ( o p f a l a f a o r o p ( c c o ( c c a p]
+[DELETED:   S d d ( a ( d ( m ( c 9 ( f W a f ( M ( p c ( i () t ( ( c p m]
+[DELETED:   S d ( c s c S t a p a p d s w c o s d o f q t r e t r r t o r w p ( p t]
+[DELETED:   S d a c t c t d p c i s S s i P d c i i i f b r ( d a f ( h () t c c ()]
+[DELETED:   S d h g s $ () h g c c ( f 1 1 $ ( u t o ( s f d ( t t h M r d A ( i]
+[DELETED:   S d c f ( f d a a ( u p a s t ( s c r ( h c b e ( a h o a n r]
+[DELETED:   S d ( ( u ( m   S t d p m d 1 ( O a a i ( a p O t ( e ( e ( f () p]
+[DELETED:   S d () () e 5 () p () m d s f ( s() $ () m () () () c () s () s () l () ()]
+[DELETED:   S d () () () ( i ( ( ( p s t ( ( ( ( ( 5 ( u t a r ( t p S u w o]
+[DELETED:   S d p a b s s d t. S r i p . r b t E u i r p a ( $ ( ( p e ( p s f (]
+[DELETED:   S d ( ( ( ( 5 ( s m ( d v c v S i d m ( ( p ( ( w c ( ( O a s (]
+[DELETED:   S d g ( e ( () p () () e 5 () p () m d s f ( s() $ () m () () () () s ()]
+[DELETED:   S d () s b () l ( ( ( p h ( ( ( ( ( 5 ( t d a o ( s m]

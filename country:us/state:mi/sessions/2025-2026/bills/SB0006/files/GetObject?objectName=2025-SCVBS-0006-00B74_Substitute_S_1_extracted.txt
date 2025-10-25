@@ -1,0 +1,1209 @@
+Title: SENATE BILL NO. 6
+Official Title: SENATE BILL NO. 6
+Number of Sections: 3
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 390, entitled
+"An act to regulate the time and manner of payment of wages and
+fringe benefits to employees; to prescribe rights and
+responsibilities of employers and employees, and the powers and
+duties of the department of labor; to require keeping of records;
+to provide for settlement of disputes regarding wages and fringe
+benefits; to prohibit certain practices by employers; to prescribe
+penalties and remedies; and to repeal certain acts and parts of
+acts,"
+by amending sections 1, 7, 11, 13, 13a, 14, 15, 18, and 19 (MCL
+
+Section 2:
+408.471, 408.477, 408.481, 408.483, 408.483a, 408.484, 408.485,
+
+Section 3:
+408.488, and 408.489), section 1 as amended by 2016 PA 18, section
+7 as amended by 2023 PA 243, and section 13a as added by 1982 PA
+524, and by adding sections 13c and 13d.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+GSS S01104'25 (S-1) imgp1o
+2
+1 Sec. 1. As used in this act:
+2 (a) "Department" means the department of licensing and
+3 regulatory affairs.labor and economic opportunity.
+4 (b) "Employ" means to engage or permit to work.
+5 (c) "Employee" means an individual employed by an employer.
+6 Employee does not include an independent contractor.
+7 (d) "Employer" means an individual, sole proprietorship,
+8 partnership, association, or corporation, public or private; this
+9 state or an agency of this state; a city, county, village,
+10 township, school district, or intermediate school district; an
+11 institution of higher education; or an individual acting directly
+12 or indirectly in the interest of an employer who that employs 1 or
+13 more individuals. Except as specifically provided in the franchise
+14 agreement, as between a franchisee and franchisor, the franchisee
+15 is considered the sole employer of workers for whom the franchisee
+16 provides a benefit plan or pays wages.
+17 (e) "Fringe benefits" means compensation due an employee
+18 pursuant to a written contract or written policy for holiday, time
+19 off for holidays, time off for sickness or injury, time off for
+20 personal reasons or vacation, bonuses, authorized expenses incurred
+21 during the course of employment, and contributions made on behalf
+22 of an employee.
+23 (f) "Independent contractor" means an individual determined to
+24 be an independent contractor under section 13c(2).
+25 (g) "Payer" means a person that pays remuneration to an
+26 independent contractor for work the independent contractor performs
+27 for the payer.
+28 (h) (f) "Wages" means all earnings of an employee whether
+29 determined on the basis of time, task, piece, commission, or other
+GSS S01104'25 (S-1) imgp1o
+3
+1 method of calculation for labor or services. except those defined
+2 as Wages does not include fringe benefits. under subdivision (e)
+3 above.
+4 Sec. 7. (1) Except for those deductions required or expressly
+5 permitted by law or by a collective bargaining agreement, an
+6 employer shall not deduct from the wages of an employee, directly
+7 or indirectly, any amount including an employee contribution to a
+8 separate segregated fund established by a corporation or labor
+9 organization under section 55 of the Michigan campaign finance act,
+10 1976 PA 388, MCL 169.255, without the full, free, and written
+11 consent of the employee, obtained without intimidation or fear of
+12 discharge for refusal to permit the deduction.
+13 (2) Except as provided in this subsection and subsections (4)
+14 and (5), a deduction for the benefit of the employer requires
+15 written consent from the employee for each wage payment subject to
+16 the deduction, and the cumulative amount of the deductions must not
+17 reduce the gross wages paid to a rate less than the minimum rate as
+18 prescribed in the improved workforce opportunity wage act, 2018 PA
+19 337, MCL 408.931 to 408.945. A nonprofit organization shall obtain
+20 a written consent from an employee for deductions to that nonprofit
+21 organization that qualify as charitable contributions under federal
+22 law. However, this subsection does not require the nonprofit
+23 organization to obtain from an employee a separate written consent
+24 for each subsequent paycheck from which deductions that qualify as
+25 charitable contributions that benefit the employer are made. An
+26 employee at any time may rescind in writing his or her the
+27 employee's authorization to have charitable contributions deducted
+28 from his or her the employee's paycheck. As used in this
+29 subsection, "nonprofit organization" means an organization that is
+GSS S01104'25 (S-1) imgp1o
+4
+1 exempt from taxation under section 501(c)(3) of the internal
+2 revenue code of 1986, 26 USC 501(c)(3).501.
+3 (3) Each deduction from the wages of an employee must be
+4 substantiated in the records of the employer and must be identified
+5 as pertaining to an individual employee. Prorating of deductions
+6 between 2 or more employees is not permitted.
+7 (4) Not later than 6 months after making an overpayment of
+8 wages or fringe benefits that are paid directly to an employee, an
+9 employer may deduct the overpayment from the employee's regularly
+10 scheduled wage payment without the written consent of the employee
+11 if all of the following conditions are met:
+12 (a) The overpayment resulted from a mathematical
+13 miscalculation, typographical error, clerical error, or misprint in
+14 the processing of the employee's regularly scheduled wages or
+15 fringe benefits.
+16 (b) The miscalculation, error, or misprint described in
+17 subdivision (a) was made by the employer, the employee, or a
+18 representative of the employer or employee.
+19 (c) The employer provides the employee with a written
+20 explanation of the deduction at least 1 pay period before the wage
+21 payment affected by the deduction is made.
+22 (d) The deduction is not greater than 15% of the gross wages
+23 earned in the pay period in which the deduction is made.
+24 (e) The deduction is made after the employer has made all
+25 deductions expressly permitted or required by law or a collective
+26 bargaining agreement, and after any employee-authorized deduction.
+27 (f) The deduction does not reduce the regularly scheduled
+28 gross wages otherwise due the employee to a rate that is less than
+29 the greater of either of the following:
+GSS S01104'25 (S-1) imgp1o
+5
+1 (i) The minimum rate as prescribed by subsection (2).
+2 (ii) The minimum rate as prescribed by the fair labor standards
+3 act of 1938, 29 USC 201 to 219.
+4 (5) If an employer pays any amount of the employee's debt
+5 under a default judgment entered under section 4012(9) or (10) of
+6 the revised judicature act of 1961, 1961 PA 236, MCL 600.4012, the
+7 employer may deduct that amount from the employee's regularly
+8 scheduled wage payment without the written consent of the employee
+9 if all of the following conditions are met:
+10 (a) The employer provides the employee with a written
+11 explanation of the deduction at least 1 pay period or 10 business
+12 days, whichever is greater, before the wage payment affected by the
+13 deduction is made.
+14 (b) The deduction is not greater than 15% of the gross wages
+15 earned in the pay period in which the deduction is made.
+16 (c) The deduction is made after the employer has made all
+17 deductions expressly permitted or required by law or a collective
+18 bargaining agreement, and after any employee-authorized deduction.
+19 (d) The deduction does not reduce the regularly scheduled
+20 gross wages otherwise due the employee to a rate that is less than
+21 the greater of either of the following:
+22 (i) The minimum rate as prescribed by subsection (2).
+23 (ii) The minimum rate as prescribed by the fair labor standards
+24 act of 1938, 29 USC 201 to 219.
+25 (6) An employee who believes his or her the employee's
+26 employer has violated subsection (4) or (5) may file a complaint
+27 with the department not later than 12 months after the date of the
+28 alleged violation.
+29 (7) As used in this section, "employer" means an individual,
+GSS S01104'25 (S-1) imgp1o
+6
+1 sole proprietorship, partnership, association, or corporation,
+2 public or private, this state or an agency of this state, a city,
+3 county, village, township, school district, or intermediate school
+4 district, an institution of higher education, or an individual
+5 acting directly or indirectly in the interest of an employer who
+6 that employs 1 or more individuals.
+7 Sec. 11. (1) An employee who believes that his or her the
+8 employee's employer has violated this act may file a written
+9 complaint with the department within not later than 12 months after
+10 the alleged violation. A complaint filed under section 13(2) shall
+11 must be filed within not later than 30 days after the alleged
+12 violation. occurs. Bilingual The department shall provide bilingual
+13 complaint forms shall be provided by the department in those areas
+14 where substantial numbers of non-English speaking non-English-
+15 speaking employees are employed.
+16 (2) Within Not later than a reasonable amount of time after a
+17 complaint is filed, the department shall notify the employer and
+18 investigate the claim, and shall attempt to may informally resolve
+19 the dispute.
+20 (3) If the department is unable to informally resolve the
+21 dispute, the department shall notify the employer and employee
+22 within not later than 90 days after the complaint is filed. The
+23 notification shall must include a determination of the merits of
+24 the complaint and shall cite the specific violation, if any, wages
+25 and fringe benefits due, and specific penalties assessed.
+26 (4) The employer or employee may request a review of the
+27 department's determination within not later than 14 days after the
+28 department issues notification is issued. of its determination. If
+29 the department does not receive a request for a review by either
+GSS S01104'25 (S-1) imgp1o
+7
+1 the employer or employee is not received by the department within
+2 14 days, that 14-day period, in the absence of a showing of good
+3 cause for a late request, the department's determination is final.
+4 (5) For the purpose of an investigation or proceeding under
+5 this act, the director of labor the department or an authorized
+6 representative of the director director's designee may administer
+7 oaths and affirmations, subpoena witnesses , and compel their
+8 attendance, take evidence, and require the production of records or
+9 other documents which that the department considers relevant or
+10 material to the inquiry.
+11 (6) The employee, the employer, and the department shall must
+12 be parties to a proceeding before a hearings officer brought
+13 pursuant to under this section.
+14 (7) The director shall appoint hearings officers to make
+15 determinations in proceedings brought pursuant to under this
+16 section. All proceedings in a hearing shall must be conducted
+17 pursuant to the procedures applicable to the trial of as contested
+18 cases under Act No. 306 of the Public Acts of 1969, as amended,
+19 being sections 24.201 to 24.315 of the Michigan Compiled Laws. the
+20 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+21 24.328. The hearings officer shall affirm, modify, or rescind the
+22 order of the department and may assess costs as provided in section
+23 18(3).
+24 (8) The hearings officer shall issue a determination, which
+25 constitutes is a final disposition of the proceedings, to each
+26 party within not later than 30 days after the conclusion of the
+27 hearing. The determination of the hearings officer shall become
+28 becomes the final agency department order upon receipt by the
+29 parties.
+GSS S01104'25 (S-1) imgp1o
+8
+1 (9) A party to the proceeding may obtain judicial review of
+2 the determination of the hearings officer pursuant to Act No. 306
+3 of the Public Acts of 1969, as amended. officer's determination in
+4 accordance with the administrative procedures act of 1969, 1969 PA
+5 306, MCL 24.201 to 24.328. Venue for an appeal under this act shall
+6 is proper only be in the circuit where the employee is a resident,
+7 where the employment occurred, or where the employer has a
+8 principal place of business.
+9 (10) If requested by an employee who files a complaint against
+10 an employer under this section, the department shall, to the extent
+11 allowed by law, not disclose to the employer the identity of the
+12 employee.
+13 Sec. 13. (1) An employer shall not discharge, an employee
+14 retaliate against, or otherwise discriminate against an employee
+15 because the employee filed a complaint, instituted or caused to be
+16 instituted a proceeding under or regulated by this act, or
+17 testified or is about to testify in a proceeding , or because of
+18 the exercise by the employee on behalf of an employee or others of
+19 a right afforded by this act.
+20 (2) An employee who believes that he or she the employee is
+21 discharged, or retaliated against, or otherwise discriminated
+22 against by an employer in violation of this section may file a
+23 complaint with the department alleging the discharge, retaliation,
+24 or discrimination within not later than 30 days after the
+25 violation. occurs. Upon receipt of the complaint, the department
+26 shall cause an investigation to be made. If, upon completing the
+27 investigation, the department determines that this section was
+28 violated, the department shall order the rehiring or reinstatement
+29 of an employee to his or her the employee's former position with
+GSS S01104'25 (S-1) imgp1o
+9
+1 back pay.
+2 (3) An employer may seek review of the department's
+3 determination by following the procedure provided in section 11(4)
+4 to (9).
+5 Sec. 13a. (1) An employer shall not do any of the following:
+6 (a) Require as a condition of employment nondisclosure by an
+7 employee of his or her the employee's wages.
+8 (b) Require an employee to sign a waiver or other document
+9 which purports to deny an employee the right to disclose his or her
+10 the employee's wages.
+11 (c) Discharge, formally discipline, or otherwise discriminate
+12 against for job advancement an employee who discloses his or her
+13 the employee's wages.
+14 (d) Not later than 30 days after an employee's request, fail
+15 to provide the employee with wage information for similarly
+16 situated employees covering a period of not more than 3 years
+17 before the date of the request. The employer may redact the names
+18 of similarly situated employees, but shall provide information
+19 about the sex and seniority of similarly situated employees for
+20 whom wage information is provided. As used in this subdivision:
+21 (i) "Similarly situated employees" means employees who are
+22 within the same job classification as the employee requesting the
+23 information or whose duties are comparable in skill, effort,
+24 responsibility, working conditions, and training to those of the
+25 requesting employee.
+26 (ii) "Wage information" includes salary and hourly wage
+27 information as well as information about bonus pay, overtime pay,
+28 and other forms of compensation provided by the employer.
+29 Sec. 13c. (1) A person shall not classify, report, or treat an
+GSS S01104'25 (S-1) imgp1o
+10
+1 employee as an independent contractor. A person that is alleged to
+2 have violated this section has the burden of proving, by a
+3 preponderance of the evidence, that the person did not classify,
+4 report, or treat the employee as an independent contractor.
+5 (2) Whether an individual is an independent contractor is
+6 determined as follows:
+7 (a) If the individual works in an industry assigned a North
+8 American Industry Classification System code within sector 23, all
+9 of the following apply to the individual:
+10 (i) The individual performs work for a payer for remuneration.
+11 (ii) The individual is free from control and direction of the
+12 payer in connection with the performance of the work, both under a
+13 contract and in fact.
+14 (iii) The individual performs work that is outside the usual
+15 course of the payer's business.
+16 (iv) The individual is customarily engaged in an independently
+17 established trade, occupation, or business of the same work
+18 performed by the individual for the payer.
+19 (b) If the individual works in an industry other than the
+20 industry described in subdivision (a), by using the economic
+21 realties test under 29 CFR 795.110, as it exists on May 6, 2025,
+22 incorporated as follows:
+23 "§ 795.110 Economic reality test to determine economic
+24 dependence.
+25 (a) Economic reality test.
+26 (1) In order to determine economic dependence, multiple
+27 factors assessing the economic realities of the working
+28 relationship are used. These factors are tools or guides to conduct
+29 a totality-of-the-circumstances analysis. This means that the
+GSS S01104'25 (S-1) imgp1o
+11
+1 outcome of the analysis does not depend on isolated factors but
+2 rather upon the circumstances of the whole activity to answer the
+3 question of whether the worker is economically dependent on the
+4 potential employer for work or is in business for themself.
+5 (2) The six factors described in paragraphs (b)(1) through (6)
+6 of this section should guide an assessment of the economic
+7 realities of the working relationship and the question of economic
+8 dependence. Consistent with a totality-of-the-circumstances
+9 analysis, no one factor or subset of factors is necessarily
+10 dispositive, and the weight to give each factor may depend on the
+11 facts and circumstances of the particular relationship. Moreover,
+12 these six factors are not exhaustive. As explained in paragraph
+13 (b)(7) of this section, additional factors may be considered.
+14 (b) Economic reality factors —
+15 (1) Opportunity for profit or loss depending on managerial
+16 skill. This factor considers whether the worker has opportunities
+17 for profit or loss based on managerial skill (including initiative
+18 or business acumen or judgment) that affect the worker's economic
+19 success or failure in performing the work. The following facts,
+20 among others, can be relevant: whether the worker determines or can
+21 meaningfully negotiate the charge or pay for the work provided;
+22 whether the worker accepts or declines jobs or chooses the order
+23 and/or time in which the jobs are performed; whether the worker
+24 engages in marketing, advertising, or other efforts to expand their
+25 business or secure more work; and whether the worker makes
+26 decisions to hire others, purchase materials and equipment, and/or
+27 rent space. If a worker has no opportunity for a profit or loss,
+28 then this factor suggests that the worker is an employee. Some
+29 decisions by a worker that can affect the amount of pay that a
+GSS S01104'25 (S-1) imgp1o
+12
+1 worker receives, such as the decision to work more hours or take
+2 more jobs when paid a fixed rate per hour or per job, generally do
+3 not reflect the exercise of managerial skill indicating independent
+4 contractor status under this factor.
+5 (2) Investments by the worker and the potential employer. This
+6 factor considers whether any investments by a worker are capital or
+7 entrepreneurial in nature. Costs to a worker of tools and equipment
+8 to perform a specific job, costs of workers' labor, and costs that
+9 the potential employer imposes unilaterally on the worker, for
+10 example, are not evidence of capital or entrepreneurial investment
+11 and indicate employee status. Investments that are capital or
+12 entrepreneurial in nature and thus indicate independent contractor
+13 status generally support an independent business and serve a
+14 business-like function, such as increasing the worker's ability to
+15 do different types of or more work, reducing costs, or extending
+16 market reach. Additionally, the worker's investments should be
+17 considered on a relative basis with the potential employer's
+18 investments in its overall business. The worker's investments need
+19 not be equal to the potential employer's investments and should not
+20 be compared only in terms of the dollar values of investments or
+21 the sizes of the worker and the potential employer. Instead, the
+22 focus should be on comparing the investments to determine whether
+23 the worker is making similar types of investments as the potential
+24 employer (even if on a smaller scale) to suggest that the worker is
+25 operating independently, which would indicate independent
+26 contractor status.
+27 (3) Degree of permanence of the work relationship. This factor
+28 weighs in favor of the worker being an employee when the work
+29 relationship is indefinite in duration, continuous, or exclusive of
+GSS S01104'25 (S-1) imgp1o
+13
+1 work for other employers. This factor weighs in favor of the worker
+2 being an independent contractor when the work relationship is
+3 definite in duration, non-exclusive, project-based, or sporadic
+4 based on the worker being in business for themself and marketing
+5 their services or labor to multiple entities. This may include
+6 regularly occurring fixed periods of work, although the seasonal or
+7 temporary nature of work by itself would not necessarily indicate
+8 independent contractor classification. Where a lack of permanence
+9 is due to operational characteristics that are unique or intrinsic
+10 to particular businesses or industries and the workers they employ,
+11 this factor is not necessarily indicative of independent contractor
+12 status unless the worker is exercising their own independent
+13 business initiative.
+14 (4) Nature and degree of control. This factor considers the
+15 potential employer's control, including reserved control, over the
+16 performance of the work and the economic aspects of the working
+17 relationship. Facts relevant to the potential employer's control
+18 over the worker include whether the potential employer sets the
+19 worker's schedule, supervises the performance of the work, or
+20 explicitly limits the worker's ability to work for others.
+21 Additionally, facts relevant to the potential employer's control
+22 over the worker include whether the potential employer uses
+23 technological means to supervise the performance of the work (such
+24 as by means of a device or electronically), reserves the right to
+25 supervise or discipline workers, or places demands or restrictions
+26 on workers that do not allow them to work for others or work when
+27 they choose. Whether the potential employer controls economic
+28 aspects of the working relationship should also be considered,
+29 including control over prices or rates for services and the
+GSS S01104'25 (S-1) imgp1o
+14
+1 marketing of the services or products provided by the worker.
+2 Actions taken by the potential employer for the sole purpose of
+3 complying with a specific, applicable Federal, State, Tribal, or
+4 local law or regulation are not indicative of control. Actions
+5 taken by the potential employer that go beyond compliance with a
+6 specific, applicable Federal, State, Tribal, or local law or
+7 regulation and instead serve the potential employer's own
+8 compliance methods, safety, quality control, or contractual or
+9 customer service standards may be indicative of control. More
+10 indicia of control by the potential employer favors employee
+11 status; more indicia of control by the worker favors independent
+12 contractor status.
+13 (5) Extent to which the work performed is an integral part of
+14 the potential employer's business. This factor considers whether
+15 the work performed is an integral part of the potential employer's
+16 business. This factor does not depend on whether any individual
+17 worker in particular is an integral part of the business, but
+18 rather whether the function they perform is an integral part of the
+19 business. This factor weighs in favor of the worker being an
+20 employee when the work they perform is critical, necessary, or
+21 central to the potential employer's principal business. This factor
+22 weighs in favor of the worker being an independent contractor when
+23 the work they perform is not critical, necessary, or central to the
+24 potential employer's principal business.
+25 (6) Skill and initiative. This factor considers whether the
+26 worker uses specialized skills to perform the work and whether
+27 those skills contribute to business-like initiative. This factor
+28 indicates employee status where the worker does not use specialized
+29 skills in performing the work or where the worker is dependent on
+GSS S01104'25 (S-1) imgp1o
+15
+1 training from the potential employer to perform the work. Where the
+2 worker brings specialized skills to the work relationship, this
+3 fact is not itself indicative of independent contractor status
+4 because both employees and independent contractors may be skilled
+5 workers. It is the worker's use of those specialized skills in
+6 connection with business-like initiative that indicates that the
+7 worker is an independent contractor.
+8 (7) Additional factors. Additional factors may be relevant in
+9 determining whether the worker is an employee or independent
+10 contractor for purposes of the FLSA, if the factors in some way
+11 indicate whether the worker is in business for themself, as opposed
+12 to being economically dependent on the potential employer for
+13 work."
+14 (3) A person that, with the intent to defraud, violates this
+15 section is guilty of a misdemeanor punishable by a fine of not more
+16 than $1,000.00, or imprisonment for not more than 1 year, or both.
+17 Sec. 13d. (1) The wages and fringe benefits fund is created in
+18 the state treasury.
+19 (2) The state treasurer shall deposit money and other assets
+20 received from any source into the fund. The state treasurer shall
+21 direct the investment of the money in the fund and credit interest
+22 and earnings from the investments to the fund.
+23 (3) Money in the fund at the close of the fiscal year must
+24 remain in the fund and not lapse to the general fund.
+25 (4) The department is the administrator of the fund for
+26 auditing purposes.
+27 (5) The department shall expend money from the fund, upon
+28 appropriation, only to enforce this act.
+29 Sec. 14. (1) An Except as provided in subsection (2), an
+GSS S01104'25 (S-1) imgp1o
+16
+1 employer who that violates this act , including failure to pay the
+2 wages and fringe benefits due an employee as provided in this act,
+3 is guilty of a misdemeanor.
+4 (2) An employer that violates section 13a a second or
+5 subsequent time is guilty of a felony punishable by imprisonment
+6 for not more than 2 years, a fine of not more than $10,000.00, or
+7 both, for each violation.
+8 Sec. 15. An employer who, that, with the intent to defraud,
+9 fails to make payment of does not pay the wages and fringe benefits
+10 due an employee as provided in this act , is guilty of a
+11 misdemeanor, crime punishable by a fine of not more than $1,000.00,
+12 or imprisonment for not more than 1 year, or both.as follows:
+13 (a) Except as otherwise provided in this subdivision, if the
+14 wages and fringe benefits have a value of less than $200.00, the
+15 employer is guilty of a misdemeanor punishable by imprisonment for
+16 not more than 93 days, a fine of not more than $500.00 or 3 times
+17 the value of the wages and fringe benefits, whichever is greater,
+18 or both imprisonment and a fine. If the employer has 1 or more
+19 prior convictions under this section, the employer is guilty of a
+20 misdemeanor punishable by imprisonment for not more than 1 year, a
+21 fine of not more than $2,000.00 or 3 times the value of the wages
+22 and fringe benefits, whichever is greater, or both imprisonment and
+23 a fine.
+24 (b) Except as otherwise provided in this subdivision, if the
+25 wages and fringe benefits have a value of $200.00 or more but less
+26 than $1,000.00, the employer is guilty of a misdemeanor punishable
+27 by imprisonment for not more than 1 year, a fine of not more than
+28 $2,000.00 or 3 times the value of the wages and fringe benefits,
+29 whichever is greater, or both imprisonment and a fine. If the
+GSS S01104'25 (S-1) imgp1o
+17
+1 employer has 1 or more prior convictions under this section, the
+2 employer is guilty of a felony punishable by imprisonment for not
+3 more than 5 years, a fine of not more than $10,000.00 or 3 times
+4 the value of the wages and fringe benefits, whichever is greater,
+5 or both imprisonment and a fine.
+6 (c) Except as otherwise provided in this subdivision, if the
+7 wages and fringe benefits have a value of $1,000.00 or more but
+8 less than $20,000.00, the employer is guilty of a felony punishable
+9 by imprisonment for not more than 5 years, a fine of not more than
+10 $10,000.00 or 3 times the value of the wages and fringe benefits,
+11 whichever is greater, or both imprisonment and a fine. If the
+12 employer has 2 or more prior convictions under this section, the
+13 employer is guilty of a felony punishable by imprisonment for not
+14 more than 10 years, a fine of not more than $15,000.00 or 3 times
+15 the value of the wages and fringe benefits, whichever is greater,
+16 or both imprisonment and a fine.
+17 (d) If the wages and fringe benefits have a value of
+18 $20,000.00 or more but less than $50,000.00, the employer is guilty
+19 of a felony punishable by imprisonment for not more than 10 years,
+20 a fine of not more than 3 times the value of the wages and fringe
+21 benefits, or both imprisonment and a fine.
+22 (e) If the wages and fringe benefits have a value of
+23 $50,000.00 or more but less than $100,000.00, the employer is
+24 guilty of a felony punishable by imprisonment for not more than 15
+25 years, a fine of not more than 3 times the value of the wages and
+26 fringe benefits, or both imprisonment and a fine.
+27 (f) If the wages and fringe benefits have a value of
+28 $100,000.00 or more, the employer is guilty of a felony punishable
+29 by imprisonment for not more than 20 years, a fine of not more than
+GSS S01104'25 (S-1) imgp1o
+18
+1 3 times the value of the wages and fringe benefits, or both
+2 imprisonment and a fine.
+3 Sec. 18. (1) The department shall order an employer who that
+4 violates section 2, 3, 4, 5, 6, 7, or 8, or 13c to pay the
+5 following:
+6 (a) Wages due to the employee.
+7 (b) Fringe benefits due to or on the behalf of the employee in
+8 accordance with the terms set forth in the written contract or
+9 written policy.
+10 (c) A penalty at the rate of 10% 100% annually on the wages
+11 and fringe benefits due the employee, beginning at the time the
+12 employer is notified that a complaint has been filed and ending
+13 when payment is made.
+14 (2) The department may order an employer who that violates
+15 section 2, 3, 4, 5, 6, 7, or 8, or 13c to pay to the employee
+16 exemplary damages of not more than twice 3 times the amount of the
+17 wages and fringe benefits which that were due the employee, if the
+18 violation is flagrant or repeated.
+19 (3) The department may order an employer who that violates
+20 section 2, 3, 4, 5, 6, 7, or 8, or 13c to pay attorney costs,
+21 hearing costs, and transcript costs.
+22 (4) The department may assess a civil penalty fine of not more
+23 than $1,000.00 $10,000.00 against an employer who that violates
+24 this act. , which The civil penalty shall fine must be credited to
+25 the general fund of this state.
+26 (5) All of the following apply to an employer's violation of
+27 section 13c:
+28 (a) If the department collects a penalty or damages from an
+29 employer for violating section 13c, the department shall, unless
+GSS S01104'25 (S-1) imgp1o
+19
+1 otherwise prohibited by law, pay to the affected employee 50% of
+2 the money collected.
+3 (b) The department shall order an employer that violates
+4 section 13c to pay a penalty in an amount equal to the estimated
+5 federal taxes and Medicare payments, if any, that would have been
+6 due the employee if the employer had not violated section 13c.
+7 Subject to subdivision (a) and unless otherwise prohibited by law,
+8 money collected under this subdivision must be deposited into the
+9 wages and fringe benefits fund created in section 13d.
+10 (c) The department shall notify the department of treasury and
+11 the unemployment insurance agency of the violation.
+12 Sec. 19. The director of labor the department shall, and the
+13 attorney general may, initiate, in the county where the violation
+14 occurred, in the county of Ingham County, or in the county where
+15 the employer has its principal office, the civil action necessary
+16 to enforce an order of the department which that has become a final
+17 agency order as prescribed in this act.
+18 Enacting section 1. This amendatory act takes effect 90 days
+19 after the date it is enacted into law.
+Final Page
+GSS S01104'25 (S-1) imgp1o
+[DELETED:   S i]
+[DELETED:   S i S ( r. ( (  ( p s t i o e m a i p ( p t p d o   ( d]
+[DELETED:   S i ms  a fs   a S p e o s o 1 c d ( a w t r p 3 a o l o f c e a f p s]
+[DELETED:   S i e r. ( s a b ( w e s i ( m t f ( s r ( e p ( e ( d b ( g t]
+[DELETED:   S i () () a ( u t e s i ( e   d ( e ( d b ( g t () () a ( e w a (]
+[DELETED:   S i s p c d a  e S e c 1 t n b 3 vn T c w e ( ae    cd ra im  im t ( d w 9 n i t a ( d 1 t o n I a]
+[DELETED:   S i t 1 i c ( t o r m os, ca a o t m ( e m b p t ( d t s b p c c b T o 1 (n  c as   p 3 h d t o p]
+[DELETED:   S i ( t o V o w p  Se  o o d b i tg, t a ( i dd  or a c n d 3 vn  s t i v o f]
+[DELETED:   S i b ( d t S ( e w ( w w ( a w)) ]
+[DELETED:   S i))))]
+[DELETED:   S i]
+[DELETED:   S i]
+[DELETED:   S i]
+[DELETED:   S i]
+[DELETED:   S i       S A E]
+[DELETED:   S i e vt,  w i  S w i t f t dt, m p o]
+[DELETED:   S i]
+[DELETED:   S i  S v8  f ( ( a w ( a a b e w ( v s8  e t w we,   v ( v s8  h ( o t a v t tt, c b T f t ]
+[DELETED:   S i    S s ,   om, t t h a E a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 6
+A bill to amend 1978 PA 390, entitled
+"An act to regulate the time and manner of payment of wages and
+fringe benefits to employees; to prescribe rights and
+responsibilities of employers and employees, and the powers and
+duties of the department of labor; to require keeping of records;
+to provide for settlement of disputes regarding wages and fringe
+benefits; to prohibit certain practices by employers; to prescribe
+penalties and remedies; and to repeal certain acts and parts of
+acts,"
+by amending sections 1, 7, 11, 13, 13a, 14, 15, 18, and 19 (MCL
+408.471, 408.477, 408.481, 408.483, 408.483a, 408.484, 408.485,
+408.488, and 408.489), section 1 as amended by 2016 PA 18, section
+7 as amended by 2023 PA 243, and section 13a as added by 1982 PA
+524, and by adding sections 13c and 13d.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+GSS S01104'25 (S-1) imgp1o
+
+2
+1 Sec. 1. As used in this act:
+2 (a) "Department" means the department of licensing and
+3 regulatory affairs.labor and economic opportunity.
+4 (b) "Employ" means to engage or permit to work.
+5 (c) "Employee" means an individual employed by an employer.
+6 Employee does not include an independent contractor.
+7 (d) "Employer" means an individual, sole proprietorship,
+8 partnership, association, or corporation, public or private; this
+9 state or an agency of this state; a city, county, village,
+10 township, school district, or intermediate school district; an
+11 institution of higher education; or an individual acting directly
+12 or indirectly in the interest of an employer who that employs 1 or
+13 more individuals. Except as specifically provided in the franchise
+14 agreement, as between a franchisee and franchisor, the franchisee
+15 is considered the sole employer of workers for whom the franchisee
+16 provides a benefit plan or pays wages.
+17 (e) "Fringe benefits" means compensation due an employee
+18 pursuant to a written contract or written policy for holiday, time
+19 off for holidays, time off for sickness or injury, time off for
+20 personal reasons or vacation, bonuses, authorized expenses incurred
+21 during the course of employment, and contributions made on behalf
+22 of an employee.
+23 (f) "Independent contractor" means an individual determined to
+24 be an independent contractor under section 13c(2).
+25 (g) "Payer" means a person that pays remuneration to an
+26 independent contractor for work the independent contractor performs
+27 for the payer.
+28 (h) (f) "Wages" means all earnings of an employee whether
+29 determined on the basis of time, task, piece, commission, or other
+GSS S01104'25 (S-1) imgp1o
+
+3
+1 method of calculation for labor or services. except those defined
+2 as Wages does not include fringe benefits. under subdivision (e)
+3 above.
+4 Sec. 7. (1) Except for those deductions required or expressly
+5 permitted by law or by a collective bargaining agreement, an
+6 employer shall not deduct from the wages of an employee, directly
+7 or indirectly, any amount including an employee contribution to a
+8 separate segregated fund established by a corporation or labor
+9 organization under section 55 of the Michigan campaign finance act,
+10 1976 PA 388, MCL 169.255, without the full, free, and written
+11 consent of the employee, obtained without intimidation or fear of
+12 discharge for refusal to permit the deduction.
+13 (2) Except as provided in this subsection and subsections (4)
+14 and (5), a deduction for the benefit of the employer requires
+15 written consent from the employee for each wage payment subject to
+16 the deduction, and the cumulative amount of the deductions must not
+17 reduce the gross wages paid to a rate less than the minimum rate as
+18 prescribed in the improved workforce opportunity wage act, 2018 PA
+19 337, MCL 408.931 to 408.945. A nonprofit organization shall obtain
+20 a written consent from an employee for deductions to that nonprofit
+21 organization that qualify as charitable contributions under federal
+22 law. However, this subsection does not require the nonprofit
+23 organization to obtain from an employee a separate written consent
+24 for each subsequent paycheck from which deductions that qualify as
+25 charitable contributions that benefit the employer are made. An
+26 employee at any time may rescind in writing his or her the
+27 employee's authorization to have charitable contributions deducted
+28 from his or her the employee's paycheck. As used in this
+29 subsection, "nonprofit organization" means an organization that is
+GSS S01104'25 (S-1) imgp1o
+
+4
+1 exempt from taxation under section 501(c)(3) of the internal
+2 revenue code of 1986, 26 USC 501(c)(3).501.
+3 (3) Each deduction from the wages of an employee must be
+4 substantiated in the records of the employer and must be identified
+5 as pertaining to an individual employee. Prorating of deductions
+6 between 2 or more employees is not permitted.
+7 (4) Not later than 6 months after making an overpayment of
+8 wages or fringe benefits that are paid directly to an employee, an
+9 employer may deduct the overpayment from the employee's regularly
+10 scheduled wage payment without the written consent of the employee
+11 if all of the following conditions are met:
+12 (a) The overpayment resulted from a mathematical
+13 miscalculation, typographical error, clerical error, or misprint in
+14 the processing of the employee's regularly scheduled wages or
+15 fringe benefits.
+16 (b) The miscalculation, error, or misprint described in
+17 subdivision (a) was made by the employer, the employee, or a
+18 representative of the employer or employee.
+19 (c) The employer provides the employee with a written
+20 explanation of the deduction at least 1 pay period before the wage
+21 payment affected by the deduction is made.
+22 (d) The deduction is not greater than 15% of the gross wages
+23 earned in the pay period in which the deduction is made.
+24 (e) The deduction is made after the employer has made all
+25 deductions expressly permitted or required by law or a collective
+26 bargaining agreement, and after any employee-authorized deduction.
+27 (f) The deduction does not reduce the regularly scheduled
+28 gross wages otherwise due the employee to a rate that is less than
+29 the greater of either of the following:
+GSS S01104'25 (S-1) imgp1o
+
+5
+1 (i) The minimum rate as prescribed by subsection (2).
+2 (ii) The minimum rate as prescribed by the fair labor standards
+3 act of 1938, 29 USC 201 to 219.
+4 (5) If an employer pays any amount of the employee's debt
+5 under a default judgment entered under section 4012(9) or (10) of
+6 the revised judicature act of 1961, 1961 PA 236, MCL 600.4012, the
+7 employer may deduct that amount from the employee's regularly
+8 scheduled wage payment without the written consent of the employee
+9 if all of the following conditions are met:
+10 (a) The employer provides the employee with a written
+11 explanation of the deduction at least 1 pay period or 10 business
+12 days, whichever is greater, before the wage payment affected by the
+13 deduction is made.
+14 (b) The deduction is not greater than 15% of the gross wages
+15 earned in the pay period in which the deduction is made.
+16 (c) The deduction is made after the employer has made all
+17 deductions expressly permitted or required by law or a collective
+18 bargaining agreement, and after any employee-authorized deduction.
+19 (d) The deduction does not reduce the regularly scheduled
+20 gross wages otherwise due the employee to a rate that is less than
+21 the greater of either of the following:
+22 (i) The minimum rate as prescribed by subsection (2).
+23 (ii) The minimum rate as prescribed by the fair labor standards
+24 act of 1938, 29 USC 201 to 219.
+25 (6) An employee who believes his or her the employee's
+26 employer has violated subsection (4) or (5) may file a complaint
+27 with the department not later than 12 months after the date of the
+28 alleged violation.
+29 (7) As used in this section, "employer" means an individual,
+GSS S01104'25 (S-1) imgp1o
+
+6
+1 sole proprietorship, partnership, association, or corporation,
+2 public or private, this state or an agency of this state, a city,
+3 county, village, township, school district, or intermediate school
+4 district, an institution of higher education, or an individual
+5 acting directly or indirectly in the interest of an employer who
+6 that employs 1 or more individuals.
+7 Sec. 11. (1) An employee who believes that his or her the
+8 employee's employer has violated this act may file a written
+9 complaint with the department within not later than 12 months after
+10 the alleged violation. A complaint filed under section 13(2) shall
+11 must be filed within not later than 30 days after the alleged
+12 violation. occurs. Bilingual The department shall provide bilingual
+13 complaint forms shall be provided by the department in those areas
+14 where substantial numbers of non-English speaking non-English-
+15 speaking employees are employed.
+16 (2) Within Not later than a reasonable amount of time after a
+17 complaint is filed, the department shall notify the employer and
+18 investigate the claim, and shall attempt to may informally resolve
+19 the dispute.
+20 (3) If the department is unable to informally resolve the
+21 dispute, the department shall notify the employer and employee
+22 within not later than 90 days after the complaint is filed. The
+23 notification shall must include a determination of the merits of
+24 the complaint and shall cite the specific violation, if any, wages
+25 and fringe benefits due, and specific penalties assessed.
+26 (4) The employer or employee may request a review of the
+27 department's determination within not later than 14 days after the
+28 department issues notification is issued. of its determination. If
+29 the department does not receive a request for a review by either
+GSS S01104'25 (S-1) imgp1o
+
+7
+1 the employer or employee is not received by the department within
+2 14 days, that 14-day period, in the absence of a showing of good
+3 cause for a late request, the department's determination is final.
+4 (5) For the purpose of an investigation or proceeding under
+5 this act, the director of labor the department or an authorized
+6 representative of the director director's designee may administer
+7 oaths and affirmations, subpoena witnesses , and compel their
+8 attendance, take evidence, and require the production of records or
+9 other documents which that the department considers relevant or
+10 material to the inquiry.
+11 (6) The employee, the employer, and the department shall must
+12 be parties to a proceeding before a hearings officer brought
+13 pursuant to under this section.
+14 (7) The director shall appoint hearings officers to make
+15 determinations in proceedings brought pursuant to under this
+16 section. All proceedings in a hearing shall must be conducted
+17 pursuant to the procedures applicable to the trial of as contested
+18 cases under Act No. 306 of the Public Acts of 1969, as amended,
+19 being sections 24.201 to 24.315 of the Michigan Compiled Laws. the
+20 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+21 24.328. The hearings officer shall affirm, modify, or rescind the
+22 order of the department and may assess costs as provided in section
+23 18(3).
+24 (8) The hearings officer shall issue a determination, which
+25 constitutes is a final disposition of the proceedings, to each
+26 party within not later than 30 days after the conclusion of the
+27 hearing. The determination of the hearings officer shall become
+28 becomes the final agency department order upon receipt by the
+29 parties.
+GSS S01104'25 (S-1) imgp1o
+
+8
+1 (9) A party to the proceeding may obtain judicial review of
+2 the determination of the hearings officer pursuant to Act No. 306
+3 of the Public Acts of 1969, as amended. officer's determination in
+4 accordance with the administrative procedures act of 1969, 1969 PA
+5 306, MCL 24.201 to 24.328. Venue for an appeal under this act shall
+6 is proper only be in the circuit where the employee is a resident,
+7 where the employment occurred, or where the employer has a
+8 principal place of business.
+9 (10) If requested by an employee who files a complaint against
+10 an employer under this section, the department shall, to the extent
+11 allowed by law, not disclose to the employer the identity of the
+12 employee.
+13 Sec. 13. (1) An employer shall not discharge, an employee
+14 retaliate against, or otherwise discriminate against an employee
+15 because the employee filed a complaint, instituted or caused to be
+16 instituted a proceeding under or regulated by this act, or
+17 testified or is about to testify in a proceeding , or because of
+18 the exercise by the employee on behalf of an employee or others of
+19 a right afforded by this act.
+20 (2) An employee who believes that he or she the employee is
+21 discharged, or retaliated against, or otherwise discriminated
+22 against by an employer in violation of this section may file a
+23 complaint with the department alleging the discharge, retaliation,
+24 or discrimination within not later than 30 days after the
+25 violation. occurs. Upon receipt of the complaint, the department
+26 shall cause an investigation to be made. If, upon completing the
+27 investigation, the department determines that this section was
+28 violated, the department shall order the rehiring or reinstatement
+29 of an employee to his or her the employee's former position with
+GSS S01104'25 (S-1) imgp1o
+
+9
+1 back pay.
+2 (3) An employer may seek review of the department's
+3 determination by following the procedure provided in section 11(4)
+4 to (9).
+5 Sec. 13a. (1) An employer shall not do any of the following:
+6 (a) Require as a condition of employment nondisclosure by an
+7 employee of his or her the employee's wages.
+8 (b) Require an employee to sign a waiver or other document
+9 which purports to deny an employee the right to disclose his or her
+10 the employee's wages.
+11 (c) Discharge, formally discipline, or otherwise discriminate
+12 against for job advancement an employee who discloses his or her
+13 the employee's wages.
+14 (d) Not later than 30 days after an employee's request, fail
+15 to provide the employee with wage information for similarly
+16 situated employees covering a period of not more than 3 years
+17 before the date of the request. The employer may redact the names
+18 of similarly situated employees, but shall provide information
+19 about the sex and seniority of similarly situated employees for
+20 whom wage information is provided. As used in this subdivision:
+21 (i) "Similarly situated employees" means employees who are
+22 within the same job classification as the employee requesting the
+23 information or whose duties are comparable in skill, effort,
+24 responsibility, working conditions, and training to those of the
+25 requesting employee.
+26 (ii) "Wage information" includes salary and hourly wage
+27 information as well as information about bonus pay, overtime pay,
+28 and other forms of compensation provided by the employer.
+29 Sec. 13c. (1) A person shall not classify, report, or treat an
+GSS S01104'25 (S-1) imgp1o
+
+10
+1 employee as an independent contractor. A person that is alleged to
+2 have violated this section has the burden of proving, by a
+3 preponderance of the evidence, that the person did not classify,
+4 report, or treat the employee as an independent contractor.
+5 (2) Whether an individual is an independent contractor is
+6 determined as follows:
+7 (a) If the individual works in an industry assigned a North
+8 American Industry Classification System code within sector 23, all
+9 of the following apply to the individual:
+10 (i) The individual performs work for a payer for remuneration.
+11 (ii) The individual is free from control and direction of the
+12 payer in connection with the performance of the work, both under a
+13 contract and in fact.
+14 (iii) The individual performs work that is outside the usual
+15 course of the payer's business.
+16 (iv) The individual is customarily engaged in an independently
+17 established trade, occupation, or business of the same work
+18 performed by the individual for the payer.
+19 (b) If the individual works in an industry other than the
+20 industry described in subdivision (a), by using the economic
+21 realties test under 29 CFR 795.110, as it exists on May 6, 2025,
+22 incorporated as follows:
+23 "§ 795.110 Economic reality test to determine economic
+24 dependence.
+25 (a) Economic reality test.
+26 (1) In order to determine economic dependence, multiple
+27 factors assessing the economic realities of the working
+28 relationship are used. These factors are tools or guides to conduct
+29 a totality-of-the-circumstances analysis. This means that the
+GSS S01104'25 (S-1) imgp1o
+
+11
+1 outcome of the analysis does not depend on isolated factors but
+2 rather upon the circumstances of the whole activity to answer the
+3 question of whether the worker is economically dependent on the
+4 potential employer for work or is in business for themself.
+5 (2) The six factors described in paragraphs (b)(1) through (6)
+6 of this section should guide an assessment of the economic
+7 realities of the working relationship and the question of economic
+8 dependence. Consistent with a totality-of-the-circumstances
+9 analysis, no one factor or subset of factors is necessarily
+10 dispositive, and the weight to give each factor may depend on the
+11 facts and circumstances of the particular relationship. Moreover,
+12 these six factors are not exhaustive. As explained in paragraph
+13 (b)(7) of this section, additional factors may be considered.
+14 (b) Economic reality factors —
+15 (1) Opportunity for profit or loss depending on managerial
+16 skill. This factor considers whether the worker has opportunities
+17 for profit or loss based on managerial skill (including initiative
+18 or business acumen or judgment) that affect the worker's economic
+19 success or failure in performing the work. The following facts,
+20 among others, can be relevant: whether the worker determines or can
+21 meaningfully negotiate the charge or pay for the work provided;
+22 whether the worker accepts or declines jobs or chooses the order
+23 and/or time in which the jobs are performed; whether the worker
+24 engages in marketing, advertising, or other efforts to expand their
+25 business or secure more work; and whether the worker makes
+26 decisions to hire others, purchase materials and equipment, and/or
+27 rent space. If a worker has no opportunity for a profit or loss,
+28 then this factor suggests that the worker is an employee. Some
+29 decisions by a worker that can affect the amount of pay that a
+GSS S01104'25 (S-1) imgp1o
+
+12
+1 worker receives, such as the decision to work more hours or take
+2 more jobs when paid a fixed rate per hour or per job, generally do
+3 not reflect the exercise of managerial skill indicating independent
+4 contractor status under this factor.
+5 (2) Investments by the worker and the potential employer. This
+6 factor considers whether any investments by a worker are capital or
+7 entrepreneurial in nature. Costs to a worker of tools and equipment
+8 to perform a specific job, costs of workers' labor, and costs that
+9 the potential employer imposes unilaterally on the worker, for
+10 example, are not evidence of capital or entrepreneurial investment
+11 and indicate employee status. Investments that are capital or
+12 entrepreneurial in nature and thus indicate independent contractor
+13 status generally support an independent business and serve a
+14 business-like function, such as increasing the worker's ability to
+15 do different types of or more work, reducing costs, or extending
+16 market reach. Additionally, the worker's investments should be
+17 considered on a relative basis with the potential employer's
+18 investments in its overall business. The worker's investments need
+19 not be equal to the potential employer's investments and should not
+20 be compared only in terms of the dollar values of investments or
+21 the sizes of the worker and the potential employer. Instead, the
+22 focus should be on comparing the investments to determine whether
+23 the worker is making similar types of investments as the potential
+24 employer (even if on a smaller scale) to suggest that the worker is
+25 operating independently, which would indicate independent
+26 contractor status.
+27 (3) Degree of permanence of the work relationship. This factor
+28 weighs in favor of the worker being an employee when the work
+29 relationship is indefinite in duration, continuous, or exclusive of
+GSS S01104'25 (S-1) imgp1o
+
+13
+1 work for other employers. This factor weighs in favor of the worker
+2 being an independent contractor when the work relationship is
+3 definite in duration, non-exclusive, project-based, or sporadic
+4 based on the worker being in business for themself and marketing
+5 their services or labor to multiple entities. This may include
+6 regularly occurring fixed periods of work, although the seasonal or
+7 temporary nature of work by itself would not necessarily indicate
+8 independent contractor classification. Where a lack of permanence
+9 is due to operational characteristics that are unique or intrinsic
+10 to particular businesses or industries and the workers they employ,
+11 this factor is not necessarily indicative of independent contractor
+12 status unless the worker is exercising their own independent
+13 business initiative.
+14 (4) Nature and degree of control. This factor considers the
+15 potential employer's control, including reserved control, over the
+16 performance of the work and the economic aspects of the working
+17 relationship. Facts relevant to the potential employer's control
+18 over the worker include whether the potential employer sets the
+19 worker's schedule, supervises the performance of the work, or
+20 explicitly limits the worker's ability to work for others.
+21 Additionally, facts relevant to the potential employer's control
+22 over the worker include whether the potential employer uses
+23 technological means to supervise the performance of the work (such
+24 as by means of a device or electronically), reserves the right to
+25 supervise or discipline workers, or places demands or restrictions
+26 on workers that do not allow them to work for others or work when
+27 they choose. Whether the potential employer controls economic
+28 aspects of the working relationship should also be considered,
+29 including control over prices or rates for services and the
+GSS S01104'25 (S-1) imgp1o
+
+14
+1 marketing of the services or products provided by the worker.
+2 Actions taken by the potential employer for the sole purpose of
+3 complying with a specific, applicable Federal, State, Tribal, or
+4 local law or regulation are not indicative of control. Actions
+5 taken by the potential employer that go beyond compliance with a
+6 specific, applicable Federal, State, Tribal, or local law or
+7 regulation and instead serve the potential employer's own
+8 compliance methods, safety, quality control, or contractual or
+9 customer service standards may be indicative of control. More
+10 indicia of control by the potential employer favors employee
+11 status; more indicia of control by the worker favors independent
+12 contractor status.
+13 (5) Extent to which the work performed is an integral part of
+14 the potential employer's business. This factor considers whether
+15 the work performed is an integral part of the potential employer's
+16 business. This factor does not depend on whether any individual
+17 worker in particular is an integral part of the business, but
+18 rather whether the function they perform is an integral part of the
+19 business. This factor weighs in favor of the worker being an
+20 employee when the work they perform is critical, necessary, or
+21 central to the potential employer's principal business. This factor
+22 weighs in favor of the worker being an independent contractor when
+23 the work they perform is not critical, necessary, or central to the
+24 potential employer's principal business.
+25 (6) Skill and initiative. This factor considers whether the
+26 worker uses specialized skills to perform the work and whether
+27 those skills contribute to business-like initiative. This factor
+28 indicates employee status where the worker does not use specialized
+29 skills in performing the work or where the worker is dependent on
+GSS S01104'25 (S-1) imgp1o
+
+15
+1 training from the potential employer to perform the work. Where the
+2 worker brings specialized skills to the work relationship, this
+3 fact is not itself indicative of independent contractor status
+4 because both employees and independent contractors may be skilled
+5 workers. It is the worker's use of those specialized skills in
+6 connection with business-like initiative that indicates that the
+7 worker is an independent contractor.
+8 (7) Additional factors. Additional factors may be relevant in
+9 determining whether the worker is an employee or independent
+10 contractor for purposes of the FLSA, if the factors in some way
+11 indicate whether the worker is in business for themself, as opposed
+12 to being economically dependent on the potential employer for
+13 work."
+14 (3) A person that, with the intent to defraud, violates this
+15 section is guilty of a misdemeanor punishable by a fine of not more
+16 than $1,000.00, or imprisonment for not more than 1 year, or both.
+17 Sec. 13d. (1) The wages and fringe benefits fund is created in
+18 the state treasury.
+19 (2) The state treasurer shall deposit money and other assets
+20 received from any source into the fund. The state treasurer shall
+21 direct the investment of the money in the fund and credit interest
+22 and earnings from the investments to the fund.
+23 (3) Money in the fund at the close of the fiscal year must
+24 remain in the fund and not lapse to the general fund.
+25 (4) The department is the administrator of the fund for
+26 auditing purposes.
+27 (5) The department shall expend money from the fund, upon
+28 appropriation, only to enforce this act.
+29 Sec. 14. (1) An Except as provided in subsection (2), an
+GSS S01104'25 (S-1) imgp1o
+
+16
+1 employer who that violates this act , including failure to pay the
+2 wages and fringe benefits due an employee as provided in this act,
+3 is guilty of a misdemeanor.
+4 (2) An employer that violates section 13a a second or
+5 subsequent time is guilty of a felony punishable by imprisonment
+6 for not more than 2 years, a fine of not more than $10,000.00, or
+7 both, for each violation.
+8 Sec. 15. An employer who, that, with the intent to defraud,
+9 fails to make payment of does not pay the wages and fringe benefits
+10 due an employee as provided in this act , is guilty of a
+11 misdemeanor, crime punishable by a fine of not more than $1,000.00,
+12 or imprisonment for not more than 1 year, or both.as follows:
+13 (a) Except as otherwise provided in this subdivision, if the
+14 wages and fringe benefits have a value of less than $200.00, the
+15 employer is guilty of a misdemeanor punishable by imprisonment for
+16 not more than 93 days, a fine of not more than $500.00 or 3 times
+17 the value of the wages and fringe benefits, whichever is greater,
+18 or both imprisonment and a fine. If the employer has 1 or more
+19 prior convictions under this section, the employer is guilty of a
+20 misdemeanor punishable by imprisonment for not more than 1 year, a
+21 fine of not more than $2,000.00 or 3 times the value of the wages
+22 and fringe benefits, whichever is greater, or both imprisonment and
+23 a fine.
+24 (b) Except as otherwise provided in this subdivision, if the
+25 wages and fringe benefits have a value of $200.00 or more but less
+26 than $1,000.00, the employer is guilty of a misdemeanor punishable
+27 by imprisonment for not more than 1 year, a fine of not more than
+28 $2,000.00 or 3 times the value of the wages and fringe benefits,
+29 whichever is greater, or both imprisonment and a fine. If the
+GSS S01104'25 (S-1) imgp1o
+
+17
+1 employer has 1 or more prior convictions under this section, the
+2 employer is guilty of a felony punishable by imprisonment for not
+3 more than 5 years, a fine of not more than $10,000.00 or 3 times
+4 the value of the wages and fringe benefits, whichever is greater,
+5 or both imprisonment and a fine.
+6 (c) Except as otherwise provided in this subdivision, if the
+7 wages and fringe benefits have a value of $1,000.00 or more but
+8 less than $20,000.00, the employer is guilty of a felony punishable
+9 by imprisonment for not more than 5 years, a fine of not more than
+10 $10,000.00 or 3 times the value of the wages and fringe benefits,
+11 whichever is greater, or both imprisonment and a fine. If the
+12 employer has 2 or more prior convictions under this section, the
+13 employer is guilty of a felony punishable by imprisonment for not
+14 more than 10 years, a fine of not more than $15,000.00 or 3 times
+15 the value of the wages and fringe benefits, whichever is greater,
+16 or both imprisonment and a fine.
+17 (d) If the wages and fringe benefits have a value of
+18 $20,000.00 or more but less than $50,000.00, the employer is guilty
+19 of a felony punishable by imprisonment for not more than 10 years,
+20 a fine of not more than 3 times the value of the wages and fringe
+21 benefits, or both imprisonment and a fine.
+22 (e) If the wages and fringe benefits have a value of
+23 $50,000.00 or more but less than $100,000.00, the employer is
+24 guilty of a felony punishable by imprisonment for not more than 15
+25 years, a fine of not more than 3 times the value of the wages and
+26 fringe benefits, or both imprisonment and a fine.
+27 (f) If the wages and fringe benefits have a value of
+28 $100,000.00 or more, the employer is guilty of a felony punishable
+29 by imprisonment for not more than 20 years, a fine of not more than
+GSS S01104'25 (S-1) imgp1o
+
+18
+1 3 times the value of the wages and fringe benefits, or both
+2 imprisonment and a fine.
+3 Sec. 18. (1) The department shall order an employer who that
+4 violates section 2, 3, 4, 5, 6, 7, or 8, or 13c to pay the
+5 following:
+6 (a) Wages due to the employee.
+7 (b) Fringe benefits due to or on the behalf of the employee in
+8 accordance with the terms set forth in the written contract or
+9 written policy.
+10 (c) A penalty at the rate of 10% 100% annually on the wages
+11 and fringe benefits due the employee, beginning at the time the
+12 employer is notified that a complaint has been filed and ending
+13 when payment is made.
+14 (2) The department may order an employer who that violates
+15 section 2, 3, 4, 5, 6, 7, or 8, or 13c to pay to the employee
+16 exemplary damages of not more than twice 3 times the amount of the
+17 wages and fringe benefits which that were due the employee, if the
+18 violation is flagrant or repeated.
+19 (3) The department may order an employer who that violates
+20 section 2, 3, 4, 5, 6, 7, or 8, or 13c to pay attorney costs,
+21 hearing costs, and transcript costs.
+22 (4) The department may assess a civil penalty fine of not more
+23 than $1,000.00 $10,000.00 against an employer who that violates
+24 this act. , which The civil penalty shall fine must be credited to
+25 the general fund of this state.
+26 (5) All of the following apply to an employer's violation of
+27 section 13c:
+28 (a) If the department collects a penalty or damages from an
+29 employer for violating section 13c, the department shall, unless
+GSS S01104'25 (S-1) imgp1o
+
+19
+1 otherwise prohibited by law, pay to the affected employee 50% of
+2 the money collected.
+3 (b) The department shall order an employer that violates
+4 section 13c to pay a penalty in an amount equal to the estimated
+5 federal taxes and Medicare payments, if any, that would have been
+6 due the employee if the employer had not violated section 13c.
+7 Subject to subdivision (a) and unless otherwise prohibited by law,
+8 money collected under this subdivision must be deposited into the
+9 wages and fringe benefits fund created in section 13d.
+10 (c) The department shall notify the department of treasury and
+11 the unemployment insurance agency of the violation.
+12 Sec. 19. The director of labor the department shall, and the
+13 attorney general may, initiate, in the county where the violation
+14 occurred, in the county of Ingham County, or in the county where
+15 the employer has its principal office, the civil action necessary
+16 to enforce an order of the department which that has become a final
+17 agency order as prescribed in this act.
+18 Enacting section 1. This amendatory act takes effect 90 days
+19 after the date it is enacted into law.
+Final Page
+GSS S01104'25 (S-1) imgp1o
+
+[DELETED:   S i]
+[DELETED:   S i S ( r. ( (  ( p s t i o e m a i p ( p t p d o   ( d]
+[DELETED:   S i ms  a fs   a S p e o s o 1 c d ( a w t r p 3 a o l o f c e a f p s]
+[DELETED:   S i e r. ( s a b ( w e s i ( m t f ( s r ( e p ( e ( d b ( g t]
+[DELETED:   S i () () a ( u t e s i ( e   d ( e ( d b ( g t () () a ( e w a (]
+[DELETED:   S i s p c d a  e S e c 1 t n b 3 vn T c w e ( ae    cd ra im  im t ( d w 9 n i t a ( d 1 t o n I a]
+[DELETED:   S i t 1 i c ( t o r m os, ca a o t m ( e m b p t ( d t s b p c c b T o 1 (n  c as   p 3 h d t o p]
+[DELETED:   S i ( t o V o w p  Se  o o d b i tg, t a ( i dd  or a c n d 3 vn  s t i v o f]
+[DELETED:   S i b ( d t S ( e w ( w w ( a w)) ]
+[DELETED:   S i))))]
+[DELETED:   S i]
+[DELETED:   S i]
+[DELETED:   S i]
+[DELETED:   S i]
+[DELETED:   S i       S A E]
+[DELETED:   S i e vt,  w i  S w i t f t dt, m p o]
+[DELETED:   S i]
+[DELETED:   S i  S v8  f ( ( a w ( a a b e w ( v s8  e t w we,   v ( v s8  h ( o t a v t tt, c b T f t ]
+[DELETED:   S i    S s ,   om, t t h a E a]

@@ -1,0 +1,90 @@
+Title: SENATE BILL NO. 403
+Official Title: SENATE BILL NO. 403
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 5
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+(MCL 333.1101 to 333.25211) by adding section 7333c.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7333c. (1) A pharmacist who receives a lawful order from
+2 a prescriber for addiction medication shall make a good-faith
+3 effort to fill the order without undue delay. If the pharmacy does
+4 not have the addiction medication in stock, the pharmacist shall
+5 offer to do 1 or more of the following for the patient:
+6 (a) Obtain the addiction medication using the pharmacy's
+7 standard expedited ordering procedure.
+8 (b) Locate a pharmacy that is reasonably accessible to the
+9 patient that has the addiction medication in stock and transfer the
+EMR S00527'25 (S-1) 2csreb
+2
+1 order to that pharmacy using the transferring pharmacy's standard
+2 transfer procedure.
+3 (2) If an addiction medication is prescribed to a patient on a
+4 prescription form and is not filled at the pharmacy, the pharmacist
+5 shall return the prescription form to the patient on the patient's
+6 request.
+7 (3) As used in this section:
+8 (a) "Addiction medication" means a controlled substance to
+9 treat or manage an opioid use disorder.
+10 (b) "Undue delay" means a delay intended to obstruct a
+11 patient's access to the addiction medication or that is not a valid
+12 delay.
+13 (c) "Valid delay" means a delay caused by fulfilling the
+14 requirements of this article, part 177, or a rule promulgated under
+15 this article or part 177, or any other delay commonly associated
+16 with the practice of pharmacy.
+Final Page
+EMR S00527'25 (S-1) 2csreb
+[DELETED:   S 2]
+[DELETED:   S 2 ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 403
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+(MCL 333.1101 to 333.25211) by adding section 7333c.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7333c. (1) A pharmacist who receives a lawful order from
+2 a prescriber for addiction medication shall make a good-faith
+3 effort to fill the order without undue delay. If the pharmacy does
+4 not have the addiction medication in stock, the pharmacist shall
+5 offer to do 1 or more of the following for the patient:
+6 (a) Obtain the addiction medication using the pharmacy's
+7 standard expedited ordering procedure.
+8 (b) Locate a pharmacy that is reasonably accessible to the
+9 patient that has the addiction medication in stock and transfer the
+EMR S00527'25 (S-1) 2csreb
+
+2
+1 order to that pharmacy using the transferring pharmacy's standard
+2 transfer procedure.
+3 (2) If an addiction medication is prescribed to a patient on a
+4 prescription form and is not filled at the pharmacy, the pharmacist
+5 shall return the prescription form to the patient on the patient's
+6 request.
+7 (3) As used in this section:
+8 (a) "Addiction medication" means a controlled substance to
+9 treat or manage an opioid use disorder.
+10 (b) "Undue delay" means a delay intended to obstruct a
+11 patient's access to the addiction medication or that is not a valid
+12 delay.
+13 (c) "Valid delay" means a delay caused by fulfilling the
+14 requirements of this article, part 177, or a rule promulgated under
+15 this article or part 177, or any other delay commonly associated
+16 with the practice of pharmacy.
+Final Page
+EMR S00527'25 (S-1) 2csreb
+
+[DELETED:   S 2]
+[DELETED:   S 2 ]
