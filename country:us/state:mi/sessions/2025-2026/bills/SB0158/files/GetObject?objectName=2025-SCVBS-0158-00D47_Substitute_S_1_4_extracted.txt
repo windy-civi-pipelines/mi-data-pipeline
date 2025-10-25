@@ -1,0 +1,129 @@
+Title: SENATE BILL NO. 158
+Official Title: SENATE BILL NO. 158
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 4
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to regulate the online sale of tickets for
+entertainment events; and to prohibit the use of a bot to make
+certain purchases for tickets for entertainment events.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "event online ticket
+2 sales act".
+3 Sec. 3. As used in this act:
+4 (a) "Bot" means an automated software application programmed
+5 to perform automatic and repetitive tasks and that is designed to
+6 impersonate or replicate human activity online.
+7 (b) "Entertainment event" means a concert, theatrical
+8 performance, sporting event, exhibition, show, or similar scheduled
+9 activity held in this state that meets all of the following:
+VMP S01419'25 (S-1) aef649
+2
+1 (i) Is open to the public.
+2 (ii) Is held in a public or private venue.
+3 (iii) Charges an admission fee to attend.
+4 (c) "Person" means any of the following:
+5 (i) An individual.
+6 (ii) A sole proprietorship, partnership, association,
+7 corporation, limited liability company, or other legal entity.
+8 (iii) A combination of persons described in subparagraphs (i)
+9 and (ii).
+10 (d) "Ticket" means a physical, electronic, or other form of a
+11 certificate, voucher, document, token, or other evidence indicating
+12 that the person entitled to possession through purchase or
+13 otherwise has a right to enter a venue for an entertainment event
+14 at the date and time specified on the ticket.
+15 (e) "Ticket purchasing limit" means the posted limit stating
+16 the number of tickets a person may purchase for a specific
+17 entertainment event during an online ticket sale.
+18 Sec. 5. A person shall not use or create a bot to do any of
+19 the following:
+20 (a) Purchase an amount of tickets for an entertainment event
+21 in excess of the ticket purchasing limit.
+22 (b) Use multiple internet protocol addresses, purchaser
+23 accounts, or email addresses to purchase an amount of tickets for
+24 an entertainment event in excess of the ticket purchasing limit.
+25 (c) Circumvent or disable an electronic queue, waiting period,
+26 presale code, or other sales volume limitation system associated
+27 with an online ticket sale.
+28 (d) Circumvent or disable a security measure, access control
+29 system, or other control or measure that is used to validate that a
+VMP S01419'25 (S-1) aef649
+3
+1 ticket is not fraudulent.
+2 Enacting section 1. This act does not take effect unless
+3 Senate Bill No. 159 of the 103rd Legislature is enacted into law.
+Final Page
+VMP S01419'25 (S-1) aef649
+[DELETED:   S a S s S ( t i ( p a]
+[DELETED:   S a () () () ( () () c ()()i a() ( c t o a ( t e S t ( i ( a a ( p w ( s]
+[DELETED:   S a t E S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 158
+A bill to regulate the online sale of tickets for
+entertainment events; and to prohibit the use of a bot to make
+certain purchases for tickets for entertainment events.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "event online ticket
+2 sales act".
+3 Sec. 3. As used in this act:
+4 (a) "Bot" means an automated software application programmed
+5 to perform automatic and repetitive tasks and that is designed to
+6 impersonate or replicate human activity online.
+7 (b) "Entertainment event" means a concert, theatrical
+8 performance, sporting event, exhibition, show, or similar scheduled
+9 activity held in this state that meets all of the following:
+VMP S01419'25 (S-1) aef649
+
+2
+1 (i) Is open to the public.
+2 (ii) Is held in a public or private venue.
+3 (iii) Charges an admission fee to attend.
+4 (c) "Person" means any of the following:
+5 (i) An individual.
+6 (ii) A sole proprietorship, partnership, association,
+7 corporation, limited liability company, or other legal entity.
+8 (iii) A combination of persons described in subparagraphs (i)
+9 and (ii).
+10 (d) "Ticket" means a physical, electronic, or other form of a
+11 certificate, voucher, document, token, or other evidence indicating
+12 that the person entitled to possession through purchase or
+13 otherwise has a right to enter a venue for an entertainment event
+14 at the date and time specified on the ticket.
+15 (e) "Ticket purchasing limit" means the posted limit stating
+16 the number of tickets a person may purchase for a specific
+17 entertainment event during an online ticket sale.
+18 Sec. 5. A person shall not use or create a bot to do any of
+19 the following:
+20 (a) Purchase an amount of tickets for an entertainment event
+21 in excess of the ticket purchasing limit.
+22 (b) Use multiple internet protocol addresses, purchaser
+23 accounts, or email addresses to purchase an amount of tickets for
+24 an entertainment event in excess of the ticket purchasing limit.
+25 (c) Circumvent or disable an electronic queue, waiting period,
+26 presale code, or other sales volume limitation system associated
+27 with an online ticket sale.
+28 (d) Circumvent or disable a security measure, access control
+29 system, or other control or measure that is used to validate that a
+VMP S01419'25 (S-1) aef649
+
+3
+1 ticket is not fraudulent.
+2 Enacting section 1. This act does not take effect unless
+3 Senate Bill No. 159 of the 103rd Legislature is enacted into law.
+Final Page
+VMP S01419'25 (S-1) aef649
+
+[DELETED:   S a S s S ( t i ( p a]
+[DELETED:   S a () () () ( () () c ()()i a() ( c t o a ( t e S t ( i ( a a ( p w ( s]
+[DELETED:   S a t E S]

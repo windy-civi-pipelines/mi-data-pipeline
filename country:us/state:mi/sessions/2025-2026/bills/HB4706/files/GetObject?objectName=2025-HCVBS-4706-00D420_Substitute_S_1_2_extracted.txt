@@ -1,0 +1,110 @@
+Title: HOUSE BILL NO. 4706
+Official Title: HOUSE BILL NO. 4706
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to make, supplement, adjust, and consolidate
+appropriations for various state departments and agencies, the
+judicial branch, and the legislative branch for the fiscal year
+ending September 30, 2026; to provide for certain conditions on
+appropriations; and to provide for the expenditure of the
+appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the various state
+4 departments and agencies, the judicial branch, and the legislative
+5 branch for the fiscal year ending September 30, 2026, from the
+6 following funds:
+ERE H03740'25 (S-1) 3e4abk
+2
+1 APPROPRIATION SUMMARY
+2 GROSS APPROPRIATION $ 200
+3 Interdepartmental grant revenues:
+4 Total interdepartmental grants and
+5 intradepartmental transfers 0
+6 ADJUSTED GROSS APPROPRIATION $ 200
+7 Federal revenues:
+8 Total federal revenues 0
+9 Special revenue funds:
+10 Total local revenues 0
+11 Total private revenues 0
+12 Total other state restricted revenues 0
+13 State general fund/general purpose $ 200
+14
+15 PART 2
+16 PROVISIONS CONCERNING APPROPRIATIONS
+17 GENERAL SECTIONS
+18 Sec. 201. In accordance with section 30 of article IX of the
+19 state constitution of 1963, for the fiscal year ending September
+20 30, 2026, total state spending under part 1 from state sources is
+21 $200.00. State spending under part 1 from state sources to be paid
+22 to local units of government is $0.00.
+23 TOTAL $ 200
+24 Sec. 202. The appropriations under this part and part 1 are
+25 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+26 to 18.1594.
+Final Page
+ERE H03740'25 (S-1) 3e4abk
+[DELETED:   H 3]
+[DELETED:   H 3  N$2       0N$2        0      0   0   0  $ 2 $ 2]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4706
+A bill to make, supplement, adjust, and consolidate
+appropriations for various state departments and agencies, the
+judicial branch, and the legislative branch for the fiscal year
+ending September 30, 2026; to provide for certain conditions on
+appropriations; and to provide for the expenditure of the
+appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the various state
+4 departments and agencies, the judicial branch, and the legislative
+5 branch for the fiscal year ending September 30, 2026, from the
+6 following funds:
+ERE H03740'25 (S-1) 3e4abk
+
+2
+1 APPROPRIATION SUMMARY
+2 GROSS APPROPRIATION $ 200
+3 Interdepartmental grant revenues:
+4 Total interdepartmental grants and
+5 intradepartmental transfers 0
+6 ADJUSTED GROSS APPROPRIATION $ 200
+7 Federal revenues:
+8 Total federal revenues 0
+9 Special revenue funds:
+10 Total local revenues 0
+11 Total private revenues 0
+12 Total other state restricted revenues 0
+13 State general fund/general purpose $ 200
+14
+15 PART 2
+16 PROVISIONS CONCERNING APPROPRIATIONS
+17 GENERAL SECTIONS
+18 Sec. 201. In accordance with section 30 of article IX of the
+19 state constitution of 1963, for the fiscal year ending September
+20 30, 2026, total state spending under part 1 from state sources is
+21 $200.00. State spending under part 1 from state sources to be paid
+22 to local units of government is $0.00.
+23 TOTAL $ 200
+24 Sec. 202. The appropriations under this part and part 1 are
+25 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+26 to 18.1594.
+Final Page
+ERE H03740'25 (S-1) 3e4abk
+
+[DELETED:   H 3]
+[DELETED:   H 3  N$2       0N$2        0      0   0   0  $ 2 $ 2]

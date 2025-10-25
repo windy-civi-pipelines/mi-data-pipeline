@@ -1,0 +1,1142 @@
+Title: HOUSE BILL NO. 4157
+Official Title: HOUSE BILL NO. 4157
+Number of Sections: 2
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1979 PA 94, entitled
+"The state school aid act of 1979,"
+by amending sections 11, 104, 104b, and 104c (MCL 388.1611,
+
+Section 2:
+388.1704, 388.1704b, and 388.1704c), section 11 as amended by 2024
+PA 148, section 104 as amended by 2024 PA 120, section 104b as
+amended by 2018 PA 265, and section 104c as amended by 2021 PA 48,
+and by adding section 104d.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 11. (1) For the fiscal year ending September 30, 2025,
+2 there is appropriated for the public schools of this state and
+3 certain other state purposes relating to education the sum of
+4 $17,769,551,300.00 from the state school aid fund, the sum of
+5 $78,830,600.00 from the general fund, an amount not to exceed
+CRM H00056'25 (H-1) rdsgoj
+2
+1 $41,000,000.00 from the community district education trust fund
+2 created under section 12 of the Michigan trust fund act, 2000 PA
+3 489, MCL 12.262, an amount not to exceed $125,000,000.00 from the
+4 school transportation fund created under section 22k, an amount not
+5 to exceed $71,000,000.00 from the enrollment stabilization fund
+6 created under section 29, an amount not to exceed $30,000,000.00
+7 from the school meals reserve fund created under section 30e, an
+8 amount not to exceed $18,000,000.00 from the great start readiness
+9 program reserve fund created under section 32e, an amount not to
+10 exceed $334,100,000.00 from the MPSERS retirement obligation reform
+11 reserve fund created under section 147b, and an amount not to
+12 exceed $30,000,000.00 from the educator fellowship public provider
+13 fund created in section 27d. In addition, all available federal
+14 funds are only appropriated as allocated in this article for the
+15 fiscal year ending September 30, 2025.
+16 (2) The appropriations under this section are allocated as
+17 provided in this article. Money appropriated under this section
+18 from the general fund must be expended to fund the purposes of this
+19 article before the expenditure of money appropriated under this
+20 section from the state school aid fund.
+21 (3) Any general fund allocations under this article that are
+22 not expended by the end of the fiscal year are transferred to the
+23 school aid stabilization fund created under section 11a.
+24 Sec. 104. (1) To receive state aid under this article, a
+25 district shall comply with sections 1249, 1278a, 1278b, 1279g, and
+26 1280b of the revised school code, MCL 380.1249, 380.1278a,
+27 380.1278b, 380.1279g, and 380.1280b, and 1970 PA 38, MCL 388.1081
+28 to 388.1086. Subject to subsection (2), from the state school aid
+29 fund money appropriated in section 11, there is allocated for 2024-
+CRM H00056'25 (H-1) rdsgoj
+3
+1 2025 an amount not to exceed $37,509,400.00 for payments on behalf
+2 of districts for costs associated with complying with those
+3 provisions of law. In addition, from the federal funds appropriated
+4 in section 11, there is allocated for 2024-2025 an amount estimated
+5 at $8,000,000.00 funded from DED-OESE, title VI, state assessment
+6 funds, and from DED-OSERS, part B subchapter II of the individuals
+7 with disabilities education act, 20 USC 1411 to 1419, plus any
+8 carryover federal funds from previous year appropriations, for the
+9 purposes of complying with the every student succeeds act, Public
+10 Law 114-95.
+11 (2) The results of each test administered as part of the
+12 Michigan student test of educational progress (M-STEP) or a state-
+13 administered assessment system described in section 104d, including
+14 tests administered to high school students, must include an item
+15 analysis, if an item analysis is available, that lists all items
+16 that are counted for individual pupil scores and the percentage of
+17 pupils choosing each possible response. The department shall work
+18 with the center to identify the number of students enrolled at the
+19 time assessments are given by each district. In calculating the
+20 percentage of pupils assessed for a district's scorecard, the
+21 department shall use only the number of pupils enrolled in the
+22 district at the time the district administers the assessments and
+23 shall exclude pupils who enroll in the district after the district
+24 administers the assessments.
+25 (3) The department shall distribute federal funds allocated
+26 under this section in accordance with federal law and with
+27 flexibility provisions outlined in Public Law 107-116, and in the
+28 education flexibility partnership act of 1999, Public Law 106-25.
+29 (4) The department may recommend, but may not require,
+CRM H00056'25 (H-1) rdsgoj
+4
+1 districts to allow pupils to use an external keyboard with tablet
+2 devices for online M-STEP testing , or for online testing for a
+3 state-administered assessment system described in section 104d,
+4 including, but not limited to, open-ended test items such as
+5 constructed response or equation builder items.
+6 (5) Notwithstanding section 17b, the department shall make
+7 payments on behalf of districts, intermediate districts, and other
+8 eligible entities under this section on a schedule determined by
+9 the department.
+10 (6) From the allocation in subsection (1), there is allocated
+11 an amount not to exceed $500,000.00 for 2024-2025 for the operation
+12 of an online reporting tool to provide student-level assessment
+13 data in a secure environment to educators, parents, and pupils
+14 immediately after assessments are scored. The department and the
+15 center shall ensure that any data collected by the online reporting
+16 tool do not provide individually identifiable student data to the
+17 federal government.
+18 (7) As used in this section:
+19 (a) "DED" means the United States Department of Education.
+20 (b) "DED-OESE" means the DED Office of Elementary and
+21 Secondary Education.
+22 (c) "DED-OSERS" means the DED Office of Special Education and
+23 Rehabilitative Services.
+24 Sec. 104b. (1) In order to To receive state aid under this
+25 article, a district shall must comply with this section and shall
+26 must administer the Michigan merit examination to pupils in grade
+27 11, and to pupils in grade 12 who did not take the complete
+28 Michigan merit examination in grade 11, as provided in this
+29 section. The Michigan merit examination consists of a college
+CRM H00056'25 (H-1) rdsgoj
+5
+1 entrance test, work skills test, and the either of the following:
+2 (a) The summative assessment known as the Michigan student
+3 test of educational progress (M-STEP)
+4 (b) If a district is enrolled in a pilot program under section
+5 104d, a state-administered assessment system described in section
+6 104d.
+7 (2) For the purposes of this section, the department of
+8 technology, management, and budget shall contract with 1 or more
+9 providers to develop, supply, and score the Michigan merit
+10 examination. The Michigan merit examination shall must consist of
+11 all of the following:
+12 (a) Assessment instruments that measure English language arts,
+13 mathematics, reading, and science, and are used by the majority of
+14 colleges and universities in this state for entrance purposes. This
+15 may include 1 or more writing components. In selecting assessment
+16 instruments to fulfill the requirements of this subdivision, the
+17 department may consider the degree to which those assessment
+18 instruments are aligned to this state's content standards.
+19 (b) One or more tests from 1 or more test developers that
+20 assess a pupil's ability to apply at least reading and mathematics
+21 skills in a manner that is intended to allow employers to use the
+22 results in making employment decisions. The department of
+23 technology, management, and budget and the superintendent shall
+24 ensure that any test or tests selected under this subdivision have
+25 all the components necessary to allow a pupil to be eligible to
+26 receive the results of a nationally recognized evaluation of
+27 workforce readiness if the pupil's test performance is adequate.
+28 (c) A social studies component.
+29 (d) Any other component that is necessary to obtain the
+CRM H00056'25 (H-1) rdsgoj
+6
+1 approval of the United States Department of Education to use the
+2 Michigan merit examination for the purposes of the no child left
+3 behind act of 2001, Public Law 107-110, or the every student
+4 succeeds act, Public Law 114-95.
+5 (3) In addition to all other requirements of this section, all
+6 of the following apply to the Michigan merit examination:
+7 (a) The department of technology, management, and budget and
+8 the superintendent shall ensure that any contractor used for
+9 scoring the Michigan merit examination supplies an individual
+10 report for each pupil that will identify for the pupil's parents
+11 and teachers whether the pupil met expectations or failed to meet
+12 expectations for each standard , to allow the pupil's parents and
+13 teachers to assess and remedy problems before the pupil moves to
+14 the next grade.
+15 (b) The department of technology, management, and budget and
+16 the superintendent shall ensure that any contractor used for
+17 scoring, developing, or processing the Michigan merit examination
+18 meets quality management standards commonly used in the assessment
+19 industry, including at least meeting level 2 of the capability
+20 maturity model developed by the Software Engineering Institute of
+21 Carnegie Mellon University for the first year the Michigan merit
+22 examination is offered to all grade 11 pupils and at least meeting
+23 level 3 of the capability maturity model for subsequent years.
+24 (c) The department of technology, management, and budget and
+25 the superintendent shall ensure that any contract for scoring,
+26 administering, or developing the Michigan merit examination
+27 includes specific deadlines for all steps of the assessment
+28 process, including, but not limited to, deadlines for the correct
+29 testing materials to be supplied to schools and for the correct
+CRM H00056'25 (H-1) rdsgoj
+7
+1 results to be returned to schools, and includes penalties for
+2 noncompliance with these deadlines.
+3 (d) The superintendent shall ensure that the Michigan merit
+4 examination meets all of the following:
+5 (i) Is designed to test pupils on this state's content
+6 standards in all subjects tested.
+7 (ii) Complies with requirements of the no child left behind act
+8 of 2001, Public Law 107-110 or the every student succeeds act,
+9 Public Law 114-95.
+10 (iii) Is consistent with the code of fair testing practices in
+11 education prepared by the Joint Committee on Testing Practices of
+12 the American Psychological Association.
+13 (iv) Is factually accurate. If the superintendent determines
+14 that a question is not factually accurate and should be excluded
+15 from scoring, the state board and the superintendent shall ensure
+16 that the question is excluded from scoring.
+17 (4) A district shall include on each pupil's high school
+18 transcript all both of the following:
+19 (a) For each high school graduate who has completed the
+20 Michigan merit examination under this section, the pupil's scaled
+21 score on each subject area component of the Michigan merit
+22 examination.
+23 (b) The number of school days the pupil was in attendance at
+24 school each school year during high school and the total number of
+25 school days in session for each of those school years.
+26 (5) The superintendent shall work with the provider or
+27 providers of the Michigan merit examination to produce Michigan
+28 merit examination subject area scores for each pupil participating
+29 in the Michigan merit examination. To the extent that the
+CRM H00056'25 (H-1) rdsgoj
+8
+1 department determines that additional test items beyond those
+2 included in the college entrance component of the Michigan merit
+3 examination are required in a particular subject area, the
+4 department shall ensure that all test items in that subject area
+5 are scaled and merged for the purposes of producing a Michigan
+6 merit examination subject area score. The superintendent shall
+7 design and distribute to districts, intermediate districts, and
+8 nonpublic schools a simple and concise document that describes the
+9 scoring for each subject area and indicates the scaled score ranges
+10 for each subject area.
+11 (6) The Michigan merit examination shall must be administered
+12 in each district during the last 12 weeks of the district's school
+13 year. The superintendent shall ensure that the Michigan merit
+14 examination is scored and the scores are returned to the pupils,
+15 their the pupils' parents or legal guardians, and districts by not
+16 later than the beginning of the pupil's first semester of grade 12.
+17 The returned scores shall must indicate at least the pupil's scaled
+18 score for each subject area component and the range of scaled
+19 scores for each subject area. In reporting the scores to pupils,
+20 parents or legal guardians, and schools, the superintendent shall
+21 provide standards-specific, meaningful, and timely feedback on the
+22 pupil's performance on the Michigan merit examination.
+23 (7) A district shall administer the complete Michigan merit
+24 examination to a pupil only once and shall not administer the
+25 complete Michigan merit examination to the same pupil more than
+26 once. If a pupil does not take the complete Michigan merit
+27 examination in grade 11, the district shall administer the complete
+28 Michigan merit examination to the pupil in grade 12. If a pupil
+29 chooses to retake the college entrance examination component of the
+CRM H00056'25 (H-1) rdsgoj
+9
+1 Michigan merit examination, as described in subsection (2)(a), the
+2 pupil may do so through the provider of the college entrance
+3 examination component and the cost of the retake is the
+4 responsibility of the pupil unless all of the following are met:
+5 (a) The pupil has taken the complete Michigan merit
+6 examination.
+7 (b) The pupil meets the income eligibility criteria for free
+8 breakfast, lunch, or milk, as determined under the Richard B.
+9 Russell national school lunch act, 42 USC 1751 to 1769i.1769j.
+10 (c) The pupil has applied to the provider of the college
+11 entrance examination component for a scholarship or fee waiver to
+12 cover the cost of the retake and that application has been denied.
+13 (d) After taking the complete Michigan merit examination, the
+14 pupil has not already received a free retake of the college
+15 entrance examination component paid for either by this state or
+16 through a scholarship or fee waiver by the provider.
+17 (8) The superintendent shall ensure that the length of the
+18 Michigan merit examination and the combined total time necessary to
+19 administer all of the components of the Michigan merit examination
+20 are the shortest possible that will still maintain the degree of
+21 reliability and validity of the Michigan merit examination results
+22 determined necessary by the superintendent. The superintendent
+23 shall ensure that the maximum total combined length of time that
+24 schools are required to set aside for pupils to answer all test
+25 questions on the Michigan merit examination does not exceed 8 hours
+26 if the superintendent determines that sufficient alignment to
+27 applicable Michigan merit curriculum content standards can be
+28 achieved within that time limit.
+29 (9) A district shall provide accommodations to a pupil with
+CRM H00056'25 (H-1) rdsgoj
+10
+1 disabilities for the Michigan merit examination, as provided under
+2 section 504 of title V of the rehabilitation act of 1973, 29 USC
+3 794; subtitle part A of title subchapter II of the Americans with
+4 disabilities act of 1990, 42 USC 12131 to 12134; the individuals
+5 with disabilities education act amendments of 1997, Public Law 105-
+6 17; and the implementing regulations for those statutes. The
+7 provider or providers of the Michigan merit examination and the
+8 superintendent shall mutually agree upon on the accommodations to
+9 be provided under this subsection.
+10 (10) To the greatest extent possible, the Michigan merit
+11 examination shall must be based on this state's content standards,
+12 as appropriate. Annually, after each administration of the Michigan
+13 merit examination, the department shall provide a report of the
+14 points per standard so that teachers will know what content will be
+15 covered within the Michigan merit examination. The department may
+16 augment the college entrance and work skills components of the
+17 Michigan merit examination to develop the assessment, depending on
+18 the alignment of those components to this state's content
+19 standards. If these components do not align to these standards, the
+20 department shall produce additional components as required by law,
+21 while minimizing the amount of time needed for assessments.
+22 (11) A child who is a student in a nonpublic school or home
+23 school may take the Michigan merit examination under this section.
+24 To take the Michigan merit examination, a child who is a student in
+25 a home school shall contact the district in which the child
+26 resides, and that district shall administer the Michigan merit
+27 examination, or the child may take the Michigan merit examination
+28 at a nonpublic school if allowed by the nonpublic school. Upon
+29 request from a nonpublic school, the superintendent shall direct
+CRM H00056'25 (H-1) rdsgoj
+11
+1 the provider or providers to supply the Michigan merit examination
+2 to the nonpublic school and the nonpublic school may administer the
+3 Michigan merit examination. If a district administers the Michigan
+4 merit examination under this subsection to a child who is not
+5 enrolled in the district, the scores for that child are not
+6 considered for any purpose to be scores of a pupil of the district.
+7 (12) In contracting under subsection (2), the department of
+8 technology, management, and budget shall consider a contractor that
+9 provides electronically-scored electronically scored essays with
+10 the ability to score constructed response feedback in multiple
+11 languages and provide ongoing instruction and feedback.
+12 (13) The purpose of the Michigan merit examination is to
+13 assess pupil performance in mathematics, science, social studies,
+14 and English language arts for the purpose of improving academic
+15 achievement and establishing a statewide standard of competency.
+16 The assessment under this section provides a common measure of data
+17 that will contribute to the improvement of Michigan schools'
+18 curriculum and instruction by encouraging alignment with Michigan's
+19 curriculum framework standards and promotes pupil participation in
+20 higher level mathematics, science, social studies, and English
+21 language arts courses. These standards are based upon on the
+22 expectations of what pupils should learn through high school and
+23 are aligned with national standards.
+24 (14) For a pupil enrolled in a middle college program, other
+25 than a middle college operated as a shared educational entity or a
+26 specialized shared educational entity, if the pupil receives at
+27 least 50% of his or her the pupil's instruction at the high school
+28 while in grade 11, the Michigan merit examination shall must be
+29 administered to the pupil at the high school at which the pupil
+CRM H00056'25 (H-1) rdsgoj
+12
+1 receives high school instruction, and the department shall include
+2 the pupil's scores on the Michigan merit examination in the scores
+3 for that high school for all purposes for which a school's or
+4 district's results are reported. The department shall allow the
+5 middle college program to use a 5-year graduation rate for
+6 determining adequate yearly progress. As used in this subsection,
+7 "middle college" means a program consisting of a series of courses
+8 and other requirements and conditions, including an early college
+9 or other program created under a memorandum of understanding, that
+10 allows a pupil to graduate from high school with both a high school
+11 diploma and a certificate or degree from a community college or
+12 state public university.
+13 (15) As used in this section:
+14 (a) "English language arts" means reading and writing.
+15 (b) "Social studies" means United States history, world
+16 history, world geography, economics, and American government.
+17 (16) For each report made by the department that includes the
+18 statewide assessment results for a school building, the department
+19 shall include the scores for the statewide assessment and the
+20 graduation rate for consortium pupils with the scores for the
+21 school building in the participating district in which the
+22 consortium pupil is enrolled or would otherwise attend. The
+23 statewide assessment for a consortium pupil may be administered
+24 either at the consortium location or at the school building in the
+25 participating district in which the consortium pupil is enrolled or
+26 would otherwise attend. For the purposes of this subsection, a
+27 consortium pupil is a pupil who is enrolled or participating in a
+28 participating district in a school or program operated as a
+29 consortium or under a cooperative arrangement formed by 2 or more
+CRM H00056'25 (H-1) rdsgoj
+13
+1 districts or intermediate districts, including, but not limited to,
+2 a consortium or cooperative arrangement operated as a program, a
+3 shared educational entity, a specialized educational entity, or a
+4 special education center program.
+5 Sec. 104c. (1) In order to To receive state aid under this
+6 article, a district shall must administer the state assessments
+7 described in this section.
+8 (2) For the purposes of this section, the department shall
+9 develop and administer the Michigan student test of educational
+10 progress (M-STEP) assessments in English language arts and
+11 mathematics or, if a district is enrolled in a pilot program under
+12 section 104d, administer an assessment in English language arts and
+13 mathematics through a state-administered assessment system
+14 described in section 104d to that district. These assessments shall
+15 must be aligned to state standards.
+16 (3) For the purposes of this section, the department shall
+17 implement a summative assessment system that is proven to be valid
+18 and reliable for administration to pupils as provided under this
+19 subsection. The summative assessment system must meet all of the
+20 following requirements:
+21 (a) The summative assessment system must measure student
+22 proficiency on the current state standards, must measure student
+23 growth for consecutive grade levels in which students are assessed
+24 in the same subject area in both grade levels, and must be capable
+25 of measuring individual student performance.
+26 (b) The summative assessments for English language arts and
+27 mathematics must be administered to all public school pupils in
+28 grades 3 to 11, including those pupils as required by the federal
+29 individuals with disabilities education act, Public Law 108-446,
+CRM H00056'25 (H-1) rdsgoj
+14
+1 and by title I of the federal every student succeeds act, (ESSA),
+2 Public Law 114-95.
+3 (c) The summative assessments for science must be administered
+4 to all public school pupils in at least grades 5 and 8, including
+5 those pupils as required by the federal individuals with
+6 disabilities education act, Public Law 108-446, and by title I of
+7 the federal every student succeeds act, (ESSA), Public Law 114-95.
+8 (d) The summative assessments for social studies must be
+9 administered to all public school pupils in at least grades 5 and
+10 8, including those pupils as required by the federal individuals
+11 with disabilities education act, Public Law 108-446, and by title I
+12 of the federal every student succeeds act, (ESSA), Public Law 114-
+13 95.
+14 (e) The content of the summative assessments must be aligned
+15 to state standards.
+16 (f) The pool of questions for the summative assessments must
+17 be subject to a transparent review process for quality, bias, and
+18 sensitive issues involving educator review and comment. The
+19 department shall post samples from tests or retired tests featuring
+20 questions from this pool for review by the public.
+21 (g) The summative assessment system must ensure that students,
+22 parents, and teachers are provided with reports that convey
+23 individual student proficiency and growth on the assessment and
+24 that convey individual student domain-level performance in each
+25 subject area, including representative questions, and individual
+26 student performance in meeting state standards.
+27 (h) The summative assessment system must be capable of
+28 providing, and the department shall ensure that students, parents,
+29 teachers, administrators, and community members are provided with,
+CRM H00056'25 (H-1) rdsgoj
+15
+1 reports that convey aggregate student proficiency and growth data
+2 by teacher, grade, school, and district.
+3 (i) The summative assessment system must ensure the capability
+4 of reporting the available data to support educator evaluations.
+5 (j) The summative assessment system must ensure that the
+6 reports provided to districts containing individual student data
+7 are available within 60 days after completion of the assessments.
+8 (k) The summative assessment system must ensure that access to
+9 individually identifiable student data meets all of the following:
+10 (i) Is in compliance with 20 USC 1232g. , commonly referred to
+11 as the family educational rights and privacy act of 1974.
+12 (ii) Except as may be provided for in an agreement with a
+13 vendor to provide assessment services, as necessary to support
+14 educator evaluations pursuant to under subdivision (i), or for
+15 research or program evaluation purposes, is available only to the
+16 student; to the student's parent or legal guardian; and to a school
+17 administrator or teacher, to the extent that he or she the school
+18 administrator or teacher has a legitimate educational interest.
+19 (l) The summative assessment system must ensure that the
+20 assessments are pilot tested before statewide implementation.
+21 (m) The summative assessment system must ensure that
+22 assessments are designed so that the maximum total combined length
+23 of time that schools are required to set aside for a pupil to
+24 answer all test questions on all assessments that are part of the
+25 system for the pupil's grade level does not exceed that maximum
+26 total combined length of time for the previous statewide assessment
+27 system or 9 hours, whichever is less. This subdivision does not
+28 limit the amount of time a district may allow a pupil to complete a
+29 test.
+CRM H00056'25 (H-1) rdsgoj
+16
+1 (n) The total cost of executing the summative assessment
+2 system statewide each year, including, but not limited to, the cost
+3 of contracts for administration, scoring, and reporting, must not
+4 exceed an amount equal to 2 times the cost of executing the
+5 previous statewide assessment after adjustment for inflation.
+6 (o) The summative assessment system must not require more than
+7 3 hours in duration, on average, for an individual pupil to
+8 complete the combined administration of the math and English
+9 language arts portions of the assessment for any 1 grade level.
+10 (p) The summative assessments for English language arts and
+11 mathematics for pupils in grades 8 to 10 must be aligned to the
+12 college entrance test portion of the Michigan merit examination
+13 required under section 104b.
+14 (4) The department shall offer benchmark assessments in the
+15 fall and spring of each school year to measure English language
+16 arts and mathematics in each of grades K to 2. Full implementation
+17 must occur not later than the 2019-2020 school year. These
+18 assessments are necessary to determine a pupil's proficiency level
+19 before grade 3.
+20 (5) This section does not prohibit districts from adopting
+21 interim assessments.
+22 (6) As used in this section, "English language arts" means
+23 that term as defined in section 104b.
+24 Sec. 104d. (1) The department shall do all of the following:
+25 (a) Contract with 1 or more entities for the provision of a
+26 state-administered assessment system that meets the requirements
+27 described in subsection (3).
+28 (b) Administer a pilot program for a state-administered
+29 assessment system that consists of 3 interim assessments that have
+CRM H00056'25 (H-1) rdsgoj
+17
+1 a cumulative, summative score and are used to track growth and
+2 progress toward state learning standards.
+3 (c) Administer a pilot program for a state-administered
+4 assessment system that consists of 2 interim assessments that focus
+5 on growth and 1 summative assessment that is used to track growth
+6 and progress toward state learning standards.
+7 (2) A district may apply to enroll in 1 of the pilot programs
+8 for a state-administered assessment system described in this
+9 section. However, the department shall not enroll more than 90
+10 districts in the pilot programs described in subsection (1). The
+11 department shall ensure that, of the districts enrolled in the
+12 pilot programs described in subsection (1), 1/3 are located in a
+13 rural area, 1/3 are located in a suburban area, and 1/3 are located
+14 in an urban area, as determined by the department.
+15 (3) All of the following apply to a state-administered
+16 assessment system that is part of a pilot program described in
+17 subsection (1):
+18 (a) The state-administered assessment system must meet the
+19 requirements of federal law, including the every student succeeds
+20 act, Public Law 114-95.
+21 (b) The state-administered assessment system must align to
+22 state standards.
+23 (c) The state-administered assessment system must have a
+24 sample pool of questions that addresses the same subject areas and
+25 concepts as the test items. The sample pool of questions must be
+26 available for review by the public.
+27 (d) The state-administered assessment system must ensure that
+28 students, parents, and teachers are provided with reports that
+29 convey individual student proficiency and growth on the assessment
+CRM H00056'25 (H-1) rdsgoj
+18
+1 and that convey individual student domain-level performance in each
+2 subject area, including representative questions, and individual
+3 student performance in meeting state standards.
+4 (e) The state-administered assessment system must be capable
+5 of providing, and the department shall ensure that students,
+6 parents, teachers, administrators, and community members are
+7 provided with, reports that convey aggregate student proficiency
+8 and growth data by teacher, grade, school, and district.
+9 (f) The state-administered assessment system must ensure the
+10 capability of reporting the available data to support educator
+11 evaluations.
+12 (g) The state-administered assessment system must provide
+13 reports containing individual student data to the districts within
+14 14 days after completion of an assessment.
+15 (h) Each of the interim assessments must not require more than
+16 1 hour, on average, for an individual pupil to complete.
+17 (i) A final summative assessment must not require more than 3
+18 hours, on average, for an individual pupil to complete.
+19 Enacting section 1. This amendatory act does not take effect
+20 unless House Bill No. 4158 (request no. H00057'25) of the 103rd
+21 Legislature is enacted into law.
+Final Page
+CRM H00056'25 (H-1) rdsgoj
+[DELETED:   H r S t c $ $]
+[DELETED:   H r $ c 4 s t c f a p e r e f f f ( p f a s ( n s S d 1 3 t f]
+[DELETED:   H r 2 o p i a f o w c p L ( M , t as  t p w t p d d s a ( u f e (]
+[DELETED:   H r d dg,o i c ( p e t ( a o d i c t f ( ( ( S ( R S r a c a 1 M s]
+[DELETED:   H r e s t . ( t p e c a ( m c m i d i ( a s r t e a r w ( (]
+[DELETED:   H r a M b s ( o ( t s r a ed, t t ( t s m i m C e l ( t a i p t]
+[DELETED:   H r r n ( e () s () o P () e t () t f t ( t o ( M s e ( s s ( p m i]
+[DELETED:   H r d i e d a m d n s f ( b i y e p t p n b l T i s s ps, p p ( e c o e M c]
+[DELETED:   H r M p e r ( e ( b R. ( e c ( p e t ( M a a r d s s q i a a (]
+[DELETED:   H r d s 7 A I s d w 1 p s t b ( e b a m p c a M t s d w ( s T a r e a r]
+[DELETED:   H r t t M m e c ( t p e t l ( a a a T t c c h l t e a ( t s l i w b a]
+[DELETED:   H r r t f d m d " a o a d s ( ( ( h ( s s g s c s e p w c p c]
+[DELETED:   H r d a s s S r a a d ( d p m . b ( i a s f ( p g i o ( m g i]
+[DELETED:   H r at  P ( t t d tt  ( a 8 w ot  9 ( t ( b s d q ( p i t s s ( p t]
+[DELETED:   H r r b ( o ( r a ( i ()g, a () v e s r s a h () a ( a o a s t s l t]
+[DELETED:   H r ( s o e p ( 3 c l ( m c r ( f a m a b ( i ( t]
+[DELETED:   H r ]
+[DELETED:   H r  E u L]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4157
+A bill to amend 1979 PA 94, entitled
+"The state school aid act of 1979,"
+by amending sections 11, 104, 104b, and 104c (MCL 388.1611,
+388.1704, 388.1704b, and 388.1704c), section 11 as amended by 2024
+PA 148, section 104 as amended by 2024 PA 120, section 104b as
+amended by 2018 PA 265, and section 104c as amended by 2021 PA 48,
+and by adding section 104d.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 11. (1) For the fiscal year ending September 30, 2025,
+2 there is appropriated for the public schools of this state and
+3 certain other state purposes relating to education the sum of
+4 $17,769,551,300.00 from the state school aid fund, the sum of
+5 $78,830,600.00 from the general fund, an amount not to exceed
+CRM H00056'25 (H-1) rdsgoj
+
+2
+1 $41,000,000.00 from the community district education trust fund
+2 created under section 12 of the Michigan trust fund act, 2000 PA
+3 489, MCL 12.262, an amount not to exceed $125,000,000.00 from the
+4 school transportation fund created under section 22k, an amount not
+5 to exceed $71,000,000.00 from the enrollment stabilization fund
+6 created under section 29, an amount not to exceed $30,000,000.00
+7 from the school meals reserve fund created under section 30e, an
+8 amount not to exceed $18,000,000.00 from the great start readiness
+9 program reserve fund created under section 32e, an amount not to
+10 exceed $334,100,000.00 from the MPSERS retirement obligation reform
+11 reserve fund created under section 147b, and an amount not to
+12 exceed $30,000,000.00 from the educator fellowship public provider
+13 fund created in section 27d. In addition, all available federal
+14 funds are only appropriated as allocated in this article for the
+15 fiscal year ending September 30, 2025.
+16 (2) The appropriations under this section are allocated as
+17 provided in this article. Money appropriated under this section
+18 from the general fund must be expended to fund the purposes of this
+19 article before the expenditure of money appropriated under this
+20 section from the state school aid fund.
+21 (3) Any general fund allocations under this article that are
+22 not expended by the end of the fiscal year are transferred to the
+23 school aid stabilization fund created under section 11a.
+24 Sec. 104. (1) To receive state aid under this article, a
+25 district shall comply with sections 1249, 1278a, 1278b, 1279g, and
+26 1280b of the revised school code, MCL 380.1249, 380.1278a,
+27 380.1278b, 380.1279g, and 380.1280b, and 1970 PA 38, MCL 388.1081
+28 to 388.1086. Subject to subsection (2), from the state school aid
+29 fund money appropriated in section 11, there is allocated for 2024-
+CRM H00056'25 (H-1) rdsgoj
+
+3
+1 2025 an amount not to exceed $37,509,400.00 for payments on behalf
+2 of districts for costs associated with complying with those
+3 provisions of law. In addition, from the federal funds appropriated
+4 in section 11, there is allocated for 2024-2025 an amount estimated
+5 at $8,000,000.00 funded from DED-OESE, title VI, state assessment
+6 funds, and from DED-OSERS, part B subchapter II of the individuals
+7 with disabilities education act, 20 USC 1411 to 1419, plus any
+8 carryover federal funds from previous year appropriations, for the
+9 purposes of complying with the every student succeeds act, Public
+10 Law 114-95.
+11 (2) The results of each test administered as part of the
+12 Michigan student test of educational progress (M-STEP) or a state-
+13 administered assessment system described in section 104d, including
+14 tests administered to high school students, must include an item
+15 analysis, if an item analysis is available, that lists all items
+16 that are counted for individual pupil scores and the percentage of
+17 pupils choosing each possible response. The department shall work
+18 with the center to identify the number of students enrolled at the
+19 time assessments are given by each district. In calculating the
+20 percentage of pupils assessed for a district's scorecard, the
+21 department shall use only the number of pupils enrolled in the
+22 district at the time the district administers the assessments and
+23 shall exclude pupils who enroll in the district after the district
+24 administers the assessments.
+25 (3) The department shall distribute federal funds allocated
+26 under this section in accordance with federal law and with
+27 flexibility provisions outlined in Public Law 107-116, and in the
+28 education flexibility partnership act of 1999, Public Law 106-25.
+29 (4) The department may recommend, but may not require,
+CRM H00056'25 (H-1) rdsgoj
+
+4
+1 districts to allow pupils to use an external keyboard with tablet
+2 devices for online M-STEP testing , or for online testing for a
+3 state-administered assessment system described in section 104d,
+4 including, but not limited to, open-ended test items such as
+5 constructed response or equation builder items.
+6 (5) Notwithstanding section 17b, the department shall make
+7 payments on behalf of districts, intermediate districts, and other
+8 eligible entities under this section on a schedule determined by
+9 the department.
+10 (6) From the allocation in subsection (1), there is allocated
+11 an amount not to exceed $500,000.00 for 2024-2025 for the operation
+12 of an online reporting tool to provide student-level assessment
+13 data in a secure environment to educators, parents, and pupils
+14 immediately after assessments are scored. The department and the
+15 center shall ensure that any data collected by the online reporting
+16 tool do not provide individually identifiable student data to the
+17 federal government.
+18 (7) As used in this section:
+19 (a) "DED" means the United States Department of Education.
+20 (b) "DED-OESE" means the DED Office of Elementary and
+21 Secondary Education.
+22 (c) "DED-OSERS" means the DED Office of Special Education and
+23 Rehabilitative Services.
+24 Sec. 104b. (1) In order to To receive state aid under this
+25 article, a district shall must comply with this section and shall
+26 must administer the Michigan merit examination to pupils in grade
+27 11, and to pupils in grade 12 who did not take the complete
+28 Michigan merit examination in grade 11, as provided in this
+29 section. The Michigan merit examination consists of a college
+CRM H00056'25 (H-1) rdsgoj
+
+5
+1 entrance test, work skills test, and the either of the following:
+2 (a) The summative assessment known as the Michigan student
+3 test of educational progress (M-STEP)
+4 (b) If a district is enrolled in a pilot program under section
+5 104d, a state-administered assessment system described in section
+6 104d.
+7 (2) For the purposes of this section, the department of
+8 technology, management, and budget shall contract with 1 or more
+9 providers to develop, supply, and score the Michigan merit
+10 examination. The Michigan merit examination shall must consist of
+11 all of the following:
+12 (a) Assessment instruments that measure English language arts,
+13 mathematics, reading, and science, and are used by the majority of
+14 colleges and universities in this state for entrance purposes. This
+15 may include 1 or more writing components. In selecting assessment
+16 instruments to fulfill the requirements of this subdivision, the
+17 department may consider the degree to which those assessment
+18 instruments are aligned to this state's content standards.
+19 (b) One or more tests from 1 or more test developers that
+20 assess a pupil's ability to apply at least reading and mathematics
+21 skills in a manner that is intended to allow employers to use the
+22 results in making employment decisions. The department of
+23 technology, management, and budget and the superintendent shall
+24 ensure that any test or tests selected under this subdivision have
+25 all the components necessary to allow a pupil to be eligible to
+26 receive the results of a nationally recognized evaluation of
+27 workforce readiness if the pupil's test performance is adequate.
+28 (c) A social studies component.
+29 (d) Any other component that is necessary to obtain the
+CRM H00056'25 (H-1) rdsgoj
+
+6
+1 approval of the United States Department of Education to use the
+2 Michigan merit examination for the purposes of the no child left
+3 behind act of 2001, Public Law 107-110, or the every student
+4 succeeds act, Public Law 114-95.
+5 (3) In addition to all other requirements of this section, all
+6 of the following apply to the Michigan merit examination:
+7 (a) The department of technology, management, and budget and
+8 the superintendent shall ensure that any contractor used for
+9 scoring the Michigan merit examination supplies an individual
+10 report for each pupil that will identify for the pupil's parents
+11 and teachers whether the pupil met expectations or failed to meet
+12 expectations for each standard , to allow the pupil's parents and
+13 teachers to assess and remedy problems before the pupil moves to
+14 the next grade.
+15 (b) The department of technology, management, and budget and
+16 the superintendent shall ensure that any contractor used for
+17 scoring, developing, or processing the Michigan merit examination
+18 meets quality management standards commonly used in the assessment
+19 industry, including at least meeting level 2 of the capability
+20 maturity model developed by the Software Engineering Institute of
+21 Carnegie Mellon University for the first year the Michigan merit
+22 examination is offered to all grade 11 pupils and at least meeting
+23 level 3 of the capability maturity model for subsequent years.
+24 (c) The department of technology, management, and budget and
+25 the superintendent shall ensure that any contract for scoring,
+26 administering, or developing the Michigan merit examination
+27 includes specific deadlines for all steps of the assessment
+28 process, including, but not limited to, deadlines for the correct
+29 testing materials to be supplied to schools and for the correct
+CRM H00056'25 (H-1) rdsgoj
+
+7
+1 results to be returned to schools, and includes penalties for
+2 noncompliance with these deadlines.
+3 (d) The superintendent shall ensure that the Michigan merit
+4 examination meets all of the following:
+5 (i) Is designed to test pupils on this state's content
+6 standards in all subjects tested.
+7 (ii) Complies with requirements of the no child left behind act
+8 of 2001, Public Law 107-110 or the every student succeeds act,
+9 Public Law 114-95.
+10 (iii) Is consistent with the code of fair testing practices in
+11 education prepared by the Joint Committee on Testing Practices of
+12 the American Psychological Association.
+13 (iv) Is factually accurate. If the superintendent determines
+14 that a question is not factually accurate and should be excluded
+15 from scoring, the state board and the superintendent shall ensure
+16 that the question is excluded from scoring.
+17 (4) A district shall include on each pupil's high school
+18 transcript all both of the following:
+19 (a) For each high school graduate who has completed the
+20 Michigan merit examination under this section, the pupil's scaled
+21 score on each subject area component of the Michigan merit
+22 examination.
+23 (b) The number of school days the pupil was in attendance at
+24 school each school year during high school and the total number of
+25 school days in session for each of those school years.
+26 (5) The superintendent shall work with the provider or
+27 providers of the Michigan merit examination to produce Michigan
+28 merit examination subject area scores for each pupil participating
+29 in the Michigan merit examination. To the extent that the
+CRM H00056'25 (H-1) rdsgoj
+
+8
+1 department determines that additional test items beyond those
+2 included in the college entrance component of the Michigan merit
+3 examination are required in a particular subject area, the
+4 department shall ensure that all test items in that subject area
+5 are scaled and merged for the purposes of producing a Michigan
+6 merit examination subject area score. The superintendent shall
+7 design and distribute to districts, intermediate districts, and
+8 nonpublic schools a simple and concise document that describes the
+9 scoring for each subject area and indicates the scaled score ranges
+10 for each subject area.
+11 (6) The Michigan merit examination shall must be administered
+12 in each district during the last 12 weeks of the district's school
+13 year. The superintendent shall ensure that the Michigan merit
+14 examination is scored and the scores are returned to the pupils,
+15 their the pupils' parents or legal guardians, and districts by not
+16 later than the beginning of the pupil's first semester of grade 12.
+17 The returned scores shall must indicate at least the pupil's scaled
+18 score for each subject area component and the range of scaled
+19 scores for each subject area. In reporting the scores to pupils,
+20 parents or legal guardians, and schools, the superintendent shall
+21 provide standards-specific, meaningful, and timely feedback on the
+22 pupil's performance on the Michigan merit examination.
+23 (7) A district shall administer the complete Michigan merit
+24 examination to a pupil only once and shall not administer the
+25 complete Michigan merit examination to the same pupil more than
+26 once. If a pupil does not take the complete Michigan merit
+27 examination in grade 11, the district shall administer the complete
+28 Michigan merit examination to the pupil in grade 12. If a pupil
+29 chooses to retake the college entrance examination component of the
+CRM H00056'25 (H-1) rdsgoj
+
+9
+1 Michigan merit examination, as described in subsection (2)(a), the
+2 pupil may do so through the provider of the college entrance
+3 examination component and the cost of the retake is the
+4 responsibility of the pupil unless all of the following are met:
+5 (a) The pupil has taken the complete Michigan merit
+6 examination.
+7 (b) The pupil meets the income eligibility criteria for free
+8 breakfast, lunch, or milk, as determined under the Richard B.
+9 Russell national school lunch act, 42 USC 1751 to 1769i.1769j.
+10 (c) The pupil has applied to the provider of the college
+11 entrance examination component for a scholarship or fee waiver to
+12 cover the cost of the retake and that application has been denied.
+13 (d) After taking the complete Michigan merit examination, the
+14 pupil has not already received a free retake of the college
+15 entrance examination component paid for either by this state or
+16 through a scholarship or fee waiver by the provider.
+17 (8) The superintendent shall ensure that the length of the
+18 Michigan merit examination and the combined total time necessary to
+19 administer all of the components of the Michigan merit examination
+20 are the shortest possible that will still maintain the degree of
+21 reliability and validity of the Michigan merit examination results
+22 determined necessary by the superintendent. The superintendent
+23 shall ensure that the maximum total combined length of time that
+24 schools are required to set aside for pupils to answer all test
+25 questions on the Michigan merit examination does not exceed 8 hours
+26 if the superintendent determines that sufficient alignment to
+27 applicable Michigan merit curriculum content standards can be
+28 achieved within that time limit.
+29 (9) A district shall provide accommodations to a pupil with
+CRM H00056'25 (H-1) rdsgoj
+
+10
+1 disabilities for the Michigan merit examination, as provided under
+2 section 504 of title V of the rehabilitation act of 1973, 29 USC
+3 794; subtitle part A of title subchapter II of the Americans with
+4 disabilities act of 1990, 42 USC 12131 to 12134; the individuals
+5 with disabilities education act amendments of 1997, Public Law 105-
+6 17; and the implementing regulations for those statutes. The
+7 provider or providers of the Michigan merit examination and the
+8 superintendent shall mutually agree upon on the accommodations to
+9 be provided under this subsection.
+10 (10) To the greatest extent possible, the Michigan merit
+11 examination shall must be based on this state's content standards,
+12 as appropriate. Annually, after each administration of the Michigan
+13 merit examination, the department shall provide a report of the
+14 points per standard so that teachers will know what content will be
+15 covered within the Michigan merit examination. The department may
+16 augment the college entrance and work skills components of the
+17 Michigan merit examination to develop the assessment, depending on
+18 the alignment of those components to this state's content
+19 standards. If these components do not align to these standards, the
+20 department shall produce additional components as required by law,
+21 while minimizing the amount of time needed for assessments.
+22 (11) A child who is a student in a nonpublic school or home
+23 school may take the Michigan merit examination under this section.
+24 To take the Michigan merit examination, a child who is a student in
+25 a home school shall contact the district in which the child
+26 resides, and that district shall administer the Michigan merit
+27 examination, or the child may take the Michigan merit examination
+28 at a nonpublic school if allowed by the nonpublic school. Upon
+29 request from a nonpublic school, the superintendent shall direct
+CRM H00056'25 (H-1) rdsgoj
+
+11
+1 the provider or providers to supply the Michigan merit examination
+2 to the nonpublic school and the nonpublic school may administer the
+3 Michigan merit examination. If a district administers the Michigan
+4 merit examination under this subsection to a child who is not
+5 enrolled in the district, the scores for that child are not
+6 considered for any purpose to be scores of a pupil of the district.
+7 (12) In contracting under subsection (2), the department of
+8 technology, management, and budget shall consider a contractor that
+9 provides electronically-scored electronically scored essays with
+10 the ability to score constructed response feedback in multiple
+11 languages and provide ongoing instruction and feedback.
+12 (13) The purpose of the Michigan merit examination is to
+13 assess pupil performance in mathematics, science, social studies,
+14 and English language arts for the purpose of improving academic
+15 achievement and establishing a statewide standard of competency.
+16 The assessment under this section provides a common measure of data
+17 that will contribute to the improvement of Michigan schools'
+18 curriculum and instruction by encouraging alignment with Michigan's
+19 curriculum framework standards and promotes pupil participation in
+20 higher level mathematics, science, social studies, and English
+21 language arts courses. These standards are based upon on the
+22 expectations of what pupils should learn through high school and
+23 are aligned with national standards.
+24 (14) For a pupil enrolled in a middle college program, other
+25 than a middle college operated as a shared educational entity or a
+26 specialized shared educational entity, if the pupil receives at
+27 least 50% of his or her the pupil's instruction at the high school
+28 while in grade 11, the Michigan merit examination shall must be
+29 administered to the pupil at the high school at which the pupil
+CRM H00056'25 (H-1) rdsgoj
+
+12
+1 receives high school instruction, and the department shall include
+2 the pupil's scores on the Michigan merit examination in the scores
+3 for that high school for all purposes for which a school's or
+4 district's results are reported. The department shall allow the
+5 middle college program to use a 5-year graduation rate for
+6 determining adequate yearly progress. As used in this subsection,
+7 "middle college" means a program consisting of a series of courses
+8 and other requirements and conditions, including an early college
+9 or other program created under a memorandum of understanding, that
+10 allows a pupil to graduate from high school with both a high school
+11 diploma and a certificate or degree from a community college or
+12 state public university.
+13 (15) As used in this section:
+14 (a) "English language arts" means reading and writing.
+15 (b) "Social studies" means United States history, world
+16 history, world geography, economics, and American government.
+17 (16) For each report made by the department that includes the
+18 statewide assessment results for a school building, the department
+19 shall include the scores for the statewide assessment and the
+20 graduation rate for consortium pupils with the scores for the
+21 school building in the participating district in which the
+22 consortium pupil is enrolled or would otherwise attend. The
+23 statewide assessment for a consortium pupil may be administered
+24 either at the consortium location or at the school building in the
+25 participating district in which the consortium pupil is enrolled or
+26 would otherwise attend. For the purposes of this subsection, a
+27 consortium pupil is a pupil who is enrolled or participating in a
+28 participating district in a school or program operated as a
+29 consortium or under a cooperative arrangement formed by 2 or more
+CRM H00056'25 (H-1) rdsgoj
+
+13
+1 districts or intermediate districts, including, but not limited to,
+2 a consortium or cooperative arrangement operated as a program, a
+3 shared educational entity, a specialized educational entity, or a
+4 special education center program.
+5 Sec. 104c. (1) In order to To receive state aid under this
+6 article, a district shall must administer the state assessments
+7 described in this section.
+8 (2) For the purposes of this section, the department shall
+9 develop and administer the Michigan student test of educational
+10 progress (M-STEP) assessments in English language arts and
+11 mathematics or, if a district is enrolled in a pilot program under
+12 section 104d, administer an assessment in English language arts and
+13 mathematics through a state-administered assessment system
+14 described in section 104d to that district. These assessments shall
+15 must be aligned to state standards.
+16 (3) For the purposes of this section, the department shall
+17 implement a summative assessment system that is proven to be valid
+18 and reliable for administration to pupils as provided under this
+19 subsection. The summative assessment system must meet all of the
+20 following requirements:
+21 (a) The summative assessment system must measure student
+22 proficiency on the current state standards, must measure student
+23 growth for consecutive grade levels in which students are assessed
+24 in the same subject area in both grade levels, and must be capable
+25 of measuring individual student performance.
+26 (b) The summative assessments for English language arts and
+27 mathematics must be administered to all public school pupils in
+28 grades 3 to 11, including those pupils as required by the federal
+29 individuals with disabilities education act, Public Law 108-446,
+CRM H00056'25 (H-1) rdsgoj
+
+14
+1 and by title I of the federal every student succeeds act, (ESSA),
+2 Public Law 114-95.
+3 (c) The summative assessments for science must be administered
+4 to all public school pupils in at least grades 5 and 8, including
+5 those pupils as required by the federal individuals with
+6 disabilities education act, Public Law 108-446, and by title I of
+7 the federal every student succeeds act, (ESSA), Public Law 114-95.
+8 (d) The summative assessments for social studies must be
+9 administered to all public school pupils in at least grades 5 and
+10 8, including those pupils as required by the federal individuals
+11 with disabilities education act, Public Law 108-446, and by title I
+12 of the federal every student succeeds act, (ESSA), Public Law 114-
+13 95.
+14 (e) The content of the summative assessments must be aligned
+15 to state standards.
+16 (f) The pool of questions for the summative assessments must
+17 be subject to a transparent review process for quality, bias, and
+18 sensitive issues involving educator review and comment. The
+19 department shall post samples from tests or retired tests featuring
+20 questions from this pool for review by the public.
+21 (g) The summative assessment system must ensure that students,
+22 parents, and teachers are provided with reports that convey
+23 individual student proficiency and growth on the assessment and
+24 that convey individual student domain-level performance in each
+25 subject area, including representative questions, and individual
+26 student performance in meeting state standards.
+27 (h) The summative assessment system must be capable of
+28 providing, and the department shall ensure that students, parents,
+29 teachers, administrators, and community members are provided with,
+CRM H00056'25 (H-1) rdsgoj
+
+15
+1 reports that convey aggregate student proficiency and growth data
+2 by teacher, grade, school, and district.
+3 (i) The summative assessment system must ensure the capability
+4 of reporting the available data to support educator evaluations.
+5 (j) The summative assessment system must ensure that the
+6 reports provided to districts containing individual student data
+7 are available within 60 days after completion of the assessments.
+8 (k) The summative assessment system must ensure that access to
+9 individually identifiable student data meets all of the following:
+10 (i) Is in compliance with 20 USC 1232g. , commonly referred to
+11 as the family educational rights and privacy act of 1974.
+12 (ii) Except as may be provided for in an agreement with a
+13 vendor to provide assessment services, as necessary to support
+14 educator evaluations pursuant to under subdivision (i), or for
+15 research or program evaluation purposes, is available only to the
+16 student; to the student's parent or legal guardian; and to a school
+17 administrator or teacher, to the extent that he or she the school
+18 administrator or teacher has a legitimate educational interest.
+19 (l) The summative assessment system must ensure that the
+20 assessments are pilot tested before statewide implementation.
+21 (m) The summative assessment system must ensure that
+22 assessments are designed so that the maximum total combined length
+23 of time that schools are required to set aside for a pupil to
+24 answer all test questions on all assessments that are part of the
+25 system for the pupil's grade level does not exceed that maximum
+26 total combined length of time for the previous statewide assessment
+27 system or 9 hours, whichever is less. This subdivision does not
+28 limit the amount of time a district may allow a pupil to complete a
+29 test.
+CRM H00056'25 (H-1) rdsgoj
+
+16
+1 (n) The total cost of executing the summative assessment
+2 system statewide each year, including, but not limited to, the cost
+3 of contracts for administration, scoring, and reporting, must not
+4 exceed an amount equal to 2 times the cost of executing the
+5 previous statewide assessment after adjustment for inflation.
+6 (o) The summative assessment system must not require more than
+7 3 hours in duration, on average, for an individual pupil to
+8 complete the combined administration of the math and English
+9 language arts portions of the assessment for any 1 grade level.
+10 (p) The summative assessments for English language arts and
+11 mathematics for pupils in grades 8 to 10 must be aligned to the
+12 college entrance test portion of the Michigan merit examination
+13 required under section 104b.
+14 (4) The department shall offer benchmark assessments in the
+15 fall and spring of each school year to measure English language
+16 arts and mathematics in each of grades K to 2. Full implementation
+17 must occur not later than the 2019-2020 school year. These
+18 assessments are necessary to determine a pupil's proficiency level
+19 before grade 3.
+20 (5) This section does not prohibit districts from adopting
+21 interim assessments.
+22 (6) As used in this section, "English language arts" means
+23 that term as defined in section 104b.
+24 Sec. 104d. (1) The department shall do all of the following:
+25 (a) Contract with 1 or more entities for the provision of a
+26 state-administered assessment system that meets the requirements
+27 described in subsection (3).
+28 (b) Administer a pilot program for a state-administered
+29 assessment system that consists of 3 interim assessments that have
+CRM H00056'25 (H-1) rdsgoj
+
+17
+1 a cumulative, summative score and are used to track growth and
+2 progress toward state learning standards.
+3 (c) Administer a pilot program for a state-administered
+4 assessment system that consists of 2 interim assessments that focus
+5 on growth and 1 summative assessment that is used to track growth
+6 and progress toward state learning standards.
+7 (2) A district may apply to enroll in 1 of the pilot programs
+8 for a state-administered assessment system described in this
+9 section. However, the department shall not enroll more than 90
+10 districts in the pilot programs described in subsection (1). The
+11 department shall ensure that, of the districts enrolled in the
+12 pilot programs described in subsection (1), 1/3 are located in a
+13 rural area, 1/3 are located in a suburban area, and 1/3 are located
+14 in an urban area, as determined by the department.
+15 (3) All of the following apply to a state-administered
+16 assessment system that is part of a pilot program described in
+17 subsection (1):
+18 (a) The state-administered assessment system must meet the
+19 requirements of federal law, including the every student succeeds
+20 act, Public Law 114-95.
+21 (b) The state-administered assessment system must align to
+22 state standards.
+23 (c) The state-administered assessment system must have a
+24 sample pool of questions that addresses the same subject areas and
+25 concepts as the test items. The sample pool of questions must be
+26 available for review by the public.
+27 (d) The state-administered assessment system must ensure that
+28 students, parents, and teachers are provided with reports that
+29 convey individual student proficiency and growth on the assessment
+CRM H00056'25 (H-1) rdsgoj
+
+18
+1 and that convey individual student domain-level performance in each
+2 subject area, including representative questions, and individual
+3 student performance in meeting state standards.
+4 (e) The state-administered assessment system must be capable
+5 of providing, and the department shall ensure that students,
+6 parents, teachers, administrators, and community members are
+7 provided with, reports that convey aggregate student proficiency
+8 and growth data by teacher, grade, school, and district.
+9 (f) The state-administered assessment system must ensure the
+10 capability of reporting the available data to support educator
+11 evaluations.
+12 (g) The state-administered assessment system must provide
+13 reports containing individual student data to the districts within
+14 14 days after completion of an assessment.
+15 (h) Each of the interim assessments must not require more than
+16 1 hour, on average, for an individual pupil to complete.
+17 (i) A final summative assessment must not require more than 3
+18 hours, on average, for an individual pupil to complete.
+19 Enacting section 1. This amendatory act does not take effect
+20 unless House Bill No. 4158 (request no. H00057'25) of the 103rd
+21 Legislature is enacted into law.
+Final Page
+CRM H00056'25 (H-1) rdsgoj
+
+[DELETED:   H r S t c $ $]
+[DELETED:   H r $ c 4 s t c f a p e r e f f f ( p f a s ( n s S d 1 3 t f]
+[DELETED:   H r 2 o p i a f o w c p L ( M , t as  t p w t p d d s a ( u f e (]
+[DELETED:   H r d dg,o i c ( p e t ( a o d i c t f ( ( ( S ( R S r a c a 1 M s]
+[DELETED:   H r e s t . ( t p e c a ( m c m i d i ( a s r t e a r w ( (]
+[DELETED:   H r a M b s ( o ( t s r a ed, t t ( t s m i m C e l ( t a i p t]
+[DELETED:   H r r n ( e () s () o P () e t () t f t ( t o ( M s e ( s s ( p m i]
+[DELETED:   H r d i e d a m d n s f ( b i y e p t p n b l T i s s ps, p p ( e c o e M c]
+[DELETED:   H r M p e r ( e ( b R. ( e c ( p e t ( M a a r d s s q i a a (]
+[DELETED:   H r d s 7 A I s d w 1 p s t b ( e b a m p c a M t s d w ( s T a r e a r]
+[DELETED:   H r t t M m e c ( t p e t l ( a a a T t c c h l t e a ( t s l i w b a]
+[DELETED:   H r r t f d m d " a o a d s ( ( ( h ( s s g s c s e p w c p c]
+[DELETED:   H r d a s s S r a a d ( d p m . b ( i a s f ( p g i o ( m g i]
+[DELETED:   H r at  P ( t t d tt  ( a 8 w ot  9 ( t ( b s d q ( p i t s s ( p t]
+[DELETED:   H r r b ( o ( r a ( i ()g, a () v e s r s a h () a ( a o a s t s l t]
+[DELETED:   H r ( s o e p ( 3 c l ( m c r ( f a m a b ( i ( t]
+[DELETED:   H r ]
+[DELETED:   H r  E u L]

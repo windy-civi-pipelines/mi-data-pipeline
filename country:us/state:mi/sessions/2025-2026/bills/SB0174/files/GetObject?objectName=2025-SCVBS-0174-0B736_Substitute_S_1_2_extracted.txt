@@ -1,0 +1,3210 @@
+Title: SENATE BILL NO. 174
+Official Title: SENATE BILL NO. 174
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 50 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to make appropriations for the state transportation
+department for the fiscal year ending September 30, 2026; and to
+provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the state transportation
+4 department for the fiscal year ending September 30, 2026, from the
+5 following funds:
+6 DEPARTMENT OF TRANSPORTATION
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 6.0
+9 Full-time equated classified positions 3,229.3
+JJR S01535'25 (S-1) tg5aio
+2
+1 GROSS APPROPRIATION $ 6,909,536,900
+2 Total interdepartmental grants and
+3 intradepartmental transfers 4,366,200
+4 ADJUSTED GROSS APPROPRIATION $ 6,905,170,700
+5 Federal revenues:
+6 Total federal revenues 2,329,605,500
+7 Special revenue funds:
+8 Total local revenues 87,448,500
+9 Total private revenues 18,800,000
+10 Total other state restricted revenues 4,467,316,700
+11 State general fund/general purpose $ 2,000,000
+12 Sec. 102. DEBT SERVICE
+13 Airport safety and protection plan $ 3,618,200
+14 Blue Water Bridge fund 3,320,300
+15 Economic development 234,300
+16 Local bridge fund 77,300
+17 State trunkline 333,554,100
+18 GROSS APPROPRIATION $ 340,804,200
+19 Appropriated from:
+20 Blue Water Bridge fund 3,320,300
+21 Economic development fund 234,300
+22 Local bridge fund 77,300
+23 State aeronautics fund 3,618,200
+24 State trunkline fund 333,554,100
+25 State general fund/general purpose $ 0
+26 Sec. 103. INTERDEPARTMENTAL GRANTS
+27 CTF grant to civil service commission $ 225,300
+28 CTF grant to department of attorney general 111,500
+JJR S01535'25 (S-1) tg5aio
+3
+1 CTF grant to department of technology,
+2 management, and budget 40,300
+3 CTF grant to department of treasury 54,900
+4 CTF grant to legislative auditor general 48,500
+5 MTF grant to department of environment, Great
+6 Lakes, and energy 2,202,200
+7 MTF grant to department of state for collection
+8 of revenue and fees 20,000,000
+9 MTF grant to department of treasury 3,761,300
+10 MTF grant to legislative auditor general 393,900
+11 SAF grant to civil service commission 140,000
+12 SAF grant to department of attorney general 196,400
+13 SAF grant to department of technology,
+14 management, and budget 28,600
+15 SAF grant to department of treasury 72,200
+16 SAF grant to legislative auditor general 38,100
+17 STF grant to civil service commission 7,160,100
+18 STF grant to department of attorney general 2,236,500
+19 STF grant to department of state police 13,945,400
+20 STF grant to department of technology,
+21 management, and budget 1,235,100
+22 STF grant to department of treasury 167,000
+23 STF grant to legislative auditor general 914,900
+24 GROSS APPROPRIATION $ 52,972,200
+25 Appropriated from:
+26 Comprehensive transportation fund 480,500
+27 Michigan transportation fund 26,357,400
+28 State aeronautics fund 475,300
+JJR S01535'25 (S-1) tg5aio
+4
+1 State trunkline fund 25,659,000
+2 State general fund/general purpose $ 0
+3 Sec. 104. DEPARTMENTAL ADMINISTRATION AND
+4 SUPPORT
+5 Full-time equated unclassified positions 6.0
+6 Full-time equated classified positions 310.3
+7 Unclassified salaries--FTE positions 6.0 $ 993,200
+8 Asset management council 2,299,900
+9 Business support services--FTEs 75.0 13,174,900
+10 Commission audit--FTEs 29.3 4,929,800
+11 Economic development and enhancement programs--
+12 FTEs 11.0 1,897,500
+13 Finance, contracts, and support services--FTEs 195.0 28,214,200
+14 Property management 9,682,100
+15 Worker's compensation 1,720,000
+16 GROSS APPROPRIATION $ 62,911,600
+17 Appropriated from:
+18 IDG for accounting service center user charges 4,366,200
+19 Comprehensive transportation fund 1,884,400
+20 Economic development fund 413,800
+21 Michigan transportation fund 5,080,600
+22 State aeronautics fund 746,500
+23 State trunkline fund 50,420,100
+24 State general fund/general purpose $ 0
+25 Sec. 105. INFORMATION TECHNOLOGY
+26 Information technology services and projects $ 42,299,500
+27 GROSS APPROPRIATION $ 42,299,500
+28 Appropriated from:
+JJR S01535'25 (S-1) tg5aio
+5
+1 Federal aid - transportation programs 520,500
+2 Blue Water Bridge fund 58,500
+3 Comprehensive transportation fund 238,200
+4 Economic development fund 39,400
+5 Michigan transportation fund 311,200
+6 State aeronautics fund 185,700
+7 State trunkline fund 40,946,000
+8 State general fund/general purpose $ 0
+9 Sec. 106. TRANSPORTATION PLANNING
+10 Full-time equated classified positions 144.0
+11 Planning services--FTEs 144.0 $ 45,371,600
+12 Grants to regional planning councils 488,800
+13 GROSS APPROPRIATION $ 45,860,400
+14 Appropriated from:
+15 Federal aid - transportation programs 26,000,000
+16 Comprehensive transportation fund 359,900
+17 Michigan transportation fund 11,338,200
+18 State aeronautics fund 30,800
+19 State trunkline fund 8,131,500
+20 State general fund/general purpose $ 0
+21 Sec. 107. DESIGN AND ENGINEERING SERVICES
+22 Full-time equated classified positions 1,684.3
+23 Business services--FTEs 51.8 $ 11,846,500
+24 Program development and delivery--FTEs 1,061.5 135,554,900
+25 System operations management--FTEs 571.0 119,754,200
+26 GROSS APPROPRIATION $ 267,155,600
+27 Appropriated from:
+28 Federal aid - transportation programs 23,529,800
+JJR S01535'25 (S-1) tg5aio
+6
+1 Comprehensive transportation fund 187,100
+2 Michigan transportation fund 19,624,800
+3 State trunkline fund 223,813,900
+4 State general fund/general purpose $ 0
+5 Sec. 108. HIGHWAY MAINTENANCE
+6 Full-time equated classified positions 908.7
+7 State trunkline operations--FTEs 908.7 $ 503,716,400
+8 GROSS APPROPRIATION $ 503,716,400
+9 Appropriated from:
+10 State trunkline fund 503,716,400
+11 State general fund/general purpose $ 0
+12 Sec. 109. ROAD AND BRIDGE PROGRAMS
+13 Cities and villages $ 743,830,200
+14 County road commissions 1,334,117,400
+15 Grants to local programs 33,000,000
+16 Local agency wetland mitigation bank fund 2,000,000
+17 Local bridge program 26,417,100
+18 Local federal aid and road and bridge
+19 construction 428,999,800
+20 Movable bridge fund 6,309,000
+21 Rail grade crossing 3,000,000
+22 Rail grade crossing - surface improvements 3,000,000
+23 State trunkline federal aid and road and bridge
+24 construction 1,671,495,000
+25 GROSS APPROPRIATION $ 4,252,168,500
+26 Appropriated from:
+27 Federal aid - transportation programs 1,744,266,200
+28 Local funds 30,003,500
+JJR S01535'25 (S-1) tg5aio
+7
+1 Private funds 10,000,000
+2 Blue Water Bridge fund 32,757,700
+3 Local bridge fund 26,417,100
+4 Michigan transportation fund 2,125,256,600
+5 State trunkline fund 283,467,400
+6 State general fund/general purpose $ 0
+7 Sec. 110. BLUE WATER BRIDGE
+8 Full-time equated classified positions 47.0
+9 Blue Water Bridge operations--FTEs 47.0 $ 7,908,600
+10 GROSS APPROPRIATION $ 7,908,600
+11 Appropriated from:
+12 Blue Water Bridge fund 7,908,600
+13 State general fund/general purpose $ 0
+14 Sec. 111. TRANSPORTATION ECONOMIC DEVELOPMENT
+15 Forest roads $ 5,000,000
+16 Rural county primary 10,547,600
+17 Rural county urban system 2,500,000
+18 Targeted industries/economic development 24,595,300
+19 Urban county congestion 10,547,600
+20 GROSS APPROPRIATION $ 53,190,500
+21 Appropriated from:
+22 Economic development fund 53,190,500
+23 State general fund/general purpose $ 0
+24 Sec. 112. AERONAUTICS SERVICES
+25 Full-time equated classified positions 48.0
+26 Air service program $ 50,000
+27 Aviation services--FTEs 48.0 7,848,300
+28 GROSS APPROPRIATION $ 7,898,300
+JJR S01535'25 (S-1) tg5aio
+8
+1 Appropriated from:
+2 State aeronautics fund 7,898,300
+3 State general fund/general purpose $ 0
+4 Sec. 113. PUBLIC TRANSPORTATION SERVICES
+5 Full-time equated classified positions 46.0
+6 Passenger transportation services--FTEs 46.0 $ 7,410,900
+7 GROSS APPROPRIATION $ 7,410,900
+8 Appropriated from:
+9 Federal aid - transportation programs 2,000,000
+10 Comprehensive transportation fund 5,410,900
+11 State general fund/general purpose $ 0
+12 Sec. 114. LOCAL BUS TRANSIT
+13 Local bus operating $ 241,750,000
+14 Nonurban operation/capital 41,123,000
+15 GROSS APPROPRIATION $ 282,873,000
+16 Appropriated from:
+17 Federal aid - transportation programs 39,123,000
+18 Local funds 2,000,000
+19 Comprehensive transportation fund 226,750,000
+20 Community infrastructure fund 15,000,000
+21 State general fund/general purpose $ 0
+22 Sec. 115. INTERCITY PASSENGER
+23 Full-time equated classified positions 41.0
+24 Detroit/Wayne County Port Authority $ 600,000
+25 Freight property management 1,300,000
+26 Intercity services 9,759,000
+27 Marine passenger service 20,559,100
+28 Office of rail--FTEs 41.0 7,485,900
+JJR S01535'25 (S-1) tg5aio
+9
+1 Rail operations and infrastructure 147,688,500
+2 GROSS APPROPRIATION $ 187,392,500
+3 Appropriated from:
+4 Federal aid - transportation programs 54,362,700
+5 Local funds 760,000
+6 Private funds 2,800,000
+7 Comprehensive transportation fund 120,376,700
+8 Intercity bus equipment fund 45,400
+9 Michigan transportation fund 2,211,800
+10 Rail freight fund 6,000,000
+11 State trunkline fund 835,900
+12 State general fund/general purpose $ 0
+13 Sec. 116. PUBLIC TRANSPORTATION DEVELOPMENT
+14 Municipal credit program $ 2,000,000
+15 Service initiatives 20,992,300
+16 Specialized services 30,342,700
+17 Transit capital 250,724,200
+18 Van pooling 400,000
+19 GROSS APPROPRIATION $ 304,459,200
+20 Appropriated from:
+21 Federal aid - transportation programs 169,803,300
+22 Local funds 37,185,000
+23 Private funds 4,000,000
+24 Comprehensive transportation fund 93,470,900
+25 State general fund/general purpose $ 0
+26 Sec. 117. CAPITAL OUTLAY
+27 (1) BUILDINGS AND FACILITIES
+28 Salt storage buildings and containment control $ 3,000,000
+JJR S01535'25 (S-1) tg5aio
+10
+1 Special maintenance, remodeling, and additions 5,000,500
+2 GROSS APPROPRIATION $ 8,000,500
+3 Appropriated from:
+4 State trunkline fund 8,000,500
+5 State general fund/general purpose $ 0
+6 (2) AIRPORT IMPROVEMENT PROGRAMS
+7 Airport safety, protection, and improvement
+8 program $ 185,845,000
+9 Detroit Metropolitan Wayne County Airport 7,020,000
+10 IIJA airport infrastructure grants 115,000,000
+11 GROSS APPROPRIATION $ 307,865,000
+12 Appropriated from:
+13 Federal aid - transportation programs 270,000,000
+14 Local funds 17,500,000
+15 Private funds 2,000,000
+16 Qualified airport fund 7,020,000
+17 State aeronautics fund 11,345,000
+18 State general fund/general purpose $ 0
+19 Sec. 118. ONE-TIME APPROPRIATIONS
+20 Road usage charge study $ 7,650,000
+21 Match every federal dollar 90,000,000
+22 Local infrastructure projects 50,000,000
+23 Grants to local businesses and municipalities 25,000,000
+24 Wrong way driver deterrence 2,000,000
+25 GROSS APPROPRIATION $ 174,650,000
+26 Appropriated from:
+27 Community infrastructure fund 165,000,000
+28 Michigan transportation fund 7,650,000
+JJR S01535'25 (S-1) tg5aio
+11
+1 State general fund/general purpose $ 2,000,000
+2
+3 PART 2
+4 PROVISIONS CONCERNING APPROPRIATIONS
+5 FOR FISCAL YEAR 2025-2026
+6 GENERAL SECTIONS
+7 Sec. 201. In accordance with section 30 of article IX of the
+8 state constitution of 1963, for the fiscal year ending September
+9 30, 2026, total state spending under part 1 from state sources is
+10 $4,467,316,700.00 and state spending under part 1 from state
+11 sources to be paid to local units of government is
+12 $2,547,188,300.00. The following itemized statement identifies
+13 appropriations from which spending to local units of government
+14 will occur:
+15 STATE TRANSPORTATION DEPARTMENT
+16 Grants to regional planning councils $ 488,800
+17 Cities and villages 743,830,200
+18 County road commissions 1,334,117,400
+19 Grants to local programs 33,000,000
+20 Local bridge program 26,417,100
+21 Local agency wetland mitigation 2,000,000
+22 Movable bridge 3,154,500
+23 Rail grade crossing 1,500,000
+24 Rail grade surface crossing improvements 3,000,000
+25 Forest roads 5,000,000
+26 Rural county primary 10,547,600
+27 Rural county urban system 2,500,000
+28 Target industries/economic redevelopment 15,249,100
+JJR S01535'25 (S-1) tg5aio
+12
+1 Urban county congestion 10,547,600
+2 Air service program 50,000
+3 Local bus operating 241,750,000
+4 Detroit/Wayne County Port Authority 600,000
+5 Marine passenger service 2,000,000
+6 Municipal credit program 2,000,000
+7 Service initiatives 7,288,300
+8 Specialized services 13,000,000
+9 Transit capital 70,782,700
+10 Airport safety, protection, and improvement
+11 program 11,345,000
+12 Detroit Metropolitan Wayne County Airport 7,020,000
+13 Total payments to local units of government $ 2,547,188,300
+14 Sec. 202. The appropriations under this part and part 1 are
+15 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+16 to 18.1594.
+17 Sec. 203. As used in this part and part 1:
+18 (a) "CTF" means comprehensive transportation fund.
+19 (b) "Department" means the state transportation department.
+20 (c) "DOT-FHWA" means DOT, Federal Highway Administration.
+21 (d) "FTE" means full-time equated.
+22 (e) "IDG" means interdepartmental grant.
+23 (f) "IIJA" means the infrastructure investment and jobs act,
+24 2021, Public Law 117-58.
+25 (g) "MTF" means Michigan transportation fund.
+26 (h) "SAF" means state aeronautics fund.
+27 (i) "Standard report recipients" means the senate and house
+28 appropriations subcommittees on transportation, the senate and
+29 house fiscal agencies, the senate and house policy offices, and the
+JJR S01535'25 (S-1) tg5aio
+13
+1 state budget office.
+2 (j) "STF" means state trunkline fund.
+3 Sec. 204. The department or agency shall use the internet to
+4 fulfill the reporting requirements of this part. This requirement
+5 includes transmitting reports to the standard report recipients and
+6 any other required recipients by email and posting the reports on
+7 an internet site.
+8 Sec. 205. To the extent permissible under section 261 of the
+9 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+10 following apply to the expenditure of funds appropriated in part 1:
+11 (a) The funds must not be used for the purchase of foreign
+12 goods or services, or both, if competitively priced and of
+13 comparable quality American goods or services, or both, are
+14 available.
+15 (b) Preference must be given to goods or services, or both,
+16 manufactured or provided by Michigan businesses, if they are
+17 competitively priced and of comparable quality.
+18 (c) Preference must be given to goods or services, or both,
+19 that are manufactured or provided by Michigan businesses owned and
+20 operated by veterans, if they are competitively priced and of
+21 comparable quality.
+22 (d) Preference must be given to goods or services, or both,
+23 that are manufactured in facilities that employ union members.
+24 Sec. 206. The department shall not take disciplinary action
+25 against an employee of the department for communicating with a
+26 member of the legislature or legislative staff, unless the
+27 communication is prohibited by law and the department is exercising
+28 its authority as provided by law.
+29 Sec. 207. Consistent with section 217 of the management and
+JJR S01535'25 (S-1) tg5aio
+14
+1 budget act, 1984 PA 431, MCL 18.1217, the departments shall prepare
+2 a report on out-of-state travel expenses not later than January 1.
+3 The report must list all travel by classified and unclassified
+4 employees outside this state in the previous fiscal year that was
+5 funded in whole or in part with funds appropriated in the
+6 department's budget. The department shall submit the report to the
+7 standard report recipients and to the senate and house
+8 appropriations committees. The report must include all of the
+9 following information:
+10 (a) The dates of each travel occurrence.
+11 (b) The total transportation and related expenses of each
+12 travel occurrence and the proportions funded with state general
+13 fund/general purpose revenues, state restricted revenues, federal
+14 revenues, and other revenues.
+15 Sec. 208. The department shall not use funds appropriated in
+16 part 1 to hire a person to provide legal services that are the
+17 responsibility of the attorney general. This section does not apply
+18 to legal services for bonding activities or to outside legal
+19 services that the attorney general authorizes.
+20 Sec. 209. Not later than December 15, the state budget office
+21 shall prepare and submit a report that provides for estimates of
+22 the total general fund/general purpose appropriation lapses at the
+23 close of the previous fiscal year. The report must summarize the
+24 projected year-end general fund/general purpose appropriation
+25 lapses by major departmental program or program areas. The state
+26 budget office shall submit the report to the standard report
+27 recipients and to the chairpersons of the senate and house of
+28 representatives appropriations committees.
+29 Sec. 210. (1) In addition to the funds appropriated in part 1,
+JJR S01535'25 (S-1) tg5aio
+15
+1 there is appropriated an amount not to exceed $500,000,000.00 for
+2 federal contingency authorization. Amounts appropriated under this
+3 subsection are not available for expenditure until they have been
+4 transferred to another line item in part 1 under section 393(2) of
+5 the management and budget act, 1984 PA 431, MCL 18.1393.
+6 (2) In addition to the funds appropriated in part 1, there is
+7 appropriated an amount not to exceed $40,000,000.00 for state
+8 restricted contingency authorization. Amounts appropriated under
+9 this subsection are not available for expenditure until they have
+10 been transferred to another line item in part 1 under section
+11 393(2) of the management and budget act, 1984 PA 431, MCL 18.1393.
+12 (3) In addition to the funds appropriated in part 1, there is
+13 appropriated an amount not to exceed $1,000,000.00 for local
+14 contingency authorization. Amounts appropriated under this
+15 subsection are not available for expenditure until they have been
+16 transferred to another line item in part 1 under section 393(2) of
+17 the management and budget act, 1984 PA 431, MCL 18.1393.
+18 (4) In addition to the funds appropriated in part 1, there is
+19 appropriated an amount not to exceed $11,000,000.00 for private
+20 contingency authorization. Amounts appropriated under this
+21 subsection are not available for expenditure until they have been
+22 transferred to another line item in part 1 under section 393(2) of
+23 the management and budget act, 1984 PA 431, MCL 18.1393.
+24 (5) In addition to the funds appropriated in part 1, there is
+25 appropriated an amount of $3,000,000,000.00 for restricted
+26 contingency authorization. Amounts appropriated under this
+27 subsection are not available for expenditure until they have been
+28 transferred to another line item in part 1 under section 393(2) of
+29 the management and budget act, 1984 PA 431, MCL 18.1393. Funds
+JJR S01535'25 (S-1) tg5aio
+16
+1 appropriated or transferred under this subsection are available to
+2 implement a comprehensive infrastructure plan consistent with all
+3 of the following:
+4 (a) Includes sustainable, long-term funding for local roads
+5 and addresses state trunkline needs.
+6 (b) Includes a revised road funding distribution formula that
+7 prioritizes and accounts for at least the lane miles of local
+8 roads, prioritizes local roads that are in poor condition and have
+9 significant traffic volume, and recognizes the unique conditions of
+10 different regions of this state, including, but not limited to, the
+11 differences in construction costs by region and the impacts of the
+12 freeze-thaw cycle.
+13 (c) Provides sufficient funding to reverse the decline in
+14 state support for local bus and transit providers.
+15 (d) Provides funding to enhance both passenger and freight
+16 rail services across the state.
+17 (e) Addresses funding for other critical infrastructure,
+18 including local drinking and wastewater infrastructure needs, local
+19 bridge repairs, non-motorized infrastructure, and emergency and
+20 disaster response needs.
+21 Sec. 211. A department or agency shall cooperate with the
+22 department of technology, management, and budget to maintain a
+23 searchable website accessible by the public at no cost that
+24 includes, but is not limited to, all of the following for each
+25 department or agency:
+26 (a) Fiscal year-to-date expenditures by category.
+27 (b) Fiscal year-to-date expenditures by appropriation unit.
+28 (c) Fiscal year-to-date payments to a selected vendor,
+29 including the vendor name, payment date, payment amount, and
+JJR S01535'25 (S-1) tg5aio
+17
+1 payment description.
+2 (d) The number of active department employees by job
+3 classification.
+4 (e) Job specifications and wage rates.
+5 Sec. 212. Not later than 14 days after the release of the
+6 executive budget recommendation, the department shall cooperate
+7 with the state budget office to provide an annual report on
+8 estimated state restricted fund balances, state restricted fund
+9 projected revenues, and state restricted fund expenditures for the
+10 previous 2 fiscal years. The report must be submitted to the
+11 standard report recipients and to the chairpersons of the senate
+12 and house appropriations committees.
+13 Sec. 214. (1) Funds appropriated in part 1 must not be used to
+14 restrict or impede a marginalized community's access to government
+15 resources, programs, or facilities.
+16 (2) From the funds appropriated in part 1, local governments
+17 shall report any action or policy that attempts to restrict or
+18 interfere with the duties of a local health officer.
+19 Sec. 215. To the extent permissible under the management and
+20 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director of
+21 each department or agency receiving appropriations in part 1 shall
+22 take all reasonable steps to ensure geographically disadvantaged
+23 business enterprises compete for and perform contracts to provide
+24 services or supplies, or both. Each director shall strongly
+25 encourage firms with which the department or agency contracts to
+26 subcontract with certified geographically disadvantaged business
+27 enterprises for services, supplies, or both. As used in this
+28 section, "geographically disadvantaged business enterprises" means
+29 that term as defined in Executive Directive No. 2023-1.
+JJR S01535'25 (S-1) tg5aio
+18
+1 Sec. 216. On a quarterly basis, the department shall report on
+2 the number of FTE positions in pay status by civil service
+3 classification, including a comparison by line item of the number
+4 of FTE positions authorized from funds appropriated in part 1 to
+5 the actual number of FTE positions employed by the department at
+6 the end of the reporting period. The report must be submitted to
+7 the senate and house appropriations committees and to the standard
+8 report recipients.
+9 Sec. 219. The department shall receive and retain copies of
+10 all reports funded from appropriations in part 1. The department
+11 shall follow federal and state guidelines for short-term and long-
+12 term retention of records. The department may electronically retain
+13 copies of reports unless otherwise required by federal and state
+14 guidelines.
+15 Sec. 220. Not later than April 1, the department shall report
+16 on each specific policy change made to implement a public act
+17 affecting the department that took effect during the previous
+18 calendar year. The department shall submit the report to the
+19 standard report recipients, to the senate and house appropriations
+20 committees, and to the joint committee on administrative rules.
+21 Sec. 222. To the extent possible, the department shall not
+22 expend appropriations under part 1 until all existing authorized
+23 work project funds available for the same purposes are exhausted.
+24 Sec. 223. The state budget director shall take steps to ensure
+25 that all state fiscal recovery funds allocated to this state under
+26 the American rescue plan act of 2021, Public Law 117-2, are
+27 expended by December 31, 2026, as required by law. A department or
+28 agency receiving an appropriation under this part or part 1 must
+29 notify the standard report recipients if an appropriation of funds
+JJR S01535'25 (S-1) tg5aio
+19
+1 described under this section is projected to lapse.
+2 Sec. 230. (1) General fund appropriations in part 1 shall not
+3 be expended for items if federal funding or private grant funding
+4 is available for the same expenditures.
+5 (2) If the department is required to make a reduction in
+6 expenditures under section 395(1) or (2) of the management and
+7 budget act, 1984 PA 431, MCL 18.1395, for any appropriation under
+8 this part or part 1, the department must notify the standard report
+9 recipients not later than 10 days after the reduction. The
+10 notification must include, but not be limited to, the following:
+11 (a) A description of the fund source that is insufficient to
+12 support the expenditures being reduced and the amount of the
+13 reduction.
+14 (b) A description of the cause for the reduction, if any such
+15 cause is known.
+16 (c) A description of the functions of state government or
+17 services to residents that will be affected by the reduction.
+18 Sec. 231. (1) Within 10 days after the effective date of this
+19 act, the department must provide a report to the standard report
+20 recipients containing the following information:
+21 (a) A list of any sections in this act that the department
+22 determines to be unenforceable, with a detailed legal rationale for
+23 those determinations, as applicable.
+24 (b) If a determination under subdivision (a) would affect the
+25 operations of a program or programs within the department, the
+26 department must report the estimated difference in cost between the
+27 policy outlined in the section determined to be unenforceable and
+28 the policy the department intends to pursue.
+29 (2) The department may coordinate with the executive office of
+JJR S01535'25 (S-1) tg5aio
+20
+1 the governor or other state departments or agencies to compile a
+2 statewide report for any departments or agencies required to submit
+3 a report substantially similar to the report described under
+4 subsection (1).
+5 Sec. 232. The department must provide a quarterly report to
+6 the standard report recipients detailing federal policy changes
+7 that do, or are expected to do, any of the following:
+8 (a) Affect the operations of the department.
+9 (b) Affect an industry, community, population, or other group
+10 regulated or served by, or that otherwise engages with, the
+11 department.
+12 (c) Affect regulations that currently protect the public to
+13 the extent that the regulations affect an industry, community,
+14 population, or other group regulated or served by, or that
+15 otherwise engages with, the department.
+16 (d) Create a regulatory gap that could negatively impact the
+17 public.
+18 Sec. 250. (1) For any grant program or project funded in part
+19 1 intended for a single recipient organization or unit of local
+20 government, the grant program or project is for a public purpose
+21 and the department shall follow procurement statutes of this state,
+22 including any bidding requirements, unless the department can fully
+23 validate, through information detailed in this part or public
+24 supporting documents, both of the following:
+25 (a) The specific organization or unit of local government that
+26 will receive or administer the funds.
+27 (b) How the funds will be administered and expended.
+28 (2) To be eligible to receive a grant described in subsection
+29 (1), both of the following must occur:
+JJR S01535'25 (S-1) tg5aio
+21
+1 (a) A recipient must submit the application under subsection
+2 (3) not later than 60 days after the effective date of this act.
+3 (b) A recipient must be 1 of the following:
+4 (i) A unit of local government, as that term is defined in
+5 section 115 of the management and budget act, 1984 PA 431, MCL
+6 18.1115.
+7 (ii) An institution of higher education.
+8 (iii) A state agency, as that term is defined in section 115 of
+9 the management and budget act, 1984 PA 431, MCL 18.1115.
+10 (iv) An entity registered with the department of licensing and
+11 regulatory affairs or the department of attorney general that has
+12 been in existence for at least the 12 months preceding the
+13 effective date of this act.
+14 (v) Another entity that can demonstrate, through state or
+15 federal tax filings or other state or federal government records,
+16 that it has been in existence for at least the 12 months preceding
+17 the effective date of this act.
+18 (3) Notwithstanding any other conditions or requirements for
+19 direct appropriation grants, the department shall work with the
+20 state budget office to perform at least all of the following
+21 activities to administer the grants described in subsection (1):
+22 (a) Develop a standard application process using the
+23 electronic submission portal developed by the state budget office,
+24 grantee reporting requirements, and any other necessary
+25 documentation, including sponsorship information as specified under
+26 subsection (4). If the electronic submission portal identified in
+27 this subdivision is not fully functional by 60 days after the
+28 effective date of this act, the state budget office shall ensure
+29 that the standard application process and form are available
+JJR S01535'25 (S-1) tg5aio
+22
+1 promptly and paper submission is acceptable. The state budget
+2 office shall promptly submit application material received to the
+3 department for departmental review.
+4 (b) Establish a process to review, complete, and execute a
+5 grant agreement with a grant recipient. The department shall not
+6 execute a grant agreement unless all necessary documentation has
+7 been submitted and reviewed.
+8 (c) Verify to the extent possible that a grant recipient will
+9 use funds for a public purpose that serves the economic prosperity,
+10 health, safety, or general welfare of the residents of this state.
+11 (d) Review and verify all necessary information to ensure the
+12 grant recipient is reasonably able to execute the grant agreement,
+13 perform its fiduciary duty, and comply with all applicable state
+14 and federal statutes. The department may deduct the cost of
+15 background checks and any other efforts performed as part of this
+16 verification from the amount of the designated grant award.
+17 (e) Establish a standard timeline to review all documents
+18 submitted by grant recipients and provide a response within 45
+19 business days stating whether submitted documents by a grant
+20 recipient are sufficient or in need of additional information. If
+21 additional information is needed, the 60-day deadline in subsection
+22 (2) is considered to have been met if a sponsor has been identified
+23 for that grant. If a grant recipient does not provide information
+24 sufficient to execute a grant agreement not later than 60 days
+25 after being notified by the department of grant approval, the
+26 department shall return funds associated with the grant to the
+27 state treasury.
+28 (f) Make an initial disbursement of up to 50% of the grant to
+29 the grant recipient not later than 60 days after a grant agreement
+JJR S01535'25 (S-1) tg5aio
+23
+1 has been executed. Disbursements must be consistent with part II,
+2 chapter 10, section 200 of the Financial Management Guide.
+3 (g) Disburse the funds remaining after the initial
+4 disbursement under subdivision (f) per the grant disbursement
+5 schedule in the executed grant agreement on a reimbursement basis
+6 after the grantee has provided sufficient documentation, as
+7 determined by the department, to verify that expenditures were made
+8 in accordance with the project purpose.
+9 (4) The process for the identification and sponsorship of a
+10 grant described in subsection (1) is as follows:
+11 (a) Not later than the effective date of this act, the state
+12 budget office shall provide an initial list of grants that require
+13 legislative sponsorship to the legislature and shall make public an
+14 initial list of grants that likely will be sponsored by the
+15 department or by the state budget office.
+16 (b) A sponsor of a grant described in subsection (1) must be a
+17 legislator, the department, or the state budget office.
+18 (c) A legislative sponsor must be identified through a letter
+19 submitted by that legislator's office to the department and state
+20 budget director containing the name of the grant recipient, the
+21 intended amount of the grant, a certification from that legislator
+22 that the grant is for a public purpose, and specific citation of
+23 the section and subsection of the public act that authorizes the
+24 grant, as applicable.
+25 (d) Within 10 business days after the effective date of this
+26 act, the senate and house of representatives shall compile an
+27 initial list of legislative grant sponsors for their respective
+28 chambers and submit those compiled lists to the state budget office
+29 and the department, and the state budget office shall identify
+JJR S01535'25 (S-1) tg5aio
+24
+1 department- or state budget office-sponsored grants. The state
+2 budget director may grant an extension of this deadline of not more
+3 than 30 days on a case-by-case basis. The state budget office shall
+4 make the compiled lists public within 14 business days after the
+5 effective date of this act.
+6 (e) Not later than 60 days after the effective date of this
+7 act, the state budget office shall publish a final list of grants
+8 requiring sponsorship. If a legislative sponsor is not identified
+9 within 60 days after the effective date of this act, the department
+10 shall do 1 of the following:
+11 (i) Identify the department or the state budget office as the
+12 sponsor.
+13 (ii) Decline to execute the grant agreement and lapse the
+14 associated funds at the end of the fiscal year.
+15 (f) At any point during the fiscal year, legislative grant
+16 sponsors may be added to a grant request.
+17 (5) An executed grant agreement under this section between the
+18 department and a grant recipient must include at least all of the
+19 following:
+20 (a) All necessary identifying information for the grant
+21 recipient, including any tax and financial information for the
+22 department to administer funds under this section.
+23 (b) A description of the project for which the grant funds
+24 will be expended, including tentative timelines and the estimated
+25 budget. The department shall not reimburse expenditures that are
+26 outside of the project purpose, as stated in the executed grant
+27 agreement, from appropriations in part 1. The grantee shall return
+28 to the treasury any interest in excess of $1,000.00 earned on the
+29 grant funds while unexpended and in possession of the grantee.
+JJR S01535'25 (S-1) tg5aio
+25
+1 (c) Unless otherwise specified in department policy, a
+2 requirement that funds appropriated for the grants described in
+3 subsection (1) may be used only for expenditures that occur on or
+4 after the effective date of this act.
+5 (d) A requirement for reporting by the grant recipient to the
+6 department and the legislative sponsor that provides the status of
+7 the project and an accounting of all funds expended by the grant
+8 recipient, as determined by the department.
+9 (e) A claw-back provision that allows the department of
+10 treasury to recoup or otherwise collect any funds that are
+11 declined, unspent, or otherwise misused.
+12 (f) The signed legislative sponsorship letter required under
+13 subsection (4), incorporated into the grant agreement and included
+14 as an appendix or attachment.
+15 (g) If a grant recipient has provided information sufficient
+16 to execute a grant agreement, the state budget office shall
+17 promptly transmit that information to the department for the
+18 department's review of the grant application. If a grant recipient
+19 has provided information sufficient to execute a grant agreement
+20 within 60 days after the effective date of this act, but the grant
+21 application needs technical fixes or additional legislative action,
+22 as identified by the state budget office, the 60-day deadline in
+23 this subdivision is considered to have been met, if a sponsor has
+24 been identified for that grant. If a grant recipient does not
+25 provide information sufficient to execute a grant agreement not
+26 later than 60 days after being notified by the department of grant
+27 approval, the department shall return funds associated with the
+28 grant to the state treasury.
+29 (6) If appropriate to improve the administration or oversight
+JJR S01535'25 (S-1) tg5aio
+26
+1 of a grant described in subsection (1), the department may adopt a
+2 memorandum of understanding with another state department to
+3 perform the required duties under this section.
+4 (7) A grant recipient shall respond to all reasonable
+5 information requests from the department related to grant
+6 expenditures and retain grant records for not less than 7 years,
+7 and the grant may be subject to monitoring, site visits, and audits
+8 as determined by the department. The grant agreement required under
+9 this section must include signed assurance by the chief executive
+10 officer or other executive officer of the grant recipient that the
+11 requirements of this subsection will be met.
+12 (8) The grant recipient shall expend all funds awarded and
+13 complete all projects not later than September 30, 2030. If at that
+14 time any unexpended funds remain, the grant recipient shall return
+15 those funds to the state treasury.
+16 (9) Any funds that are granted to a state department are
+17 appropriated in that department for the purpose of the intended
+18 grant.
+19 (10) The state budget director may, on a case-by-case basis,
+20 extend the deadline in subsection (8) on request by a grant
+21 recipient if a sponsor has been identified for the grant. The state
+22 budget director shall notify the chairs of the senate and house of
+23 representatives appropriations committees not later than 5 days
+24 after an extension is granted.
+25 (11) By March 1 of the current fiscal year, the state budget
+26 office shall post a report in a publicly accessible location on its
+27 website. The report must list the grant recipient, project purpose,
+28 and location of the project for each grant described in subsection
+29 (1), the status of funds allocated and disbursed under the grant
+JJR S01535'25 (S-1) tg5aio
+27
+1 agreement, and the legislative sponsor, if applicable. After March
+2 1, the state budget office shall update the report monthly and
+3 shall post the updated report each month. The state budget office
+4 shall include in the report the most comprehensive information the
+5 office has available at the time of posting for grants awarded. The
+6 state budget office may compile the information required in this
+7 report across all departments. The department shall assist the
+8 state budget office with the compilation of the report required
+9 under this subsection.
+10 (12) On request, beginning 75 days after the effective date of
+11 this act, the state budget office shall release information
+12 received for grant applications.
+13 (13) As applicable, the legislative sponsor of a grant
+14 described in subsection (1) shall not sponsor a grant, or ask
+15 another legislator to sponsor a grant, if there is a conflict of
+16 interest related to the grant recipient.
+17 (14) If the department reasonably determines that the funds
+18 allocated for an executed grant agreement under this section were
+19 misused or that use of the funds was misrepresented by the grant
+20 recipient, the department shall not award any additional funds
+21 under the executed grant agreement and shall refer the grant for
+22 review following internal audit protocols.
+23
+24 DEPARTMENTAL ADMINISTRATION AND SUPPORT
+25 Sec. 301. The department may establish a fee schedule and
+26 collect fees sufficient to cover the costs to issue the permits
+27 that the department is authorized by law to issue on request,
+28 unless otherwise stipulated by law. All permit fees are
+29 nonrefundable application fees and must be credited to the
+JJR S01535'25 (S-1) tg5aio
+28
+1 appropriate fund to recover the direct and indirect costs of
+2 receiving, reviewing, and processing the requests.
+3 Sec. 304. If, as a requirement of bidding on a highway
+4 project, the department requires a contractor to submit financial
+5 or proprietary documentation as to how the bid was calculated, the
+6 department shall keep that bid documentation confidential and shall
+7 not disclose that bid documentation other than to a department
+8 representative without the contractor's written consent. The
+9 department may disclose the bid documentation if necessary to
+10 address or defend a claim by a contractor.
+11 Sec. 305. (1) The department shall consult with the Michigan
+12 state housing development authority interagency council on
+13 homelessness or the Michigan homeless policy council to assess
+14 current practices and policies regarding interactions with homeless
+15 populations generally and for situations of clearing homeless
+16 encampments from public rights-of-way. The assessment must include
+17 all of the following at a minimum:
+18 (a) Additional costs to the department.
+19 (b) The impact on operations.
+20 (c) The safety of department staff.
+21 (d) The impact on homeless individuals.
+22 (e) The impact on addressing the overall rate of homelessness.
+23 (f) The effectiveness of strategy in reducing the negative
+24 impacts of homeless encampments on rights-of-way.
+25 (2) The department shall undertake a hazardous materials
+26 cleanup of homeless sites on the department's property.
+27 (3) The department shall coordinate with local law
+28 enforcement, social assistance organizations, homeless assistance
+29 agencies, and continuum of care agencies.
+JJR S01535'25 (S-1) tg5aio
+29
+1 (4) Before clearing a homeless encampment site, the department
+2 shall do both of the following:
+3 (a) Communicate and post information of the date that the site
+4 will be cleared, including posting that information at the site.
+5 (b) Create a plan for clearing the site of possessions and
+6 reunifying the possessions with their owners.
+7 Sec. 306. (1) The amounts appropriated in part 1 to support
+8 tax and fee collection, law enforcement, and other program services
+9 provided to the department and to transportation funds by other
+10 state departments must be expended from transportation funds
+11 pursuant to annual contracts between the department and those other
+12 state departments. The contracts must be executed before the
+13 expenditure or obligation of those funds. The contracts must
+14 provide, but are not limited to, the following data applicable to
+15 each state department:
+16 (a) Estimated costs to be recovered from transportation funds.
+17 (b) Description of services provided to the department and/or
+18 transportation funds and financed with transportation funds.
+19 (c) Detailed cost allocation methods appropriate to the type
+20 of services being provided and the activities financed with
+21 transportation funds.
+22 (2) Not later than 2 months after publication of the state of
+23 Michigan annual comprehensive financial report, each state
+24 department receiving funding pursuant to an interdepartment
+25 contract with the department shall submit a written report to the
+26 department, the state budget director, the house and senate fiscal
+27 agencies, and the auditor general stating by spending authorization
+28 account the amount of estimated funds contracted with the
+29 department, the amount of funds expended, the amount of funds
+JJR S01535'25 (S-1) tg5aio
+30
+1 returned to the transportation funds, and any unreimbursed
+2 transportation-related costs incurred but not billed to
+3 transportation funds.
+4 Sec. 307. Before March 1, the department shall provide to the
+5 legislature, the state budget director, and the house and senate
+6 fiscal agencies its rolling 5-year plan listing by county or by
+7 county road commission all highway construction projects for the
+8 fiscal year and all expected projects for the ensuing fiscal years.
+9 Sec. 308. Funds appropriated under part 1 or this part must
+10 not be used for construction, repair, or remodeling of a building
+11 or structure owned or leased by this state unless the construction,
+12 repair, or remodeling is performed by contractors that participate
+13 in a registered apprenticeship program for the training of their
+14 apprentices, as that term is defined in 29 USC 50c, that is
+15 certified as approved by the United States Secretary of Labor as
+16 described in 29 USC 50c.
+17 Sec. 309. Notwithstanding any other law, a state contract for
+18 a pavement marking project or for the purchase of materials for a
+19 pavement marking project must include in the contract a requirement
+20 that any yellow paint product procured must have organic yellow
+21 pigments 65 (HTS 3204.17.9086), 74 (HTS 3204.17.9055), or both
+22 permanently incorporated in the material, and that the pigment must
+23 be manufactured in this state according to the rules of origin
+24 under the United States-Mexico-Canada agreement, Public Law 116-
+25 113.
+26 Sec. 310. The department shall post in a timely manner copies
+27 of the agenda, approved minutes, and audio recording of state
+28 transportation commission meetings.
+29 Sec. 311. (1) The department shall prepare a report on all of
+JJR S01535'25 (S-1) tg5aio
+31
+1 the following:
+2 (a) CRRSAA – highway infrastructure – local bridge bundling
+3 initiative established in section 113(2) of article 14 of 2021 PA
+4 87.
+5 (b) Local bridge bundling initiative established in section
+6 118 of article 15 of 2023 PA 119.
+7 (2) The report must identify the status of bridge projects
+8 selected, funds expended under the program, and funds remaining.
+9 (3) The report shall be submitted to the standard report
+10 recipients on or before March 30, 2026.
+11 Sec. 313. (1) From funds appropriated in part 1, the
+12 department may increase a state infrastructure bank program and
+13 grant or loan funds in accordance with regulations of the state
+14 infrastructure bank program of the United States Department of
+15 Transportation. The department shall administer the state
+16 infrastructure bank for the purpose of providing a revolving, self-
+17 sustaining resource for financing transportation infrastructure
+18 projects.
+19 (2) In addition to funds provided in subsection (1), money
+20 received by this state as federal grants, repayment of state
+21 infrastructure bank loans, or other reimbursement or revenue
+22 received by this state as a result of projects funded by the
+23 program and interest earned on that money must be deposited in the
+24 revolving state infrastructure bank fund and must be available for
+25 transportation infrastructure projects. At the close of the fiscal
+26 year, any unencumbered funds remaining in the state infrastructure
+27 bank fund remain in the fund and carry forward into the succeeding
+28 fiscal year.
+29 (3) The department shall prepare a report on the status of the
+JJR S01535'25 (S-1) tg5aio
+32
+1 state infrastructure bank and submit the report to the standard
+2 report recipients on or before December 31, 2025. The report must
+3 include all of the following:
+4 (a) The balance in the state infrastructure bank on September
+5 30, 2025, including a breakdown of the balance by cash and cash
+6 equivalents, outstanding loans, and balance available for loan to
+7 local agencies.
+8 (b) A breakdown of the state infrastructure loan balance by
+9 amounts originating from federal sources and the amounts
+10 originating from nonfederal sources.
+11 (c) A list of outstanding loans by agency, original loan
+12 amount, project description, loan term, and amount outstanding.
+13 Sec. 314. (1) The MI contracting opportunity loan fund is
+14 created within the state treasury.
+15 (2) Funds deposited into the MI contracting opportunity loan
+16 fund originally created in section 1003 of article 15 of 2024 PA
+17 121 or money received by this state as repayment of loans or
+18 interest earned on loan funds is appropriated and shall be
+19 available for future loans.
+20 (3) At the close of the fiscal year, any unencumbered funds
+21 remaining in the fund shall be carried forward into the succeeding
+22 fiscal year.
+23 Sec. 315. The department shall use any additional funds in the
+24 moveable bridge fund to cover other costs for any required local
+25 federal bridge load analysis, inspection, or other local federal
+26 mandate.
+27 Sec. 384. (1) Except as otherwise provided in subsection (2),
+28 the department shall not obligate this state to expend any state
+29 transportation revenue for construction planning or construction of
+JJR S01535'25 (S-1) tg5aio
+33
+1 the Gordie Howe International Crossing or a renamed successor. In
+2 addition, except as provided in subsection (2), the department
+3 shall not commit this state to any new contract related to the
+4 construction planning or construction of the Gordie Howe
+5 International Crossing or a renamed successor that would obligate
+6 this state to expend any state transportation revenue. An
+7 expenditure for staff resources used in connection with project
+8 activities that is subject to full and prompt reimbursement from
+9 Canada is not considered an expenditure of state transportation
+10 revenue.
+11 (2) If the legislature enacts specific enabling legislation
+12 for the construction of the Gordie Howe International Crossing or a
+13 renamed successor, subsection (1) does not apply once the enabling
+14 legislation goes into effect.
+15 Sec. 385. (1) The department shall submit monthly reports to
+16 the standard report recipients, the speaker of the house of
+17 representatives, the house of representatives minority leader, the
+18 senate majority leader, and the senate minority leader on all of
+19 the following:
+20 (a) All expenditures made by this state related to the Gordie
+21 Howe Bridge.
+22 (b) All reimbursements made by Canada under section 384(1) of
+23 this part to this state for expenditures for staff resources used
+24 in connection with project activities.
+25 (c) All eminent domain and condemnation powers used, the
+26 related real estate involved in any governmental taking, the price
+27 paid for those properties, and the beneficiary's name or associated
+28 corporation.
+29 (2) The department shall submit the initial report required
+JJR S01535'25 (S-1) tg5aio
+34
+1 under subsection (1) on or before December 1. The initial report
+2 must cover the prior fiscal year.
+3 Sec. 389. (1) Within 30 days after entering into a long-term
+4 agreement with a private contractor, a public agency, or a
+5 partnership between 1 or more private contractors or public
+6 agencies, the department shall notify the state budget director,
+7 the house and senate appropriations subcommittees on
+8 transportation, and the house and senate fiscal agencies of the
+9 agreement, including the subject of the agreement, the term of the
+10 agreement, and financial obligations under the agreement.
+11 (2) As used in this section, "long-term agreement" means an
+12 agreement that obligates the department for a period of 5 years or
+13 more and that actually or contingently obligates the department to
+14 make payments over the contract period of $10,000,000.00 or more.
+15 Sec. 398. The department shall continue to work to eliminate
+16 fatalities and serious injuries on the state trunkline network and
+17 shall maintain the Toward Zero Deaths statewide safety campaign.
+18 Sec. 399. In developing its state trunkline road and bridge
+19 construction program, the department shall prioritize spending on
+20 capital preventative maintenance.
+21
+22 MICHIGAN TRANSPORTATION FUND
+23 Sec. 501. The money received under the motor carrier act, 1933
+24 PA 254, MCL 475.1 to 479.42, and not appropriated to the department
+25 of licensing and regulatory affairs or the department of state
+26 police is deposited in the Michigan transportation fund.
+27 Sec. 503. (1) At the close of the fiscal year, funds
+28 appropriated in part 1 for the transportation economic development
+29 program shall lapse to the transportation economic development
+JJR S01535'25 (S-1) tg5aio
+35
+1 fund.
+2 (2) At the close of the fiscal year, funds appropriated in
+3 part 1 for the local bridge program shall carry forward and are
+4 appropriated for the purposes defined in section 10(5) of 1951 PA
+5 51, MCL 247.660.
+6 (3) Interest earned in the transportation economic development
+7 fund and local bridge fund shall remain in the respective funds and
+8 shall be allocated to the respective programs based on actual
+9 interest earned at the end of each fiscal year.
+10 (4) In addition to the funds appropriated in part 1, the
+11 transportation economic development fund and local bridge fund may
+12 receive federal, local, or private funds or restricted source funds
+13 such as interest earnings. These funds are appropriated for
+14 projects that are consistent with the purposes of the respective
+15 funds.
+16 (5) None of the funds statutorily dedicated to the
+17 transportation economic development fund and local bridge fund
+18 shall be diverted to other projects.
+19 Sec. 504. Funds from the Michigan transportation fund must be
+20 distributed to the comprehensive transportation fund, the economic
+21 development fund, the recreation improvement fund, and the state
+22 trunkline fund, in accordance with this part and part 1 and part
+23 711 of the natural resources and environmental protection act, 1994
+24 PA 451, MCL 324.71101 to 324.71108, and may only be used as
+25 specified in this part and part 1, 1951 PA 51, MCL 247.651 to
+26 247.675, and part 711 of the natural resources and environmental
+27 protection act, 1994 PA 451, MCL 324.71101 to 324.71108.
+28
+29 STATE TRUNKLINE FUND
+JJR S01535'25 (S-1) tg5aio
+36
+1 Sec. 604. At the close of the fiscal year, any unencumbered
+2 and unexpended balance in the state trunkline fund remains in the
+3 state trunkline fund and carries forward and is appropriated for
+4 federal aid road and bridge programs for projects contained in the
+5 annual state transportation program.
+6
+7 TRANSIT AND RAIL RELATED FUNDS
+8 Sec. 701. The department shall establish an intercity bus
+9 equipment and facility fund as a subsidiary fund within the
+10 comprehensive transportation fund created under section 10b of 1951
+11 PA 51, MCL 247.660b. Proceeds received by this state from the sale
+12 of state-owned intercity bus equipment must be credited to the
+13 intercity bus equipment and facility fund for the purchase and
+14 repair of intercity bus equipment, as appropriated. Security
+15 deposits not returned to a lessee of state-owned intercity bus
+16 equipment under terms of the lease agreement must be credited to
+17 the intercity bus equipment and facility fund for the repair of
+18 intercity bus equipment, as appropriated. Money received by the
+19 department from lease payments for state-owned intercity bus
+20 equipment, and facility maintenance charges under terms of leases
+21 of state-owned intercity facilities, must be credited to the
+22 intercity bus equipment and facility fund for the purchase and
+23 repair of intercity bus equipment or for the maintenance and
+24 rehabilitation of state-owned intercity facilities, as
+25 appropriated. At the close of the fiscal year, any funds remaining
+26 in the intercity bus equipment and facility fund remain in the fund
+27 and are carried forward into the succeeding fiscal year.
+28 Sec. 702. Money that is received by this state as repayment
+29 for loans made for rail or water freight capital projects, and as a
+JJR S01535'25 (S-1) tg5aio
+37
+1 result of the sale of property or equipment used or projected to be
+2 used for rail or water freight projects must be deposited in the
+3 rail freight fund created by section 17 of the state transportation
+4 preservation act of 1976, 1976 PA 295, MCL 474.67. At the close of
+5 the fiscal year, any funds remaining in the rail freight fund
+6 remain in the fund and are carried forward into the succeeding
+7 fiscal year.
+8 Sec. 704. From the funds appropriated in part 1, the
+9 department shall prepare and transmit a report that provides detail
+10 regarding the department's obligations for programs funded under
+11 the appropriation in part 1 for rail operations and infrastructure.
+12 The report shall include a breakdown of the appropriation by
+13 program, year-to-date obligations under each program itemized by
+14 project, and an estimate of future obligations under each program
+15 itemized by project for the remainder of the fiscal year. The
+16 report shall also include a listing of all active rail related
+17 federal grants. The initial report shall be submitted to the
+18 standard report recipients on or before March 1. The department
+19 also shall update and resubmit a final report on or before
+20 September 30.
+21 Sec. 707. (1) Before March 1, 2026, the department shall
+22 provide to the legislature, the state budget office, and the house
+23 and senate fiscal agencies its rail strategic plan. The strategic
+24 plan must include, but is not limited to, a rolling 5-year rail
+25 plan and a summary of the department's obligations for programs
+26 funded under the appropriation in part 1 for rail operations and
+27 infrastructure.
+28 (2) The rolling 5-year rail plan must include, but is not
+29 limited to, all of the following:
+JJR S01535'25 (S-1) tg5aio
+38
+1 (a) A listing by county of all rail infrastructure projects on
+2 rail lines within this state utilizing state funds, and the
+3 estimated cost of each project.
+4 (b) The actual or projected state expenditures for operation
+5 of passenger rail service.
+6 (c) The actual or projected state expenditures for maintenance
+7 of passenger service rail lines.
+8 (3) The period of the rolling 5-year rail plan must include
+9 the fiscal year ending September 30, 2026 and the immediately
+10 following 4 fiscal years.
+11 (4) The summary of the department's obligations for programs
+12 funded under the appropriation in part 1 for rail operations and
+13 infrastructure must include a breakdown of the appropriation by
+14 program, year-to-year obligations under each program itemized by
+15 project, and an estimate of future obligations under each program
+16 itemized by project for the remainder of the fiscal year.
+17 (5) From the funds appropriated in part 1 for rail operation
+18 and infrastructure, not less than $20,000,000.00 must be allocated
+19 for the support of rail-related economic development projects and
+20 rail freight system preservation projects.
+21 Sec. 735. For the fiscal year ending September 30, 2026, the
+22 appropriation to a street railway pursuant to section 10e(22) of
+23 1951 PA 51, MCL 247.660e, is $0.
+24
+25 AERONAUTICS FUND
+26 Sec. 801. Except as otherwise provided in section 903 of this
+27 part for capital outlay, at the close of the fiscal year, any
+28 unobligated and unexpended balance in the state aeronautics fund
+29 created in the aeronautics code of the state of Michigan, 1945 PA
+JJR S01535'25 (S-1) tg5aio
+39
+1 327, MCL 259.1 to 259.208, lapses to the state aeronautics fund and
+2 may be appropriated by the legislature in the immediately
+3 succeeding fiscal year.
+4
+5 CAPITAL OUTLAY
+6 Sec. 901. (1) From federal-state-local project appropriations
+7 contained in part 1 for the purpose of assisting political entities
+8 and subdivisions of this state in the construction and improvement
+9 of publicly used airports and landing fields within this state, the
+10 state transportation department may permit the award of contracts
+11 on behalf of units of local government for the authorized locations
+12 not to exceed the indicated amounts, of which the state allocated
+13 portion must not exceed the amount appropriated in part 1.
+14 (2) Political entities and subdivisions shall provide not less
+15 than 5% of the cost of any project under this section, unless a
+16 total nonfederal share less than 10% is otherwise specified in
+17 federal law. State money must not be allocated until local money is
+18 allocated. State money for any 1 project must not exceed 1/3 of the
+19 total appropriation in part 1 from state funds for airport
+20 improvement programs.
+21 (3) The Michigan aeronautics commission may take those steps
+22 necessary to match federal money available for airport construction
+23 and improvement within this state and to meet the matching
+24 requirements of the federal government. Whether acting alone or
+25 jointly with another political subdivision or public agency or with
+26 this state, a political subdivision or public agency of this state
+27 shall not submit to any agency of the federal government a project
+28 application for airport planning or development unless it is
+29 authorized in this part and part 1 and the project application is
+JJR S01535'25 (S-1) tg5aio
+40
+1 approved by the governing body of each political subdivision or
+2 public agency making the application and by the Michigan
+3 aeronautics commission.
+4 Sec. 903. The appropriations in part 1 for capital outlay are
+5 carried forward at the end of the fiscal year consistent with the
+6 provisions of section 248 of the management and budget act, 1984 PA
+7 431, MCL 18.1248.
+8
+9 ONE-TIME ONLY APPROPRIATIONS
+10 Sec. 1001. (1) Funds appropriated in part 1 for local
+11 infrastructure projects shall be expended for infrastructure
+12 projects and are designated as a work project appropriation. Any
+13 unencumbered or unallotted funds shall not lapse at the end of the
+14 fiscal year and shall be available for expenditures for projects
+15 under this section until the projects have been completed. The
+16 following is in compliance with section 451a of the management and
+17 budget act, 1984 PA 431, MCL 18.1451a:
+18 (a) The purpose of the project is to fund local infrastructure
+19 projects.
+20 (b) The project will be accomplished by utilizing state
+21 employees or contracts with service providers, or both.
+22 (c) The total estimated cost of the project is $50,000,000.00.
+23 (d) The tentative completion date is September 30, 2030.
+24 (2) The part 1 appropriation for critical infrastructure
+25 projects must be expended for the following:
+26 (a) $1,500,000.00 for sidewalk installation and repair, to a
+27 township with a population between 49,000 and 50,000 according to
+28 the latest federal decennial census.
+29 (b) $1,900,000.00 for bridge replacement, to Cass Lake
+JJR S01535'25 (S-1) tg5aio
+41
+1 Community Association in a township with a population between
+2 65,000 and 66,000 according to the latest federal decennial census.
+3 (c) $2,000,000.00 for alleyway improvements, to a city with a
+4 population between 28,400 and 28,450 according to the latest
+5 federal decennial census.
+6 (d) $3,000,000.00 to the department for bus lanes along
+7 Washtenaw Avenue, near US-23 in Washtenaw County.
+8 (e) $5,000,000.00 for reconstruction of a road, to a county
+9 with a population between 800,000 and 900,000 according to the
+10 latest federal decennial census.
+11 (f) $3,000,000.00 for road repair and replacement, to a city
+12 with a population between 40,000 and 41,000 according to the latest
+13 federal decennial census.
+14 (g) $300,000.00 for a tunnel turning lane, to a township with
+15 a population between 4,100 and 4,110 according to the latest
+16 federal decennial census located in a county with a population
+17 between 26,000 and 27,000 according to the latest federal decennial
+18 census.
+19 (h) $1,500,000.00 for a park bridge replacement, to a township
+20 with a population between 3,763 and 3,767 according to the latest
+21 federal decennial census.
+22 (i) $1,500,000.00 for a bikeway project, to a city with a
+23 population between 190,000 and 200,000 according to the latest
+24 federal decennial census.
+25 (j) $2,000,000.00 for a pedestrian bridge, to a city with a
+26 population between 54,000 and 55,000 according to the latest
+27 federal decennial census.
+28 (k) $800,000.00 for road reconstruction, to a city with a
+29 population between 10,140 and 10,150 according to the latest
+JJR S01535'25 (S-1) tg5aio
+42
+1 federal decennial census.
+2 (l) $1,200,000.00 for a pedestrian crossing, to a township with
+3 a population between 45,000 and 46,000 according to the latest
+4 federal decennial census.
+5 (m) $800,000.00 for a road project, to a county with a
+6 population between 66,600 and 66,700 according to the latest
+7 federal decennial census.
+8 (n) $500,000.00 for a bridge replacement, to a county with a
+9 population between 12,000 and 12,100 according to the latest
+10 federal decennial census.
+11 (o) $13,349,800.00 is appropriated for a local disaster relief
+12 fund. The local disaster relief fund shall provide funding for a
+13 local disaster relief program. The local disaster relief program
+14 shall provide grants to local road agencies in response to natural
+15 disasters and other emergency events that affect transportation
+16 infrastructure or operations.
+17 (p) $5,000,000.00 to the department, for a road project in
+18 Wayne County.
+19 (q) $100.00 to the department, to restore EUPTA evening ferry
+20 service to Neebish Island.
+21 (r) $2,000,000.00 to the rail grade crossing – surface
+22 improvements line item.
+23 (s) $4,000,000.00 to the local grade separation fund created
+24 in section 11i of 1951 PA 51, MCL 247.661i.
+25 (t) $100.00 to the department to create a database of this
+26 state's road system based on lane miles, including city, village,
+27 county, and state roads.
+28 (u) $650,000.00 for sidewalk repair, to a township with a
+29 population between 3,763 and 3,767 according to the latest federal
+JJR S01535'25 (S-1) tg5aio
+43
+1 decennial census.
+2 Sec. 1002. Funds appropriated in part 1 for match every
+3 federal dollar shall be used to provide the funding necessary to
+4 ensure the department secures all federal funding made available to
+5 the department from the Federal Highway Administration under the
+6 infrastructure investment and jobs act, Public Law 117-58.
+7 Sec. 1003. (1) From the funds appropriated in part 1 for
+8 grants to local business and municipalities, the department shall
+9 coordinate with the department of treasury to implement a grant
+10 program for businesses and municipalities directly impacted by a
+11 state transportation project. Consistent with the requirements in
+12 this section, the department shall develop separate applications
+13 and grant criteria for both eligible businesses and municipalities
+14 and publish online.
+15 (2) Not less than $12,000,000.00 from part 1 for grants to
+16 local business and municipalities shall be utilized to award grants
+17 to eligible businesses. The department may retain up to 3% of total
+18 funds in part 1 for administration costs.
+19 (3) Grants for eligible businesses are subject to all of the
+20 following conditions:
+21 (a) Businesses must be impacted by a state transportation
+22 project that has exceeded its scheduled completion date.
+23 (b) A business must have no more than 50 employees.
+24 (c) A business must be located within proximity of a state
+25 transportation project of not more than 2 miles.
+26 (d) Eligible businesses must demonstrate a monthly loss in
+27 revenue due to a state transportation project. Individual grant
+28 awards must be equal to the revenue lost or $15,000.00, whichever
+29 is less.
+JJR S01535'25 (S-1) tg5aio
+44
+1 (e) Any other condition considered appropriate by the
+2 department.
+3 (4) Grants for eligible municipalities are subject to all of
+4 the following conditions:
+5 (a) A state transportation project must be located within or
+6 adjacent to an eligible municipality.
+7 (b) Traffic has been detoured to local roads within an
+8 eligible municipality or the applicant can demonstrate that traffic
+9 has substantially increased on local roads due to a state
+10 transportation project.
+11 (c) Grants must be awarded based on additional grant criteria
+12 developed by the department to prioritize grants to communities
+13 with the most significant increase in traffic and damage to local
+14 roads.
+15 (d) Individual grant awards to municipalities must not exceed
+16 $1,000,000.00 and must be utilized by the municipality for local
+17 road repairs.
+18 (e) Any other condition considered appropriate by the
+19 department.
+20 (5) Not later than March 1, the department shall provide a
+21 report to the standard recipients on the implementation of these
+22 grant programs, including at least the following:
+23 (a) Grants awarded in the most recent fiscal year, including
+24 the number of grants awarded, the amount of each grant, and the
+25 recipients.
+26 (b) Identification of the state transportation projects
+27 associated with each grant award.
+28 (c) Details on the number of applications received that do not
+29 receive grant awards under this section.
+JJR S01535'25 (S-1) tg5aio
+45
+1 (6) The unexpended funds appropriated in part 1 for grants to
+2 local business and municipalities are designated as a work project
+3 appropriation, and any unencumbered or unallotted funds shall not
+4 lapse at the end of the fiscal year and shall be available for
+5 expenditures for projects under this section until the projects
+6 have been completed. The following is in compliance with section
+7 451a of the management and budget act, 1984 PA 431, MCL 18.1451a:
+8 (a) The purpose of the project is to award grants to
+9 businesses and municipalities impacted by state transportation
+10 projects.
+11 (b) The project will be accomplished by utilizing state
+12 employees, the Michigan economic development corporation, or
+13 contracts.
+14 (c) The total estimated cost of the project is $25,000,000.00.
+15 (d) The tentative completion date is September 30, 2030.
+16 Sec. 1004. Funds appropriated in part 1 for wrong way driver
+17 deterrence shall be used to provide funding for the deployment of
+18 additional wrong way driver detection and driver alertness
+19 technology.
+20 Sec. 1005. (1) No later than December 31, 2025, the department
+21 shall begin a road usage charge study as described in this section.
+22 The total cost of the road usage charge study must not exceed
+23 $7,650,000.00.
+24 (2) No later than 90 days after the effective date of this
+25 act, the department must create a road usage charge technical
+26 advisory committee. All of the following apply to the technical
+27 advisory committee:
+28 (a) Meetings of the technical advisory committee must be held
+29 in compliance with the open meetings act, 1976 PA 267, MCL 15.261
+JJR S01535'25 (S-1) tg5aio
+46
+1 to 15.275.
+2 (b) The purpose of the technical advisory committee is to
+3 guide the development and evaluation of a road usage charge study
+4 to assess the potential and positive and negative findings for
+5 mileage-based revenue collection for this state's roads and
+6 highways as an alternative to the fuel tax system.
+7 (c) The technical advisory committee must include all of the
+8 following members:
+9 (i) Eleven members appointed by the director of the department.
+10 At least 1 member of the technical advisory committee appointed by
+11 the director must be a local road agency representative. In
+12 selecting the members of the technical advisory committee, the
+13 director shall consider individuals who are representatives of the
+14 telecommunications industry, highway user groups, the data security
+15 and privacy industry, privacy rights advocacy organizations,
+16 regional transportation agencies, national research and
+17 policymaking bodies, including, but not limited to, the
+18 Transportation Research Board and the American Association of State
+19 Highway and Transportation Officials, and other relevant
+20 stakeholders as determined by the director.
+21 (ii) Two members appointed by the speaker of the house of
+22 representatives.
+23 (iii) Two members appointed by the senate majority leader.
+24 (iv) Two members appointed by the house minority leader.
+25 (v) Two members appointed by the senate minority leader.
+26 (d) The technical advisory committee must study road usage
+27 charge alternatives to the fuel tax. The technical advisory
+28 committee must gather public comment on issues and concerns related
+29 to the road usage charge study and must make recommendations to the
+JJR S01535'25 (S-1) tg5aio
+47
+1 director on the design of a road usage charge study to test
+2 alternative road usage charge approaches. The technical advisory
+3 committee may also make recommendations on the criteria to be used
+4 to evaluate the road usage charge study.
+5 (e) In studying alternatives to the current fuel tax system
+6 and developing recommendations on the design of a road usage charge
+7 study to test alternative road usage charge approaches pursuant to
+8 subdivision (d), the technical advisory committee must take all of
+9 the following into consideration:
+10 (i) The availability, adaptability, reliability, and security
+11 of methods that might be used in recording and reporting highway
+12 use.
+13 (ii) The necessity of protecting all personally identifiable
+14 information used in reporting highway use.
+15 (iii) The ease and cost of recording and reporting highway use.
+16 (iv) The ease and cost of administering the collection of taxes
+17 and fees as an alternative to the current system of taxing highway
+18 use through motor vehicle fuel taxes.
+19 (v) Effective methods of maintaining compliance.
+20 (vi) The ease of reidentifying location data, even when
+21 personally identifiable information has been removed from the data.
+22 (vii) Increased privacy concerns when location data is used in
+23 conjunction with other technologies.
+24 (viii) Public and private agency access, including law
+25 enforcement, to data collected and stored for purposes of the road
+26 usage charge to ensure individual privacy rights are protected
+27 pursuant to state law.
+28 (f) The technical advisory committee shall consult with
+29 highway users and transportation stakeholders, including
+JJR S01535'25 (S-1) tg5aio
+48
+1 representatives of vehicle users, vehicle manufacturers, and fuel
+2 distributors, as part of its duties under subdivision (e).
+3 (3) Based on the recommendations of the technical advisory
+4 committee, the department shall implement a road usage charge study
+5 to identify and evaluate issues related to the potential
+6 implementation of a road usage charge in this state to begin no
+7 later than June 1, 2026, subject to all of the following:
+8 (a) The department must consult with the secretary of state to
+9 design a process for collecting a mileage-based user fee. The state
+10 must contract with at least 1 vendor for at least 1 of the
+11 collection options.
+12 (b) Participation in the road usage charge study must be
+13 voluntary.
+14 (c) A participant in the road usage charge study must be
+15 charged a mileage-based user fee and receive a refund for any motor
+16 fuel taxes or vehicle registration fees the participant paid to
+17 operate the participating vehicle during the road usage charge
+18 study.
+19 (d) At a minimum, the road usage charge study must accomplish
+20 all of the following:
+21 (i) Analyze alternative means of collecting road usage data,
+22 including at least 1 alternative that does not rely on electronic
+23 vehicle location data.
+24 (ii) Collect a minimum amount of personal information,
+25 including location information, necessary to implement the road
+26 usage charge study.
+27 (iii) Ensure that processes for collecting, managing, storing,
+28 transmitting, and destroying data are in place to protect the
+29 integrity of the data and safeguard the privacy of drivers.
+JJR S01535'25 (S-1) tg5aio
+49
+1 (e) The department shall not disclose, distribute, make
+2 available, sell, access, or otherwise provide for another purpose
+3 personal information or data collected through the road usage
+4 charge study to any private entity or individual unless authorized
+5 by a court order, as part of a civil case, by a subpoena issued on
+6 behalf of a defendant in a criminal case, by a search warrant, or
+7 in aggregate form with all personal information removed for the
+8 purposes of academic research.
+9 (4) It is the intent of the legislature that the road usage
+10 charge study be completed by December 31, 2027 and the department
+11 must prepare and submit a report of its findings based on the
+12 results of the road usage charge study to the governor, the senate
+13 and house appropriations committees, the senate and house
+14 subcommittees on transportation, the senate and house fiscal
+15 agencies, the technical advisory committee, and the public. The
+16 report must also be available on the department's website. The
+17 report must include, but not be limited to, a discussion of all of
+18 the following issues:
+19 (a) Cost.
+20 (b) Privacy, including recommendations regarding public and
+21 private access, including law enforcement, to data collected and
+22 stored for purposes of the road usage charge to ensure individual
+23 privacy rights are protected.
+24 (c) Jurisdictional issues.
+25 (d) Feasibility.
+26 (e) Complexity.
+27 (f) Acceptance.
+28 (g) Use of revenues.
+29 (h) Security and compliance, including a discussion of
+JJR S01535'25 (S-1) tg5aio
+50
+1 processes and security measures necessary to minimize fraud and tax
+2 evasion rates.
+3 (i) Data collection technology, including a discussion of the
+4 advantages and disadvantages of various types of data collection
+5 equipment and the privacy implications and considerations of the
+6 equipment.
+7 (j) Potential for additional driver services.
+8 (k) Implementation issues.
+9 (l) Equity.
+10 (m) Differences between urban and rural areas, if any.
+11 (5) Funds appropriated in part 1 for road usage charge study
+12 shall be expended for a road usage charge study and are designated
+13 as a work project appropriation. Any unencumbered or unallotted
+14 funds shall not lapse at the end of the fiscal year and shall be
+15 available for expenditures for projects under this section until
+16 the projects have been completed. The following is in compliance
+17 with section 451a of the management and budget act, 1984 PA 431,
+18 MCL 18.1451a:
+19 (a) The purpose of the project is to fund a road usage charge
+20 study.
+21 (b) The project will be accomplished by utilizing state
+22 employees or contracts with service providers, or both.
+23 (c) The total estimated cost of the project is $7,650,000.00.
+24 (d) The tentative completion date is December 31, 2027.
+25 (6) As used in this section, "technical advisory committee"
+26 means the road usage charge technical advisory committee.
+Final Page
+JJR S01535'25 (S-1) tg5aio
+[DELETED:   S t F 3       6  ]
+[DELETED:   S tN$6     4N$6        2      8   1   4e$2      $ 3   3   2   7   3N$3        3   2   7   3   3e$      $ 2   1]
+[DELETED:   S t   4   5   4   2   2   3   3   1   1   2   7   3   7   2   1   1   1   9N$5        4   2   4]
+[DELETED:   S t   2e$     6   3   6 $ 9   2 7  1 2  4 1  1 1  2   9   1N$6        4   1   4   5   7   5e$      $ 4N$4     ]
+[DELETED:   S t   5   5   2   3   3   1   4e$     1   1 $ 4   4N$4        2   3   1   3   8e$     1   5 $ 1 1  1 5  1N$2        2]
+[DELETED:   S t   1   1   2e$     9   9 $ 5N$5        5e$      $ 7   1   3   2   2   4   6   3   3   1N$4        1   3]
+[DELETED:   S t   1   3   2   2   2e$     4   4 $ 7N$7        7e$      $ 5   1   2   2   1N$5        5e$     4    $ 5 4  7N$7  ]
+[DELETED:   S t      7e$     4   4 $ 7N$7        2   5e$      $ 2   4N$2        3   2   2   1e$     4    $ 6   1   9   2 4  7]
+[DELETED:   S t   1N$1        5   7   2   1   4   2   6   8e$      $ 2   2   3   2   4N$3        1   3   4   9e$         $ 3]
+[DELETED:   S t   5N$8        8e$      $ 1   7   1N$3        2   1   2   7   1e$      $ 7   9   5   2   2N$1        1   7]
+[DELETED:   S te$2     $ 4   7   1   3   2   2   3   1   3 5 1 2 1]
+[DELETED:   S t 1   5   2   6   2   2   7   1   7   1   7  $ 2]
+[DELETED:   S t  ]
+[DELETED:   S t  ]
+[DELETED:   S t   ]
+[DELETED:   S t]
+[DELETED:   S t   ]
+[DELETED:   S t    ]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t()0()4()))]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t))]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t D]
+[DELETED:   S t          ]
+[DELETED:   S t  ]
+[DELETED:   S t   ]
+[DELETED:   S t      ]
+[DELETED:   S t   ]
+[DELETED:   S t]
+[DELETED:   S t   M  ]
+[DELETED:   S t      S]
+[DELETED:   S t T]
+[DELETED:   S t  ]
+[DELETED:   S t        A]
+[DELETED:   S t C]
+[DELETED:   S t   O]
+[DELETED:   S t]
+[DELETED:   S t)]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S ti4()))))]
+[DELETED:   S t6()9() e u p))))))]
+[DELETED:   S ti)))]
+[DELETED:   S t]
+[DELETED:   S t)]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 174
+A bill to make appropriations for the state transportation
+department for the fiscal year ending September 30, 2026; and to
+provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the state transportation
+4 department for the fiscal year ending September 30, 2026, from the
+5 following funds:
+6 DEPARTMENT OF TRANSPORTATION
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 6.0
+9 Full-time equated classified positions 3,229.3
+JJR S01535'25 (S-1) tg5aio
+
+2
+1 GROSS APPROPRIATION $ 6,909,536,900
+2 Total interdepartmental grants and
+3 intradepartmental transfers 4,366,200
+4 ADJUSTED GROSS APPROPRIATION $ 6,905,170,700
+5 Federal revenues:
+6 Total federal revenues 2,329,605,500
+7 Special revenue funds:
+8 Total local revenues 87,448,500
+9 Total private revenues 18,800,000
+10 Total other state restricted revenues 4,467,316,700
+11 State general fund/general purpose $ 2,000,000
+12 Sec. 102. DEBT SERVICE
+13 Airport safety and protection plan $ 3,618,200
+14 Blue Water Bridge fund 3,320,300
+15 Economic development 234,300
+16 Local bridge fund 77,300
+17 State trunkline 333,554,100
+18 GROSS APPROPRIATION $ 340,804,200
+19 Appropriated from:
+20 Blue Water Bridge fund 3,320,300
+21 Economic development fund 234,300
+22 Local bridge fund 77,300
+23 State aeronautics fund 3,618,200
+24 State trunkline fund 333,554,100
+25 State general fund/general purpose $ 0
+26 Sec. 103. INTERDEPARTMENTAL GRANTS
+27 CTF grant to civil service commission $ 225,300
+28 CTF grant to department of attorney general 111,500
+JJR S01535'25 (S-1) tg5aio
+
+3
+1 CTF grant to department of technology,
+2 management, and budget 40,300
+3 CTF grant to department of treasury 54,900
+4 CTF grant to legislative auditor general 48,500
+5 MTF grant to department of environment, Great
+6 Lakes, and energy 2,202,200
+7 MTF grant to department of state for collection
+8 of revenue and fees 20,000,000
+9 MTF grant to department of treasury 3,761,300
+10 MTF grant to legislative auditor general 393,900
+11 SAF grant to civil service commission 140,000
+12 SAF grant to department of attorney general 196,400
+13 SAF grant to department of technology,
+14 management, and budget 28,600
+15 SAF grant to department of treasury 72,200
+16 SAF grant to legislative auditor general 38,100
+17 STF grant to civil service commission 7,160,100
+18 STF grant to department of attorney general 2,236,500
+19 STF grant to department of state police 13,945,400
+20 STF grant to department of technology,
+21 management, and budget 1,235,100
+22 STF grant to department of treasury 167,000
+23 STF grant to legislative auditor general 914,900
+24 GROSS APPROPRIATION $ 52,972,200
+25 Appropriated from:
+26 Comprehensive transportation fund 480,500
+27 Michigan transportation fund 26,357,400
+28 State aeronautics fund 475,300
+JJR S01535'25 (S-1) tg5aio
+
+4
+1 State trunkline fund 25,659,000
+2 State general fund/general purpose $ 0
+3 Sec. 104. DEPARTMENTAL ADMINISTRATION AND
+4 SUPPORT
+5 Full-time equated unclassified positions 6.0
+6 Full-time equated classified positions 310.3
+7 Unclassified salaries--FTE positions 6.0 $ 993,200
+8 Asset management council 2,299,900
+9 Business support services--FTEs 75.0 13,174,900
+10 Commission audit--FTEs 29.3 4,929,800
+11 Economic development and enhancement programs--
+12 FTEs 11.0 1,897,500
+13 Finance, contracts, and support services--FTEs 195.0 28,214,200
+14 Property management 9,682,100
+15 Worker's compensation 1,720,000
+16 GROSS APPROPRIATION $ 62,911,600
+17 Appropriated from:
+18 IDG for accounting service center user charges 4,366,200
+19 Comprehensive transportation fund 1,884,400
+20 Economic development fund 413,800
+21 Michigan transportation fund 5,080,600
+22 State aeronautics fund 746,500
+23 State trunkline fund 50,420,100
+24 State general fund/general purpose $ 0
+25 Sec. 105. INFORMATION TECHNOLOGY
+26 Information technology services and projects $ 42,299,500
+27 GROSS APPROPRIATION $ 42,299,500
+28 Appropriated from:
+JJR S01535'25 (S-1) tg5aio
+
+5
+1 Federal aid - transportation programs 520,500
+2 Blue Water Bridge fund 58,500
+3 Comprehensive transportation fund 238,200
+4 Economic development fund 39,400
+5 Michigan transportation fund 311,200
+6 State aeronautics fund 185,700
+7 State trunkline fund 40,946,000
+8 State general fund/general purpose $ 0
+9 Sec. 106. TRANSPORTATION PLANNING
+10 Full-time equated classified positions 144.0
+11 Planning services--FTEs 144.0 $ 45,371,600
+12 Grants to regional planning councils 488,800
+13 GROSS APPROPRIATION $ 45,860,400
+14 Appropriated from:
+15 Federal aid - transportation programs 26,000,000
+16 Comprehensive transportation fund 359,900
+17 Michigan transportation fund 11,338,200
+18 State aeronautics fund 30,800
+19 State trunkline fund 8,131,500
+20 State general fund/general purpose $ 0
+21 Sec. 107. DESIGN AND ENGINEERING SERVICES
+22 Full-time equated classified positions 1,684.3
+23 Business services--FTEs 51.8 $ 11,846,500
+24 Program development and delivery--FTEs 1,061.5 135,554,900
+25 System operations management--FTEs 571.0 119,754,200
+26 GROSS APPROPRIATION $ 267,155,600
+27 Appropriated from:
+28 Federal aid - transportation programs 23,529,800
+JJR S01535'25 (S-1) tg5aio
+
+6
+1 Comprehensive transportation fund 187,100
+2 Michigan transportation fund 19,624,800
+3 State trunkline fund 223,813,900
+4 State general fund/general purpose $ 0
+5 Sec. 108. HIGHWAY MAINTENANCE
+6 Full-time equated classified positions 908.7
+7 State trunkline operations--FTEs 908.7 $ 503,716,400
+8 GROSS APPROPRIATION $ 503,716,400
+9 Appropriated from:
+10 State trunkline fund 503,716,400
+11 State general fund/general purpose $ 0
+12 Sec. 109. ROAD AND BRIDGE PROGRAMS
+13 Cities and villages $ 743,830,200
+14 County road commissions 1,334,117,400
+15 Grants to local programs 33,000,000
+16 Local agency wetland mitigation bank fund 2,000,000
+17 Local bridge program 26,417,100
+18 Local federal aid and road and bridge
+19 construction 428,999,800
+20 Movable bridge fund 6,309,000
+21 Rail grade crossing 3,000,000
+22 Rail grade crossing - surface improvements 3,000,000
+23 State trunkline federal aid and road and bridge
+24 construction 1,671,495,000
+25 GROSS APPROPRIATION $ 4,252,168,500
+26 Appropriated from:
+27 Federal aid - transportation programs 1,744,266,200
+28 Local funds 30,003,500
+JJR S01535'25 (S-1) tg5aio
+
+7
+1 Private funds 10,000,000
+2 Blue Water Bridge fund 32,757,700
+3 Local bridge fund 26,417,100
+4 Michigan transportation fund 2,125,256,600
+5 State trunkline fund 283,467,400
+6 State general fund/general purpose $ 0
+7 Sec. 110. BLUE WATER BRIDGE
+8 Full-time equated classified positions 47.0
+9 Blue Water Bridge operations--FTEs 47.0 $ 7,908,600
+10 GROSS APPROPRIATION $ 7,908,600
+11 Appropriated from:
+12 Blue Water Bridge fund 7,908,600
+13 State general fund/general purpose $ 0
+14 Sec. 111. TRANSPORTATION ECONOMIC DEVELOPMENT
+15 Forest roads $ 5,000,000
+16 Rural county primary 10,547,600
+17 Rural county urban system 2,500,000
+18 Targeted industries/economic development 24,595,300
+19 Urban county congestion 10,547,600
+20 GROSS APPROPRIATION $ 53,190,500
+21 Appropriated from:
+22 Economic development fund 53,190,500
+23 State general fund/general purpose $ 0
+24 Sec. 112. AERONAUTICS SERVICES
+25 Full-time equated classified positions 48.0
+26 Air service program $ 50,000
+27 Aviation services--FTEs 48.0 7,848,300
+28 GROSS APPROPRIATION $ 7,898,300
+JJR S01535'25 (S-1) tg5aio
+
+8
+1 Appropriated from:
+2 State aeronautics fund 7,898,300
+3 State general fund/general purpose $ 0
+4 Sec. 113. PUBLIC TRANSPORTATION SERVICES
+5 Full-time equated classified positions 46.0
+6 Passenger transportation services--FTEs 46.0 $ 7,410,900
+7 GROSS APPROPRIATION $ 7,410,900
+8 Appropriated from:
+9 Federal aid - transportation programs 2,000,000
+10 Comprehensive transportation fund 5,410,900
+11 State general fund/general purpose $ 0
+12 Sec. 114. LOCAL BUS TRANSIT
+13 Local bus operating $ 241,750,000
+14 Nonurban operation/capital 41,123,000
+15 GROSS APPROPRIATION $ 282,873,000
+16 Appropriated from:
+17 Federal aid - transportation programs 39,123,000
+18 Local funds 2,000,000
+19 Comprehensive transportation fund 226,750,000
+20 Community infrastructure fund 15,000,000
+21 State general fund/general purpose $ 0
+22 Sec. 115. INTERCITY PASSENGER
+23 Full-time equated classified positions 41.0
+24 Detroit/Wayne County Port Authority $ 600,000
+25 Freight property management 1,300,000
+26 Intercity services 9,759,000
+27 Marine passenger service 20,559,100
+28 Office of rail--FTEs 41.0 7,485,900
+JJR S01535'25 (S-1) tg5aio
+
+9
+1 Rail operations and infrastructure 147,688,500
+2 GROSS APPROPRIATION $ 187,392,500
+3 Appropriated from:
+4 Federal aid - transportation programs 54,362,700
+5 Local funds 760,000
+6 Private funds 2,800,000
+7 Comprehensive transportation fund 120,376,700
+8 Intercity bus equipment fund 45,400
+9 Michigan transportation fund 2,211,800
+10 Rail freight fund 6,000,000
+11 State trunkline fund 835,900
+12 State general fund/general purpose $ 0
+13 Sec. 116. PUBLIC TRANSPORTATION DEVELOPMENT
+14 Municipal credit program $ 2,000,000
+15 Service initiatives 20,992,300
+16 Specialized services 30,342,700
+17 Transit capital 250,724,200
+18 Van pooling 400,000
+19 GROSS APPROPRIATION $ 304,459,200
+20 Appropriated from:
+21 Federal aid - transportation programs 169,803,300
+22 Local funds 37,185,000
+23 Private funds 4,000,000
+24 Comprehensive transportation fund 93,470,900
+25 State general fund/general purpose $ 0
+26 Sec. 117. CAPITAL OUTLAY
+27 (1) BUILDINGS AND FACILITIES
+28 Salt storage buildings and containment control $ 3,000,000
+JJR S01535'25 (S-1) tg5aio
+
+10
+1 Special maintenance, remodeling, and additions 5,000,500
+2 GROSS APPROPRIATION $ 8,000,500
+3 Appropriated from:
+4 State trunkline fund 8,000,500
+5 State general fund/general purpose $ 0
+6 (2) AIRPORT IMPROVEMENT PROGRAMS
+7 Airport safety, protection, and improvement
+8 program $ 185,845,000
+9 Detroit Metropolitan Wayne County Airport 7,020,000
+10 IIJA airport infrastructure grants 115,000,000
+11 GROSS APPROPRIATION $ 307,865,000
+12 Appropriated from:
+13 Federal aid - transportation programs 270,000,000
+14 Local funds 17,500,000
+15 Private funds 2,000,000
+16 Qualified airport fund 7,020,000
+17 State aeronautics fund 11,345,000
+18 State general fund/general purpose $ 0
+19 Sec. 118. ONE-TIME APPROPRIATIONS
+20 Road usage charge study $ 7,650,000
+21 Match every federal dollar 90,000,000
+22 Local infrastructure projects 50,000,000
+23 Grants to local businesses and municipalities 25,000,000
+24 Wrong way driver deterrence 2,000,000
+25 GROSS APPROPRIATION $ 174,650,000
+26 Appropriated from:
+27 Community infrastructure fund 165,000,000
+28 Michigan transportation fund 7,650,000
+JJR S01535'25 (S-1) tg5aio
+
+11
+1 State general fund/general purpose $ 2,000,000
+2
+3 PART 2
+4 PROVISIONS CONCERNING APPROPRIATIONS
+5 FOR FISCAL YEAR 2025-2026
+6 GENERAL SECTIONS
+7 Sec. 201. In accordance with section 30 of article IX of the
+8 state constitution of 1963, for the fiscal year ending September
+9 30, 2026, total state spending under part 1 from state sources is
+10 $4,467,316,700.00 and state spending under part 1 from state
+11 sources to be paid to local units of government is
+12 $2,547,188,300.00. The following itemized statement identifies
+13 appropriations from which spending to local units of government
+14 will occur:
+15 STATE TRANSPORTATION DEPARTMENT
+16 Grants to regional planning councils $ 488,800
+17 Cities and villages 743,830,200
+18 County road commissions 1,334,117,400
+19 Grants to local programs 33,000,000
+20 Local bridge program 26,417,100
+21 Local agency wetland mitigation 2,000,000
+22 Movable bridge 3,154,500
+23 Rail grade crossing 1,500,000
+24 Rail grade surface crossing improvements 3,000,000
+25 Forest roads 5,000,000
+26 Rural county primary 10,547,600
+27 Rural county urban system 2,500,000
+28 Target industries/economic redevelopment 15,249,100
+JJR S01535'25 (S-1) tg5aio
+
+12
+1 Urban county congestion 10,547,600
+2 Air service program 50,000
+3 Local bus operating 241,750,000
+4 Detroit/Wayne County Port Authority 600,000
+5 Marine passenger service 2,000,000
+6 Municipal credit program 2,000,000
+7 Service initiatives 7,288,300
+8 Specialized services 13,000,000
+9 Transit capital 70,782,700
+10 Airport safety, protection, and improvement
+11 program 11,345,000
+12 Detroit Metropolitan Wayne County Airport 7,020,000
+13 Total payments to local units of government $ 2,547,188,300
+14 Sec. 202. The appropriations under this part and part 1 are
+15 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+16 to 18.1594.
+17 Sec. 203. As used in this part and part 1:
+18 (a) "CTF" means comprehensive transportation fund.
+19 (b) "Department" means the state transportation department.
+20 (c) "DOT-FHWA" means DOT, Federal Highway Administration.
+21 (d) "FTE" means full-time equated.
+22 (e) "IDG" means interdepartmental grant.
+23 (f) "IIJA" means the infrastructure investment and jobs act,
+24 2021, Public Law 117-58.
+25 (g) "MTF" means Michigan transportation fund.
+26 (h) "SAF" means state aeronautics fund.
+27 (i) "Standard report recipients" means the senate and house
+28 appropriations subcommittees on transportation, the senate and
+29 house fiscal agencies, the senate and house policy offices, and the
+JJR S01535'25 (S-1) tg5aio
+
+13
+1 state budget office.
+2 (j) "STF" means state trunkline fund.
+3 Sec. 204. The department or agency shall use the internet to
+4 fulfill the reporting requirements of this part. This requirement
+5 includes transmitting reports to the standard report recipients and
+6 any other required recipients by email and posting the reports on
+7 an internet site.
+8 Sec. 205. To the extent permissible under section 261 of the
+9 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+10 following apply to the expenditure of funds appropriated in part 1:
+11 (a) The funds must not be used for the purchase of foreign
+12 goods or services, or both, if competitively priced and of
+13 comparable quality American goods or services, or both, are
+14 available.
+15 (b) Preference must be given to goods or services, or both,
+16 manufactured or provided by Michigan businesses, if they are
+17 competitively priced and of comparable quality.
+18 (c) Preference must be given to goods or services, or both,
+19 that are manufactured or provided by Michigan businesses owned and
+20 operated by veterans, if they are competitively priced and of
+21 comparable quality.
+22 (d) Preference must be given to goods or services, or both,
+23 that are manufactured in facilities that employ union members.
+24 Sec. 206. The department shall not take disciplinary action
+25 against an employee of the department for communicating with a
+26 member of the legislature or legislative staff, unless the
+27 communication is prohibited by law and the department is exercising
+28 its authority as provided by law.
+29 Sec. 207. Consistent with section 217 of the management and
+JJR S01535'25 (S-1) tg5aio
+
+14
+1 budget act, 1984 PA 431, MCL 18.1217, the departments shall prepare
+2 a report on out-of-state travel expenses not later than January 1.
+3 The report must list all travel by classified and unclassified
+4 employees outside this state in the previous fiscal year that was
+5 funded in whole or in part with funds appropriated in the
+6 department's budget. The department shall submit the report to the
+7 standard report recipients and to the senate and house
+8 appropriations committees. The report must include all of the
+9 following information:
+10 (a) The dates of each travel occurrence.
+11 (b) The total transportation and related expenses of each
+12 travel occurrence and the proportions funded with state general
+13 fund/general purpose revenues, state restricted revenues, federal
+14 revenues, and other revenues.
+15 Sec. 208. The department shall not use funds appropriated in
+16 part 1 to hire a person to provide legal services that are the
+17 responsibility of the attorney general. This section does not apply
+18 to legal services for bonding activities or to outside legal
+19 services that the attorney general authorizes.
+20 Sec. 209. Not later than December 15, the state budget office
+21 shall prepare and submit a report that provides for estimates of
+22 the total general fund/general purpose appropriation lapses at the
+23 close of the previous fiscal year. The report must summarize the
+24 projected year-end general fund/general purpose appropriation
+25 lapses by major departmental program or program areas. The state
+26 budget office shall submit the report to the standard report
+27 recipients and to the chairpersons of the senate and house of
+28 representatives appropriations committees.
+29 Sec. 210. (1) In addition to the funds appropriated in part 1,
+JJR S01535'25 (S-1) tg5aio
+
+15
+1 there is appropriated an amount not to exceed $500,000,000.00 for
+2 federal contingency authorization. Amounts appropriated under this
+3 subsection are not available for expenditure until they have been
+4 transferred to another line item in part 1 under section 393(2) of
+5 the management and budget act, 1984 PA 431, MCL 18.1393.
+6 (2) In addition to the funds appropriated in part 1, there is
+7 appropriated an amount not to exceed $40,000,000.00 for state
+8 restricted contingency authorization. Amounts appropriated under
+9 this subsection are not available for expenditure until they have
+10 been transferred to another line item in part 1 under section
+11 393(2) of the management and budget act, 1984 PA 431, MCL 18.1393.
+12 (3) In addition to the funds appropriated in part 1, there is
+13 appropriated an amount not to exceed $1,000,000.00 for local
+14 contingency authorization. Amounts appropriated under this
+15 subsection are not available for expenditure until they have been
+16 transferred to another line item in part 1 under section 393(2) of
+17 the management and budget act, 1984 PA 431, MCL 18.1393.
+18 (4) In addition to the funds appropriated in part 1, there is
+19 appropriated an amount not to exceed $11,000,000.00 for private
+20 contingency authorization. Amounts appropriated under this
+21 subsection are not available for expenditure until they have been
+22 transferred to another line item in part 1 under section 393(2) of
+23 the management and budget act, 1984 PA 431, MCL 18.1393.
+24 (5) In addition to the funds appropriated in part 1, there is
+25 appropriated an amount of $3,000,000,000.00 for restricted
+26 contingency authorization. Amounts appropriated under this
+27 subsection are not available for expenditure until they have been
+28 transferred to another line item in part 1 under section 393(2) of
+29 the management and budget act, 1984 PA 431, MCL 18.1393. Funds
+JJR S01535'25 (S-1) tg5aio
+
+16
+1 appropriated or transferred under this subsection are available to
+2 implement a comprehensive infrastructure plan consistent with all
+3 of the following:
+4 (a) Includes sustainable, long-term funding for local roads
+5 and addresses state trunkline needs.
+6 (b) Includes a revised road funding distribution formula that
+7 prioritizes and accounts for at least the lane miles of local
+8 roads, prioritizes local roads that are in poor condition and have
+9 significant traffic volume, and recognizes the unique conditions of
+10 different regions of this state, including, but not limited to, the
+11 differences in construction costs by region and the impacts of the
+12 freeze-thaw cycle.
+13 (c) Provides sufficient funding to reverse the decline in
+14 state support for local bus and transit providers.
+15 (d) Provides funding to enhance both passenger and freight
+16 rail services across the state.
+17 (e) Addresses funding for other critical infrastructure,
+18 including local drinking and wastewater infrastructure needs, local
+19 bridge repairs, non-motorized infrastructure, and emergency and
+20 disaster response needs.
+21 Sec. 211. A department or agency shall cooperate with the
+22 department of technology, management, and budget to maintain a
+23 searchable website accessible by the public at no cost that
+24 includes, but is not limited to, all of the following for each
+25 department or agency:
+26 (a) Fiscal year-to-date expenditures by category.
+27 (b) Fiscal year-to-date expenditures by appropriation unit.
+28 (c) Fiscal year-to-date payments to a selected vendor,
+29 including the vendor name, payment date, payment amount, and
+JJR S01535'25 (S-1) tg5aio
+
+17
+1 payment description.
+2 (d) The number of active department employees by job
+3 classification.
+4 (e) Job specifications and wage rates.
+5 Sec. 212. Not later than 14 days after the release of the
+6 executive budget recommendation, the department shall cooperate
+7 with the state budget office to provide an annual report on
+8 estimated state restricted fund balances, state restricted fund
+9 projected revenues, and state restricted fund expenditures for the
+10 previous 2 fiscal years. The report must be submitted to the
+11 standard report recipients and to the chairpersons of the senate
+12 and house appropriations committees.
+13 Sec. 214. (1) Funds appropriated in part 1 must not be used to
+14 restrict or impede a marginalized community's access to government
+15 resources, programs, or facilities.
+16 (2) From the funds appropriated in part 1, local governments
+17 shall report any action or policy that attempts to restrict or
+18 interfere with the duties of a local health officer.
+19 Sec. 215. To the extent permissible under the management and
+20 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director of
+21 each department or agency receiving appropriations in part 1 shall
+22 take all reasonable steps to ensure geographically disadvantaged
+23 business enterprises compete for and perform contracts to provide
+24 services or supplies, or both. Each director shall strongly
+25 encourage firms with which the department or agency contracts to
+26 subcontract with certified geographically disadvantaged business
+27 enterprises for services, supplies, or both. As used in this
+28 section, "geographically disadvantaged business enterprises" means
+29 that term as defined in Executive Directive No. 2023-1.
+JJR S01535'25 (S-1) tg5aio
+
+18
+1 Sec. 216. On a quarterly basis, the department shall report on
+2 the number of FTE positions in pay status by civil service
+3 classification, including a comparison by line item of the number
+4 of FTE positions authorized from funds appropriated in part 1 to
+5 the actual number of FTE positions employed by the department at
+6 the end of the reporting period. The report must be submitted to
+7 the senate and house appropriations committees and to the standard
+8 report recipients.
+9 Sec. 219. The department shall receive and retain copies of
+10 all reports funded from appropriations in part 1. The department
+11 shall follow federal and state guidelines for short-term and long-
+12 term retention of records. The department may electronically retain
+13 copies of reports unless otherwise required by federal and state
+14 guidelines.
+15 Sec. 220. Not later than April 1, the department shall report
+16 on each specific policy change made to implement a public act
+17 affecting the department that took effect during the previous
+18 calendar year. The department shall submit the report to the
+19 standard report recipients, to the senate and house appropriations
+20 committees, and to the joint committee on administrative rules.
+21 Sec. 222. To the extent possible, the department shall not
+22 expend appropriations under part 1 until all existing authorized
+23 work project funds available for the same purposes are exhausted.
+24 Sec. 223. The state budget director shall take steps to ensure
+25 that all state fiscal recovery funds allocated to this state under
+26 the American rescue plan act of 2021, Public Law 117-2, are
+27 expended by December 31, 2026, as required by law. A department or
+28 agency receiving an appropriation under this part or part 1 must
+29 notify the standard report recipients if an appropriation of funds
+JJR S01535'25 (S-1) tg5aio
+
+19
+1 described under this section is projected to lapse.
+2 Sec. 230. (1) General fund appropriations in part 1 shall not
+3 be expended for items if federal funding or private grant funding
+4 is available for the same expenditures.
+5 (2) If the department is required to make a reduction in
+6 expenditures under section 395(1) or (2) of the management and
+7 budget act, 1984 PA 431, MCL 18.1395, for any appropriation under
+8 this part or part 1, the department must notify the standard report
+9 recipients not later than 10 days after the reduction. The
+10 notification must include, but not be limited to, the following:
+11 (a) A description of the fund source that is insufficient to
+12 support the expenditures being reduced and the amount of the
+13 reduction.
+14 (b) A description of the cause for the reduction, if any such
+15 cause is known.
+16 (c) A description of the functions of state government or
+17 services to residents that will be affected by the reduction.
+18 Sec. 231. (1) Within 10 days after the effective date of this
+19 act, the department must provide a report to the standard report
+20 recipients containing the following information:
+21 (a) A list of any sections in this act that the department
+22 determines to be unenforceable, with a detailed legal rationale for
+23 those determinations, as applicable.
+24 (b) If a determination under subdivision (a) would affect the
+25 operations of a program or programs within the department, the
+26 department must report the estimated difference in cost between the
+27 policy outlined in the section determined to be unenforceable and
+28 the policy the department intends to pursue.
+29 (2) The department may coordinate with the executive office of
+JJR S01535'25 (S-1) tg5aio
+
+20
+1 the governor or other state departments or agencies to compile a
+2 statewide report for any departments or agencies required to submit
+3 a report substantially similar to the report described under
+4 subsection (1).
+5 Sec. 232. The department must provide a quarterly report to
+6 the standard report recipients detailing federal policy changes
+7 that do, or are expected to do, any of the following:
+8 (a) Affect the operations of the department.
+9 (b) Affect an industry, community, population, or other group
+10 regulated or served by, or that otherwise engages with, the
+11 department.
+12 (c) Affect regulations that currently protect the public to
+13 the extent that the regulations affect an industry, community,
+14 population, or other group regulated or served by, or that
+15 otherwise engages with, the department.
+16 (d) Create a regulatory gap that could negatively impact the
+17 public.
+18 Sec. 250. (1) For any grant program or project funded in part
+19 1 intended for a single recipient organization or unit of local
+20 government, the grant program or project is for a public purpose
+21 and the department shall follow procurement statutes of this state,
+22 including any bidding requirements, unless the department can fully
+23 validate, through information detailed in this part or public
+24 supporting documents, both of the following:
+25 (a) The specific organization or unit of local government that
+26 will receive or administer the funds.
+27 (b) How the funds will be administered and expended.
+28 (2) To be eligible to receive a grant described in subsection
+29 (1), both of the following must occur:
+JJR S01535'25 (S-1) tg5aio
+
+21
+1 (a) A recipient must submit the application under subsection
+2 (3) not later than 60 days after the effective date of this act.
+3 (b) A recipient must be 1 of the following:
+4 (i) A unit of local government, as that term is defined in
+5 section 115 of the management and budget act, 1984 PA 431, MCL
+6 18.1115.
+7 (ii) An institution of higher education.
+8 (iii) A state agency, as that term is defined in section 115 of
+9 the management and budget act, 1984 PA 431, MCL 18.1115.
+10 (iv) An entity registered with the department of licensing and
+11 regulatory affairs or the department of attorney general that has
+12 been in existence for at least the 12 months preceding the
+13 effective date of this act.
+14 (v) Another entity that can demonstrate, through state or
+15 federal tax filings or other state or federal government records,
+16 that it has been in existence for at least the 12 months preceding
+17 the effective date of this act.
+18 (3) Notwithstanding any other conditions or requirements for
+19 direct appropriation grants, the department shall work with the
+20 state budget office to perform at least all of the following
+21 activities to administer the grants described in subsection (1):
+22 (a) Develop a standard application process using the
+23 electronic submission portal developed by the state budget office,
+24 grantee reporting requirements, and any other necessary
+25 documentation, including sponsorship information as specified under
+26 subsection (4). If the electronic submission portal identified in
+27 this subdivision is not fully functional by 60 days after the
+28 effective date of this act, the state budget office shall ensure
+29 that the standard application process and form are available
+JJR S01535'25 (S-1) tg5aio
+
+22
+1 promptly and paper submission is acceptable. The state budget
+2 office shall promptly submit application material received to the
+3 department for departmental review.
+4 (b) Establish a process to review, complete, and execute a
+5 grant agreement with a grant recipient. The department shall not
+6 execute a grant agreement unless all necessary documentation has
+7 been submitted and reviewed.
+8 (c) Verify to the extent possible that a grant recipient will
+9 use funds for a public purpose that serves the economic prosperity,
+10 health, safety, or general welfare of the residents of this state.
+11 (d) Review and verify all necessary information to ensure the
+12 grant recipient is reasonably able to execute the grant agreement,
+13 perform its fiduciary duty, and comply with all applicable state
+14 and federal statutes. The department may deduct the cost of
+15 background checks and any other efforts performed as part of this
+16 verification from the amount of the designated grant award.
+17 (e) Establish a standard timeline to review all documents
+18 submitted by grant recipients and provide a response within 45
+19 business days stating whether submitted documents by a grant
+20 recipient are sufficient or in need of additional information. If
+21 additional information is needed, the 60-day deadline in subsection
+22 (2) is considered to have been met if a sponsor has been identified
+23 for that grant. If a grant recipient does not provide information
+24 sufficient to execute a grant agreement not later than 60 days
+25 after being notified by the department of grant approval, the
+26 department shall return funds associated with the grant to the
+27 state treasury.
+28 (f) Make an initial disbursement of up to 50% of the grant to
+29 the grant recipient not later than 60 days after a grant agreement
+JJR S01535'25 (S-1) tg5aio
+
+23
+1 has been executed. Disbursements must be consistent with part II,
+2 chapter 10, section 200 of the Financial Management Guide.
+3 (g) Disburse the funds remaining after the initial
+4 disbursement under subdivision (f) per the grant disbursement
+5 schedule in the executed grant agreement on a reimbursement basis
+6 after the grantee has provided sufficient documentation, as
+7 determined by the department, to verify that expenditures were made
+8 in accordance with the project purpose.
+9 (4) The process for the identification and sponsorship of a
+10 grant described in subsection (1) is as follows:
+11 (a) Not later than the effective date of this act, the state
+12 budget office shall provide an initial list of grants that require
+13 legislative sponsorship to the legislature and shall make public an
+14 initial list of grants that likely will be sponsored by the
+15 department or by the state budget office.
+16 (b) A sponsor of a grant described in subsection (1) must be a
+17 legislator, the department, or the state budget office.
+18 (c) A legislative sponsor must be identified through a letter
+19 submitted by that legislator's office to the department and state
+20 budget director containing the name of the grant recipient, the
+21 intended amount of the grant, a certification from that legislator
+22 that the grant is for a public purpose, and specific citation of
+23 the section and subsection of the public act that authorizes the
+24 grant, as applicable.
+25 (d) Within 10 business days after the effective date of this
+26 act, the senate and house of representatives shall compile an
+27 initial list of legislative grant sponsors for their respective
+28 chambers and submit those compiled lists to the state budget office
+29 and the department, and the state budget office shall identify
+JJR S01535'25 (S-1) tg5aio
+
+24
+1 department- or state budget office-sponsored grants. The state
+2 budget director may grant an extension of this deadline of not more
+3 than 30 days on a case-by-case basis. The state budget office shall
+4 make the compiled lists public within 14 business days after the
+5 effective date of this act.
+6 (e) Not later than 60 days after the effective date of this
+7 act, the state budget office shall publish a final list of grants
+8 requiring sponsorship. If a legislative sponsor is not identified
+9 within 60 days after the effective date of this act, the department
+10 shall do 1 of the following:
+11 (i) Identify the department or the state budget office as the
+12 sponsor.
+13 (ii) Decline to execute the grant agreement and lapse the
+14 associated funds at the end of the fiscal year.
+15 (f) At any point during the fiscal year, legislative grant
+16 sponsors may be added to a grant request.
+17 (5) An executed grant agreement under this section between the
+18 department and a grant recipient must include at least all of the
+19 following:
+20 (a) All necessary identifying information for the grant
+21 recipient, including any tax and financial information for the
+22 department to administer funds under this section.
+23 (b) A description of the project for which the grant funds
+24 will be expended, including tentative timelines and the estimated
+25 budget. The department shall not reimburse expenditures that are
+26 outside of the project purpose, as stated in the executed grant
+27 agreement, from appropriations in part 1. The grantee shall return
+28 to the treasury any interest in excess of $1,000.00 earned on the
+29 grant funds while unexpended and in possession of the grantee.
+JJR S01535'25 (S-1) tg5aio
+
+25
+1 (c) Unless otherwise specified in department policy, a
+2 requirement that funds appropriated for the grants described in
+3 subsection (1) may be used only for expenditures that occur on or
+4 after the effective date of this act.
+5 (d) A requirement for reporting by the grant recipient to the
+6 department and the legislative sponsor that provides the status of
+7 the project and an accounting of all funds expended by the grant
+8 recipient, as determined by the department.
+9 (e) A claw-back provision that allows the department of
+10 treasury to recoup or otherwise collect any funds that are
+11 declined, unspent, or otherwise misused.
+12 (f) The signed legislative sponsorship letter required under
+13 subsection (4), incorporated into the grant agreement and included
+14 as an appendix or attachment.
+15 (g) If a grant recipient has provided information sufficient
+16 to execute a grant agreement, the state budget office shall
+17 promptly transmit that information to the department for the
+18 department's review of the grant application. If a grant recipient
+19 has provided information sufficient to execute a grant agreement
+20 within 60 days after the effective date of this act, but the grant
+21 application needs technical fixes or additional legislative action,
+22 as identified by the state budget office, the 60-day deadline in
+23 this subdivision is considered to have been met, if a sponsor has
+24 been identified for that grant. If a grant recipient does not
+25 provide information sufficient to execute a grant agreement not
+26 later than 60 days after being notified by the department of grant
+27 approval, the department shall return funds associated with the
+28 grant to the state treasury.
+29 (6) If appropriate to improve the administration or oversight
+JJR S01535'25 (S-1) tg5aio
+
+26
+1 of a grant described in subsection (1), the department may adopt a
+2 memorandum of understanding with another state department to
+3 perform the required duties under this section.
+4 (7) A grant recipient shall respond to all reasonable
+5 information requests from the department related to grant
+6 expenditures and retain grant records for not less than 7 years,
+7 and the grant may be subject to monitoring, site visits, and audits
+8 as determined by the department. The grant agreement required under
+9 this section must include signed assurance by the chief executive
+10 officer or other executive officer of the grant recipient that the
+11 requirements of this subsection will be met.
+12 (8) The grant recipient shall expend all funds awarded and
+13 complete all projects not later than September 30, 2030. If at that
+14 time any unexpended funds remain, the grant recipient shall return
+15 those funds to the state treasury.
+16 (9) Any funds that are granted to a state department are
+17 appropriated in that department for the purpose of the intended
+18 grant.
+19 (10) The state budget director may, on a case-by-case basis,
+20 extend the deadline in subsection (8) on request by a grant
+21 recipient if a sponsor has been identified for the grant. The state
+22 budget director shall notify the chairs of the senate and house of
+23 representatives appropriations committees not later than 5 days
+24 after an extension is granted.
+25 (11) By March 1 of the current fiscal year, the state budget
+26 office shall post a report in a publicly accessible location on its
+27 website. The report must list the grant recipient, project purpose,
+28 and location of the project for each grant described in subsection
+29 (1), the status of funds allocated and disbursed under the grant
+JJR S01535'25 (S-1) tg5aio
+
+27
+1 agreement, and the legislative sponsor, if applicable. After March
+2 1, the state budget office shall update the report monthly and
+3 shall post the updated report each month. The state budget office
+4 shall include in the report the most comprehensive information the
+5 office has available at the time of posting for grants awarded. The
+6 state budget office may compile the information required in this
+7 report across all departments. The department shall assist the
+8 state budget office with the compilation of the report required
+9 under this subsection.
+10 (12) On request, beginning 75 days after the effective date of
+11 this act, the state budget office shall release information
+12 received for grant applications.
+13 (13) As applicable, the legislative sponsor of a grant
+14 described in subsection (1) shall not sponsor a grant, or ask
+15 another legislator to sponsor a grant, if there is a conflict of
+16 interest related to the grant recipient.
+17 (14) If the department reasonably determines that the funds
+18 allocated for an executed grant agreement under this section were
+19 misused or that use of the funds was misrepresented by the grant
+20 recipient, the department shall not award any additional funds
+21 under the executed grant agreement and shall refer the grant for
+22 review following internal audit protocols.
+23
+24 DEPARTMENTAL ADMINISTRATION AND SUPPORT
+25 Sec. 301. The department may establish a fee schedule and
+26 collect fees sufficient to cover the costs to issue the permits
+27 that the department is authorized by law to issue on request,
+28 unless otherwise stipulated by law. All permit fees are
+29 nonrefundable application fees and must be credited to the
+JJR S01535'25 (S-1) tg5aio
+
+28
+1 appropriate fund to recover the direct and indirect costs of
+2 receiving, reviewing, and processing the requests.
+3 Sec. 304. If, as a requirement of bidding on a highway
+4 project, the department requires a contractor to submit financial
+5 or proprietary documentation as to how the bid was calculated, the
+6 department shall keep that bid documentation confidential and shall
+7 not disclose that bid documentation other than to a department
+8 representative without the contractor's written consent. The
+9 department may disclose the bid documentation if necessary to
+10 address or defend a claim by a contractor.
+11 Sec. 305. (1) The department shall consult with the Michigan
+12 state housing development authority interagency council on
+13 homelessness or the Michigan homeless policy council to assess
+14 current practices and policies regarding interactions with homeless
+15 populations generally and for situations of clearing homeless
+16 encampments from public rights-of-way. The assessment must include
+17 all of the following at a minimum:
+18 (a) Additional costs to the department.
+19 (b) The impact on operations.
+20 (c) The safety of department staff.
+21 (d) The impact on homeless individuals.
+22 (e) The impact on addressing the overall rate of homelessness.
+23 (f) The effectiveness of strategy in reducing the negative
+24 impacts of homeless encampments on rights-of-way.
+25 (2) The department shall undertake a hazardous materials
+26 cleanup of homeless sites on the department's property.
+27 (3) The department shall coordinate with local law
+28 enforcement, social assistance organizations, homeless assistance
+29 agencies, and continuum of care agencies.
+JJR S01535'25 (S-1) tg5aio
+
+29
+1 (4) Before clearing a homeless encampment site, the department
+2 shall do both of the following:
+3 (a) Communicate and post information of the date that the site
+4 will be cleared, including posting that information at the site.
+5 (b) Create a plan for clearing the site of possessions and
+6 reunifying the possessions with their owners.
+7 Sec. 306. (1) The amounts appropriated in part 1 to support
+8 tax and fee collection, law enforcement, and other program services
+9 provided to the department and to transportation funds by other
+10 state departments must be expended from transportation funds
+11 pursuant to annual contracts between the department and those other
+12 state departments. The contracts must be executed before the
+13 expenditure or obligation of those funds. The contracts must
+14 provide, but are not limited to, the following data applicable to
+15 each state department:
+16 (a) Estimated costs to be recovered from transportation funds.
+17 (b) Description of services provided to the department and/or
+18 transportation funds and financed with transportation funds.
+19 (c) Detailed cost allocation methods appropriate to the type
+20 of services being provided and the activities financed with
+21 transportation funds.
+22 (2) Not later than 2 months after publication of the state of
+23 Michigan annual comprehensive financial report, each state
+24 department receiving funding pursuant to an interdepartment
+25 contract with the department shall submit a written report to the
+26 department, the state budget director, the house and senate fiscal
+27 agencies, and the auditor general stating by spending authorization
+28 account the amount of estimated funds contracted with the
+29 department, the amount of funds expended, the amount of funds
+JJR S01535'25 (S-1) tg5aio
+
+30
+1 returned to the transportation funds, and any unreimbursed
+2 transportation-related costs incurred but not billed to
+3 transportation funds.
+4 Sec. 307. Before March 1, the department shall provide to the
+5 legislature, the state budget director, and the house and senate
+6 fiscal agencies its rolling 5-year plan listing by county or by
+7 county road commission all highway construction projects for the
+8 fiscal year and all expected projects for the ensuing fiscal years.
+9 Sec. 308. Funds appropriated under part 1 or this part must
+10 not be used for construction, repair, or remodeling of a building
+11 or structure owned or leased by this state unless the construction,
+12 repair, or remodeling is performed by contractors that participate
+13 in a registered apprenticeship program for the training of their
+14 apprentices, as that term is defined in 29 USC 50c, that is
+15 certified as approved by the United States Secretary of Labor as
+16 described in 29 USC 50c.
+17 Sec. 309. Notwithstanding any other law, a state contract for
+18 a pavement marking project or for the purchase of materials for a
+19 pavement marking project must include in the contract a requirement
+20 that any yellow paint product procured must have organic yellow
+21 pigments 65 (HTS 3204.17.9086), 74 (HTS 3204.17.9055), or both
+22 permanently incorporated in the material, and that the pigment must
+23 be manufactured in this state according to the rules of origin
+24 under the United States-Mexico-Canada agreement, Public Law 116-
+25 113.
+26 Sec. 310. The department shall post in a timely manner copies
+27 of the agenda, approved minutes, and audio recording of state
+28 transportation commission meetings.
+29 Sec. 311. (1) The department shall prepare a report on all of
+JJR S01535'25 (S-1) tg5aio
+
+31
+1 the following:
+2 (a) CRRSAA – highway infrastructure – local bridge bundling
+3 initiative established in section 113(2) of article 14 of 2021 PA
+4 87.
+5 (b) Local bridge bundling initiative established in section
+6 118 of article 15 of 2023 PA 119.
+7 (2) The report must identify the status of bridge projects
+8 selected, funds expended under the program, and funds remaining.
+9 (3) The report shall be submitted to the standard report
+10 recipients on or before March 30, 2026.
+11 Sec. 313. (1) From funds appropriated in part 1, the
+12 department may increase a state infrastructure bank program and
+13 grant or loan funds in accordance with regulations of the state
+14 infrastructure bank program of the United States Department of
+15 Transportation. The department shall administer the state
+16 infrastructure bank for the purpose of providing a revolving, self-
+17 sustaining resource for financing transportation infrastructure
+18 projects.
+19 (2) In addition to funds provided in subsection (1), money
+20 received by this state as federal grants, repayment of state
+21 infrastructure bank loans, or other reimbursement or revenue
+22 received by this state as a result of projects funded by the
+23 program and interest earned on that money must be deposited in the
+24 revolving state infrastructure bank fund and must be available for
+25 transportation infrastructure projects. At the close of the fiscal
+26 year, any unencumbered funds remaining in the state infrastructure
+27 bank fund remain in the fund and carry forward into the succeeding
+28 fiscal year.
+29 (3) The department shall prepare a report on the status of the
+JJR S01535'25 (S-1) tg5aio
+
+32
+1 state infrastructure bank and submit the report to the standard
+2 report recipients on or before December 31, 2025. The report must
+3 include all of the following:
+4 (a) The balance in the state infrastructure bank on September
+5 30, 2025, including a breakdown of the balance by cash and cash
+6 equivalents, outstanding loans, and balance available for loan to
+7 local agencies.
+8 (b) A breakdown of the state infrastructure loan balance by
+9 amounts originating from federal sources and the amounts
+10 originating from nonfederal sources.
+11 (c) A list of outstanding loans by agency, original loan
+12 amount, project description, loan term, and amount outstanding.
+13 Sec. 314. (1) The MI contracting opportunity loan fund is
+14 created within the state treasury.
+15 (2) Funds deposited into the MI contracting opportunity loan
+16 fund originally created in section 1003 of article 15 of 2024 PA
+17 121 or money received by this state as repayment of loans or
+18 interest earned on loan funds is appropriated and shall be
+19 available for future loans.
+20 (3) At the close of the fiscal year, any unencumbered funds
+21 remaining in the fund shall be carried forward into the succeeding
+22 fiscal year.
+23 Sec. 315. The department shall use any additional funds in the
+24 moveable bridge fund to cover other costs for any required local
+25 federal bridge load analysis, inspection, or other local federal
+26 mandate.
+27 Sec. 384. (1) Except as otherwise provided in subsection (2),
+28 the department shall not obligate this state to expend any state
+29 transportation revenue for construction planning or construction of
+JJR S01535'25 (S-1) tg5aio
+
+33
+1 the Gordie Howe International Crossing or a renamed successor. In
+2 addition, except as provided in subsection (2), the department
+3 shall not commit this state to any new contract related to the
+4 construction planning or construction of the Gordie Howe
+5 International Crossing or a renamed successor that would obligate
+6 this state to expend any state transportation revenue. An
+7 expenditure for staff resources used in connection with project
+8 activities that is subject to full and prompt reimbursement from
+9 Canada is not considered an expenditure of state transportation
+10 revenue.
+11 (2) If the legislature enacts specific enabling legislation
+12 for the construction of the Gordie Howe International Crossing or a
+13 renamed successor, subsection (1) does not apply once the enabling
+14 legislation goes into effect.
+15 Sec. 385. (1) The department shall submit monthly reports to
+16 the standard report recipients, the speaker of the house of
+17 representatives, the house of representatives minority leader, the
+18 senate majority leader, and the senate minority leader on all of
+19 the following:
+20 (a) All expenditures made by this state related to the Gordie
+21 Howe Bridge.
+22 (b) All reimbursements made by Canada under section 384(1) of
+23 this part to this state for expenditures for staff resources used
+24 in connection with project activities.
+25 (c) All eminent domain and condemnation powers used, the
+26 related real estate involved in any governmental taking, the price
+27 paid for those properties, and the beneficiary's name or associated
+28 corporation.
+29 (2) The department shall submit the initial report required
+JJR S01535'25 (S-1) tg5aio
+
+34
+1 under subsection (1) on or before December 1. The initial report
+2 must cover the prior fiscal year.
+3 Sec. 389. (1) Within 30 days after entering into a long-term
+4 agreement with a private contractor, a public agency, or a
+5 partnership between 1 or more private contractors or public
+6 agencies, the department shall notify the state budget director,
+7 the house and senate appropriations subcommittees on
+8 transportation, and the house and senate fiscal agencies of the
+9 agreement, including the subject of the agreement, the term of the
+10 agreement, and financial obligations under the agreement.
+11 (2) As used in this section, "long-term agreement" means an
+12 agreement that obligates the department for a period of 5 years or
+13 more and that actually or contingently obligates the department to
+14 make payments over the contract period of $10,000,000.00 or more.
+15 Sec. 398. The department shall continue to work to eliminate
+16 fatalities and serious injuries on the state trunkline network and
+17 shall maintain the Toward Zero Deaths statewide safety campaign.
+18 Sec. 399. In developing its state trunkline road and bridge
+19 construction program, the department shall prioritize spending on
+20 capital preventative maintenance.
+21
+22 MICHIGAN TRANSPORTATION FUND
+23 Sec. 501. The money received under the motor carrier act, 1933
+24 PA 254, MCL 475.1 to 479.42, and not appropriated to the department
+25 of licensing and regulatory affairs or the department of state
+26 police is deposited in the Michigan transportation fund.
+27 Sec. 503. (1) At the close of the fiscal year, funds
+28 appropriated in part 1 for the transportation economic development
+29 program shall lapse to the transportation economic development
+JJR S01535'25 (S-1) tg5aio
+
+35
+1 fund.
+2 (2) At the close of the fiscal year, funds appropriated in
+3 part 1 for the local bridge program shall carry forward and are
+4 appropriated for the purposes defined in section 10(5) of 1951 PA
+5 51, MCL 247.660.
+6 (3) Interest earned in the transportation economic development
+7 fund and local bridge fund shall remain in the respective funds and
+8 shall be allocated to the respective programs based on actual
+9 interest earned at the end of each fiscal year.
+10 (4) In addition to the funds appropriated in part 1, the
+11 transportation economic development fund and local bridge fund may
+12 receive federal, local, or private funds or restricted source funds
+13 such as interest earnings. These funds are appropriated for
+14 projects that are consistent with the purposes of the respective
+15 funds.
+16 (5) None of the funds statutorily dedicated to the
+17 transportation economic development fund and local bridge fund
+18 shall be diverted to other projects.
+19 Sec. 504. Funds from the Michigan transportation fund must be
+20 distributed to the comprehensive transportation fund, the economic
+21 development fund, the recreation improvement fund, and the state
+22 trunkline fund, in accordance with this part and part 1 and part
+23 711 of the natural resources and environmental protection act, 1994
+24 PA 451, MCL 324.71101 to 324.71108, and may only be used as
+25 specified in this part and part 1, 1951 PA 51, MCL 247.651 to
+26 247.675, and part 711 of the natural resources and environmental
+27 protection act, 1994 PA 451, MCL 324.71101 to 324.71108.
+28
+29 STATE TRUNKLINE FUND
+JJR S01535'25 (S-1) tg5aio
+
+36
+1 Sec. 604. At the close of the fiscal year, any unencumbered
+2 and unexpended balance in the state trunkline fund remains in the
+3 state trunkline fund and carries forward and is appropriated for
+4 federal aid road and bridge programs for projects contained in the
+5 annual state transportation program.
+6
+7 TRANSIT AND RAIL RELATED FUNDS
+8 Sec. 701. The department shall establish an intercity bus
+9 equipment and facility fund as a subsidiary fund within the
+10 comprehensive transportation fund created under section 10b of 1951
+11 PA 51, MCL 247.660b. Proceeds received by this state from the sale
+12 of state-owned intercity bus equipment must be credited to the
+13 intercity bus equipment and facility fund for the purchase and
+14 repair of intercity bus equipment, as appropriated. Security
+15 deposits not returned to a lessee of state-owned intercity bus
+16 equipment under terms of the lease agreement must be credited to
+17 the intercity bus equipment and facility fund for the repair of
+18 intercity bus equipment, as appropriated. Money received by the
+19 department from lease payments for state-owned intercity bus
+20 equipment, and facility maintenance charges under terms of leases
+21 of state-owned intercity facilities, must be credited to the
+22 intercity bus equipment and facility fund for the purchase and
+23 repair of intercity bus equipment or for the maintenance and
+24 rehabilitation of state-owned intercity facilities, as
+25 appropriated. At the close of the fiscal year, any funds remaining
+26 in the intercity bus equipment and facility fund remain in the fund
+27 and are carried forward into the succeeding fiscal year.
+28 Sec. 702. Money that is received by this state as repayment
+29 for loans made for rail or water freight capital projects, and as a
+JJR S01535'25 (S-1) tg5aio
+
+37
+1 result of the sale of property or equipment used or projected to be
+2 used for rail or water freight projects must be deposited in the
+3 rail freight fund created by section 17 of the state transportation
+4 preservation act of 1976, 1976 PA 295, MCL 474.67. At the close of
+5 the fiscal year, any funds remaining in the rail freight fund
+6 remain in the fund and are carried forward into the succeeding
+7 fiscal year.
+8 Sec. 704. From the funds appropriated in part 1, the
+9 department shall prepare and transmit a report that provides detail
+10 regarding the department's obligations for programs funded under
+11 the appropriation in part 1 for rail operations and infrastructure.
+12 The report shall include a breakdown of the appropriation by
+13 program, year-to-date obligations under each program itemized by
+14 project, and an estimate of future obligations under each program
+15 itemized by project for the remainder of the fiscal year. The
+16 report shall also include a listing of all active rail related
+17 federal grants. The initial report shall be submitted to the
+18 standard report recipients on or before March 1. The department
+19 also shall update and resubmit a final report on or before
+20 September 30.
+21 Sec. 707. (1) Before March 1, 2026, the department shall
+22 provide to the legislature, the state budget office, and the house
+23 and senate fiscal agencies its rail strategic plan. The strategic
+24 plan must include, but is not limited to, a rolling 5-year rail
+25 plan and a summary of the department's obligations for programs
+26 funded under the appropriation in part 1 for rail operations and
+27 infrastructure.
+28 (2) The rolling 5-year rail plan must include, but is not
+29 limited to, all of the following:
+JJR S01535'25 (S-1) tg5aio
+
+38
+1 (a) A listing by county of all rail infrastructure projects on
+2 rail lines within this state utilizing state funds, and the
+3 estimated cost of each project.
+4 (b) The actual or projected state expenditures for operation
+5 of passenger rail service.
+6 (c) The actual or projected state expenditures for maintenance
+7 of passenger service rail lines.
+8 (3) The period of the rolling 5-year rail plan must include
+9 the fiscal year ending September 30, 2026 and the immediately
+10 following 4 fiscal years.
+11 (4) The summary of the department's obligations for programs
+12 funded under the appropriation in part 1 for rail operations and
+13 infrastructure must include a breakdown of the appropriation by
+14 program, year-to-year obligations under each program itemized by
+15 project, and an estimate of future obligations under each program
+16 itemized by project for the remainder of the fiscal year.
+17 (5) From the funds appropriated in part 1 for rail operation
+18 and infrastructure, not less than $20,000,000.00 must be allocated
+19 for the support of rail-related economic development projects and
+20 rail freight system preservation projects.
+21 Sec. 735. For the fiscal year ending September 30, 2026, the
+22 appropriation to a street railway pursuant to section 10e(22) of
+23 1951 PA 51, MCL 247.660e, is $0.
+24
+25 AERONAUTICS FUND
+26 Sec. 801. Except as otherwise provided in section 903 of this
+27 part for capital outlay, at the close of the fiscal year, any
+28 unobligated and unexpended balance in the state aeronautics fund
+29 created in the aeronautics code of the state of Michigan, 1945 PA
+JJR S01535'25 (S-1) tg5aio
+
+39
+1 327, MCL 259.1 to 259.208, lapses to the state aeronautics fund and
+2 may be appropriated by the legislature in the immediately
+3 succeeding fiscal year.
+4
+5 CAPITAL OUTLAY
+6 Sec. 901. (1) From federal-state-local project appropriations
+7 contained in part 1 for the purpose of assisting political entities
+8 and subdivisions of this state in the construction and improvement
+9 of publicly used airports and landing fields within this state, the
+10 state transportation department may permit the award of contracts
+11 on behalf of units of local government for the authorized locations
+12 not to exceed the indicated amounts, of which the state allocated
+13 portion must not exceed the amount appropriated in part 1.
+14 (2) Political entities and subdivisions shall provide not less
+15 than 5% of the cost of any project under this section, unless a
+16 total nonfederal share less than 10% is otherwise specified in
+17 federal law. State money must not be allocated until local money is
+18 allocated. State money for any 1 project must not exceed 1/3 of the
+19 total appropriation in part 1 from state funds for airport
+20 improvement programs.
+21 (3) The Michigan aeronautics commission may take those steps
+22 necessary to match federal money available for airport construction
+23 and improvement within this state and to meet the matching
+24 requirements of the federal government. Whether acting alone or
+25 jointly with another political subdivision or public agency or with
+26 this state, a political subdivision or public agency of this state
+27 shall not submit to any agency of the federal government a project
+28 application for airport planning or development unless it is
+29 authorized in this part and part 1 and the project application is
+JJR S01535'25 (S-1) tg5aio
+
+40
+1 approved by the governing body of each political subdivision or
+2 public agency making the application and by the Michigan
+3 aeronautics commission.
+4 Sec. 903. The appropriations in part 1 for capital outlay are
+5 carried forward at the end of the fiscal year consistent with the
+6 provisions of section 248 of the management and budget act, 1984 PA
+7 431, MCL 18.1248.
+8
+9 ONE-TIME ONLY APPROPRIATIONS
+10 Sec. 1001. (1) Funds appropriated in part 1 for local
+11 infrastructure projects shall be expended for infrastructure
+12 projects and are designated as a work project appropriation. Any
+13 unencumbered or unallotted funds shall not lapse at the end of the
+14 fiscal year and shall be available for expenditures for projects
+15 under this section until the projects have been completed. The
+16 following is in compliance with section 451a of the management and
+17 budget act, 1984 PA 431, MCL 18.1451a:
+18 (a) The purpose of the project is to fund local infrastructure
+19 projects.
+20 (b) The project will be accomplished by utilizing state
+21 employees or contracts with service providers, or both.
+22 (c) The total estimated cost of the project is $50,000,000.00.
+23 (d) The tentative completion date is September 30, 2030.
+24 (2) The part 1 appropriation for critical infrastructure
+25 projects must be expended for the following:
+26 (a) $1,500,000.00 for sidewalk installation and repair, to a
+27 township with a population between 49,000 and 50,000 according to
+28 the latest federal decennial census.
+29 (b) $1,900,000.00 for bridge replacement, to Cass Lake
+JJR S01535'25 (S-1) tg5aio
+
+41
+1 Community Association in a township with a population between
+2 65,000 and 66,000 according to the latest federal decennial census.
+3 (c) $2,000,000.00 for alleyway improvements, to a city with a
+4 population between 28,400 and 28,450 according to the latest
+5 federal decennial census.
+6 (d) $3,000,000.00 to the department for bus lanes along
+7 Washtenaw Avenue, near US-23 in Washtenaw County.
+8 (e) $5,000,000.00 for reconstruction of a road, to a county
+9 with a population between 800,000 and 900,000 according to the
+10 latest federal decennial census.
+11 (f) $3,000,000.00 for road repair and replacement, to a city
+12 with a population between 40,000 and 41,000 according to the latest
+13 federal decennial census.
+14 (g) $300,000.00 for a tunnel turning lane, to a township with
+15 a population between 4,100 and 4,110 according to the latest
+16 federal decennial census located in a county with a population
+17 between 26,000 and 27,000 according to the latest federal decennial
+18 census.
+19 (h) $1,500,000.00 for a park bridge replacement, to a township
+20 with a population between 3,763 and 3,767 according to the latest
+21 federal decennial census.
+22 (i) $1,500,000.00 for a bikeway project, to a city with a
+23 population between 190,000 and 200,000 according to the latest
+24 federal decennial census.
+25 (j) $2,000,000.00 for a pedestrian bridge, to a city with a
+26 population between 54,000 and 55,000 according to the latest
+27 federal decennial census.
+28 (k) $800,000.00 for road reconstruction, to a city with a
+29 population between 10,140 and 10,150 according to the latest
+JJR S01535'25 (S-1) tg5aio
+
+42
+1 federal decennial census.
+2 (l) $1,200,000.00 for a pedestrian crossing, to a township with
+3 a population between 45,000 and 46,000 according to the latest
+4 federal decennial census.
+5 (m) $800,000.00 for a road project, to a county with a
+6 population between 66,600 and 66,700 according to the latest
+7 federal decennial census.
+8 (n) $500,000.00 for a bridge replacement, to a county with a
+9 population between 12,000 and 12,100 according to the latest
+10 federal decennial census.
+11 (o) $13,349,800.00 is appropriated for a local disaster relief
+12 fund. The local disaster relief fund shall provide funding for a
+13 local disaster relief program. The local disaster relief program
+14 shall provide grants to local road agencies in response to natural
+15 disasters and other emergency events that affect transportation
+16 infrastructure or operations.
+17 (p) $5,000,000.00 to the department, for a road project in
+18 Wayne County.
+19 (q) $100.00 to the department, to restore EUPTA evening ferry
+20 service to Neebish Island.
+21 (r) $2,000,000.00 to the rail grade crossing – surface
+22 improvements line item.
+23 (s) $4,000,000.00 to the local grade separation fund created
+24 in section 11i of 1951 PA 51, MCL 247.661i.
+25 (t) $100.00 to the department to create a database of this
+26 state's road system based on lane miles, including city, village,
+27 county, and state roads.
+28 (u) $650,000.00 for sidewalk repair, to a township with a
+29 population between 3,763 and 3,767 according to the latest federal
+JJR S01535'25 (S-1) tg5aio
+
+43
+1 decennial census.
+2 Sec. 1002. Funds appropriated in part 1 for match every
+3 federal dollar shall be used to provide the funding necessary to
+4 ensure the department secures all federal funding made available to
+5 the department from the Federal Highway Administration under the
+6 infrastructure investment and jobs act, Public Law 117-58.
+7 Sec. 1003. (1) From the funds appropriated in part 1 for
+8 grants to local business and municipalities, the department shall
+9 coordinate with the department of treasury to implement a grant
+10 program for businesses and municipalities directly impacted by a
+11 state transportation project. Consistent with the requirements in
+12 this section, the department shall develop separate applications
+13 and grant criteria for both eligible businesses and municipalities
+14 and publish online.
+15 (2) Not less than $12,000,000.00 from part 1 for grants to
+16 local business and municipalities shall be utilized to award grants
+17 to eligible businesses. The department may retain up to 3% of total
+18 funds in part 1 for administration costs.
+19 (3) Grants for eligible businesses are subject to all of the
+20 following conditions:
+21 (a) Businesses must be impacted by a state transportation
+22 project that has exceeded its scheduled completion date.
+23 (b) A business must have no more than 50 employees.
+24 (c) A business must be located within proximity of a state
+25 transportation project of not more than 2 miles.
+26 (d) Eligible businesses must demonstrate a monthly loss in
+27 revenue due to a state transportation project. Individual grant
+28 awards must be equal to the revenue lost or $15,000.00, whichever
+29 is less.
+JJR S01535'25 (S-1) tg5aio
+
+44
+1 (e) Any other condition considered appropriate by the
+2 department.
+3 (4) Grants for eligible municipalities are subject to all of
+4 the following conditions:
+5 (a) A state transportation project must be located within or
+6 adjacent to an eligible municipality.
+7 (b) Traffic has been detoured to local roads within an
+8 eligible municipality or the applicant can demonstrate that traffic
+9 has substantially increased on local roads due to a state
+10 transportation project.
+11 (c) Grants must be awarded based on additional grant criteria
+12 developed by the department to prioritize grants to communities
+13 with the most significant increase in traffic and damage to local
+14 roads.
+15 (d) Individual grant awards to municipalities must not exceed
+16 $1,000,000.00 and must be utilized by the municipality for local
+17 road repairs.
+18 (e) Any other condition considered appropriate by the
+19 department.
+20 (5) Not later than March 1, the department shall provide a
+21 report to the standard recipients on the implementation of these
+22 grant programs, including at least the following:
+23 (a) Grants awarded in the most recent fiscal year, including
+24 the number of grants awarded, the amount of each grant, and the
+25 recipients.
+26 (b) Identification of the state transportation projects
+27 associated with each grant award.
+28 (c) Details on the number of applications received that do not
+29 receive grant awards under this section.
+JJR S01535'25 (S-1) tg5aio
+
+45
+1 (6) The unexpended funds appropriated in part 1 for grants to
+2 local business and municipalities are designated as a work project
+3 appropriation, and any unencumbered or unallotted funds shall not
+4 lapse at the end of the fiscal year and shall be available for
+5 expenditures for projects under this section until the projects
+6 have been completed. The following is in compliance with section
+7 451a of the management and budget act, 1984 PA 431, MCL 18.1451a:
+8 (a) The purpose of the project is to award grants to
+9 businesses and municipalities impacted by state transportation
+10 projects.
+11 (b) The project will be accomplished by utilizing state
+12 employees, the Michigan economic development corporation, or
+13 contracts.
+14 (c) The total estimated cost of the project is $25,000,000.00.
+15 (d) The tentative completion date is September 30, 2030.
+16 Sec. 1004. Funds appropriated in part 1 for wrong way driver
+17 deterrence shall be used to provide funding for the deployment of
+18 additional wrong way driver detection and driver alertness
+19 technology.
+20 Sec. 1005. (1) No later than December 31, 2025, the department
+21 shall begin a road usage charge study as described in this section.
+22 The total cost of the road usage charge study must not exceed
+23 $7,650,000.00.
+24 (2) No later than 90 days after the effective date of this
+25 act, the department must create a road usage charge technical
+26 advisory committee. All of the following apply to the technical
+27 advisory committee:
+28 (a) Meetings of the technical advisory committee must be held
+29 in compliance with the open meetings act, 1976 PA 267, MCL 15.261
+JJR S01535'25 (S-1) tg5aio
+
+46
+1 to 15.275.
+2 (b) The purpose of the technical advisory committee is to
+3 guide the development and evaluation of a road usage charge study
+4 to assess the potential and positive and negative findings for
+5 mileage-based revenue collection for this state's roads and
+6 highways as an alternative to the fuel tax system.
+7 (c) The technical advisory committee must include all of the
+8 following members:
+9 (i) Eleven members appointed by the director of the department.
+10 At least 1 member of the technical advisory committee appointed by
+11 the director must be a local road agency representative. In
+12 selecting the members of the technical advisory committee, the
+13 director shall consider individuals who are representatives of the
+14 telecommunications industry, highway user groups, the data security
+15 and privacy industry, privacy rights advocacy organizations,
+16 regional transportation agencies, national research and
+17 policymaking bodies, including, but not limited to, the
+18 Transportation Research Board and the American Association of State
+19 Highway and Transportation Officials, and other relevant
+20 stakeholders as determined by the director.
+21 (ii) Two members appointed by the speaker of the house of
+22 representatives.
+23 (iii) Two members appointed by the senate majority leader.
+24 (iv) Two members appointed by the house minority leader.
+25 (v) Two members appointed by the senate minority leader.
+26 (d) The technical advisory committee must study road usage
+27 charge alternatives to the fuel tax. The technical advisory
+28 committee must gather public comment on issues and concerns related
+29 to the road usage charge study and must make recommendations to the
+JJR S01535'25 (S-1) tg5aio
+
+47
+1 director on the design of a road usage charge study to test
+2 alternative road usage charge approaches. The technical advisory
+3 committee may also make recommendations on the criteria to be used
+4 to evaluate the road usage charge study.
+5 (e) In studying alternatives to the current fuel tax system
+6 and developing recommendations on the design of a road usage charge
+7 study to test alternative road usage charge approaches pursuant to
+8 subdivision (d), the technical advisory committee must take all of
+9 the following into consideration:
+10 (i) The availability, adaptability, reliability, and security
+11 of methods that might be used in recording and reporting highway
+12 use.
+13 (ii) The necessity of protecting all personally identifiable
+14 information used in reporting highway use.
+15 (iii) The ease and cost of recording and reporting highway use.
+16 (iv) The ease and cost of administering the collection of taxes
+17 and fees as an alternative to the current system of taxing highway
+18 use through motor vehicle fuel taxes.
+19 (v) Effective methods of maintaining compliance.
+20 (vi) The ease of reidentifying location data, even when
+21 personally identifiable information has been removed from the data.
+22 (vii) Increased privacy concerns when location data is used in
+23 conjunction with other technologies.
+24 (viii) Public and private agency access, including law
+25 enforcement, to data collected and stored for purposes of the road
+26 usage charge to ensure individual privacy rights are protected
+27 pursuant to state law.
+28 (f) The technical advisory committee shall consult with
+29 highway users and transportation stakeholders, including
+JJR S01535'25 (S-1) tg5aio
+
+48
+1 representatives of vehicle users, vehicle manufacturers, and fuel
+2 distributors, as part of its duties under subdivision (e).
+3 (3) Based on the recommendations of the technical advisory
+4 committee, the department shall implement a road usage charge study
+5 to identify and evaluate issues related to the potential
+6 implementation of a road usage charge in this state to begin no
+7 later than June 1, 2026, subject to all of the following:
+8 (a) The department must consult with the secretary of state to
+9 design a process for collecting a mileage-based user fee. The state
+10 must contract with at least 1 vendor for at least 1 of the
+11 collection options.
+12 (b) Participation in the road usage charge study must be
+13 voluntary.
+14 (c) A participant in the road usage charge study must be
+15 charged a mileage-based user fee and receive a refund for any motor
+16 fuel taxes or vehicle registration fees the participant paid to
+17 operate the participating vehicle during the road usage charge
+18 study.
+19 (d) At a minimum, the road usage charge study must accomplish
+20 all of the following:
+21 (i) Analyze alternative means of collecting road usage data,
+22 including at least 1 alternative that does not rely on electronic
+23 vehicle location data.
+24 (ii) Collect a minimum amount of personal information,
+25 including location information, necessary to implement the road
+26 usage charge study.
+27 (iii) Ensure that processes for collecting, managing, storing,
+28 transmitting, and destroying data are in place to protect the
+29 integrity of the data and safeguard the privacy of drivers.
+JJR S01535'25 (S-1) tg5aio
+
+49
+1 (e) The department shall not disclose, distribute, make
+2 available, sell, access, or otherwise provide for another purpose
+3 personal information or data collected through the road usage
+4 charge study to any private entity or individual unless authorized
+5 by a court order, as part of a civil case, by a subpoena issued on
+6 behalf of a defendant in a criminal case, by a search warrant, or
+7 in aggregate form with all personal information removed for the
+8 purposes of academic research.
+9 (4) It is the intent of the legislature that the road usage
+10 charge study be completed by December 31, 2027 and the department
+11 must prepare and submit a report of its findings based on the
+12 results of the road usage charge study to the governor, the senate
+13 and house appropriations committees, the senate and house
+14 subcommittees on transportation, the senate and house fiscal
+15 agencies, the technical advisory committee, and the public. The
+16 report must also be available on the department's website. The
+17 report must include, but not be limited to, a discussion of all of
+18 the following issues:
+19 (a) Cost.
+20 (b) Privacy, including recommendations regarding public and
+21 private access, including law enforcement, to data collected and
+22 stored for purposes of the road usage charge to ensure individual
+23 privacy rights are protected.
+24 (c) Jurisdictional issues.
+25 (d) Feasibility.
+26 (e) Complexity.
+27 (f) Acceptance.
+28 (g) Use of revenues.
+29 (h) Security and compliance, including a discussion of
+JJR S01535'25 (S-1) tg5aio
+
+50
+1 processes and security measures necessary to minimize fraud and tax
+2 evasion rates.
+3 (i) Data collection technology, including a discussion of the
+4 advantages and disadvantages of various types of data collection
+5 equipment and the privacy implications and considerations of the
+6 equipment.
+7 (j) Potential for additional driver services.
+8 (k) Implementation issues.
+9 (l) Equity.
+10 (m) Differences between urban and rural areas, if any.
+11 (5) Funds appropriated in part 1 for road usage charge study
+12 shall be expended for a road usage charge study and are designated
+13 as a work project appropriation. Any unencumbered or unallotted
+14 funds shall not lapse at the end of the fiscal year and shall be
+15 available for expenditures for projects under this section until
+16 the projects have been completed. The following is in compliance
+17 with section 451a of the management and budget act, 1984 PA 431,
+18 MCL 18.1451a:
+19 (a) The purpose of the project is to fund a road usage charge
+20 study.
+21 (b) The project will be accomplished by utilizing state
+22 employees or contracts with service providers, or both.
+23 (c) The total estimated cost of the project is $7,650,000.00.
+24 (d) The tentative completion date is December 31, 2027.
+25 (6) As used in this section, "technical advisory committee"
+26 means the road usage charge technical advisory committee.
+Final Page
+JJR S01535'25 (S-1) tg5aio
+
+[DELETED:   S t F 3       6  ]
+[DELETED:   S tN$6     4N$6        2      8   1   4e$2      $ 3   3   2   7   3N$3        3   2   7   3   3e$      $ 2   1]
+[DELETED:   S t   4   5   4   2   2   3   3   1   1   2   7   3   7   2   1   1   1   9N$5        4   2   4]
+[DELETED:   S t   2e$     6   3   6 $ 9   2 7  1 2  4 1  1 1  2   9   1N$6        4   1   4   5   7   5e$      $ 4N$4     ]
+[DELETED:   S t   5   5   2   3   3   1   4e$     1   1 $ 4   4N$4        2   3   1   3   8e$     1   5 $ 1 1  1 5  1N$2        2]
+[DELETED:   S t   1   1   2e$     9   9 $ 5N$5        5e$      $ 7   1   3   2   2   4   6   3   3   1N$4        1   3]
+[DELETED:   S t   1   3   2   2   2e$     4   4 $ 7N$7        7e$      $ 5   1   2   2   1N$5        5e$     4    $ 5 4  7N$7  ]
+[DELETED:   S t      7e$     4   4 $ 7N$7        2   5e$      $ 2   4N$2        3   2   2   1e$     4    $ 6   1   9   2 4  7]
+[DELETED:   S t   1N$1        5   7   2   1   4   2   6   8e$      $ 2   2   3   2   4N$3        1   3   4   9e$         $ 3]
+[DELETED:   S t   5N$8        8e$      $ 1   7   1N$3        2   1   2   7   1e$      $ 7   9   5   2   2N$1        1   7]
+[DELETED:   S te$2     $ 4   7   1   3   2   2   3   1   3 5 1 2 1]
+[DELETED:   S t 1   5   2   6   2   2   7   1   7   1   7  $ 2]
+[DELETED:   S t  ]
+[DELETED:   S t  ]
+[DELETED:   S t   ]
+[DELETED:   S t]
+[DELETED:   S t   ]
+[DELETED:   S t    ]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t()0()4()))]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t))]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t D]
+[DELETED:   S t          ]
+[DELETED:   S t  ]
+[DELETED:   S t   ]
+[DELETED:   S t      ]
+[DELETED:   S t   ]
+[DELETED:   S t]
+[DELETED:   S t   M  ]
+[DELETED:   S t      S]
+[DELETED:   S t T]
+[DELETED:   S t  ]
+[DELETED:   S t        A]
+[DELETED:   S t C]
+[DELETED:   S t   O]
+[DELETED:   S t]
+[DELETED:   S t)]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S t]
+[DELETED:   S ti4()))))]
+[DELETED:   S t6()9() e u p))))))]
+[DELETED:   S ti)))]
+[DELETED:   S t]
+[DELETED:   S t)]

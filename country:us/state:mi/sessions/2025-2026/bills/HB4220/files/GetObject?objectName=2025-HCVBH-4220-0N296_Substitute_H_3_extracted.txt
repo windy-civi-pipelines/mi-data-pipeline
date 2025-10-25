@@ -1,0 +1,242 @@
+Title: HOUSE BILL NO. 4220
+Official Title: HOUSE BILL NO. 4220
+Number of Sections: 1
+Source: versions - Substitute (H-3)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+(MCL 333.1101 to 333.25211) by adding section 18818.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 18818. (1) A veterinarian shall not engage in the
+2 practice of veterinary medicine unless it is within the context of
+3 a veterinarian-client-patient relationship. Subject to federal law,
+4 all of the following requirements must be met to establish a
+5 veterinarian-client-patient relationship:
+6 (a) The veterinarian must assume responsibility for making
+7 clinical judgments regarding the health of the animal and the need
+8 for medical treatment.
+9 (b) The veterinarian must have current knowledge of the animal
+EMR H01935'25 (H-3) brogwu
+2
+1 to initiate, at a minimum, a general or preliminary diagnosis of
+2 the medical condition of the animal. For purposes of this
+3 subdivision, a veterinarian may obtain current knowledge of an
+4 animal through any of the following means:
+5 (i) Conducting an in-person examination of the animal.
+6 (ii) Subject to subsection (2), conducting an examination of
+7 the animal through telehealth using real-time interactive audio and
+8 visual electronic technology.
+9 (iii) By making a medically appropriate and timely visit to the
+10 premises where the animal is kept or where a group of animals is
+11 kept.
+12 (2) All of the following apply for purposes of an examination
+13 of an animal under subsection (1)(b)(ii):
+14 (a) The veterinarian shall not conduct an examination of an
+15 animal through telehealth if any of the following apply:
+16 (i) The animal is not a companion animal, unless the
+17 veterinarian has current knowledge of the animal through a
+18 medically appropriate and timely visit described in subsection
+19 (1)(b).
+20 (ii) The veterinarian is performing the examination to issue an
+21 interstate certificate of veterinary inspection or a pet health
+22 certificate.
+23 (b) When conducting an examination through telehealth, the
+24 veterinarian shall use instrumentation and diagnostic equipment
+25 through which an image and a medical record may be transmitted
+26 electronically.
+27 (c) The veterinarian shall be readily available, or arrange
+28 for emergency coverage, if the animal experiences an adverse
+29 reaction or the treatment regimen for the animal fails.
+EMR H01935'25 (H-3) brogwu
+3
+1 (d) Subject to subsection (4), if the veterinarian, the owner
+2 of the animal, or the qualified individual has concerns about the
+3 animal's health that cannot be addressed through telehealth, the
+4 veterinarian shall encourage the owner of the animal or the
+5 qualified individual to schedule an in-person follow-up examination
+6 of the animal to occur not later than 90 days after the date of the
+7 examination through telehealth.
+8 (e) Subject to subsection (4), the owner of the animal or the
+9 qualified individual may request an in-person follow-up examination
+10 with the veterinarian.
+11 (3) If a veterinarian establishes a veterinarian-client-
+12 patient relationship through the examination described in
+13 subsection (1)(b)(ii), the veterinarian may prescribe the animal
+14 that was the subject of the examination a drug subject to all of
+15 the following conditions:
+16 (a) If the only examination performed on the animal by the
+17 veterinarian is the examination described in subsection (1)(b)(ii),
+18 the veterinarian shall not prescribe the animal more than a 14-day
+19 supply of the drug with no refills. The veterinarian may prescribe
+20 the animal 1 additional 14-day supply of the drug if the
+21 veterinarian conducts another examination described in subsection
+22 (1)(b)(ii) of the animal. The veterinarian shall not issue any
+23 additional renewals of the prescription for the animal unless the
+24 veterinarian conducts an in-person examination of the animal.
+25 (b) The veterinarian shall notify the owner of the animal or
+26 the qualified individual that some prescription drugs may be
+27 available at a pharmacy and, on the request of the owner or
+28 qualified individual, send a prescription to a pharmacy of the
+29 owner's or qualified individual's choice.
+EMR H01935'25 (H-3) brogwu
+4
+1 (c) The veterinarian shall not prescribe a controlled
+2 substance for the animal unless the veterinarian performs an in-
+3 person examination of the animal or has current knowledge of the
+4 animal through a medically appropriate and timely visit described
+5 in subsection (1)(b).
+6 (d) The veterinarian shall comply with federal law and any
+7 laws of this state for the prescribing of the drug, including, but
+8 not limited to, section 16285.
+9 (4) If a veterinarian cannot perform an in-person follow-up
+10 examination of an animal under subsection (2)(d) or (e), the
+11 veterinarian shall provide the owner or qualified individual with a
+12 list of other veterinarians who are geographically accessible to
+13 the owner or qualified individual.
+14 (5) As used in this section:
+15 (a) "Companion animal" means that term as defined in section
+16 50b of the Michigan penal code, 1931 PA 328, MCL 750.50b.
+17 (b) "Pet health certificate" means that term as defined in
+18 section 1 of 1969 PA 287, MCL 287.331.
+19 (c) "Telehealth" means that term as defined in section 16283.
+20 (d) "Qualified individual" means an individual who is in
+21 possession of the animal and who does not know the owner of the
+22 animal.
+23 (e) "Veterinarian-client-patient relationship" means the
+24 relationship meeting the requirements described in subsection (1).
+25 Enacting section 1. This amendatory act does not take effect
+26 unless House Bill No. 4221 of the 103rd Legislature is enacted into
+27 law.
+Final Page
+EMR H01935'25 (H-3) brogwu
+[DELETED:   H b  ]
+[DELETED:   H b ) ) ) ()  ) )   ]
+[DELETED:   H b () ()() ]
+[DELETED:   H b      E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4220
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+(MCL 333.1101 to 333.25211) by adding section 18818.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 18818. (1) A veterinarian shall not engage in the
+2 practice of veterinary medicine unless it is within the context of
+3 a veterinarian-client-patient relationship. Subject to federal law,
+4 all of the following requirements must be met to establish a
+5 veterinarian-client-patient relationship:
+6 (a) The veterinarian must assume responsibility for making
+7 clinical judgments regarding the health of the animal and the need
+8 for medical treatment.
+9 (b) The veterinarian must have current knowledge of the animal
+EMR H01935'25 (H-3) brogwu
+
+2
+1 to initiate, at a minimum, a general or preliminary diagnosis of
+2 the medical condition of the animal. For purposes of this
+3 subdivision, a veterinarian may obtain current knowledge of an
+4 animal through any of the following means:
+5 (i) Conducting an in-person examination of the animal.
+6 (ii) Subject to subsection (2), conducting an examination of
+7 the animal through telehealth using real-time interactive audio and
+8 visual electronic technology.
+9 (iii) By making a medically appropriate and timely visit to the
+10 premises where the animal is kept or where a group of animals is
+11 kept.
+12 (2) All of the following apply for purposes of an examination
+13 of an animal under subsection (1)(b)(ii):
+14 (a) The veterinarian shall not conduct an examination of an
+15 animal through telehealth if any of the following apply:
+16 (i) The animal is not a companion animal, unless the
+17 veterinarian has current knowledge of the animal through a
+18 medically appropriate and timely visit described in subsection
+19 (1)(b).
+20 (ii) The veterinarian is performing the examination to issue an
+21 interstate certificate of veterinary inspection or a pet health
+22 certificate.
+23 (b) When conducting an examination through telehealth, the
+24 veterinarian shall use instrumentation and diagnostic equipment
+25 through which an image and a medical record may be transmitted
+26 electronically.
+27 (c) The veterinarian shall be readily available, or arrange
+28 for emergency coverage, if the animal experiences an adverse
+29 reaction or the treatment regimen for the animal fails.
+EMR H01935'25 (H-3) brogwu
+
+3
+1 (d) Subject to subsection (4), if the veterinarian, the owner
+2 of the animal, or the qualified individual has concerns about the
+3 animal's health that cannot be addressed through telehealth, the
+4 veterinarian shall encourage the owner of the animal or the
+5 qualified individual to schedule an in-person follow-up examination
+6 of the animal to occur not later than 90 days after the date of the
+7 examination through telehealth.
+8 (e) Subject to subsection (4), the owner of the animal or the
+9 qualified individual may request an in-person follow-up examination
+10 with the veterinarian.
+11 (3) If a veterinarian establishes a veterinarian-client-
+12 patient relationship through the examination described in
+13 subsection (1)(b)(ii), the veterinarian may prescribe the animal
+14 that was the subject of the examination a drug subject to all of
+15 the following conditions:
+16 (a) If the only examination performed on the animal by the
+17 veterinarian is the examination described in subsection (1)(b)(ii),
+18 the veterinarian shall not prescribe the animal more than a 14-day
+19 supply of the drug with no refills. The veterinarian may prescribe
+20 the animal 1 additional 14-day supply of the drug if the
+21 veterinarian conducts another examination described in subsection
+22 (1)(b)(ii) of the animal. The veterinarian shall not issue any
+23 additional renewals of the prescription for the animal unless the
+24 veterinarian conducts an in-person examination of the animal.
+25 (b) The veterinarian shall notify the owner of the animal or
+26 the qualified individual that some prescription drugs may be
+27 available at a pharmacy and, on the request of the owner or
+28 qualified individual, send a prescription to a pharmacy of the
+29 owner's or qualified individual's choice.
+EMR H01935'25 (H-3) brogwu
+
+4
+1 (c) The veterinarian shall not prescribe a controlled
+2 substance for the animal unless the veterinarian performs an in-
+3 person examination of the animal or has current knowledge of the
+4 animal through a medically appropriate and timely visit described
+5 in subsection (1)(b).
+6 (d) The veterinarian shall comply with federal law and any
+7 laws of this state for the prescribing of the drug, including, but
+8 not limited to, section 16285.
+9 (4) If a veterinarian cannot perform an in-person follow-up
+10 examination of an animal under subsection (2)(d) or (e), the
+11 veterinarian shall provide the owner or qualified individual with a
+12 list of other veterinarians who are geographically accessible to
+13 the owner or qualified individual.
+14 (5) As used in this section:
+15 (a) "Companion animal" means that term as defined in section
+16 50b of the Michigan penal code, 1931 PA 328, MCL 750.50b.
+17 (b) "Pet health certificate" means that term as defined in
+18 section 1 of 1969 PA 287, MCL 287.331.
+19 (c) "Telehealth" means that term as defined in section 16283.
+20 (d) "Qualified individual" means an individual who is in
+21 possession of the animal and who does not know the owner of the
+22 animal.
+23 (e) "Veterinarian-client-patient relationship" means the
+24 relationship meeting the requirements described in subsection (1).
+25 Enacting section 1. This amendatory act does not take effect
+26 unless House Bill No. 4221 of the 103rd Legislature is enacted into
+27 law.
+Final Page
+EMR H01935'25 (H-3) brogwu
+
+[DELETED:   H b  ]
+[DELETED:   H b ) ) ) ()  ) )   ]
+[DELETED:   H b () ()() ]
+[DELETED:   H b      E u l]

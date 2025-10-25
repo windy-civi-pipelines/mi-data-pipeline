@@ -1,0 +1,1388 @@
+Title: HOUSE BILL NO. 4002
+Official Title: HOUSE BILL NO. 4002
+Number of Sections: 3
+Source: versions - Substitute (S-3) - 3
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 2018 PA 338, entitled
+"Earned sick time act,"
+by amending the title and sections 2, 3, 4, 5, 6, 7, 8, and 12 (MCL
+
+Section 2:
+408.962, 408.963, 408.964, 408.965, 408.966, 408.967, 408.968, and
+
+Section 3:
+408.972) and by adding section 3a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An initiation of legislation act to provide workers require
+3 certain employers to provide certain employees with the right to
+4 earn earned sick time for personal or family health needs, as well
+5 as that may be used for certain purposes; related to domestic
+6 violence and sexual assault and school meetings needed as the
+7 result of a child’s disability, health issues or issues due to
+GSS H00951'25 (S-3) abhr40
+2
+1 domestic violence and sexual assault; to specify the conditions for
+2 accruing and using earned sick time; to prohibit retaliation an
+3 employer from taking retaliatory personnel action against an
+4 employee certain employees for requesting, exercising, or enforcing
+5 rights granted in this act; certain acts; to prescribe provide for
+6 the powers and duties of certain state departments, agencies, and
+7 officers and entities; to provide for promulgation of rules; and to
+8 provide remedies and sanctions.
+9 Sec. 2. As used in this act:
+10 (a) "Department" means the department of licensing labor and
+11 regulatory affairs.economic opportunity.
+12 (b) "Director" means the director of the department of
+13 licensing and regulatory affairs or his or her the director's
+14 designee.
+15 (c) "Domestic partner" means an adult in a committed
+16 relationship with another adult, including both same-sex and
+17 different-sex relationships. "Committed relationship" As used in
+18 this subdivision, "committed relationship" means one a relationship
+19 in which the employee and another individual share responsibility
+20 for a significant measure of each other's common welfare, such as
+21 any relationship between individuals of the same or different sex
+22 that is granted legal recognition by a state, political
+23 subdivision, or the District of Columbia as a marriage or analogous
+24 relationship, including, but not limited to, a civil union.
+25 (d) "Domestic violence" has the same meaning means that term
+26 as provided defined in section 1 of 1978 PA 389, MCL 400.1501.
+27 (e) "Earned sick time" means time off from work that is
+28 provided by an employer to an employee, whether paid or unpaid,
+29 that can be used for the purposes described in subsection (1) of
+GSS H00951'25 (S-3) abhr40
+3
+1 section 4 of this act.section 4.
+2 (f) "Employee" means an individual engaged in service to an
+3 employer in the business of the employer. , except that employee
+4 Employee does not include an any of the following:
+5 (i) An individual employed by the United States government.
+6 (ii) An individual who works in accordance with a policy of an
+7 employer if both of the following conditions are met:
+8 (A) The policy allows the individual to schedule the
+9 individual's own working hours.
+10 (B) The policy prohibits the employer from taking adverse
+11 personnel action against the individual if the individual does not
+12 schedule a minimum number of working hours.
+13 (iii) An unpaid trainee or unpaid intern.
+14 (iv) An individual who is employed in accordance with the youth
+15 employment standards act, 1978 PA 90, MCL 409.101 to 409.124.
+16 (g) "Employer" means any person, firm, business, educational
+17 institution, nonprofit agency, corporation, limited liability
+18 company, government entity, or other entity that employs 1 or more
+19 individuals. , except that employer Employer does not include the
+20 United States government.
+21 (h) "Family member" includes all of the following:
+22 (i) (i) A biological, adopted or foster child, stepchild or
+23 legal ward, a child of a domestic partner, or a child to whom the
+24 employee stands in loco parentis.
+25 (ii) (ii) A biological parent, foster parent, stepparent, or
+26 adoptive parent or a legal guardian of an employee or an employee's
+27 spouse or domestic partner or a person an individual who stood in
+28 loco parentis when the employee was a minor child.
+29 (iii) (iii) A person An individual to whom the employee is
+GSS H00951'25 (S-3) abhr40
+4
+1 legally married under the laws of any state or a domestic partner.
+2 (iv) (iv) A grandparent.
+3 (v) (v) A grandchild.
+4 (vi) (vi) A biological, foster, or adopted sibling.
+5 (vii) (vii) Any other An individual related by blood or
+6 affinity to the employee.
+7 (viii) An individual whose close association with the employee
+8 is the equivalent of a family relationship.
+9 (i) "Health care professional" means any of the following:
+10 (i) (i) Any A person licensed under federal law or the law of
+11 this state to provide health care services, including, but not
+12 limited to, nurses, doctors, and emergency room personnel.
+13 (ii) (ii) A certified midwife.
+14 (j) "Retaliatory personnel action" means any of the following:
+15 (i) (i) Denial of any right guaranteed under this act.
+16 (ii) (ii) A threat, discharge, suspension, demotion, reduction
+17 of hours, or other adverse personnel action against an employee or
+18 former employee for exercise of a right guaranteed under this act.
+19 (iii) (iii) Sanctions against an employee who is a recipient of
+20 public benefits for exercise of a right guaranteed under this act.
+21 (iv) (iv) Interference with, or punishment for, an individual's
+22 participation in any manner in an investigation, proceeding, or
+23 hearing under this act.
+24 (k) "Sexual assault" means any act that constitutes a
+25 violation of section 520b, 520c, 520d, 520e, 520f, or 520g of the
+26 Michigan penal code, 1931 PA 328, MCL 750.520b, 750.520c, 750.520d,
+27 750.520e, 750.520f, and 750.520g.
+28 (l) (l) "Small business" means an employer for which 10 or
+29 fewer than 10 individuals work for compensation during a given
+GSS H00951'25 (S-3) abhr40
+5
+1 week. In determining the number of individuals performing work for
+2 compensation during a given week, all individuals performing work
+3 for compensation on a full-time, part-time, or temporary basis
+4 shall must be counted, including individuals made available to work
+5 through the services of a temporary services or staffing agency or
+6 similar entity. An employer is not a small business if it
+7 maintained 10 or more than 10 employees on its payroll during any
+8 20 or more calendar workweeks in either the current or the
+9 immediately preceding calendar year.
+10 (m) "Unpaid trainee or unpaid intern" means an individual who
+11 receives training from an employer in accordance with all of the
+12 following:
+13 (i) The training the individual receives is similar to the
+14 experience provided in a vocational school.
+15 (ii) The training is for the benefit of the individual.
+16 (iii) The individual does not displace the employer's employees,
+17 but works under close supervision.
+18 (iv) The employer receives no immediate advantage from the
+19 activities of the individual and, on occasion, the employer's
+20 operations may be impeded by the individual.
+21 (v) The individual is not entitled to a job at the conclusion
+22 of the training.
+23 (vi) The employer and the individual understand that the
+24 individual is not entitled to wages for time spent in training.
+25 Sec. 3. (1) Each An employer shall provide earned sick time to
+26 each of the employer's employees in this state.
+27 (2) (a) Employees Except as otherwise provided in section 12,
+28 this subsection, and subsection (4), an employee of a small
+29 business shall must accrue a minimum of one 1 hour of paid earned
+GSS H00951'25 (S-3) abhr40
+6
+1 sick time for every 30 hours worked, not including hours used as
+2 paid time off, but shall may not be entitled to use more than 40
+3 hours of paid earned sick time in a year unless the employer
+4 selects a higher limit. If an employee of a small business accrues
+5 more than 40 hours of earned sick time in a calendar year, the
+6 employee shall be entitled to use an additional 32 hours of unpaid
+7 earned sick time in that year, unless the employer selects a higher
+8 limit. Employees of a small business must be entitled to use paid
+9 earned sick time before using unpaid earned sick time.As an
+10 alternative to the accrual of paid earned sick time, a small
+11 business may provide an employee not less than 40 hours of paid
+12 earned sick time at the beginning of a year for immediate use.
+13 Notwithstanding the requirements of subsection (6), this act does
+14 not require a small business to do any of the following until
+15 October 1, 2025:
+16 (a) Allow an employee to accrue paid earned sick time in
+17 accordance with this subsection.
+18 (b) Provide paid earned sick time to an employee as an
+19 alternative to the accrual of paid earned sick time.
+20 (c) Calculate and track an employee's accrual of paid earned
+21 sick time.
+22 (3) (b) All Except as otherwise provided in this subsection
+23 and subsection (4), all other employees shall must accrue a minimum
+24 of one 1 hour of paid earned sick time for every 30 hours worked,
+25 not including hours used as paid time off, but shall may not be
+26 entitled to use more than 72 hours of paid earned sick time per in
+27 a year, unless the employer selects a higher limit. As an
+28 alternative to the accrual of paid earned sick time, an employer
+29 may provide an employee not less than 72 hours of paid earned sick
+GSS H00951'25 (S-3) abhr40
+7
+1 time at the beginning of a year for immediate use.
+2 (4) As an alternative to the accrual of paid earned sick time,
+3 an employer that employs a part-time employee may provide paid
+4 earned sick time to the part-time employee at the beginning of a
+5 year for immediate use in accordance with all of the following
+6 requirements:
+7 (a) The employer provides the part-time employee with a
+8 written notice of how many hours the part-time employee is expected
+9 to work for a year at the time of hire.
+10 (b) The amount of earned sick time provided to the part-time
+11 employee at the beginning of the year is, at a minimum,
+12 proportional to the earned sick time that the part-time employee
+13 would accrue if the part-time employee worked all of the hours
+14 expected as provided in the written notice.
+15 (c) If the part-time employee works more hours than what is
+16 expected as provided in the written notice, the employer must
+17 provide the part-time employee with additional earned sick time in
+18 accordance with the accrual requirements under this section.
+19 (5) (c) Earned Subject to the requirements of this subsection,
+20 earned sick time shall carry carries over from year to year, but a
+21 small business is not required to permit allow an employee to use
+22 more than 40 hours of paid earned sick time and 32 hours of unpaid
+23 earned sick time in a single year, and all other employers are not
+24 required to permit allow an employee to use more than 72 hours of
+25 paid earned sick time in a single year. An employer shall allow an
+26 employee to carry over all of the employee's unused accrued paid
+27 earned sick time not to exceed 72 hours or, if the employer is a
+28 small business, not to exceed 40 hours from 1 year to the next
+29 year, unless the employer selects a higher limit. This act does not
+GSS H00951'25 (S-3) abhr40
+8
+1 require an employer that provides paid earned sick time at the
+2 beginning of a year as described in subsections (2) to (4) to do
+3 any of the following:
+4 (a) Allow an employee to carry over any unused earned sick
+5 time from 1 year to the next year.
+6 (b) Calculate and track an employee's accrual of paid earned
+7 sick time.
+8 (c) Pay the employee the value of the employee's unused
+9 accrued paid earned sick time at the end of the year in which the
+10 earned sick time was accrued.
+11 (6) (2) Earned sick time as provided in this section shall
+12 begin begins to accrue on the effective date of this law, act, or
+13 upon commencement of the employee's employment, whichever is later.
+14 An employee may use accrued earned sick time as it is accrued,
+15 except that an employer may require an employee hired after April
+16 1, 2019, the effective date of the 2025 amendatory act that amended
+17 this section to wait until the ninetieth 120 calendar day days
+18 after commencing employment before using accrued earned sick time.
+19 (3) For purposes of subsection (1), "year" shall mean a
+20 regular and consecutive twelve-month period, as determined by an
+21 employer.
+22 (4) For purposes of earned sick time accrual under this act,
+23 an employee who is exempt from overtime requirements under section
+24 13(a)(1) of the Fair Labor Standards Act, 29 USC 213(a)(1), is
+25 assumed to work 40 hours in each workweek unless the employee's
+26 normal work week is less than 40 hours, in which case earned sick
+27 time accrues based upon that normal workweek.
+28 (7) (5) An employer other than a small business is in
+29 compliance with this section if the employer provides any meets
+GSS H00951'25 (S-3) abhr40
+9
+1 either of the following conditions:
+2 (a) Provides the employer's employees with paid leave time off
+3 in at least not less than the same amounts of time off as that
+4 provided under this act that may be used for the same purposes and
+5 under the same conditions provided in a purpose described in
+6 section 4 or any other purpose. If an employee uses paid time off
+7 as described in this subdivision for a purpose described in section
+8 4, this act and that is accrued at a rate equal to or greater than
+9 the rate described in subsections (1) and (2). An employer that is
+10 a small business is in compliance with this section if the employer
+11 provides paid leave in at least the same amounts as that provided
+12 under this act that may be used for the same purposes and under the
+13 same conditions provided in this act and that is accrued at a rate
+14 equal to or greater than the rate described in subsections (1) and
+15 (2) provided further that that employees of the small business are
+16 entitled to use paid earned sick time before using unpaid earned
+17 sick time. For purposes of this subsection, "paid leave" includes
+18 but is not limited to paid vacation days, personal days, and paid
+19 time off.applies to the use of that paid time off. This act does
+20 not require an employer that provides paid time off as described in
+21 this subdivision to allow an employee to use paid time off for a
+22 purpose described in section 4 in an amount that exceeds the
+23 amounts of time off provided under this act.
+24 (b) The employer is a signatory to a collective bargaining
+25 agreement that requires contributions to a multiemployer plan as
+26 that term is defined in section 3 of subtitle A of title I of the
+27 employee retirement income security act of 1974, 29 USC 1002, that
+28 may be used under the same conditions as provided for under this
+29 act, in an amount equal to or greater than what is required to be
+GSS H00951'25 (S-3) abhr40
+10
+1 provided under this act, and that accrues at a rate equal to or
+2 greater than the rate described in subsections (2) and (3).
+3 Provided, however, that the multiemployer plan that provides paid
+4 sick leave benefits may credit and pay accrued paid sick leave
+5 benefits in a manner similar to other fringe benefits provided by
+6 the multiemployer plan. This act does not require a multiemployer
+7 plan that provides benefits in accordance with this act to pay
+8 accrued paid sick leave benefits if an employer does not remit
+9 required contributions to the plan. If an employer does not make
+10 required contributions to the multiemployer plan as provided in
+11 this subdivision, the employer is not considered to be in
+12 compliance with the employer's obligations under this act.
+13 (8) (6) An employer shall pay each employee using paid earned
+14 sick time at a pay rate equal to the greater of either the normal
+15 hourly wage or base wage for that employee or the minimum wage
+16 established under the improved workforce opportunity wage act, 2014
+17 PA 138, MCL 408.411 to 408.424, 2018 PA 337, MCL 408.931 to
+18 408.945, but not less than the minimum wage rate established in
+19 section 4 of the improved workforce opportunity wage act, 2014 PA
+20 138, MCL 408.414. For any employee whose hourly wage varies
+21 depending on the work performed, the "normal hourly wage" means the
+22 average hourly wage of the employee in the pay period immediately
+23 prior to the pay period in which the employee used paid earned sick
+24 time.2018 PA 337, MCL 408.934. This act does not require an
+25 employer to include overtime pay, holiday pay, bonuses,
+26 commissions, supplemental pay, piece-rate pay, tips, or gratuities
+27 in the calculation of an employee's normal hourly wage or base
+28 wage.
+29 (9) (7) An employer shall not require an employee to search
+GSS H00951'25 (S-3) abhr40
+11
+1 for or secure a replacement worker as a condition for using earned
+2 sick time.
+3 (10) For purposes of subsections (2) to (5), "year" means a
+4 regular and consecutive 12-month period, as determined by an
+5 employer.
+6 (11) For purposes of earned sick time accrual under this act,
+7 all of the following apply:
+8 (a) An employee who is exempt from overtime requirements under
+9 section 13(a)(1) of the fair labor standards act, 29 USC 213, is
+10 assumed to work 40 hours in each workweek unless the employee's
+11 normal workweek is less than 40 hours, in which case earned sick
+12 time accrues based on that normal workweek.
+13 (b) An employee who is covered under 29 CFR 825.801 is assumed
+14 to have worked not less than 40 hours in each workweek or is
+15 assumed to have worked not less than 30 hours if employed by a
+16 small business.
+17 Sec. 3a. An employer that makes contributions to a
+18 multiemployer plan as described in section 3(7)(b) shall not
+19 require an employee to wait until 120 calendar days after
+20 commencing employment with that employer before using unused
+21 accrued earned sick time and nonforfeited paid sick leave benefits
+22 that were earned as a result of past service for a different
+23 employer that also made contributions to the same multiemployer
+24 plan or any paid sick leave benefits earned by working under the
+25 collective bargaining agreement for that employer.
+26 Sec. 4. (1) An employer shall permit allow an employee to use
+27 the earned sick time accrued or provided under section 3 for any of
+28 the following purposes:
+29 (a) The employee's mental or physical illness, injury, or
+GSS H00951'25 (S-3) abhr40
+12
+1 health condition; medical diagnosis, care, or treatment of the
+2 employee's mental or physical illness, injury, or health condition;
+3 or preventative medical care for the employee.
+4 (b) For the employee's family member's mental or physical
+5 illness, injury, or health condition, ; medical diagnosis, care, or
+6 treatment of the employee's family member's mental or physical
+7 illness, injury, or health condition ; or preventative medical care
+8 for a family member of the employee.
+9 (c) If the employee or the employee's family member is a
+10 victim of domestic violence or sexual assault, for medical care or
+11 psychological or other counseling for physical or psychological
+12 injury or disability, ; to obtain services from a victim services
+13 organization, ; to relocate due to domestic violence or sexual
+14 assault, ; to obtain legal services, ; or to participate in any
+15 civil or criminal proceedings related to or resulting from the
+16 domestic violence or sexual assault.
+17 (d) For meetings at a child's school or place of care related
+18 to the child's health or disability, or the effects of domestic
+19 violence or sexual assault on the child. ; or
+20 (e) For closure of the employee's place of business by order
+21 of a public official due to a public health emergency, ; for an
+22 employee's need to care for a child whose school or place of care
+23 has been closed by order of a public official due to a public
+24 health emergency, ; or when it has been determined by the health
+25 authorities having jurisdiction or by a health care provider that
+26 the employee's or employee's family member's presence in the
+27 community would jeopardize the health of others because of the
+28 employee's or family member's exposure to a communicable disease,
+29 whether or not the employee or family member has actually
+GSS H00951'25 (S-3) abhr40
+13
+1 contracted the communicable disease.
+2 (2) If the employee's need to use earned sick time is
+3 foreseeable, an employer may require advance notice, not to exceed
+4 7 days prior to before the date the earned sick time is to begin,
+5 of the intention to use the earned sick time.
+6 (3) If the employee's need for the earned sick time is not
+7 foreseeable, an employer, may require the employee to give notice
+8 of the intention as in either of the following manners:
+9 (a) As soon as practicable.
+10 (b) In accordance with the employer's policy related to
+11 requesting or using sick time or leave if both of the following are
+12 met:
+13 (i) On the date of the employee's hire, on the effective date
+14 of the 2025 amendatory act that added this subparagraph, or on the
+15 date that the employer's policy takes effect, whichever is latest,
+16 the employer provides the employee with a written copy of the
+17 policy that includes procedures for how the employee must provide
+18 notice.
+19 (ii) The employer's notice requirement allows the employee to
+20 provide notice after the employee is aware of the need for the
+21 earned sick time.
+22 (4) An employer that requires notice for sick time that is not
+23 foreseeable under subsection (3)(b) shall not deny an employee's
+24 use of earned sick time that is not foreseeable if either of the
+25 following conditions applies:
+26 (a) The employer did not provide a written policy to the
+27 employee as required under subsection (3)(b)(i).
+28 (b) The employer made a change to the written policy and did
+29 not provide notice of the change to the employee within 5 days
+GSS H00951'25 (S-3) abhr40
+14
+1 after the change.
+2 (5) (3) Earned sick time may be used in the smaller of hourly
+3 1-hour increments or the smallest increment that the employer's
+4 payroll system employer uses to account for absences of use of
+5 other time.
+6 (6) (4) For earned sick time of more than 3 consecutive days,
+7 an employer may require reasonable documentation that the earned
+8 sick time has been used for a purpose described in subsection (1).
+9 Upon the employer's request, the employee must provide the
+10 documentation to the employer in a timely manner. not more than 15
+11 days after the employer's request. The employer shall not delay the
+12 commencement of earned sick time on the basis that the employer has
+13 not yet received documentation. Documentation signed by a health
+14 care professional indicating that earned sick time is necessary is
+15 reasonable documentation for purposes of this subsection. In cases
+16 of domestic violence or sexual assault, one any of the following
+17 types of documentation selected by the employee shall be are
+18 considered reasonable documentation:
+19 (a) a A police report indicating that the employee or the
+20 employee's family member was a victim of domestic violence or
+21 sexual assault. ;
+22 (b) a A signed statement from a victim and witness advocate
+23 affirming that the employee or employee's family member is
+24 receiving services from a victim services organization. ; or
+25 (c) a A court document indicating that the employee or
+26 employee's family member is involved in legal action related to
+27 domestic violence or sexual assault.
+28 (7) An employer shall not require that the documentation
+29 explain the nature of the illness or the details of the violence.
+GSS H00951'25 (S-3) abhr40
+15
+1 If an employer chooses to require documentation for earned sick
+2 time, the employer is responsible for paying all out-of-pocket
+3 expenses the employee incurs in obtaining the documentation. If the
+4 employee does have health insurance, the employer is responsible
+5 for paying any costs charged to the employee by the health care
+6 provider for providing the specific documentation required by the
+7 employer.
+8 (8) (5) An employer shall not require disclosure of details
+9 relating to domestic violence or sexual assault or the details of
+10 an employee's or an employee's family member's medical condition as
+11 a condition of providing earned sick time under this act. If an
+12 employer possesses health information or information pertaining to
+13 domestic violence or sexual assault about an employee or employee's
+14 family member, the employer shall treat that information as
+15 confidential and shall not disclose that information except to the
+16 affected employee or with the permission of the affected employee.
+17 (9) (6) This act does not require an employer to provide
+18 earned sick time for any purposes other than as described in this
+19 section.
+20 Sec. 5. (1) If an employee is transferred to a separate
+21 division, entity, or location, but remains employed by the same
+22 employer, the employee shall retain retains all earned sick time
+23 that was accrued at the prior division, entity, or location and may
+24 use all accrued earned sick time as provided in section 4. If an
+25 employee separates from employment and is rehired by the same
+26 employer within 6 not more than 2 months of after the separation,
+27 the employer shall reinstate previously accrued, unused earned sick
+28 time and shall permit allow the reinstated employee to use that
+29 earned sick time and accrue additional earned sick time upon
+GSS H00951'25 (S-3) abhr40
+16
+1 reinstatement. This subsection does not apply if an employer pays
+2 an employee the value of the employee's unused accrued earned sick
+3 time at the time of a transfer or separation.
+4 (2) If a different employer succeeds or takes the place of an
+5 existing employer, the successor employer assumes the
+6 responsibility for the earned sick time rights that employees who
+7 remain employed by the successor employer accrued under the
+8 original employer. Those employees are entitled to use earned sick
+9 time previously accrued on the terms provided in this act. This
+10 subsection does not apply if an employer pays an employee the value
+11 of the employee's unused accrued earned sick time at the time of a
+12 succession.
+13 (3) This act does not require an employer to provide financial
+14 or other reimbursement to an employee for accrued earned sick time
+15 that was not used upon the employee's termination, resignation,
+16 retirement, or other separation from employment.
+17 Sec. 6. (1) An employer or any other person shall not
+18 interfere with, restrain, or deny the exercise of, or the attempt
+19 to exercise, any right protected under this act.
+20 (2) An employer shall not take retaliatory personnel action or
+21 discriminate against an employee because the employee has exercised
+22 a right protected under this act. Rights protected by this act
+23 include, but are not limited to, the right to use earned sick time
+24 pursuant to under this act, the right to file a complaint or inform
+25 any person about any employer's alleged violation of this act, the
+26 right to cooperate with the department in its the department's
+27 investigations of alleged violations of this act, and the right to
+28 inform any person of his or her the person's rights under this act.
+29 (3) An employer's absence control policy shall must not treat
+GSS H00951'25 (S-3) abhr40
+17
+1 earned sick time taken under this act as an absence that may lead
+2 to or result in retaliatory personnel action.
+3 (4) The protections in this section apply to any person who
+4 that mistakenly but in good faith alleges a violation of this
+5 section.
+6 (5) There is a rebuttable presumption of a violation of this
+7 section if an employer takes adverse personnel action against a
+8 person within 90 days after that person does any of the following:
+9 (a) Files a complaint with the department or a court alleging
+10 a violation of this act.
+11 (b) Informs any person about an employer's alleged violation
+12 of this act.
+13 (c) Cooperates with the department or another person in the
+14 investigation or prosecution of any alleged violation of this act.
+15 (d) Opposes any policy, practice, or act that is prohibited
+16 under this act.
+17 (e) Informs any person of his or her rights under this act.
+18 (5) An employer may take adverse personnel action against an
+19 employee if the employee uses earned sick time for a purpose other
+20 than a purpose described in section 4, or violates the notice
+21 requirements under this act.
+22 Sec. 7. (1) If an employer violates this act, the employee
+23 affected by the violation, at any time within not later than 3
+24 years after the violation, or the date when the employee knew of
+25 the violation, whichever is later, may do any of the following:
+26 (a) Bring a civil action for appropriate relief, including,
+27 but not limited to, payment for used earned sick time; rehiring or
+28 reinstatement to the employee's previous job; payment of back
+29 wages; reestablishment of employee benefits to which the employee
+GSS H00951'25 (S-3) abhr40
+18
+1 otherwise would have been eligible if the employee had not been
+2 subjected to retaliatory personnel action or discrimination; and an
+3 equal additional amount as liquidated damages together with costs
+4 and reasonable attorney fees as the court allows.
+5 (b) File file a claim with the department. , which The
+6 department shall investigate the claim. Filing a claim with the
+7 department is neither a prerequisite nor a bar to bringing a civil
+8 action.
+9 (2) (a) The director shall enforce the provisions of this act.
+10 In effectuating such enforcement, enforcing this act, the director
+11 shall establish do both of the following:
+12 (a) Establish a system utilizing that uses multiple means of
+13 communication to receive complaints regarding non-compliance that
+14 are related to noncompliance with this act. and investigate
+15 (b) Investigate complaints received by the department in a
+16 timely manner.
+17 (3) (b) Any person alleging that alleges a violation of this
+18 chapter shall have act has the right to file a complaint with the
+19 department. The department shall encourage reporting pursuant to
+20 this subsection by keeping confidential, to the maximum extent
+21 permitted by applicable laws, the name and other identifying
+22 information of the employee or person reporting the violation. ,
+23 provided, however, that with the authorization of such person,
+24 However, if the person provides authorization to the department,
+25 the department may disclose his or her the person's name and
+26 identifying information as necessary to enforce this chapter act or
+27 for other appropriate purposes.
+28 (4) (c) Upon receiving a complaint alleging a violation of
+29 this chapter, act, the department shall investigate such the
+GSS H00951'25 (S-3) abhr40
+19
+1 complaint and attempt to resolve it through mediation between the
+2 complainant and the subject of the complaint, or other means. The
+3 department shall keep complainants a complainant notified regarding
+4 the status of their the complainant's complaint and any resultant
+5 investigation. If the department believes that a violation has
+6 occurred, it shall issue to the offending person or entity a notice
+7 of violation and the relief required of the offending person or
+8 entity. The department shall prescribe the form and wording of such
+9 notices of violation including any method of appealing the decision
+10 of the department.
+11 (5) (d) The department shall have the power to may impose
+12 penalties and to grant an employee or former employee all
+13 appropriate relief, including but not limited to, payment of all
+14 earned sick time improperly withheld, any and all damages incurred
+15 by the complaint as the result of violation of this act, back pay,
+16 and reinstatement in the case of job loss.
+17 (6) (3) If the director determines that there is reasonable
+18 cause to believe that an employer violated this act and the
+19 department is subsequently unable to obtain voluntary compliance by
+20 the employer within a reasonable time, the department shall bring a
+21 civil action as provided in subsection (1)(a) on behalf of the
+22 employee. The department may investigate and file a civil action
+23 under subsection (1)(a) on behalf of all employees of that employer
+24 who are similarly situated at the same work site and who have not
+25 brought a civil action under subsection (1)(a). A worksite. Except
+26 as otherwise provided under section 12, a contract or agreement
+27 between the employer and the employee or any acceptance by the
+28 employee of a paid or unpaid leave policy that provides fewer
+29 rights or benefits than provided by this act is void and
+GSS H00951'25 (S-3) abhr40
+20
+1 unenforceable.
+2 (7) (4) In addition to liability for civil remedies described
+3 in this section, an employer who fails to provide earned sick time
+4 in violation of this act or that takes retaliatory personnel action
+5 against an employee or former employee is subject to a civil fine
+6 of not more than $1,000.00 for each violation.
+7 (8) In addition to liability for civil remedies described in
+8 this section, an employer that fails to provide earned sick time to
+9 an employee in violation of this act is subject to a civil fine of
+10 not more than 8 times the employee's normal hourly wage.
+11 (9) (5) An employer that willfully violates a notice or
+12 posting requirement of section 8 is subject to a civil fine of not
+13 more than $100.00 for each separate violation.
+14 Sec. 8. (1) An employer subject to this act shall provide
+15 written notice to each employee at the time of hiring or by April
+16 1, 2019, not later than 30 days the effective date of the 2025
+17 amendatory act that amended this section, whichever is later,
+18 including, but not limited to, all of the following:
+19 (a) The amount of earned sick time required to be provided to
+20 an employee under this act.
+21 (b) The employer's choice of how to calculate a "year" year
+22 according to subsection 3 of as that term is defined under section
+23 3.
+24 (c) The terms under which earned sick time may be used.
+25 (d) That retaliatory personnel action taken by the employer
+26 against an employee for requesting or using earned sick time for
+27 which the employee is eligible is prohibited.
+28 (e) The employee's right to bring a civil action or file a
+29 complaint with the department for any violation of this act.
+GSS H00951'25 (S-3) abhr40
+21
+1 (2) The notice required under subsection (1) shall be in
+2 English, Spanish, and any language that is the first language
+3 spoken by at least 10% of the employer's workforce, as long as if
+4 the department has translated the notice into such that language.
+5 (3) An employer shall display a poster at the employer's place
+6 of business, in a conspicuous place that is accessible to
+7 employees, that contains the information in subsection (1). The
+8 poster displayed should must be in English, Spanish, and any
+9 language that is the first language spoken by at least not less
+10 than 10% of the employer's workforce, as long as if the department
+11 has translated the poster into such that language.
+12 (4) The department shall create and make available to
+13 employers notices and posters that contain the information required
+14 under subsection (1) for the employers' use in complying with this
+15 section. The department shall provide such the notices and posters
+16 in English, Spanish, and any other languages language deemed
+17 appropriate by the department.
+18 Sec. 12. (1) If an employer's employees are covered by a
+19 collective bargaining agreement in effect on the effective date of
+20 this act and the collective bargaining agreement conflicts with
+21 this act, this act applies beginning on the stated expiration date
+22 in the collective bargaining agreement, notwithstanding any
+23 statement in the agreement that it continues in force until a
+24 future date or event or the execution of a new collective
+25 bargaining agreement.
+26 (2) If an employer's employee is covered by a contract, not
+27 including an employer policy signed by the employee, and all of the
+28 following requirements are satisfied, this act applies beginning on
+29 the stated expiration date in the contract, notwithstanding any
+GSS H00951'25 (S-3) abhr40
+22
+1 statement in the contract that the contract continues in force
+2 until a future date or event or the execution of a new contract:
+3 (a) The employer and employee signed the contract on or before
+4 December 31, 2024.
+5 (b) The contract is effective for not longer than 3 years.
+6 (c) The contract prevents compliance with this act.
+7 (d) The employer notifies the department of the contract.
+8 (3) If a small business did not employ an employee before the
+9 effective date of the 2025 amendatory act that added this
+10 subsection, this act does not apply to that employer until 3 years
+11 after the date that the employer first employs an employee.
+12 Enacting section 1. This amendatory act takes effect on
+13 February 21, 2025 at 12:02 a.m.
+Final Page
+GSS H00951'25 (S-3) abhr40
+[DELETED:   H a T A t r w e s a ps   v r]
+[DELETED:   H a d a a e f r t p p os; p S ( a r. ( l d ( r d a m i f a t s r ( a i ( p t]
+[DELETED:   H a s. ( er, a d) i) ))  ( i c is, d E U () ( l e) ( a s w l) A ( t]
+[DELETED:   H a l) () () () A ( i a) w i () A ( p t l) ( () () ( oe  f) ( p) ( p h ( v M 7) 1 ( f]
+[DELETED:   H a w c f s b t s m e 2  p)))))) S e e E ( o b a hf  1  ]
+[DELETED:   H a s,m   n h s m e e l e  E ( m o a o hd  m b n e   y]
+[DELETED:   H a  S ( c s o s a m e o r a p]
+[DELETED:   H a  ( b t o a u A e 1 1 d t c a ( r e ( a 1 a n t ( c]
+[DELETED:   H a t p i t a o p u t t a p u s e ( e s b t]
+[DELETED:   H a  ( s h f e w P b s w 1 d a p t  (]
+[DELETED:   H a f s  S a t u tg: (]
+[DELETED:   H a h e o ( in; t in; f ( v p iy; on; at;s; , c d ( t vd; ( oy; e h hy; a t c e w]
+[DELETED:   H a c ( f 7 t o I frm o . s))()]
+[DELETED:   H ae . ( i p u o ( a s U d T c n c r o o t c ( p e st;  ( s a rn;  ( c e d A e]
+[DELETED:   H a I t e e f p e ( r a a e d f c a ( e s S d e a t u e e m t a t t t e]
+[DELETED:   H a r  ( e r r o t  ( o t r S i t ( d a i p t a r i i r ( n]
+[DELETED:   H a e t ( m s ( s p ( a ( o ( i ( u (  S a 3 yn  t ( b r w]
+[DELETED:   H a o s e a ( at, . T s d a ( I t s t a m c . wt  c t t ( a c t d t p in, p t n i o f ( t t t]
+[DELETED:   H a c c d n t c i o o e n o m ( i p af o  e by a ( c d t c e u t w b c b e r]
+[DELETED:   H a u ( i i t a o  ( p m S w 1 w i ( a ( a s 3 ()T (n  a w ( c]
+[DELETED:   H a ( E s t l ( o e p b l i 1 t h l ( e u e s n i d a S I c t , i s f b]
+[DELETED:   H a E F]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4002
+A bill to amend 2018 PA 338, entitled
+"Earned sick time act,"
+by amending the title and sections 2, 3, 4, 5, 6, 7, 8, and 12 (MCL
+408.962, 408.963, 408.964, 408.965, 408.966, 408.967, 408.968, and
+408.972) and by adding section 3a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An initiation of legislation act to provide workers require
+3 certain employers to provide certain employees with the right to
+4 earn earned sick time for personal or family health needs, as well
+5 as that may be used for certain purposes; related to domestic
+6 violence and sexual assault and school meetings needed as the
+7 result of a child’s disability, health issues or issues due to
+GSS H00951'25 (S-3) abhr40
+
+2
+1 domestic violence and sexual assault; to specify the conditions for
+2 accruing and using earned sick time; to prohibit retaliation an
+3 employer from taking retaliatory personnel action against an
+4 employee certain employees for requesting, exercising, or enforcing
+5 rights granted in this act; certain acts; to prescribe provide for
+6 the powers and duties of certain state departments, agencies, and
+7 officers and entities; to provide for promulgation of rules; and to
+8 provide remedies and sanctions.
+9 Sec. 2. As used in this act:
+10 (a) "Department" means the department of licensing labor and
+11 regulatory affairs.economic opportunity.
+12 (b) "Director" means the director of the department of
+13 licensing and regulatory affairs or his or her the director's
+14 designee.
+15 (c) "Domestic partner" means an adult in a committed
+16 relationship with another adult, including both same-sex and
+17 different-sex relationships. "Committed relationship" As used in
+18 this subdivision, "committed relationship" means one a relationship
+19 in which the employee and another individual share responsibility
+20 for a significant measure of each other's common welfare, such as
+21 any relationship between individuals of the same or different sex
+22 that is granted legal recognition by a state, political
+23 subdivision, or the District of Columbia as a marriage or analogous
+24 relationship, including, but not limited to, a civil union.
+25 (d) "Domestic violence" has the same meaning means that term
+26 as provided defined in section 1 of 1978 PA 389, MCL 400.1501.
+27 (e) "Earned sick time" means time off from work that is
+28 provided by an employer to an employee, whether paid or unpaid,
+29 that can be used for the purposes described in subsection (1) of
+GSS H00951'25 (S-3) abhr40
+
+3
+1 section 4 of this act.section 4.
+2 (f) "Employee" means an individual engaged in service to an
+3 employer in the business of the employer. , except that employee
+4 Employee does not include an any of the following:
+5 (i) An individual employed by the United States government.
+6 (ii) An individual who works in accordance with a policy of an
+7 employer if both of the following conditions are met:
+8 (A) The policy allows the individual to schedule the
+9 individual's own working hours.
+10 (B) The policy prohibits the employer from taking adverse
+11 personnel action against the individual if the individual does not
+12 schedule a minimum number of working hours.
+13 (iii) An unpaid trainee or unpaid intern.
+14 (iv) An individual who is employed in accordance with the youth
+15 employment standards act, 1978 PA 90, MCL 409.101 to 409.124.
+16 (g) "Employer" means any person, firm, business, educational
+17 institution, nonprofit agency, corporation, limited liability
+18 company, government entity, or other entity that employs 1 or more
+19 individuals. , except that employer Employer does not include the
+20 United States government.
+21 (h) "Family member" includes all of the following:
+22 (i) (i) A biological, adopted or foster child, stepchild or
+23 legal ward, a child of a domestic partner, or a child to whom the
+24 employee stands in loco parentis.
+25 (ii) (ii) A biological parent, foster parent, stepparent, or
+26 adoptive parent or a legal guardian of an employee or an employee's
+27 spouse or domestic partner or a person an individual who stood in
+28 loco parentis when the employee was a minor child.
+29 (iii) (iii) A person An individual to whom the employee is
+GSS H00951'25 (S-3) abhr40
+
+4
+1 legally married under the laws of any state or a domestic partner.
+2 (iv) (iv) A grandparent.
+3 (v) (v) A grandchild.
+4 (vi) (vi) A biological, foster, or adopted sibling.
+5 (vii) (vii) Any other An individual related by blood or
+6 affinity to the employee.
+7 (viii) An individual whose close association with the employee
+8 is the equivalent of a family relationship.
+9 (i) "Health care professional" means any of the following:
+10 (i) (i) Any A person licensed under federal law or the law of
+11 this state to provide health care services, including, but not
+12 limited to, nurses, doctors, and emergency room personnel.
+13 (ii) (ii) A certified midwife.
+14 (j) "Retaliatory personnel action" means any of the following:
+15 (i) (i) Denial of any right guaranteed under this act.
+16 (ii) (ii) A threat, discharge, suspension, demotion, reduction
+17 of hours, or other adverse personnel action against an employee or
+18 former employee for exercise of a right guaranteed under this act.
+19 (iii) (iii) Sanctions against an employee who is a recipient of
+20 public benefits for exercise of a right guaranteed under this act.
+21 (iv) (iv) Interference with, or punishment for, an individual's
+22 participation in any manner in an investigation, proceeding, or
+23 hearing under this act.
+24 (k) "Sexual assault" means any act that constitutes a
+25 violation of section 520b, 520c, 520d, 520e, 520f, or 520g of the
+26 Michigan penal code, 1931 PA 328, MCL 750.520b, 750.520c, 750.520d,
+27 750.520e, 750.520f, and 750.520g.
+28 (l) (l) "Small business" means an employer for which 10 or
+29 fewer than 10 individuals work for compensation during a given
+GSS H00951'25 (S-3) abhr40
+
+5
+1 week. In determining the number of individuals performing work for
+2 compensation during a given week, all individuals performing work
+3 for compensation on a full-time, part-time, or temporary basis
+4 shall must be counted, including individuals made available to work
+5 through the services of a temporary services or staffing agency or
+6 similar entity. An employer is not a small business if it
+7 maintained 10 or more than 10 employees on its payroll during any
+8 20 or more calendar workweeks in either the current or the
+9 immediately preceding calendar year.
+10 (m) "Unpaid trainee or unpaid intern" means an individual who
+11 receives training from an employer in accordance with all of the
+12 following:
+13 (i) The training the individual receives is similar to the
+14 experience provided in a vocational school.
+15 (ii) The training is for the benefit of the individual.
+16 (iii) The individual does not displace the employer's employees,
+17 but works under close supervision.
+18 (iv) The employer receives no immediate advantage from the
+19 activities of the individual and, on occasion, the employer's
+20 operations may be impeded by the individual.
+21 (v) The individual is not entitled to a job at the conclusion
+22 of the training.
+23 (vi) The employer and the individual understand that the
+24 individual is not entitled to wages for time spent in training.
+25 Sec. 3. (1) Each An employer shall provide earned sick time to
+26 each of the employer's employees in this state.
+27 (2) (a) Employees Except as otherwise provided in section 12,
+28 this subsection, and subsection (4), an employee of a small
+29 business shall must accrue a minimum of one 1 hour of paid earned
+GSS H00951'25 (S-3) abhr40
+
+6
+1 sick time for every 30 hours worked, not including hours used as
+2 paid time off, but shall may not be entitled to use more than 40
+3 hours of paid earned sick time in a year unless the employer
+4 selects a higher limit. If an employee of a small business accrues
+5 more than 40 hours of earned sick time in a calendar year, the
+6 employee shall be entitled to use an additional 32 hours of unpaid
+7 earned sick time in that year, unless the employer selects a higher
+8 limit. Employees of a small business must be entitled to use paid
+9 earned sick time before using unpaid earned sick time.As an
+10 alternative to the accrual of paid earned sick time, a small
+11 business may provide an employee not less than 40 hours of paid
+12 earned sick time at the beginning of a year for immediate use.
+13 Notwithstanding the requirements of subsection (6), this act does
+14 not require a small business to do any of the following until
+15 October 1, 2025:
+16 (a) Allow an employee to accrue paid earned sick time in
+17 accordance with this subsection.
+18 (b) Provide paid earned sick time to an employee as an
+19 alternative to the accrual of paid earned sick time.
+20 (c) Calculate and track an employee's accrual of paid earned
+21 sick time.
+22 (3) (b) All Except as otherwise provided in this subsection
+23 and subsection (4), all other employees shall must accrue a minimum
+24 of one 1 hour of paid earned sick time for every 30 hours worked,
+25 not including hours used as paid time off, but shall may not be
+26 entitled to use more than 72 hours of paid earned sick time per in
+27 a year, unless the employer selects a higher limit. As an
+28 alternative to the accrual of paid earned sick time, an employer
+29 may provide an employee not less than 72 hours of paid earned sick
+GSS H00951'25 (S-3) abhr40
+
+7
+1 time at the beginning of a year for immediate use.
+2 (4) As an alternative to the accrual of paid earned sick time,
+3 an employer that employs a part-time employee may provide paid
+4 earned sick time to the part-time employee at the beginning of a
+5 year for immediate use in accordance with all of the following
+6 requirements:
+7 (a) The employer provides the part-time employee with a
+8 written notice of how many hours the part-time employee is expected
+9 to work for a year at the time of hire.
+10 (b) The amount of earned sick time provided to the part-time
+11 employee at the beginning of the year is, at a minimum,
+12 proportional to the earned sick time that the part-time employee
+13 would accrue if the part-time employee worked all of the hours
+14 expected as provided in the written notice.
+15 (c) If the part-time employee works more hours than what is
+16 expected as provided in the written notice, the employer must
+17 provide the part-time employee with additional earned sick time in
+18 accordance with the accrual requirements under this section.
+19 (5) (c) Earned Subject to the requirements of this subsection,
+20 earned sick time shall carry carries over from year to year, but a
+21 small business is not required to permit allow an employee to use
+22 more than 40 hours of paid earned sick time and 32 hours of unpaid
+23 earned sick time in a single year, and all other employers are not
+24 required to permit allow an employee to use more than 72 hours of
+25 paid earned sick time in a single year. An employer shall allow an
+26 employee to carry over all of the employee's unused accrued paid
+27 earned sick time not to exceed 72 hours or, if the employer is a
+28 small business, not to exceed 40 hours from 1 year to the next
+29 year, unless the employer selects a higher limit. This act does not
+GSS H00951'25 (S-3) abhr40
+
+8
+1 require an employer that provides paid earned sick time at the
+2 beginning of a year as described in subsections (2) to (4) to do
+3 any of the following:
+4 (a) Allow an employee to carry over any unused earned sick
+5 time from 1 year to the next year.
+6 (b) Calculate and track an employee's accrual of paid earned
+7 sick time.
+8 (c) Pay the employee the value of the employee's unused
+9 accrued paid earned sick time at the end of the year in which the
+10 earned sick time was accrued.
+11 (6) (2) Earned sick time as provided in this section shall
+12 begin begins to accrue on the effective date of this law, act, or
+13 upon commencement of the employee's employment, whichever is later.
+14 An employee may use accrued earned sick time as it is accrued,
+15 except that an employer may require an employee hired after April
+16 1, 2019, the effective date of the 2025 amendatory act that amended
+17 this section to wait until the ninetieth 120 calendar day days
+18 after commencing employment before using accrued earned sick time.
+19 (3) For purposes of subsection (1), "year" shall mean a
+20 regular and consecutive twelve-month period, as determined by an
+21 employer.
+22 (4) For purposes of earned sick time accrual under this act,
+23 an employee who is exempt from overtime requirements under section
+24 13(a)(1) of the Fair Labor Standards Act, 29 USC 213(a)(1), is
+25 assumed to work 40 hours in each workweek unless the employee's
+26 normal work week is less than 40 hours, in which case earned sick
+27 time accrues based upon that normal workweek.
+28 (7) (5) An employer other than a small business is in
+29 compliance with this section if the employer provides any meets
+GSS H00951'25 (S-3) abhr40
+
+9
+1 either of the following conditions:
+2 (a) Provides the employer's employees with paid leave time off
+3 in at least not less than the same amounts of time off as that
+4 provided under this act that may be used for the same purposes and
+5 under the same conditions provided in a purpose described in
+6 section 4 or any other purpose. If an employee uses paid time off
+7 as described in this subdivision for a purpose described in section
+8 4, this act and that is accrued at a rate equal to or greater than
+9 the rate described in subsections (1) and (2). An employer that is
+10 a small business is in compliance with this section if the employer
+11 provides paid leave in at least the same amounts as that provided
+12 under this act that may be used for the same purposes and under the
+13 same conditions provided in this act and that is accrued at a rate
+14 equal to or greater than the rate described in subsections (1) and
+15 (2) provided further that that employees of the small business are
+16 entitled to use paid earned sick time before using unpaid earned
+17 sick time. For purposes of this subsection, "paid leave" includes
+18 but is not limited to paid vacation days, personal days, and paid
+19 time off.applies to the use of that paid time off. This act does
+20 not require an employer that provides paid time off as described in
+21 this subdivision to allow an employee to use paid time off for a
+22 purpose described in section 4 in an amount that exceeds the
+23 amounts of time off provided under this act.
+24 (b) The employer is a signatory to a collective bargaining
+25 agreement that requires contributions to a multiemployer plan as
+26 that term is defined in section 3 of subtitle A of title I of the
+27 employee retirement income security act of 1974, 29 USC 1002, that
+28 may be used under the same conditions as provided for under this
+29 act, in an amount equal to or greater than what is required to be
+GSS H00951'25 (S-3) abhr40
+
+10
+1 provided under this act, and that accrues at a rate equal to or
+2 greater than the rate described in subsections (2) and (3).
+3 Provided, however, that the multiemployer plan that provides paid
+4 sick leave benefits may credit and pay accrued paid sick leave
+5 benefits in a manner similar to other fringe benefits provided by
+6 the multiemployer plan. This act does not require a multiemployer
+7 plan that provides benefits in accordance with this act to pay
+8 accrued paid sick leave benefits if an employer does not remit
+9 required contributions to the plan. If an employer does not make
+10 required contributions to the multiemployer plan as provided in
+11 this subdivision, the employer is not considered to be in
+12 compliance with the employer's obligations under this act.
+13 (8) (6) An employer shall pay each employee using paid earned
+14 sick time at a pay rate equal to the greater of either the normal
+15 hourly wage or base wage for that employee or the minimum wage
+16 established under the improved workforce opportunity wage act, 2014
+17 PA 138, MCL 408.411 to 408.424, 2018 PA 337, MCL 408.931 to
+18 408.945, but not less than the minimum wage rate established in
+19 section 4 of the improved workforce opportunity wage act, 2014 PA
+20 138, MCL 408.414. For any employee whose hourly wage varies
+21 depending on the work performed, the "normal hourly wage" means the
+22 average hourly wage of the employee in the pay period immediately
+23 prior to the pay period in which the employee used paid earned sick
+24 time.2018 PA 337, MCL 408.934. This act does not require an
+25 employer to include overtime pay, holiday pay, bonuses,
+26 commissions, supplemental pay, piece-rate pay, tips, or gratuities
+27 in the calculation of an employee's normal hourly wage or base
+28 wage.
+29 (9) (7) An employer shall not require an employee to search
+GSS H00951'25 (S-3) abhr40
+
+11
+1 for or secure a replacement worker as a condition for using earned
+2 sick time.
+3 (10) For purposes of subsections (2) to (5), "year" means a
+4 regular and consecutive 12-month period, as determined by an
+5 employer.
+6 (11) For purposes of earned sick time accrual under this act,
+7 all of the following apply:
+8 (a) An employee who is exempt from overtime requirements under
+9 section 13(a)(1) of the fair labor standards act, 29 USC 213, is
+10 assumed to work 40 hours in each workweek unless the employee's
+11 normal workweek is less than 40 hours, in which case earned sick
+12 time accrues based on that normal workweek.
+13 (b) An employee who is covered under 29 CFR 825.801 is assumed
+14 to have worked not less than 40 hours in each workweek or is
+15 assumed to have worked not less than 30 hours if employed by a
+16 small business.
+17 Sec. 3a. An employer that makes contributions to a
+18 multiemployer plan as described in section 3(7)(b) shall not
+19 require an employee to wait until 120 calendar days after
+20 commencing employment with that employer before using unused
+21 accrued earned sick time and nonforfeited paid sick leave benefits
+22 that were earned as a result of past service for a different
+23 employer that also made contributions to the same multiemployer
+24 plan or any paid sick leave benefits earned by working under the
+25 collective bargaining agreement for that employer.
+26 Sec. 4. (1) An employer shall permit allow an employee to use
+27 the earned sick time accrued or provided under section 3 for any of
+28 the following purposes:
+29 (a) The employee's mental or physical illness, injury, or
+GSS H00951'25 (S-3) abhr40
+
+12
+1 health condition; medical diagnosis, care, or treatment of the
+2 employee's mental or physical illness, injury, or health condition;
+3 or preventative medical care for the employee.
+4 (b) For the employee's family member's mental or physical
+5 illness, injury, or health condition, ; medical diagnosis, care, or
+6 treatment of the employee's family member's mental or physical
+7 illness, injury, or health condition ; or preventative medical care
+8 for a family member of the employee.
+9 (c) If the employee or the employee's family member is a
+10 victim of domestic violence or sexual assault, for medical care or
+11 psychological or other counseling for physical or psychological
+12 injury or disability, ; to obtain services from a victim services
+13 organization, ; to relocate due to domestic violence or sexual
+14 assault, ; to obtain legal services, ; or to participate in any
+15 civil or criminal proceedings related to or resulting from the
+16 domestic violence or sexual assault.
+17 (d) For meetings at a child's school or place of care related
+18 to the child's health or disability, or the effects of domestic
+19 violence or sexual assault on the child. ; or
+20 (e) For closure of the employee's place of business by order
+21 of a public official due to a public health emergency, ; for an
+22 employee's need to care for a child whose school or place of care
+23 has been closed by order of a public official due to a public
+24 health emergency, ; or when it has been determined by the health
+25 authorities having jurisdiction or by a health care provider that
+26 the employee's or employee's family member's presence in the
+27 community would jeopardize the health of others because of the
+28 employee's or family member's exposure to a communicable disease,
+29 whether or not the employee or family member has actually
+GSS H00951'25 (S-3) abhr40
+
+13
+1 contracted the communicable disease.
+2 (2) If the employee's need to use earned sick time is
+3 foreseeable, an employer may require advance notice, not to exceed
+4 7 days prior to before the date the earned sick time is to begin,
+5 of the intention to use the earned sick time.
+6 (3) If the employee's need for the earned sick time is not
+7 foreseeable, an employer, may require the employee to give notice
+8 of the intention as in either of the following manners:
+9 (a) As soon as practicable.
+10 (b) In accordance with the employer's policy related to
+11 requesting or using sick time or leave if both of the following are
+12 met:
+13 (i) On the date of the employee's hire, on the effective date
+14 of the 2025 amendatory act that added this subparagraph, or on the
+15 date that the employer's policy takes effect, whichever is latest,
+16 the employer provides the employee with a written copy of the
+17 policy that includes procedures for how the employee must provide
+18 notice.
+19 (ii) The employer's notice requirement allows the employee to
+20 provide notice after the employee is aware of the need for the
+21 earned sick time.
+22 (4) An employer that requires notice for sick time that is not
+23 foreseeable under subsection (3)(b) shall not deny an employee's
+24 use of earned sick time that is not foreseeable if either of the
+25 following conditions applies:
+26 (a) The employer did not provide a written policy to the
+27 employee as required under subsection (3)(b)(i).
+28 (b) The employer made a change to the written policy and did
+29 not provide notice of the change to the employee within 5 days
+GSS H00951'25 (S-3) abhr40
+
+14
+1 after the change.
+2 (5) (3) Earned sick time may be used in the smaller of hourly
+3 1-hour increments or the smallest increment that the employer's
+4 payroll system employer uses to account for absences of use of
+5 other time.
+6 (6) (4) For earned sick time of more than 3 consecutive days,
+7 an employer may require reasonable documentation that the earned
+8 sick time has been used for a purpose described in subsection (1).
+9 Upon the employer's request, the employee must provide the
+10 documentation to the employer in a timely manner. not more than 15
+11 days after the employer's request. The employer shall not delay the
+12 commencement of earned sick time on the basis that the employer has
+13 not yet received documentation. Documentation signed by a health
+14 care professional indicating that earned sick time is necessary is
+15 reasonable documentation for purposes of this subsection. In cases
+16 of domestic violence or sexual assault, one any of the following
+17 types of documentation selected by the employee shall be are
+18 considered reasonable documentation:
+19 (a) a A police report indicating that the employee or the
+20 employee's family member was a victim of domestic violence or
+21 sexual assault. ;
+22 (b) a A signed statement from a victim and witness advocate
+23 affirming that the employee or employee's family member is
+24 receiving services from a victim services organization. ; or
+25 (c) a A court document indicating that the employee or
+26 employee's family member is involved in legal action related to
+27 domestic violence or sexual assault.
+28 (7) An employer shall not require that the documentation
+29 explain the nature of the illness or the details of the violence.
+GSS H00951'25 (S-3) abhr40
+
+15
+1 If an employer chooses to require documentation for earned sick
+2 time, the employer is responsible for paying all out-of-pocket
+3 expenses the employee incurs in obtaining the documentation. If the
+4 employee does have health insurance, the employer is responsible
+5 for paying any costs charged to the employee by the health care
+6 provider for providing the specific documentation required by the
+7 employer.
+8 (8) (5) An employer shall not require disclosure of details
+9 relating to domestic violence or sexual assault or the details of
+10 an employee's or an employee's family member's medical condition as
+11 a condition of providing earned sick time under this act. If an
+12 employer possesses health information or information pertaining to
+13 domestic violence or sexual assault about an employee or employee's
+14 family member, the employer shall treat that information as
+15 confidential and shall not disclose that information except to the
+16 affected employee or with the permission of the affected employee.
+17 (9) (6) This act does not require an employer to provide
+18 earned sick time for any purposes other than as described in this
+19 section.
+20 Sec. 5. (1) If an employee is transferred to a separate
+21 division, entity, or location, but remains employed by the same
+22 employer, the employee shall retain retains all earned sick time
+23 that was accrued at the prior division, entity, or location and may
+24 use all accrued earned sick time as provided in section 4. If an
+25 employee separates from employment and is rehired by the same
+26 employer within 6 not more than 2 months of after the separation,
+27 the employer shall reinstate previously accrued, unused earned sick
+28 time and shall permit allow the reinstated employee to use that
+29 earned sick time and accrue additional earned sick time upon
+GSS H00951'25 (S-3) abhr40
+
+16
+1 reinstatement. This subsection does not apply if an employer pays
+2 an employee the value of the employee's unused accrued earned sick
+3 time at the time of a transfer or separation.
+4 (2) If a different employer succeeds or takes the place of an
+5 existing employer, the successor employer assumes the
+6 responsibility for the earned sick time rights that employees who
+7 remain employed by the successor employer accrued under the
+8 original employer. Those employees are entitled to use earned sick
+9 time previously accrued on the terms provided in this act. This
+10 subsection does not apply if an employer pays an employee the value
+11 of the employee's unused accrued earned sick time at the time of a
+12 succession.
+13 (3) This act does not require an employer to provide financial
+14 or other reimbursement to an employee for accrued earned sick time
+15 that was not used upon the employee's termination, resignation,
+16 retirement, or other separation from employment.
+17 Sec. 6. (1) An employer or any other person shall not
+18 interfere with, restrain, or deny the exercise of, or the attempt
+19 to exercise, any right protected under this act.
+20 (2) An employer shall not take retaliatory personnel action or
+21 discriminate against an employee because the employee has exercised
+22 a right protected under this act. Rights protected by this act
+23 include, but are not limited to, the right to use earned sick time
+24 pursuant to under this act, the right to file a complaint or inform
+25 any person about any employer's alleged violation of this act, the
+26 right to cooperate with the department in its the department's
+27 investigations of alleged violations of this act, and the right to
+28 inform any person of his or her the person's rights under this act.
+29 (3) An employer's absence control policy shall must not treat
+GSS H00951'25 (S-3) abhr40
+
+17
+1 earned sick time taken under this act as an absence that may lead
+2 to or result in retaliatory personnel action.
+3 (4) The protections in this section apply to any person who
+4 that mistakenly but in good faith alleges a violation of this
+5 section.
+6 (5) There is a rebuttable presumption of a violation of this
+7 section if an employer takes adverse personnel action against a
+8 person within 90 days after that person does any of the following:
+9 (a) Files a complaint with the department or a court alleging
+10 a violation of this act.
+11 (b) Informs any person about an employer's alleged violation
+12 of this act.
+13 (c) Cooperates with the department or another person in the
+14 investigation or prosecution of any alleged violation of this act.
+15 (d) Opposes any policy, practice, or act that is prohibited
+16 under this act.
+17 (e) Informs any person of his or her rights under this act.
+18 (5) An employer may take adverse personnel action against an
+19 employee if the employee uses earned sick time for a purpose other
+20 than a purpose described in section 4, or violates the notice
+21 requirements under this act.
+22 Sec. 7. (1) If an employer violates this act, the employee
+23 affected by the violation, at any time within not later than 3
+24 years after the violation, or the date when the employee knew of
+25 the violation, whichever is later, may do any of the following:
+26 (a) Bring a civil action for appropriate relief, including,
+27 but not limited to, payment for used earned sick time; rehiring or
+28 reinstatement to the employee's previous job; payment of back
+29 wages; reestablishment of employee benefits to which the employee
+GSS H00951'25 (S-3) abhr40
+
+18
+1 otherwise would have been eligible if the employee had not been
+2 subjected to retaliatory personnel action or discrimination; and an
+3 equal additional amount as liquidated damages together with costs
+4 and reasonable attorney fees as the court allows.
+5 (b) File file a claim with the department. , which The
+6 department shall investigate the claim. Filing a claim with the
+7 department is neither a prerequisite nor a bar to bringing a civil
+8 action.
+9 (2) (a) The director shall enforce the provisions of this act.
+10 In effectuating such enforcement, enforcing this act, the director
+11 shall establish do both of the following:
+12 (a) Establish a system utilizing that uses multiple means of
+13 communication to receive complaints regarding non-compliance that
+14 are related to noncompliance with this act. and investigate
+15 (b) Investigate complaints received by the department in a
+16 timely manner.
+17 (3) (b) Any person alleging that alleges a violation of this
+18 chapter shall have act has the right to file a complaint with the
+19 department. The department shall encourage reporting pursuant to
+20 this subsection by keeping confidential, to the maximum extent
+21 permitted by applicable laws, the name and other identifying
+22 information of the employee or person reporting the violation. ,
+23 provided, however, that with the authorization of such person,
+24 However, if the person provides authorization to the department,
+25 the department may disclose his or her the person's name and
+26 identifying information as necessary to enforce this chapter act or
+27 for other appropriate purposes.
+28 (4) (c) Upon receiving a complaint alleging a violation of
+29 this chapter, act, the department shall investigate such the
+GSS H00951'25 (S-3) abhr40
+
+19
+1 complaint and attempt to resolve it through mediation between the
+2 complainant and the subject of the complaint, or other means. The
+3 department shall keep complainants a complainant notified regarding
+4 the status of their the complainant's complaint and any resultant
+5 investigation. If the department believes that a violation has
+6 occurred, it shall issue to the offending person or entity a notice
+7 of violation and the relief required of the offending person or
+8 entity. The department shall prescribe the form and wording of such
+9 notices of violation including any method of appealing the decision
+10 of the department.
+11 (5) (d) The department shall have the power to may impose
+12 penalties and to grant an employee or former employee all
+13 appropriate relief, including but not limited to, payment of all
+14 earned sick time improperly withheld, any and all damages incurred
+15 by the complaint as the result of violation of this act, back pay,
+16 and reinstatement in the case of job loss.
+17 (6) (3) If the director determines that there is reasonable
+18 cause to believe that an employer violated this act and the
+19 department is subsequently unable to obtain voluntary compliance by
+20 the employer within a reasonable time, the department shall bring a
+21 civil action as provided in subsection (1)(a) on behalf of the
+22 employee. The department may investigate and file a civil action
+23 under subsection (1)(a) on behalf of all employees of that employer
+24 who are similarly situated at the same work site and who have not
+25 brought a civil action under subsection (1)(a). A worksite. Except
+26 as otherwise provided under section 12, a contract or agreement
+27 between the employer and the employee or any acceptance by the
+28 employee of a paid or unpaid leave policy that provides fewer
+29 rights or benefits than provided by this act is void and
+GSS H00951'25 (S-3) abhr40
+
+20
+1 unenforceable.
+2 (7) (4) In addition to liability for civil remedies described
+3 in this section, an employer who fails to provide earned sick time
+4 in violation of this act or that takes retaliatory personnel action
+5 against an employee or former employee is subject to a civil fine
+6 of not more than $1,000.00 for each violation.
+7 (8) In addition to liability for civil remedies described in
+8 this section, an employer that fails to provide earned sick time to
+9 an employee in violation of this act is subject to a civil fine of
+10 not more than 8 times the employee's normal hourly wage.
+11 (9) (5) An employer that willfully violates a notice or
+12 posting requirement of section 8 is subject to a civil fine of not
+13 more than $100.00 for each separate violation.
+14 Sec. 8. (1) An employer subject to this act shall provide
+15 written notice to each employee at the time of hiring or by April
+16 1, 2019, not later than 30 days the effective date of the 2025
+17 amendatory act that amended this section, whichever is later,
+18 including, but not limited to, all of the following:
+19 (a) The amount of earned sick time required to be provided to
+20 an employee under this act.
+21 (b) The employer's choice of how to calculate a "year" year
+22 according to subsection 3 of as that term is defined under section
+23 3.
+24 (c) The terms under which earned sick time may be used.
+25 (d) That retaliatory personnel action taken by the employer
+26 against an employee for requesting or using earned sick time for
+27 which the employee is eligible is prohibited.
+28 (e) The employee's right to bring a civil action or file a
+29 complaint with the department for any violation of this act.
+GSS H00951'25 (S-3) abhr40
+
+21
+1 (2) The notice required under subsection (1) shall be in
+2 English, Spanish, and any language that is the first language
+3 spoken by at least 10% of the employer's workforce, as long as if
+4 the department has translated the notice into such that language.
+5 (3) An employer shall display a poster at the employer's place
+6 of business, in a conspicuous place that is accessible to
+7 employees, that contains the information in subsection (1). The
+8 poster displayed should must be in English, Spanish, and any
+9 language that is the first language spoken by at least not less
+10 than 10% of the employer's workforce, as long as if the department
+11 has translated the poster into such that language.
+12 (4) The department shall create and make available to
+13 employers notices and posters that contain the information required
+14 under subsection (1) for the employers' use in complying with this
+15 section. The department shall provide such the notices and posters
+16 in English, Spanish, and any other languages language deemed
+17 appropriate by the department.
+18 Sec. 12. (1) If an employer's employees are covered by a
+19 collective bargaining agreement in effect on the effective date of
+20 this act and the collective bargaining agreement conflicts with
+21 this act, this act applies beginning on the stated expiration date
+22 in the collective bargaining agreement, notwithstanding any
+23 statement in the agreement that it continues in force until a
+24 future date or event or the execution of a new collective
+25 bargaining agreement.
+26 (2) If an employer's employee is covered by a contract, not
+27 including an employer policy signed by the employee, and all of the
+28 following requirements are satisfied, this act applies beginning on
+29 the stated expiration date in the contract, notwithstanding any
+GSS H00951'25 (S-3) abhr40
+
+22
+1 statement in the contract that the contract continues in force
+2 until a future date or event or the execution of a new contract:
+3 (a) The employer and employee signed the contract on or before
+4 December 31, 2024.
+5 (b) The contract is effective for not longer than 3 years.
+6 (c) The contract prevents compliance with this act.
+7 (d) The employer notifies the department of the contract.
+8 (3) If a small business did not employ an employee before the
+9 effective date of the 2025 amendatory act that added this
+10 subsection, this act does not apply to that employer until 3 years
+11 after the date that the employer first employs an employee.
+12 Enacting section 1. This amendatory act takes effect on
+13 February 21, 2025 at 12:02 a.m.
+Final Page
+GSS H00951'25 (S-3) abhr40
+
+[DELETED:   H a T A t r w e s a ps   v r]
+[DELETED:   H a d a a e f r t p p os; p S ( a r. ( l d ( r d a m i f a t s r ( a i ( p t]
+[DELETED:   H a s. ( er, a d) i) ))  ( i c is, d E U () ( l e) ( a s w l) A ( t]
+[DELETED:   H a l) () () () A ( i a) w i () A ( p t l) ( () () ( oe  f) ( p) ( p h ( v M 7) 1 ( f]
+[DELETED:   H a w c f s b t s m e 2  p)))))) S e e E ( o b a hf  1  ]
+[DELETED:   H a s,m   n h s m e e l e  E ( m o a o hd  m b n e   y]
+[DELETED:   H a  S ( c s o s a m e o r a p]
+[DELETED:   H a  ( b t o a u A e 1 1 d t c a ( r e ( a 1 a n t ( c]
+[DELETED:   H a t p i t a o p u t t a p u s e ( e s b t]
+[DELETED:   H a  ( s h f e w P b s w 1 d a p t  (]
+[DELETED:   H a f s  S a t u tg: (]
+[DELETED:   H a h e o ( in; t in; f ( v p iy; on; at;s; , c d ( t vd; ( oy; e h hy; a t c e w]
+[DELETED:   H a c ( f 7 t o I frm o . s))()]
+[DELETED:   H ae . ( i p u o ( a s U d T c n c r o o t c ( p e st;  ( s a rn;  ( c e d A e]
+[DELETED:   H a I t e e f p e ( r a a e d f c a ( e s S d e a t u e e m t a t t t e]
+[DELETED:   H a r  ( e r r o t  ( o t r S i t ( d a i p t a r i i r ( n]
+[DELETED:   H a e t ( m s ( s p ( a ( o ( i ( u (  S a 3 yn  t ( b r w]
+[DELETED:   H a o s e a ( at, . T s d a ( I t s t a m c . wt  c t t ( a c t d t p in, p t n i o f ( t t t]
+[DELETED:   H a c c d n t c i o o e n o m ( i p af o  e by a ( c d t c e u t w b c b e r]
+[DELETED:   H a u ( i i t a o  ( p m S w 1 w i ( a ( a s 3 ()T (n  a w ( c]
+[DELETED:   H a ( E s t l ( o e p b l i 1 t h l ( e u e s n i d a S I c t , i s f b]
+[DELETED:   H a E F]
