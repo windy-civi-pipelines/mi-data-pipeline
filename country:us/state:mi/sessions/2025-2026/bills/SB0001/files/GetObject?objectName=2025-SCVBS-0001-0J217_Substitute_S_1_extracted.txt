@@ -1,0 +1,16 @@
+Title: [PDF content from https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0001-0J217.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Official Title: [PDF content from https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0001-0J217.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+[PDF content from https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0001-0J217.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+
+
+================================================================================
+
+Raw Text:
+[PDF content from https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0001-0J217.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]

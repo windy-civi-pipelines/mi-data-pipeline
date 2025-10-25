@@ -1,0 +1,470 @@
+Title: HOUSE BILL NO. 4218
+Official Title: HOUSE BILL NO. 4218
+Number of Sections: 2
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1974 PA 258, entitled
+"Mental health code,"
+by amending sections 100d and 756 (MCL 330.1100d and 330.1756),
+
+Section 2:
+section 100d as amended by 2022 PA 214 and section 756 as added by
+1995 PA 290.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 100d. (1) "Security transport officer" means an officer
+2 employed by a private security company under contract with a county
+3 under section 170.
+4 (2) "Service" means a mental health service or a substance use
+5 disorder service.
+6 (3) "Serious emotional disturbance" means a diagnosable
+7 mental, behavioral, or emotional disorder affecting a minor that
+WAM H01258'25 (H-2) sew91v
+2
+1 exists or has existed during the past year for a period of time
+2 sufficient to meet the diagnostic criteria specified in the most
+3 recent Diagnostic and Statistical Manual of Mental Disorders
+4 published by the American Psychiatric Association and approved by
+5 the department, and that has resulted in a functional impairment
+6 that substantially interferes with or limits the minor's role or
+7 functioning in family, school, or community activities. The
+8 following disorders are included only if they occur in conjunction
+9 with another diagnosable serious emotional disturbance:
+10 (a) A substance use disorder.
+11 (b) A developmental disorder.
+12 (c) "V" codes in the Diagnostic and Statistical Manual of
+13 Mental Disorders.
+14 (4) "Serious mental illness" means a diagnosable mental,
+15 behavioral, or emotional disorder affecting an adult that exists or
+16 has existed within the past year for a period of time sufficient to
+17 meet the diagnostic criteria specified in the most recent
+18 Diagnostic and Statistical Manual of Mental Disorders published by
+19 the American Psychiatric Association and approved by the
+20 department, and that has resulted in a functional impairment that
+21 substantially interferes with or limits 1 or more major life
+22 activities. Serious mental illness includes dementia with
+23 delusions, dementia with depressed mood, and dementia with
+24 behavioral disturbance. Serious mental illness does not include any
+25 other dementia unless the dementia occurs in conjunction with
+26 another diagnosable serious mental illness. The following disorders
+27 also are included only if they occur in conjunction with another
+28 diagnosable serious mental illness:
+29 (a) A substance use disorder.
+WAM H01258'25 (H-2) sew91v
+3
+1 (b) A developmental disorder.
+2 (c) A "V" code in the Diagnostic and Statistical Manual of
+3 Mental Disorders.
+4 (5) "Special compensation" means payment to an adult foster
+5 care facility to ensure the provision of a specialized program in
+6 addition to the basic payment for adult foster care. Special
+7 compensation does not include payment received directly from the
+8 Medicaid program for personal care services for a resident, or
+9 payment received under the supplemental security income program.
+10 (6) "Specialized program" means a program of services,
+11 supports, or treatment that are provided in an adult foster care
+12 facility to meet the unique programmatic needs of individuals with
+13 serious mental illness or developmental disability as set forth in
+14 the a resident's individual plan of services and for which the
+15 adult foster care facility receives special compensation.
+16 (7) "Specialized residential service" means a combination of
+17 residential care and mental health services that are expressly
+18 designed to provide rehabilitation and therapy to a recipient, that
+19 are provided in the recipient's residence, and that are part of a
+20 comprehensive individual plan of services.
+21 (8) "State administered funds" means revenues appropriated by
+22 the legislature exclusively for the purposes provided for in regard
+23 to substance use disorder services and prevention.
+24 (9) "State facility" means a center or a hospital. operated by
+25 the department.
+26 (10) "State recipient rights advisory committee" means a the
+27 committee appointed by the director under section 756 to advise
+28 that advises the director and the director of the department's
+29 state office of recipient rights.
+WAM H01258'25 (H-2) sew91v
+4
+1 (11) "Substance abuse" means the taking use of alcohol or
+2 other drugs at dosages that place an individual's social, economic,
+3 psychological, and physical welfare in potential hazard danger or
+4 to the extent that an individual loses the power of self-control as
+5 a result of the use of alcohol or drugs, or while habitually under
+6 the influence of alcohol or drugs, endangers public health, morals,
+7 safety, or welfare, or a combination thereof.
+8 (12) "Substance use disorder" means a chronic disorder in
+9 which the repeated use of alcohol, drugs, or both, results in
+10 significant and adverse consequences. Substance use disorder
+11 includes substance abuse.
+12 (13) "Substance use disorder prevention services" means
+13 services that are intended to reduce the consequences of substance
+14 use disorders in communities by preventing or delaying the onset of
+15 substance abuse and that are intended to reduce the progression of
+16 substance use disorders in individuals. Substance use disorder
+17 prevention is an ordered set of steps that promotes individual,
+18 family, and community health, prevents mental and behavioral
+19 disorders, supports resilience and recovery, and reinforces
+20 treatment principles to prevent relapse.
+21 (14) "Substance use disorder treatment and rehabilitation
+22 services" means providing identifiable recovery-oriented services
+23 including the following:
+24 (a) Early intervention and crisis intervention counseling
+25 services for individuals who are current or former individuals with
+26 a current or former substance use disorder.
+27 (b) Referral services for individuals with a substance use
+28 disorder, their the individuals' families, and the general public.
+29 (c) Planned treatment services, including chemotherapy,
+WAM H01258'25 (H-2) sew91v
+5
+1 counseling, or rehabilitation for individuals who are
+2 physiologically or psychologically dependent upon on or abusing
+3 alcohol or drugs.
+4 (15) "Supplemental security income" means the program
+5 authorized under title XVI of the social security act, 42 USC 1381
+6 to 1383f.
+7 (16) "Telemedicine" means the use of an electronic media to
+8 link patients with health care professionals in different
+9 locations. To be considered telemedicine under this section,
+10 subsection, the health care professional must be able to examine
+11 the patient via a health insurance portability and accountability
+12 act of 1996, Public Law 104-191 compliant, secure interactive audio
+13 or video, or both, telecommunications system, or through the use of
+14 store and forward online messaging.
+15 (17) "Transfer facility" means a facility selected by the a
+16 department-designated community mental health entity , which
+17 facility that is physically located in a jail or lockup and is
+18 staffed by at least 1 designated representative when in use
+19 according to chapter 2A.
+20 (18) "Transition services" means a coordinated set of
+21 activities for a special education student designed within an
+22 outcome-oriented process that promotes movement from school to
+23 postschool activities, including postsecondary education,
+24 vocational training, integrated employment including supported
+25 employment, continuing and adult education, adult services,
+26 independent living, or and community participation.
+27 (19) "Treatment" means care, diagnostic , and therapeutic
+28 services, including the administration of drugs, and any other
+29 service for treatment of an individual's serious mental illness,
+WAM H01258'25 (H-2) sew91v
+6
+1 serious emotional disturbance, or substance use disorder.
+2 (20) "Urgent situation" means a situation in which an
+3 individual is determined to be at risk of experiencing an emergency
+4 situation in the near future if he or she the individual does not
+5 receive care, treatment, or support services.
+6 (21) "Wraparound services" means an individually designed set
+7 of services provided to minors a minor with serious emotional
+8 disturbance or serious mental illness and their families and the
+9 minor's family that includes treatment services and personal
+10 support services or any other supports necessary to foster
+11 education preparedness, employability, and preservation of the
+12 child minor in the family home. Wraparound services are to be
+13 developed through an interagency collaborative approach. and a A
+14 minor's parent or guardian and a the minor, if age 14 or older, are
+15 to shall participate in planning the wraparound services.
+16 Sec. 756. (1) The Subject to subsection (2), the director
+17 shall appoint a 12-member state recipient rights advisory
+18 committee. The Subject to subsection (2), the membership of the
+19 state recipient rights advisory committee shall must be broadly
+20 based so as to best represent the varied perspectives of department
+21 staff, government officials, attorneys, community mental health
+22 services program staff, private providers, recipients, and
+23 recipient interest groups. At least 1/3 of the membership appointed
+24 members of the state recipient rights advisory committee shall must
+25 be primary consumers or family members, and of that 1/3, at least 2
+26 shall must be primary consumers. In appointing members to the state
+27 recipient rights advisory committee, the director shall consider
+28 the recommendations of the director of the state office of
+29 recipient rights and individuals who are members of the state
+WAM H01258'25 (H-2) sew91v
+7
+1 recipient rights advisory committee.
+2 (2) Beginning on the effective date of the amendatory act that
+3 added this sentence, an individual who is employed by, serving
+4 under, or otherwise a part of the executive office at the
+5 department is prohibited from serving on the state recipient rights
+6 advisory committee. If an individual described in this subsection
+7 is a member of the state recipient rights advisory committee on the
+8 effective date of the amendatory act that added this sentence, by
+9 not later than 30 days after the effective date of the amendatory
+10 act that added this sentence, the director shall replace that
+11 member with a member who meets the criteria for appointment under
+12 subsection (1).
+13 (3) (2) The state recipient rights advisory committee shall do
+14 all of the following:
+15 (a) Meet at least quarterly, or more frequently as necessary,
+16 to carry out its responsibilities.
+17 (b) Maintain a current list of members' names to be made
+18 available to individuals upon request.
+19 (c) Maintain a current list of categories represented, to be
+20 made available to individuals upon request.
+21 (d) Protect the state office of recipient rights from
+22 pressures that could interfere with the its impartial, even-handed,
+23 and thorough performance of its functions.
+24 (e) Recommend to the director of the department candidates for
+25 the position of director of the state office of recipient rights
+26 and consult with the director regarding any the proposed dismissal
+27 of the director of the state office of recipient rights.
+28 (f) Serve in an advisory capacity to the director of the
+29 department and the director of the state office of recipient
+WAM H01258'25 (H-2) sew91v
+8
+1 rights.
+2 (g) Review and provide comments on the report submitted by the
+3 state office of recipient rights to the department under section
+4 754.
+5 (4) (3) Meetings of the state recipient rights advisory
+6 committee are subject to the open meetings act, Act No. 267 of the
+7 Public Acts of 1976, being sections 15.261 to 15.275 of the
+8 Michigan Compiled Laws. 1976 PA 267, MCL 15.261 to 15.275. Minutes
+9 shall must be maintained and made available to individuals upon
+10 request.
+Final Page
+WAM H01258'25 (H-2) sew91v
+[DELETED:   H s S e u ( d ( m]
+[DELETED:   H s e s d r p tt  fa t f f w ( ( ( M ( b h m d D t dt  fa s a d b o a a d (]
+[DELETED:   H s ( ( M ( c a c M p ( s f s t r a ( r d a c ( t t (l  t ( c t o]
+[DELETED:   H s ( o o p o t a t s ( c w r s i ( s u s s p f d t ( s i ( s s ( s d f (]
+[DELETED:   H s c p o a ( a t ( l l t t a o s ( dy, f i s a ( a o p v e i c (c, s a s]
+[DELETED:   H s s ( i s d r ( o w d t s e c i dh A m mr r  ,f t p s w S d s c m m c b b s s r m o b s b s a t r]
+[DELETED:   H s r   (es a ( t ( a ( m ( p i a ( t a p o ( d]
+[DELETED:   H s r ( s 7 ( c P M M s b r]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4218
+A bill to amend 1974 PA 258, entitled
+"Mental health code,"
+by amending sections 100d and 756 (MCL 330.1100d and 330.1756),
+section 100d as amended by 2022 PA 214 and section 756 as added by
+1995 PA 290.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 100d. (1) "Security transport officer" means an officer
+2 employed by a private security company under contract with a county
+3 under section 170.
+4 (2) "Service" means a mental health service or a substance use
+5 disorder service.
+6 (3) "Serious emotional disturbance" means a diagnosable
+7 mental, behavioral, or emotional disorder affecting a minor that
+WAM H01258'25 (H-2) sew91v
+
+2
+1 exists or has existed during the past year for a period of time
+2 sufficient to meet the diagnostic criteria specified in the most
+3 recent Diagnostic and Statistical Manual of Mental Disorders
+4 published by the American Psychiatric Association and approved by
+5 the department, and that has resulted in a functional impairment
+6 that substantially interferes with or limits the minor's role or
+7 functioning in family, school, or community activities. The
+8 following disorders are included only if they occur in conjunction
+9 with another diagnosable serious emotional disturbance:
+10 (a) A substance use disorder.
+11 (b) A developmental disorder.
+12 (c) "V" codes in the Diagnostic and Statistical Manual of
+13 Mental Disorders.
+14 (4) "Serious mental illness" means a diagnosable mental,
+15 behavioral, or emotional disorder affecting an adult that exists or
+16 has existed within the past year for a period of time sufficient to
+17 meet the diagnostic criteria specified in the most recent
+18 Diagnostic and Statistical Manual of Mental Disorders published by
+19 the American Psychiatric Association and approved by the
+20 department, and that has resulted in a functional impairment that
+21 substantially interferes with or limits 1 or more major life
+22 activities. Serious mental illness includes dementia with
+23 delusions, dementia with depressed mood, and dementia with
+24 behavioral disturbance. Serious mental illness does not include any
+25 other dementia unless the dementia occurs in conjunction with
+26 another diagnosable serious mental illness. The following disorders
+27 also are included only if they occur in conjunction with another
+28 diagnosable serious mental illness:
+29 (a) A substance use disorder.
+WAM H01258'25 (H-2) sew91v
+
+3
+1 (b) A developmental disorder.
+2 (c) A "V" code in the Diagnostic and Statistical Manual of
+3 Mental Disorders.
+4 (5) "Special compensation" means payment to an adult foster
+5 care facility to ensure the provision of a specialized program in
+6 addition to the basic payment for adult foster care. Special
+7 compensation does not include payment received directly from the
+8 Medicaid program for personal care services for a resident, or
+9 payment received under the supplemental security income program.
+10 (6) "Specialized program" means a program of services,
+11 supports, or treatment that are provided in an adult foster care
+12 facility to meet the unique programmatic needs of individuals with
+13 serious mental illness or developmental disability as set forth in
+14 the a resident's individual plan of services and for which the
+15 adult foster care facility receives special compensation.
+16 (7) "Specialized residential service" means a combination of
+17 residential care and mental health services that are expressly
+18 designed to provide rehabilitation and therapy to a recipient, that
+19 are provided in the recipient's residence, and that are part of a
+20 comprehensive individual plan of services.
+21 (8) "State administered funds" means revenues appropriated by
+22 the legislature exclusively for the purposes provided for in regard
+23 to substance use disorder services and prevention.
+24 (9) "State facility" means a center or a hospital. operated by
+25 the department.
+26 (10) "State recipient rights advisory committee" means a the
+27 committee appointed by the director under section 756 to advise
+28 that advises the director and the director of the department's
+29 state office of recipient rights.
+WAM H01258'25 (H-2) sew91v
+
+4
+1 (11) "Substance abuse" means the taking use of alcohol or
+2 other drugs at dosages that place an individual's social, economic,
+3 psychological, and physical welfare in potential hazard danger or
+4 to the extent that an individual loses the power of self-control as
+5 a result of the use of alcohol or drugs, or while habitually under
+6 the influence of alcohol or drugs, endangers public health, morals,
+7 safety, or welfare, or a combination thereof.
+8 (12) "Substance use disorder" means a chronic disorder in
+9 which the repeated use of alcohol, drugs, or both, results in
+10 significant and adverse consequences. Substance use disorder
+11 includes substance abuse.
+12 (13) "Substance use disorder prevention services" means
+13 services that are intended to reduce the consequences of substance
+14 use disorders in communities by preventing or delaying the onset of
+15 substance abuse and that are intended to reduce the progression of
+16 substance use disorders in individuals. Substance use disorder
+17 prevention is an ordered set of steps that promotes individual,
+18 family, and community health, prevents mental and behavioral
+19 disorders, supports resilience and recovery, and reinforces
+20 treatment principles to prevent relapse.
+21 (14) "Substance use disorder treatment and rehabilitation
+22 services" means providing identifiable recovery-oriented services
+23 including the following:
+24 (a) Early intervention and crisis intervention counseling
+25 services for individuals who are current or former individuals with
+26 a current or former substance use disorder.
+27 (b) Referral services for individuals with a substance use
+28 disorder, their the individuals' families, and the general public.
+29 (c) Planned treatment services, including chemotherapy,
+WAM H01258'25 (H-2) sew91v
+
+5
+1 counseling, or rehabilitation for individuals who are
+2 physiologically or psychologically dependent upon on or abusing
+3 alcohol or drugs.
+4 (15) "Supplemental security income" means the program
+5 authorized under title XVI of the social security act, 42 USC 1381
+6 to 1383f.
+7 (16) "Telemedicine" means the use of an electronic media to
+8 link patients with health care professionals in different
+9 locations. To be considered telemedicine under this section,
+10 subsection, the health care professional must be able to examine
+11 the patient via a health insurance portability and accountability
+12 act of 1996, Public Law 104-191 compliant, secure interactive audio
+13 or video, or both, telecommunications system, or through the use of
+14 store and forward online messaging.
+15 (17) "Transfer facility" means a facility selected by the a
+16 department-designated community mental health entity , which
+17 facility that is physically located in a jail or lockup and is
+18 staffed by at least 1 designated representative when in use
+19 according to chapter 2A.
+20 (18) "Transition services" means a coordinated set of
+21 activities for a special education student designed within an
+22 outcome-oriented process that promotes movement from school to
+23 postschool activities, including postsecondary education,
+24 vocational training, integrated employment including supported
+25 employment, continuing and adult education, adult services,
+26 independent living, or and community participation.
+27 (19) "Treatment" means care, diagnostic , and therapeutic
+28 services, including the administration of drugs, and any other
+29 service for treatment of an individual's serious mental illness,
+WAM H01258'25 (H-2) sew91v
+
+6
+1 serious emotional disturbance, or substance use disorder.
+2 (20) "Urgent situation" means a situation in which an
+3 individual is determined to be at risk of experiencing an emergency
+4 situation in the near future if he or she the individual does not
+5 receive care, treatment, or support services.
+6 (21) "Wraparound services" means an individually designed set
+7 of services provided to minors a minor with serious emotional
+8 disturbance or serious mental illness and their families and the
+9 minor's family that includes treatment services and personal
+10 support services or any other supports necessary to foster
+11 education preparedness, employability, and preservation of the
+12 child minor in the family home. Wraparound services are to be
+13 developed through an interagency collaborative approach. and a A
+14 minor's parent or guardian and a the minor, if age 14 or older, are
+15 to shall participate in planning the wraparound services.
+16 Sec. 756. (1) The Subject to subsection (2), the director
+17 shall appoint a 12-member state recipient rights advisory
+18 committee. The Subject to subsection (2), the membership of the
+19 state recipient rights advisory committee shall must be broadly
+20 based so as to best represent the varied perspectives of department
+21 staff, government officials, attorneys, community mental health
+22 services program staff, private providers, recipients, and
+23 recipient interest groups. At least 1/3 of the membership appointed
+24 members of the state recipient rights advisory committee shall must
+25 be primary consumers or family members, and of that 1/3, at least 2
+26 shall must be primary consumers. In appointing members to the state
+27 recipient rights advisory committee, the director shall consider
+28 the recommendations of the director of the state office of
+29 recipient rights and individuals who are members of the state
+WAM H01258'25 (H-2) sew91v
+
+7
+1 recipient rights advisory committee.
+2 (2) Beginning on the effective date of the amendatory act that
+3 added this sentence, an individual who is employed by, serving
+4 under, or otherwise a part of the executive office at the
+5 department is prohibited from serving on the state recipient rights
+6 advisory committee. If an individual described in this subsection
+7 is a member of the state recipient rights advisory committee on the
+8 effective date of the amendatory act that added this sentence, by
+9 not later than 30 days after the effective date of the amendatory
+10 act that added this sentence, the director shall replace that
+11 member with a member who meets the criteria for appointment under
+12 subsection (1).
+13 (3) (2) The state recipient rights advisory committee shall do
+14 all of the following:
+15 (a) Meet at least quarterly, or more frequently as necessary,
+16 to carry out its responsibilities.
+17 (b) Maintain a current list of members' names to be made
+18 available to individuals upon request.
+19 (c) Maintain a current list of categories represented, to be
+20 made available to individuals upon request.
+21 (d) Protect the state office of recipient rights from
+22 pressures that could interfere with the its impartial, even-handed,
+23 and thorough performance of its functions.
+24 (e) Recommend to the director of the department candidates for
+25 the position of director of the state office of recipient rights
+26 and consult with the director regarding any the proposed dismissal
+27 of the director of the state office of recipient rights.
+28 (f) Serve in an advisory capacity to the director of the
+29 department and the director of the state office of recipient
+WAM H01258'25 (H-2) sew91v
+
+8
+1 rights.
+2 (g) Review and provide comments on the report submitted by the
+3 state office of recipient rights to the department under section
+4 754.
+5 (4) (3) Meetings of the state recipient rights advisory
+6 committee are subject to the open meetings act, Act No. 267 of the
+7 Public Acts of 1976, being sections 15.261 to 15.275 of the
+8 Michigan Compiled Laws. 1976 PA 267, MCL 15.261 to 15.275. Minutes
+9 shall must be maintained and made available to individuals upon
+10 request.
+Final Page
+WAM H01258'25 (H-2) sew91v
+
+[DELETED:   H s S e u ( d ( m]
+[DELETED:   H s e s d r p tt  fa t f f w ( ( ( M ( b h m d D t dt  fa s a d b o a a d (]
+[DELETED:   H s ( ( M ( c a c M p ( s f s t r a ( r d a c ( t t (l  t ( c t o]
+[DELETED:   H s ( o o p o t a t s ( c w r s i ( s u s s p f d t ( s i ( s s ( s d f (]
+[DELETED:   H s c p o a ( a t ( l l t t a o s ( dy, f i s a ( a o p v e i c (c, s a s]
+[DELETED:   H s s ( i s d r ( o w d t s e c i dh A m mr r  ,f t p s w S d s c m m c b b s s r m o b s b s a t r]
+[DELETED:   H s r   (es a ( t ( a ( m ( p i a ( t a p o ( d]
+[DELETED:   H s r ( s 7 ( c P M M s b r]

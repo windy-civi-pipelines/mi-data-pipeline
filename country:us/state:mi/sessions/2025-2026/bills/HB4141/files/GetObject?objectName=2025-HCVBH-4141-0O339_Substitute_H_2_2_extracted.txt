@@ -1,0 +1,157 @@
+Title: HOUSE BILL NO. 4141
+Official Title: HOUSE BILL NO. 4141
+Number of Sections: 1
+Source: versions - Substitute (H-2) - 2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+(MCL 380.1 to 380.1852) by adding section 1303a; and to repeal acts
+and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1303a. (1) Subject to subsection (3), the board of a
+2 school district or board of directors of a public school academy
+3 shall implement a wireless communications device policy for
+4 students who are enrolled in elementary school or middle school
+5 that prohibits those students from using a wireless communications
+6 device on school grounds during all of the following, as
+7 applicable:
+8 (a) Instructional time.
+CRM H00379'25 (H-2) qtcdo6
+2
+1 (b) Breaks between instructional time.
+2 (c) Lunch.
+3 (d) Recess.
+4 (2) The board of a school district or board of directors of a
+5 public school academy shall implement a wireless communications
+6 device policy for students who are enrolled in high school that
+7 prohibits those students from using a wireless communications
+8 device on school grounds during instructional time.
+9 (3) If a school enrolls students from multiple grade levels as
+10 described in subsections (1) and (2), that school satisfies the
+11 requirements of this section by implementing a wireless
+12 communications device policy that prohibits students from using a
+13 wireless communications device on school grounds during
+14 instructional time.
+15 (4) The board of a school district or the board of directors
+16 of a public school academy may implement additional restrictions
+17 regarding the use of wireless communications devices.
+18 (5) A wireless communications device policy implemented under
+19 this section must provide exemptions for all of the following:
+20 (a) Medically necessary devices.
+21 (b) District-owned devices, including, but not limited to,
+22 school-issued tablets and laptops.
+23 (c) Devices designated by the district to be used for
+24 instructional purposes.
+25 (d) Devices used for special education programming or devices
+26 provided as an accommodation to students as required under section
+27 504 of title V of the rehabilitation act of 1973, 29 USC 794.
+28 (e) Lesson-specific academic assignments, at the limited and
+29 direct discretion of a classroom teacher.
+CRM H00379'25 (H-2) qtcdo6
+3
+1 (6) As used in this section:
+2 (a) "Basic telephone" means a device primarily used for voice
+3 calling that cannot support third-party applications, except those
+4 preinstalled, and does not support access to internet platforms via
+5 applications or web browsers.
+6 (b) "School grounds" means a building, playing field, or
+7 property used for school purposes to impart instruction to children
+8 or used for functions and events sponsored by a school. School
+9 grounds does not include a building used primarily for adult
+10 education or college extension courses.
+11 (c) "Wireless communications device" means an electronic
+12 device capable of, but not limited to, text messaging, voice
+13 communication, entertainment, navigation, accessing the internet,
+14 sending and receiving photos and videos, or producing email.
+15 Wireless communications device does not include a basic telephone.
+16 Enacting section 1. Section 1303 of the revised school code,
+17 1976 PA 451, MCL 380.1303, is repealed.
+Final Page
+CRM H00379'25 (H-2) qtcdo6
+[DELETED:   H q]
+[DELETED:   H q ]
+[DELETED:   H q E 1]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4141
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+(MCL 380.1 to 380.1852) by adding section 1303a; and to repeal acts
+and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1303a. (1) Subject to subsection (3), the board of a
+2 school district or board of directors of a public school academy
+3 shall implement a wireless communications device policy for
+4 students who are enrolled in elementary school or middle school
+5 that prohibits those students from using a wireless communications
+6 device on school grounds during all of the following, as
+7 applicable:
+8 (a) Instructional time.
+CRM H00379'25 (H-2) qtcdo6
+
+2
+1 (b) Breaks between instructional time.
+2 (c) Lunch.
+3 (d) Recess.
+4 (2) The board of a school district or board of directors of a
+5 public school academy shall implement a wireless communications
+6 device policy for students who are enrolled in high school that
+7 prohibits those students from using a wireless communications
+8 device on school grounds during instructional time.
+9 (3) If a school enrolls students from multiple grade levels as
+10 described in subsections (1) and (2), that school satisfies the
+11 requirements of this section by implementing a wireless
+12 communications device policy that prohibits students from using a
+13 wireless communications device on school grounds during
+14 instructional time.
+15 (4) The board of a school district or the board of directors
+16 of a public school academy may implement additional restrictions
+17 regarding the use of wireless communications devices.
+18 (5) A wireless communications device policy implemented under
+19 this section must provide exemptions for all of the following:
+20 (a) Medically necessary devices.
+21 (b) District-owned devices, including, but not limited to,
+22 school-issued tablets and laptops.
+23 (c) Devices designated by the district to be used for
+24 instructional purposes.
+25 (d) Devices used for special education programming or devices
+26 provided as an accommodation to students as required under section
+27 504 of title V of the rehabilitation act of 1973, 29 USC 794.
+28 (e) Lesson-specific academic assignments, at the limited and
+29 direct discretion of a classroom teacher.
+CRM H00379'25 (H-2) qtcdo6
+
+3
+1 (6) As used in this section:
+2 (a) "Basic telephone" means a device primarily used for voice
+3 calling that cannot support third-party applications, except those
+4 preinstalled, and does not support access to internet platforms via
+5 applications or web browsers.
+6 (b) "School grounds" means a building, playing field, or
+7 property used for school purposes to impart instruction to children
+8 or used for functions and events sponsored by a school. School
+9 grounds does not include a building used primarily for adult
+10 education or college extension courses.
+11 (c) "Wireless communications device" means an electronic
+12 device capable of, but not limited to, text messaging, voice
+13 communication, entertainment, navigation, accessing the internet,
+14 sending and receiving photos and videos, or producing email.
+15 Wireless communications device does not include a basic telephone.
+16 Enacting section 1. Section 1303 of the revised school code,
+17 1976 PA 451, MCL 380.1303, is repealed.
+Final Page
+CRM H00379'25 (H-2) qtcdo6
+
+[DELETED:   H q]
+[DELETED:   H q ]
+[DELETED:   H q E 1]

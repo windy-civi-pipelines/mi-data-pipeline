@@ -1,0 +1,858 @@
+Title: HOUSE BILL NO. 4122
+Official Title: HOUSE BILL NO. 4122
+Number of Sections: 2
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2000 PA 92, entitled
+"Food law,"
+by amending sections 1105, 1111, and 4102 (MCL 289.1105, 289.1111,
+and 289.4102), section 1105 as amended by 2014 PA 516, section 1111
+as amended by 2018 PA 92, and section 4102 as amended by 2012 PA
+
+Section 2:
+178.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1105. (1) As used in this act:
+2 (a) "Adulterated" means food to which any of the following
+3 apply:
+4 (i) It bears or contains any a poisonous or deleterious
+5 substance that may render it the food injurious to health unless
+6 the substance is not an added substance and the quantity of that
+RMH H00002'25 (H-1) ve7coi
+2
+1 substance in the food does not ordinarily render it injurious to
+2 health.
+3 (ii) It bears or contains any an added poisonous or added
+4 deleterious substance, other than a substance that is a pesticide
+5 chemical in or on a raw agricultural commodity, ; a food additive,
+6 ; or a color additive considered unsafe within the meaning of
+7 subsection (2).
+8 (iii) It is a raw agricultural commodity that bears or contains
+9 a pesticide chemical considered unsafe within the meaning of
+10 subsection (2).
+11 (iv) It bears or contains any a food additive considered unsafe
+12 within the meaning of subsection (2). However, if a pesticide
+13 chemical has been is used in or on a raw agricultural commodity in
+14 conformity with an exemption granted or limitation prescribed under
+15 subsection (2) and the raw agricultural commodity has been is
+16 subjected to processing, the residue of that pesticide chemical
+17 remaining in or on that processed food is, notwithstanding the
+18 provisions of subsection (2) and this subdivision, not considered
+19 unsafe if that residue in or on the raw agricultural commodity has
+20 been is removed to the extent possible in good manufacturing
+21 practice and if the concentration of that residue in the processed
+22 food when ready to eat is not greater than the tolerance prescribed
+23 for the raw agricultural commodity.
+24 (v) It is or contains a new animal drug or conversion product
+25 of a new animal drug that is unsafe within the meaning of section
+26 360b 101 of the federal act, 21 USC 360b.
+27 (vi) It consists in whole or in part of a diseased,
+28 contaminated, filthy, putrid, or decomposed substance or it is
+29 otherwise unfit for food.
+RMH H00002'25 (H-1) ve7coi
+3
+1 (vii) It has been produced, prepared, packed, or held under
+2 unsanitary conditions in which it may have become contaminated with
+3 filth or in which it may have been rendered diseased, unwholesome,
+4 or injurious to health.
+5 (viii) It is the product of a diseased animal or an animal that
+6 has died other than by slaughter or that has been fed uncooked
+7 garbage or uncooked offal from a slaughterhouse.
+8 (ix) Its container is composed, in whole or in part, of any a
+9 poisonous or deleterious substance that may render the contents
+10 injurious to health.
+11 (x) A valuable constituent has been is in whole or in part
+12 omitted or abstracted from the food; a substance has been is
+13 substituted wholly or in part for the food; damage or inferiority
+14 has been is concealed in any manner; or a substance has been is
+15 added to, the food or mixed with, or packed with the food so as to
+16 increase its bulk or weight, reduce its quality or strength, or
+17 make it appear better or of greater value than it is.
+18 (xi) It is confectionery and has partially or completely
+19 imbedded in it any a nonnutritive object except if, as provided by
+20 rules, the object is of practical functional value to the
+21 confectionery product and would not render the product injurious or
+22 hazardous to health; it is confectionery and bears or contains any
+23 alcohol other than alcohol not in excess of 1/2 of 1% 0.5% by
+24 volume derived solely from the use of flavoring extracts; or it is
+25 confectionery and bears or contains any a nonnutritive substance
+26 except a nonnutritive substance such as harmless coloring, harmless
+27 flavoring, harmless resinous glaze not in excess of 4/10 of 1%,
+28 0.4%, harmless natural wax not in excess of 4/10 of 1%, 0.4%,
+29 harmless natural gum and pectin or any chewing gum by reason of its
+RMH H00002'25 (H-1) ve7coi
+4
+1 containing harmless nonnutritive masticatory substances which is in
+2 or on the confectionery by reason of its use for some practical
+3 functional purpose in the manufacture, packaging, or storage of
+4 such the confectionery if the use of the substance does not promote
+5 deception of the consumer or otherwise result in adulteration or
+6 misbranding in violation of this act. For the purpose of avoiding
+7 or resolving uncertainty as to the application of this subdivision,
+8 the director may issue rules allowing or prohibiting the use of
+9 particular nonnutritive substances.
+10 (xii) It is, or bears, or contains any color additive that is
+11 unsafe within the meaning of subsection (2).
+12 (xiii) It has been is intentionally subjected to radiation,
+13 unless the use of the radiation was in conformity with a rule or
+14 exemption under this act or a regulation or exemption under the
+15 federal act.
+16 (xiv) It is bottled water that contains a substance at a level
+17 higher than allowed under this act.
+18 (b) "Advertisement" means a representation disseminated in any
+19 manner or by any means, other than by labeling, for the purpose of
+20 inducing, or which is likely to induce, directly or indirectly, the
+21 purchase of food.
+22 (c) "Agricultural use operation" means a maple syrup
+23 production facility or similar food establishment that finishes a
+24 raw commodity and is integral to the agricultural production of,
+25 and is located at, a farm. An agricultural use operation is not
+26 considered a food processor or retail processing operation for
+27 purposes of personal or real property but must meet those same
+28 standards and licensing requirements as prescribed in under this
+29 act.
+RMH H00002'25 (H-1) ve7coi
+5
+1 (d) "Bed and breakfast" means a private residence that offers
+2 sleeping accommodations to transient tenants in 14 or fewer rooms
+3 for rent, is the innkeeper's residence in which where the innkeeper
+4 resides while renting the rooms to transient tenants, and serves
+5 breakfasts, or other meals in the case of a bed and breakfast
+6 described in section 1107(t)(ii), at no extra cost to its transient
+7 tenants. A bed and breakfast is not a food service establishment if
+8 exempt under section 1107(t)(ii) or (iii).
+9 (e) "Color additive" means a dye, pigment, or other substance
+10 that is made by a process of synthesis or similar artifice or is
+11 extracted, isolated, or otherwise derived, with or without
+12 intermediate or final change of identity from a vegetable, animal,
+13 mineral, or other source, or when added or applied to a food or any
+14 part of a food is capable alone or through reaction with other
+15 substances of imparting color to the food. Color additive does not
+16 include any material that is exempt or hereafter is exempted under
+17 the federal act. This subdivision does not apply to any a pesticide
+18 chemical, soil or plant nutrient, or other agricultural chemical
+19 solely because of its effect in aiding, retarding, or otherwise
+20 affecting, directly or indirectly, the growth of other natural
+21 physiological process of produce of the soil and thereby affecting
+22 its color, whether before or after harvest. Color includes black,
+23 white, and intermediate grays.
+24 (f) "Consumer" means an individual who is a member of the
+25 public , that takes possession of food, is does not functioning
+26 function in the capacity of an operator of a food establishment or
+27 food processor, and does not offer the food for resale.
+28 (g) "Contaminated with filth" means contaminated as a result
+29 of not being securely protected from dust, dirt, and, as far as may
+RMH H00002'25 (H-1) ve7coi
+6
+1 be necessary by all reasonable means, from all foreign or injurious
+2 contaminations.contaminants.
+3 (h) "Continental breakfast" means the serving of only non-
+4 potentially-hazardous food such as a roll, pastry or doughnut,
+5 fruit juice, or hot beverage, but may also include individual
+6 portions of milk and other items incidental to those foods.
+7 (i) "Core item" means a provision in the food code that is not
+8 designated as a priority item or a priority foundation item. Core
+9 item includes both of the following:
+10 (i) (A) An item that usually relates to general sanitation,
+11 operational controls, sanitation standard operating procedures
+12 (SSOPs), facilities or structures, equipment design, or general
+13 maintenance.
+14 (ii) (B) The requirements of section sections 2129(2) and
+15 6152(1).
+16 (j) "Cottage food operation" means a person who produces or
+17 packages cottage food products only in a kitchen of that person's
+18 primary domestic residence within this state.
+19 (k) "Cottage food product" means a food that is not
+20 potentially hazardous a food that is time/temperature control for
+21 safety, as that term is defined in the food code. Examples of
+22 cottage Cottage food product include, includes, but are is not
+23 limited to, jams, jellies, dried fruit, candy, cereal, granola, dry
+24 mixes, vinegar, dried herbs, and baked goods that do not require
+25 temperature control for safety. Cottage food product does not
+26 include any potentially hazardous of the following:
+27 (i) Any food regulated under 21 CFR parts 108, 113, and 114,
+28 examples of which include, but are not limited to, meat and poultry
+29 products; including salsa. ; milk products; bottled water and other
+RMH H00002'25 (H-1) ve7coi
+7
+1 beverages; and home-produced ice products. Cottage food product
+2 also does not include canned
+3 (ii) Canned low-acid fruits or acidified vegetables. and other
+4 (iii) Other canned foods except for standardized jams, jellies,
+5 and preserves as defined described in 21 CFR part 150.
+6 (iv) Meat and poultry products.
+7 (v) Milk products.
+8 (vi) Bottled water and other beverages.
+9 (vii) Home-produced ice products.
+10 (2) Any An added poisonous or deleterious substance, food
+11 additive, pesticide chemical in or on a raw agricultural commodity,
+12 or color additive is considered unsafe for the purpose of
+13 subsection (1)(a), unless there is in effect a federal regulation
+14 or exemption from regulation under the federal act, the federal
+15 meat inspection act, 21 USC 601 to 683, the poultry products
+16 inspection act, 21 USC 451 to 472, or another federal statute, or a
+17 rule limiting the quantity of the substance, and the use or
+18 intended use of the substance, and the use or intended use of the
+19 substance conforms to the terms prescribed by the federal
+20 regulation or exemption or the rule.
+21 Sec. 1111. As used in this act:
+22 (a) "Raw agricultural commodity" means any food in its raw or
+23 natural state including fruits that are washed, colored, or
+24 otherwise treated in their unpeeled natural form before marketing.
+25 (b) "Regulatory authority" means the department, the local
+26 health department, or the authorized representative having
+27 jurisdiction over the food establishment.
+28 (c) "Retail food establishment" means an operation that sells
+29 or offers to sell food directly to a consumer. Retail food
+RMH H00002'25 (H-1) ve7coi
+8
+1 establishment includes both a retail grocery and a food service
+2 establishment, but does not include a food processor.
+3 (d) "Retail grocery" means an operation that sells or offers
+4 to sell food to consumers for off-premises consumption. Food for
+5 off-premises consumption does not include take-out food intended
+6 for immediate consumption.
+7 (e) "Rules" means administrative rules promulgated under this
+8 act pursuant to in accordance with the administrative procedures
+9 act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+10 (f) "Shellfish dealer" means an interstate wholesaler handling
+11 shellfish.
+12 (g) "Shellfish dealer certification" means the issuance of a
+13 numbered certificate to a person indicating that indicates that the
+14 person is in compliance with the requirements of the guide for the
+15 control of molluscan shellfish and that the person has permission
+16 from the department to conduct 1 or more of the following shellfish
+17 activities, as defined in the guide for the control of molluscan
+18 shellfish:
+19 (i) Shellstock shipper.
+20 (ii) Shucker packer.
+21 (iii) Repacker or reshipper.
+22 (h) "Smoked fish rules" means R 285.569.1 to R 285.569.19 of
+23 the Michigan Administrative Code.
+24 (i) "Special transitory food unit" means a temporary food
+25 establishment that is licensed to operate throughout the state
+26 without the 14-day limits or a mobile food establishment that is
+27 not required to return to a commissary.
+28 (j) "Staple foods" does not include accessory foods such as
+29 coffee, tea, cocoa, soda, noncarbonated drinks such as sports
+RMH H00002'25 (H-1) ve7coi
+9
+1 drinks, punches, and flavored waters, candy, condiments, spices,
+2 hot foods, or foods ready to go or made to take out, such as
+3 prepared sandwiches or salads.
+4 (k) "Sulfiting agents" means any of the following:
+5 (i) Sulfur dioxide.
+6 (ii) Sodium sulfite.
+7 (iii) Sodium bisulfite.
+8 (iv) Potassium bisulfite.
+9 (v) Sodium metabisulfite.
+10 (vi) Potassium metabisulfite.
+11 (l) "Temporary food establishment" means a food establishment
+12 that operates at a fixed location for a temporary period not to
+13 exceed 14 consecutive days.
+14 (m) "Temporary license" means a written authorization issued
+15 by the director to operate for a specified limited time period.
+16 (n) "Third-party food delivery platform" means a business
+17 engaged in the service of delivery from a cottage food operation or
+18 online food ordering and delivery from a food service establishment
+19 to a consumer.
+20 (o) (n) "Transient tenant" means a person an individual who
+21 rents a room in a bed and breakfast for fewer than 30 consecutive
+22 days.
+23 (p) (o) "Trimming" means removing leaves, roots, and other
+24 extraneous materials in preparation for grading, sorting, and sale
+25 as a whole fruit or vegetable. Trimming does not remove the peel or
+26 core and does not further cut the whole fruit or vegetable.
+27 (q) (p) "U.S. standards for shell eggs" means "United States
+28 Standards, Grades, and Weight Classes for Shell Eggs", AMS 56 (July
+29 20, 2000), United States Department of Agriculture.
+RMH H00002'25 (H-1) ve7coi
+10
+1 (r) (q) "Vending company base location" means a vending
+2 machine location or other food establishment required to be
+3 separately licensed under section 4105(5).
+4 (s) (r) "Vending machine" means a self-service device that,
+5 upon insertion of after inserting a coin, paper currency, token,
+6 card, or key, or by manual operation, dispenses a unit servings
+7 serving of food in bulk or in packages a package without the
+8 necessity of replenishing the device between each vending
+9 operation. Vending machine does not include any of the following:
+10 (i) A device that dispenses only bottled or canned soft drinks,
+11 ; other packaged nonperishable foods or beverages, ; or bulk ball
+12 gum, nuts, and or panned candies.
+13 (ii) A water-dispensing water dispensing machine that is
+14 registered under chapter IV.section 4115.
+15 (t) (s) "Vending machine location" means the room, enclosure,
+16 space, or area in which 1 or more vending machines are installed
+17 and operated, or a micro market.
+18 (u) (t) "Wholesale" means selling other than directly to
+19 consumers.
+20 (v) (u) "Wild game" means animals from their natural state and
+21 not cultivated, domesticated, or tamed.
+22 Sec. 4102. (1) A cottage food operation is exempt from the
+23 licensing and evaluation provisions of this act. This exemption
+24 does not include an exemption from the adulteration and other
+25 standards imposed in this section or under this act, or both, and
+26 does not limit the ability of the department to take appropriate
+27 enforcement action for applicable violations as described in
+28 section 5101. This subsection does not require a cottage food
+29 operation to meet the standards contained in 21 CFR part 110 or the
+RMH H00002'25 (H-1) ve7coi
+11
+1 food code.
+2 (2) Cottage food products shall must be prepackaged and
+3 properly labeled prior to before sale.
+4 (3) At a minimum, a A cottage food operation shall place on
+5 the label of any food it produces or packages the following
+6 information:
+7 (a) The One of the following, as applicable:
+8 (i) The name and address of the business of the cottage food
+9 operation.
+10 (ii) The name, telephone number, and registration number issued
+11 under subsection (8) of the business of the cottage food operation.
+12 (b) The name of the cottage food product.
+13 (c) The ingredients of the cottage food product, in descending
+14 order of predominance by weight.
+15 (d) The net weight or net volume of the cottage food product.
+16 (e) Allergen labeling as specified by federal labeling
+17 requirements.
+18 (f) If any nutritional claim is made, appropriate labeling as
+19 specified by federal labeling requirements.
+20 (g) The following statement printed in at least the equivalent
+21 of 11-point font size in a color that provides a clear contrast to
+22 the background: "Made in a home kitchen that has not been inspected
+23 by the Michigan department of agriculture and rural development.".
+24 (4) Cottage Except as otherwise provided in this subsection, a
+25 cottage food products may product must be sold directly from the
+26 cottage food operation to the consumer. only, and not by internet
+27 or mail order. Sales by consignment or at wholesale are prohibited.
+28 A cottage food product may be sold by internet or mail order or may
+29 be delivered to a consumer through a third-party food delivery
+RMH H00002'25 (H-1) ve7coi
+12
+1 platform if the cottage food operation provides an opportunity for
+2 a consumer to directly interact with the cottage food operation
+3 before the cottage food product is sold. A cottage food product
+4 sold by internet or mail order or delivered through a third-party
+5 delivery platform must be sold or delivered only to a consumer in
+6 this state. As used in this subsection:
+7 (a) "Directly interact with" includes either a face-to-face
+8 meeting or a virtual meeting.
+9 (b) "Virtual meeting" includes, but is not limited to, a
+10 meeting in which communication occurs electronically in a manner
+11 that permits 2-way communication so that participants can see or be
+12 seen and hear or be heard by all parties to the communication.
+13 (5) The gross sales of cottage food products by a cottage food
+14 operation shall not exceed $20,000.00 annually until December 31,
+15 2017. After December 31, 2017, the Except as otherwise provided in
+16 this subsection, the gross sales of cottage food products by a
+17 cottage food operation shall must not exceed $25,000.00 $50,000.00
+18 annually until January 1, 2026. If the cottage food operation sells
+19 cottage food products at a price of $250.00 or more per unit, the
+20 gross sales of the cottage food products by the cottage food
+21 operation must not exceed $75,000.00 annually until January 1,
+22 2026. For the purposes of this subsection, gross sales shall must
+23 be computed on the basis of the amount of gross sales within or at
+24 a particular domestic residence and shall not be computed on a per-
+25 person basis within or at that a particular domestic residence. The
+26 department may request in writing documentation to verify the
+27 annual gross sales figure. Beginning October 1, 2026, and by each
+28 October 1 thereafter, the department may adjust the gross sales
+29 amounts set under this subsection by the amount calculated by
+RMH H00002'25 (H-1) ve7coi
+13
+1 multiplying the sales limit in effect during the immediately
+2 preceding fiscal year by the inflation adjustment factor and
+3 rounding to the nearest whole dollar. The inflation adjustment
+4 factor used under this subsection is equal to the 3-year average
+5 July-June Consumer Price Index for the current fiscal year divided
+6 by the 3-year average July-June Consumer Price Index for the
+7 immediately preceding fiscal year, as determined by the department
+8 of treasury using the Detroit Consumer Price Index. An inflation
+9 adjustment factor used under this subsection must not be less than
+10 $1.00. As used in this subsection, "Detroit Consumer Price Index"
+11 means the most comprehensive index of consumer prices available for
+12 the Detroit-Warren-Dearborn area from the Bureau of Labor
+13 Statistics of the United States Department of Labor.
+14 (6) Cottage food products shall must be stored only in the
+15 primary domestic residence.
+16 (7) An exemption under this section does not affect the
+17 application of any other state or federal laws or any applicable
+18 ordinances enacted by any local unit of government.
+19 (8) If the MSU Product Center administers a registration
+20 program for cottage food operations, the records of which must be
+21 available to the department on request, a cottage food operation
+22 may register with the MSU Product Center. The MSU Product Center
+23 may do both of the following:
+24 (a) Issue a document that evidences the granting of
+25 registration and contains an identifying number unique to a cottage
+26 food operation.
+27 (b) Collect a 1-time registration fee of not more than $50.00
+28 to administer the registration program.
+29 (9) A cottage food operation that registers with the MSU
+RMH H00002'25 (H-1) ve7coi
+14
+1 Product Center under subsection (8) shall include on the label
+2 described under subsection (3) the registration number issued to
+3 the cottage food operation. A cottage food operation that does not
+4 register with the MSU Product Center under subsection (8) shall
+5 include on the label described in subsection (3) the name and
+6 address of the cottage food operation.
+7 (10) Information obtained under subsection (8) is exempt from
+8 disclosure under the freedom of information act, 1976 PA 442, MCL
+9 15.231 to 15.246.
+Final Page
+RMH H00002'25 (H-1) ve7coi
+[DELETED:   H v S ( a () p s i t]
+[DELETED:   H v s h () a d cy; , ; s () a s () f w c u c s s r p u b r p f f () o 3 o () c o]
+[DELETED:   H v () u f o () h g () p i () i o s h c i ao  ow i m () i n r c h a b v c n e f 0 h h]
+[DELETED:   H v c o f s c d m o t p ()s s  u () i u e f () h ( m i p ( p r a c p s t a]
+[DELETED:   H v ( s f t r b d() t e()()ii ( t e i m p s i t p c s a p i w ( pc, t nt d i f ( o]
+[DELETED:   H v b c. ( p f p ( d i) ( o ( m) s ( 2 6 ( p p ( p f t a c f b n i i l m t i) 1  f 13  e p sa; .]
+[DELETED:   H v b a) . ls ) s c j a i ))))  ( a a o s o m i r i s r S ( n o ( h j ( o]
+[DELETED:   H v e e ( t o f ( a t a ( s ( n t p c f a s () () () ( t ( e w n ( c]
+[DELETED:   H v d h p ( () () () () () () () t e ( b  a ( w r d ( e a c ( S 2]
+[DELETED:   H v ( m s ( u a c u a o w n o () ;s; g p () m r. ( s a ( c ( n S l d s d e s o]
+[DELETED:   H v f ( b p s ( c t i () n o)  ( ( o ( ( r ( s ( o t b ( p f b cr  o]
+[DELETED:   H v  ( o 2 g c n $ a m F b a p d d a]
+[DELETED:   H v  ( b p ( a o]
+[DELETED:   H v ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4122
+A bill to amend 2000 PA 92, entitled
+"Food law,"
+by amending sections 1105, 1111, and 4102 (MCL 289.1105, 289.1111,
+and 289.4102), section 1105 as amended by 2014 PA 516, section 1111
+as amended by 2018 PA 92, and section 4102 as amended by 2012 PA
+178.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1105. (1) As used in this act:
+2 (a) "Adulterated" means food to which any of the following
+3 apply:
+4 (i) It bears or contains any a poisonous or deleterious
+5 substance that may render it the food injurious to health unless
+6 the substance is not an added substance and the quantity of that
+RMH H00002'25 (H-1) ve7coi
+
+2
+1 substance in the food does not ordinarily render it injurious to
+2 health.
+3 (ii) It bears or contains any an added poisonous or added
+4 deleterious substance, other than a substance that is a pesticide
+5 chemical in or on a raw agricultural commodity, ; a food additive,
+6 ; or a color additive considered unsafe within the meaning of
+7 subsection (2).
+8 (iii) It is a raw agricultural commodity that bears or contains
+9 a pesticide chemical considered unsafe within the meaning of
+10 subsection (2).
+11 (iv) It bears or contains any a food additive considered unsafe
+12 within the meaning of subsection (2). However, if a pesticide
+13 chemical has been is used in or on a raw agricultural commodity in
+14 conformity with an exemption granted or limitation prescribed under
+15 subsection (2) and the raw agricultural commodity has been is
+16 subjected to processing, the residue of that pesticide chemical
+17 remaining in or on that processed food is, notwithstanding the
+18 provisions of subsection (2) and this subdivision, not considered
+19 unsafe if that residue in or on the raw agricultural commodity has
+20 been is removed to the extent possible in good manufacturing
+21 practice and if the concentration of that residue in the processed
+22 food when ready to eat is not greater than the tolerance prescribed
+23 for the raw agricultural commodity.
+24 (v) It is or contains a new animal drug or conversion product
+25 of a new animal drug that is unsafe within the meaning of section
+26 360b 101 of the federal act, 21 USC 360b.
+27 (vi) It consists in whole or in part of a diseased,
+28 contaminated, filthy, putrid, or decomposed substance or it is
+29 otherwise unfit for food.
+RMH H00002'25 (H-1) ve7coi
+
+3
+1 (vii) It has been produced, prepared, packed, or held under
+2 unsanitary conditions in which it may have become contaminated with
+3 filth or in which it may have been rendered diseased, unwholesome,
+4 or injurious to health.
+5 (viii) It is the product of a diseased animal or an animal that
+6 has died other than by slaughter or that has been fed uncooked
+7 garbage or uncooked offal from a slaughterhouse.
+8 (ix) Its container is composed, in whole or in part, of any a
+9 poisonous or deleterious substance that may render the contents
+10 injurious to health.
+11 (x) A valuable constituent has been is in whole or in part
+12 omitted or abstracted from the food; a substance has been is
+13 substituted wholly or in part for the food; damage or inferiority
+14 has been is concealed in any manner; or a substance has been is
+15 added to, the food or mixed with, or packed with the food so as to
+16 increase its bulk or weight, reduce its quality or strength, or
+17 make it appear better or of greater value than it is.
+18 (xi) It is confectionery and has partially or completely
+19 imbedded in it any a nonnutritive object except if, as provided by
+20 rules, the object is of practical functional value to the
+21 confectionery product and would not render the product injurious or
+22 hazardous to health; it is confectionery and bears or contains any
+23 alcohol other than alcohol not in excess of 1/2 of 1% 0.5% by
+24 volume derived solely from the use of flavoring extracts; or it is
+25 confectionery and bears or contains any a nonnutritive substance
+26 except a nonnutritive substance such as harmless coloring, harmless
+27 flavoring, harmless resinous glaze not in excess of 4/10 of 1%,
+28 0.4%, harmless natural wax not in excess of 4/10 of 1%, 0.4%,
+29 harmless natural gum and pectin or any chewing gum by reason of its
+RMH H00002'25 (H-1) ve7coi
+
+4
+1 containing harmless nonnutritive masticatory substances which is in
+2 or on the confectionery by reason of its use for some practical
+3 functional purpose in the manufacture, packaging, or storage of
+4 such the confectionery if the use of the substance does not promote
+5 deception of the consumer or otherwise result in adulteration or
+6 misbranding in violation of this act. For the purpose of avoiding
+7 or resolving uncertainty as to the application of this subdivision,
+8 the director may issue rules allowing or prohibiting the use of
+9 particular nonnutritive substances.
+10 (xii) It is, or bears, or contains any color additive that is
+11 unsafe within the meaning of subsection (2).
+12 (xiii) It has been is intentionally subjected to radiation,
+13 unless the use of the radiation was in conformity with a rule or
+14 exemption under this act or a regulation or exemption under the
+15 federal act.
+16 (xiv) It is bottled water that contains a substance at a level
+17 higher than allowed under this act.
+18 (b) "Advertisement" means a representation disseminated in any
+19 manner or by any means, other than by labeling, for the purpose of
+20 inducing, or which is likely to induce, directly or indirectly, the
+21 purchase of food.
+22 (c) "Agricultural use operation" means a maple syrup
+23 production facility or similar food establishment that finishes a
+24 raw commodity and is integral to the agricultural production of,
+25 and is located at, a farm. An agricultural use operation is not
+26 considered a food processor or retail processing operation for
+27 purposes of personal or real property but must meet those same
+28 standards and licensing requirements as prescribed in under this
+29 act.
+RMH H00002'25 (H-1) ve7coi
+
+5
+1 (d) "Bed and breakfast" means a private residence that offers
+2 sleeping accommodations to transient tenants in 14 or fewer rooms
+3 for rent, is the innkeeper's residence in which where the innkeeper
+4 resides while renting the rooms to transient tenants, and serves
+5 breakfasts, or other meals in the case of a bed and breakfast
+6 described in section 1107(t)(ii), at no extra cost to its transient
+7 tenants. A bed and breakfast is not a food service establishment if
+8 exempt under section 1107(t)(ii) or (iii).
+9 (e) "Color additive" means a dye, pigment, or other substance
+10 that is made by a process of synthesis or similar artifice or is
+11 extracted, isolated, or otherwise derived, with or without
+12 intermediate or final change of identity from a vegetable, animal,
+13 mineral, or other source, or when added or applied to a food or any
+14 part of a food is capable alone or through reaction with other
+15 substances of imparting color to the food. Color additive does not
+16 include any material that is exempt or hereafter is exempted under
+17 the federal act. This subdivision does not apply to any a pesticide
+18 chemical, soil or plant nutrient, or other agricultural chemical
+19 solely because of its effect in aiding, retarding, or otherwise
+20 affecting, directly or indirectly, the growth of other natural
+21 physiological process of produce of the soil and thereby affecting
+22 its color, whether before or after harvest. Color includes black,
+23 white, and intermediate grays.
+24 (f) "Consumer" means an individual who is a member of the
+25 public , that takes possession of food, is does not functioning
+26 function in the capacity of an operator of a food establishment or
+27 food processor, and does not offer the food for resale.
+28 (g) "Contaminated with filth" means contaminated as a result
+29 of not being securely protected from dust, dirt, and, as far as may
+RMH H00002'25 (H-1) ve7coi
+
+6
+1 be necessary by all reasonable means, from all foreign or injurious
+2 contaminations.contaminants.
+3 (h) "Continental breakfast" means the serving of only non-
+4 potentially-hazardous food such as a roll, pastry or doughnut,
+5 fruit juice, or hot beverage, but may also include individual
+6 portions of milk and other items incidental to those foods.
+7 (i) "Core item" means a provision in the food code that is not
+8 designated as a priority item or a priority foundation item. Core
+9 item includes both of the following:
+10 (i) (A) An item that usually relates to general sanitation,
+11 operational controls, sanitation standard operating procedures
+12 (SSOPs), facilities or structures, equipment design, or general
+13 maintenance.
+14 (ii) (B) The requirements of section sections 2129(2) and
+15 6152(1).
+16 (j) "Cottage food operation" means a person who produces or
+17 packages cottage food products only in a kitchen of that person's
+18 primary domestic residence within this state.
+19 (k) "Cottage food product" means a food that is not
+20 potentially hazardous a food that is time/temperature control for
+21 safety, as that term is defined in the food code. Examples of
+22 cottage Cottage food product include, includes, but are is not
+23 limited to, jams, jellies, dried fruit, candy, cereal, granola, dry
+24 mixes, vinegar, dried herbs, and baked goods that do not require
+25 temperature control for safety. Cottage food product does not
+26 include any potentially hazardous of the following:
+27 (i) Any food regulated under 21 CFR parts 108, 113, and 114,
+28 examples of which include, but are not limited to, meat and poultry
+29 products; including salsa. ; milk products; bottled water and other
+RMH H00002'25 (H-1) ve7coi
+
+7
+1 beverages; and home-produced ice products. Cottage food product
+2 also does not include canned
+3 (ii) Canned low-acid fruits or acidified vegetables. and other
+4 (iii) Other canned foods except for standardized jams, jellies,
+5 and preserves as defined described in 21 CFR part 150.
+6 (iv) Meat and poultry products.
+7 (v) Milk products.
+8 (vi) Bottled water and other beverages.
+9 (vii) Home-produced ice products.
+10 (2) Any An added poisonous or deleterious substance, food
+11 additive, pesticide chemical in or on a raw agricultural commodity,
+12 or color additive is considered unsafe for the purpose of
+13 subsection (1)(a), unless there is in effect a federal regulation
+14 or exemption from regulation under the federal act, the federal
+15 meat inspection act, 21 USC 601 to 683, the poultry products
+16 inspection act, 21 USC 451 to 472, or another federal statute, or a
+17 rule limiting the quantity of the substance, and the use or
+18 intended use of the substance, and the use or intended use of the
+19 substance conforms to the terms prescribed by the federal
+20 regulation or exemption or the rule.
+21 Sec. 1111. As used in this act:
+22 (a) "Raw agricultural commodity" means any food in its raw or
+23 natural state including fruits that are washed, colored, or
+24 otherwise treated in their unpeeled natural form before marketing.
+25 (b) "Regulatory authority" means the department, the local
+26 health department, or the authorized representative having
+27 jurisdiction over the food establishment.
+28 (c) "Retail food establishment" means an operation that sells
+29 or offers to sell food directly to a consumer. Retail food
+RMH H00002'25 (H-1) ve7coi
+
+8
+1 establishment includes both a retail grocery and a food service
+2 establishment, but does not include a food processor.
+3 (d) "Retail grocery" means an operation that sells or offers
+4 to sell food to consumers for off-premises consumption. Food for
+5 off-premises consumption does not include take-out food intended
+6 for immediate consumption.
+7 (e) "Rules" means administrative rules promulgated under this
+8 act pursuant to in accordance with the administrative procedures
+9 act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+10 (f) "Shellfish dealer" means an interstate wholesaler handling
+11 shellfish.
+12 (g) "Shellfish dealer certification" means the issuance of a
+13 numbered certificate to a person indicating that indicates that the
+14 person is in compliance with the requirements of the guide for the
+15 control of molluscan shellfish and that the person has permission
+16 from the department to conduct 1 or more of the following shellfish
+17 activities, as defined in the guide for the control of molluscan
+18 shellfish:
+19 (i) Shellstock shipper.
+20 (ii) Shucker packer.
+21 (iii) Repacker or reshipper.
+22 (h) "Smoked fish rules" means R 285.569.1 to R 285.569.19 of
+23 the Michigan Administrative Code.
+24 (i) "Special transitory food unit" means a temporary food
+25 establishment that is licensed to operate throughout the state
+26 without the 14-day limits or a mobile food establishment that is
+27 not required to return to a commissary.
+28 (j) "Staple foods" does not include accessory foods such as
+29 coffee, tea, cocoa, soda, noncarbonated drinks such as sports
+RMH H00002'25 (H-1) ve7coi
+
+9
+1 drinks, punches, and flavored waters, candy, condiments, spices,
+2 hot foods, or foods ready to go or made to take out, such as
+3 prepared sandwiches or salads.
+4 (k) "Sulfiting agents" means any of the following:
+5 (i) Sulfur dioxide.
+6 (ii) Sodium sulfite.
+7 (iii) Sodium bisulfite.
+8 (iv) Potassium bisulfite.
+9 (v) Sodium metabisulfite.
+10 (vi) Potassium metabisulfite.
+11 (l) "Temporary food establishment" means a food establishment
+12 that operates at a fixed location for a temporary period not to
+13 exceed 14 consecutive days.
+14 (m) "Temporary license" means a written authorization issued
+15 by the director to operate for a specified limited time period.
+16 (n) "Third-party food delivery platform" means a business
+17 engaged in the service of delivery from a cottage food operation or
+18 online food ordering and delivery from a food service establishment
+19 to a consumer.
+20 (o) (n) "Transient tenant" means a person an individual who
+21 rents a room in a bed and breakfast for fewer than 30 consecutive
+22 days.
+23 (p) (o) "Trimming" means removing leaves, roots, and other
+24 extraneous materials in preparation for grading, sorting, and sale
+25 as a whole fruit or vegetable. Trimming does not remove the peel or
+26 core and does not further cut the whole fruit or vegetable.
+27 (q) (p) "U.S. standards for shell eggs" means "United States
+28 Standards, Grades, and Weight Classes for Shell Eggs", AMS 56 (July
+29 20, 2000), United States Department of Agriculture.
+RMH H00002'25 (H-1) ve7coi
+
+10
+1 (r) (q) "Vending company base location" means a vending
+2 machine location or other food establishment required to be
+3 separately licensed under section 4105(5).
+4 (s) (r) "Vending machine" means a self-service device that,
+5 upon insertion of after inserting a coin, paper currency, token,
+6 card, or key, or by manual operation, dispenses a unit servings
+7 serving of food in bulk or in packages a package without the
+8 necessity of replenishing the device between each vending
+9 operation. Vending machine does not include any of the following:
+10 (i) A device that dispenses only bottled or canned soft drinks,
+11 ; other packaged nonperishable foods or beverages, ; or bulk ball
+12 gum, nuts, and or panned candies.
+13 (ii) A water-dispensing water dispensing machine that is
+14 registered under chapter IV.section 4115.
+15 (t) (s) "Vending machine location" means the room, enclosure,
+16 space, or area in which 1 or more vending machines are installed
+17 and operated, or a micro market.
+18 (u) (t) "Wholesale" means selling other than directly to
+19 consumers.
+20 (v) (u) "Wild game" means animals from their natural state and
+21 not cultivated, domesticated, or tamed.
+22 Sec. 4102. (1) A cottage food operation is exempt from the
+23 licensing and evaluation provisions of this act. This exemption
+24 does not include an exemption from the adulteration and other
+25 standards imposed in this section or under this act, or both, and
+26 does not limit the ability of the department to take appropriate
+27 enforcement action for applicable violations as described in
+28 section 5101. This subsection does not require a cottage food
+29 operation to meet the standards contained in 21 CFR part 110 or the
+RMH H00002'25 (H-1) ve7coi
+
+11
+1 food code.
+2 (2) Cottage food products shall must be prepackaged and
+3 properly labeled prior to before sale.
+4 (3) At a minimum, a A cottage food operation shall place on
+5 the label of any food it produces or packages the following
+6 information:
+7 (a) The One of the following, as applicable:
+8 (i) The name and address of the business of the cottage food
+9 operation.
+10 (ii) The name, telephone number, and registration number issued
+11 under subsection (8) of the business of the cottage food operation.
+12 (b) The name of the cottage food product.
+13 (c) The ingredients of the cottage food product, in descending
+14 order of predominance by weight.
+15 (d) The net weight or net volume of the cottage food product.
+16 (e) Allergen labeling as specified by federal labeling
+17 requirements.
+18 (f) If any nutritional claim is made, appropriate labeling as
+19 specified by federal labeling requirements.
+20 (g) The following statement printed in at least the equivalent
+21 of 11-point font size in a color that provides a clear contrast to
+22 the background: "Made in a home kitchen that has not been inspected
+23 by the Michigan department of agriculture and rural development.".
+24 (4) Cottage Except as otherwise provided in this subsection, a
+25 cottage food products may product must be sold directly from the
+26 cottage food operation to the consumer. only, and not by internet
+27 or mail order. Sales by consignment or at wholesale are prohibited.
+28 A cottage food product may be sold by internet or mail order or may
+29 be delivered to a consumer through a third-party food delivery
+RMH H00002'25 (H-1) ve7coi
+
+12
+1 platform if the cottage food operation provides an opportunity for
+2 a consumer to directly interact with the cottage food operation
+3 before the cottage food product is sold. A cottage food product
+4 sold by internet or mail order or delivered through a third-party
+5 delivery platform must be sold or delivered only to a consumer in
+6 this state. As used in this subsection:
+7 (a) "Directly interact with" includes either a face-to-face
+8 meeting or a virtual meeting.
+9 (b) "Virtual meeting" includes, but is not limited to, a
+10 meeting in which communication occurs electronically in a manner
+11 that permits 2-way communication so that participants can see or be
+12 seen and hear or be heard by all parties to the communication.
+13 (5) The gross sales of cottage food products by a cottage food
+14 operation shall not exceed $20,000.00 annually until December 31,
+15 2017. After December 31, 2017, the Except as otherwise provided in
+16 this subsection, the gross sales of cottage food products by a
+17 cottage food operation shall must not exceed $25,000.00 $50,000.00
+18 annually until January 1, 2026. If the cottage food operation sells
+19 cottage food products at a price of $250.00 or more per unit, the
+20 gross sales of the cottage food products by the cottage food
+21 operation must not exceed $75,000.00 annually until January 1,
+22 2026. For the purposes of this subsection, gross sales shall must
+23 be computed on the basis of the amount of gross sales within or at
+24 a particular domestic residence and shall not be computed on a per-
+25 person basis within or at that a particular domestic residence. The
+26 department may request in writing documentation to verify the
+27 annual gross sales figure. Beginning October 1, 2026, and by each
+28 October 1 thereafter, the department may adjust the gross sales
+29 amounts set under this subsection by the amount calculated by
+RMH H00002'25 (H-1) ve7coi
+
+13
+1 multiplying the sales limit in effect during the immediately
+2 preceding fiscal year by the inflation adjustment factor and
+3 rounding to the nearest whole dollar. The inflation adjustment
+4 factor used under this subsection is equal to the 3-year average
+5 July-June Consumer Price Index for the current fiscal year divided
+6 by the 3-year average July-June Consumer Price Index for the
+7 immediately preceding fiscal year, as determined by the department
+8 of treasury using the Detroit Consumer Price Index. An inflation
+9 adjustment factor used under this subsection must not be less than
+10 $1.00. As used in this subsection, "Detroit Consumer Price Index"
+11 means the most comprehensive index of consumer prices available for
+12 the Detroit-Warren-Dearborn area from the Bureau of Labor
+13 Statistics of the United States Department of Labor.
+14 (6) Cottage food products shall must be stored only in the
+15 primary domestic residence.
+16 (7) An exemption under this section does not affect the
+17 application of any other state or federal laws or any applicable
+18 ordinances enacted by any local unit of government.
+19 (8) If the MSU Product Center administers a registration
+20 program for cottage food operations, the records of which must be
+21 available to the department on request, a cottage food operation
+22 may register with the MSU Product Center. The MSU Product Center
+23 may do both of the following:
+24 (a) Issue a document that evidences the granting of
+25 registration and contains an identifying number unique to a cottage
+26 food operation.
+27 (b) Collect a 1-time registration fee of not more than $50.00
+28 to administer the registration program.
+29 (9) A cottage food operation that registers with the MSU
+RMH H00002'25 (H-1) ve7coi
+
+14
+1 Product Center under subsection (8) shall include on the label
+2 described under subsection (3) the registration number issued to
+3 the cottage food operation. A cottage food operation that does not
+4 register with the MSU Product Center under subsection (8) shall
+5 include on the label described in subsection (3) the name and
+6 address of the cottage food operation.
+7 (10) Information obtained under subsection (8) is exempt from
+8 disclosure under the freedom of information act, 1976 PA 442, MCL
+9 15.231 to 15.246.
+Final Page
+RMH H00002'25 (H-1) ve7coi
+
+[DELETED:   H v S ( a () p s i t]
+[DELETED:   H v s h () a d cy; , ; s () a s () f w c u c s s r p u b r p f f () o 3 o () c o]
+[DELETED:   H v () u f o () h g () p i () i o s h c i ao  ow i m () i n r c h a b v c n e f 0 h h]
+[DELETED:   H v c o f s c d m o t p ()s s  u () i u e f () h ( m i p ( p r a c p s t a]
+[DELETED:   H v ( s f t r b d() t e()()ii ( t e i m p s i t p c s a p i w ( pc, t nt d i f ( o]
+[DELETED:   H v b c. ( p f p ( d i) ( o ( m) s ( 2 6 ( p p ( p f t a c f b n i i l m t i) 1  f 13  e p sa; .]
+[DELETED:   H v b a) . ls ) s c j a i ))))  ( a a o s o m i r i s r S ( n o ( h j ( o]
+[DELETED:   H v e e ( t o f ( a t a ( s ( n t p c f a s () () () ( t ( e w n ( c]
+[DELETED:   H v d h p ( () () () () () () () t e ( b  a ( w r d ( e a c ( S 2]
+[DELETED:   H v ( m s ( u a c u a o w n o () ;s; g p () m r. ( s a ( c ( n S l d s d e s o]
+[DELETED:   H v f ( b p s ( c t i () n o)  ( ( o ( ( r ( s ( o t b ( p f b cr  o]
+[DELETED:   H v  ( o 2 g c n $ a m F b a p d d a]
+[DELETED:   H v  ( b p ( a o]
+[DELETED:   H v ]

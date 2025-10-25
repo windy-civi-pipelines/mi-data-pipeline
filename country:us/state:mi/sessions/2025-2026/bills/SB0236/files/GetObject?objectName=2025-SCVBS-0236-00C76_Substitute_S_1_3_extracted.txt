@@ -1,0 +1,372 @@
+Title: SENATE BILL NO. 236
+Official Title: SENATE BILL NO. 236
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to create a sustainable aviation fuel incentive
+program; to provide for the powers and duties of certain state
+governmental officers and entities; to provide for the
+certification of certain tax credits and incentives; and to
+prescribe penalties.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "sustainable aviation
+2 fuel incentive program act".
+3 Sec. 3. As used in this act:
+4 (a) "Aviation fuel" means fuel as that term is defined in
+5 section 4 of the aeronautics code of the state of Michigan, 1945 PA
+6 327, MCL 259.4.
+7 (b) "Biomass" means any organic matter that is available on a
+KAS S01436'25 (S-1) 40fvnq
+2
+1 renewable or recurring basis, including agricultural crops and
+2 trees; wood and wood waste and residues; plants, including aquatic
+3 plants, grasses, residues, and fibers; animal waste; and the
+4 organic portion of solid wastes.
+5 (c) "Department" means the department of environment, Great
+6 Lakes, and energy.
+7 (d) "Greenhouse gas" means carbon dioxide, methane, nitrous
+8 oxide, hydrofluorocarbons, perfluorocarbons, or sulfur
+9 hexafluoride.
+10 (e) "Qualified sustainable aviation fuel" means sustainable
+11 aviation fuel that the department determines, based upon evidence
+12 submitted by the applicant under section 5, meets the definition of
+13 sustainable aviation fuel.
+14 (f) "Qualified taxpayer" means that term as defined under
+15 section 678 of the income tax act of 1967 PA 281, MCL 206.678.
+16 (g) "Sustainable aviation fuel" means aviation fuel that
+17 satisfies all of the following:
+18 (i) Except as otherwise provided under this subparagraph, is
+19 derived from biomass, waste streams, renewable or zero emissions
+20 energy sources, or gaseous carbon oxides. Beginning January 1,
+21 2030, the aviation fuel must be derived from domestic feedstock
+22 resources and must not be derived from coprocessing an applicable
+23 material, or materials derived from an applicable material, with a
+24 feedstock that is not biomass.
+25 (ii) Meets the requirements of the ASTM International D7566
+26 "Standard Specification for Aviation Turbine Fuel Containing
+27 Synthesized Hydrocarbons" or D1655 "Standard Specification for
+28 Aviation Turbine Fuels".
+29 (iii) Achieves at least a 50% life-cycle greenhouse gas
+KAS S01436'25 (S-1) 40fvnq
+3
+1 emissions reduction in comparison with petroleum-based aviation
+2 fuel, as determined by any of the following:
+3 (A) The most recent life-cycle methodology for calculating the
+4 life-cycle emissions of sustainable aviation fuels adopted by the
+5 International Civil Aviation Organization with the agreement of the
+6 United States.
+7 (B) The most recent version of the Argonne National
+8 Laboratory's Greenhouse gases, Regulated Emissions, and Energy use
+9 in Technologies (GREET) model, inclusive of, but not limited to,
+10 climate smart agricultural practices, on-site renewables, and
+11 carbon capture and sequestration.
+12 (C) Any other model the department approves to calculate life-
+13 cycle greenhouse gas emissions for sustainable aviation fuel.
+14 (h) "Sustainable aviation fuel incentive program" or "program"
+15 means the program created under section 5.
+16 (i) "Sustainable aviation fuel tax credit" means the tax
+17 credit allowed under section 678 of the income tax act of 1967,
+18 1967 PA 281, MCL 206.678.
+19 (j) "Tax year" means that term as defined in section 611 of
+20 the income tax act of 1967 PA 281, MCL 206.611.
+21 Sec. 5. (1) The department shall create a sustainable aviation
+22 fuel incentive program to encourage persons engaged in the business
+23 of producing aviation fuel to produce more sustainable aviation
+24 fuel in this state. The department shall administer the program and
+25 develop and use an application, approval, and certification process
+26 for the approval of sustainable aviation fuel tax credits and make
+27 that process available on the department's website.
+28 (2) A person seeking to claim a sustainable aviation fuel tax
+29 credit shall, within 2 months after the close of the person's tax
+KAS S01436'25 (S-1) 40fvnq
+4
+1 year and in a form and manner as prescribed by the department,
+2 submit an application to the department for approval and
+3 certification of the number of gallons of sustainable aviation fuel
+4 produced or blended in this state and sold during the tax year that
+5 meet the requirements to be certified as qualified sustainable
+6 aviation fuel and the amount of the sustainable aviation fuel tax
+7 credit allowed to be claimed by the applicant. The applicant must
+8 submit all of the following with the application required under
+9 this subsection:
+10 (a) Evidence that the person is engaged in the business of
+11 producing or blending sustainable aviation fuel in this state and
+12 that the sustainable aviation fuel sold during the tax year for
+13 which the credit is sought to be claimed was produced or blended in
+14 this state.
+15 (b) Evidence that the sustainable aviation fuel is qualified
+16 sustainable aviation fuel and, for a person seeking the increased
+17 credit, evidence that the qualified sustainable aviation fuel has
+18 more than a 50% life-cycle greenhouse gas emissions reduction.
+19 (c) Copies of each purchaser's certification that the
+20 qualified sustainable aviation fuel purchased in this state from
+21 that person was purchased for use as fuel in an aircraft departing
+22 from an airport in this state.
+23 (3) For purposes of the purchaser's certification required
+24 under subsection (2), if the purchaser is a wholly owned subsidiary
+25 of an airline operator, the purchaser may make the certification
+26 required under this section based on information from the airline
+27 operator that the qualified sustainable aviation fuel was purchased
+28 for use in an aircraft departing from an airport in this state. If
+29 a purchaser makes a certification required under this section that
+KAS S01436'25 (S-1) 40fvnq
+5
+1 it knows or has reason to know is false, any person responsible for
+2 preparing or submitting that certification is guilty of a
+3 misdemeanor punishable by imprisonment for not more than 1 year, a
+4 fine of not more than $1,000.00, or both. A purchaser that is a
+5 wholly owned subsidiary of an airline operator that makes a
+6 certification required under this section based on information from
+7 that airline operator is deemed to have the same knowledge of the
+8 accuracy of such information as the airline operator.
+9 (4) Subject to the limitation under section 7, not later than
+10 30 days after receipt of an application submitted under this
+11 section, the department shall approve, reject, or request
+12 additional information if deemed necessary. If additional
+13 information is requested, the applicant has 30 days upon receipt of
+14 the notification from the department to submit the additional
+15 information. If the applicant fails to submit the additional
+16 information requested within 30 days after being notified that
+17 additional information was needed, the application is considered
+18 abandoned and rejected. If an application is rejected by the
+19 department, the department must notify the applicant in writing and
+20 include the reasons for the rejection. If an application is
+21 approved, the department must issue a certificate to the applicant.
+22 The certificate required under this subsection must state all of
+23 the following:
+24 (a) The person is a qualified taxpayer.
+25 (b) The sustainable aviation fuel for which the credit is
+26 being claimed by the qualified taxpayer is qualified sustainable
+27 aviation fuel.
+28 (c) The total amount of the qualified sustainable aviation
+29 fuel that was produced or blended and sold in this state during the
+KAS S01436'25 (S-1) 40fvnq
+6
+1 tax year by the qualified taxpayer and the maximum amount of the
+2 sustainable aviation fuel tax credit allowed to be claimed by the
+3 qualified taxpayer for the designated tax year.
+4 (d) The taxpayer's federal employer identification number or
+5 the Michigan department of treasury number assigned to the
+6 taxpayer.
+7 Sec. 7. The department shall not approve and certify more than
+8 $4,500,000.00 in sustainable aviation fuel tax credits under the
+9 program during the 2025-2026 state fiscal year. For each state
+10 fiscal year after the 2025-2026 state fiscal year, the maximum
+11 amount allowed to be approved and certified under the program
+12 during a state fiscal year is $9,000,000.00.
+13 Sec. 9. (1) Not later than January 1 of each year, the
+14 department shall submit a report to the senate energy and
+15 environment committee, the house of representatives energy
+16 committee, the senate and house of representatives appropriations
+17 committees, and the senate and house of representatives fiscal
+18 agencies on the operation and effectiveness of the program for the
+19 immediately preceding fiscal year.
+20 (2) The report under subsection (1) must include all of the
+21 following information:
+22 (a) The total amount of sustainable aviation fuel tax credits
+23 certified under the program.
+24 (b) The number of applications received and the number
+25 approved during the fiscal year.
+26 Enacting section 1. This act does not take effect unless
+27 Senate Bill No. 235 of the 103rd Legislature is enacted into law.
+Final Page
+KAS S01436'25 (S-1) 40fvnq
+[DELETED:   S 4 S f S ( s 3 (]
+[DELETED:   S 4 r t p o ( L ( o h ( a s s ( s ( s () d e 2 r m f () " S A ()]
+[DELETED:   S 4 e f ( l I U ( L i c c ( c ( m ( c 1 ( t S f o f d f t ( c]
+[DELETED:   S 4 y s c p m a c s t ( p t w t ( s c m ( q t f ( u o r o f a]
+[DELETED:   S 4 i p m f w c t a ( 3 s a i t i i a a d i a T t ( ( b a ( f]
+[DELETED:   S 4 t s q ( t t S $ p f a d S d e c c a i ( f ( c ( a E S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 236
+A bill to create a sustainable aviation fuel incentive
+program; to provide for the powers and duties of certain state
+governmental officers and entities; to provide for the
+certification of certain tax credits and incentives; and to
+prescribe penalties.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "sustainable aviation
+2 fuel incentive program act".
+3 Sec. 3. As used in this act:
+4 (a) "Aviation fuel" means fuel as that term is defined in
+5 section 4 of the aeronautics code of the state of Michigan, 1945 PA
+6 327, MCL 259.4.
+7 (b) "Biomass" means any organic matter that is available on a
+KAS S01436'25 (S-1) 40fvnq
+
+2
+1 renewable or recurring basis, including agricultural crops and
+2 trees; wood and wood waste and residues; plants, including aquatic
+3 plants, grasses, residues, and fibers; animal waste; and the
+4 organic portion of solid wastes.
+5 (c) "Department" means the department of environment, Great
+6 Lakes, and energy.
+7 (d) "Greenhouse gas" means carbon dioxide, methane, nitrous
+8 oxide, hydrofluorocarbons, perfluorocarbons, or sulfur
+9 hexafluoride.
+10 (e) "Qualified sustainable aviation fuel" means sustainable
+11 aviation fuel that the department determines, based upon evidence
+12 submitted by the applicant under section 5, meets the definition of
+13 sustainable aviation fuel.
+14 (f) "Qualified taxpayer" means that term as defined under
+15 section 678 of the income tax act of 1967 PA 281, MCL 206.678.
+16 (g) "Sustainable aviation fuel" means aviation fuel that
+17 satisfies all of the following:
+18 (i) Except as otherwise provided under this subparagraph, is
+19 derived from biomass, waste streams, renewable or zero emissions
+20 energy sources, or gaseous carbon oxides. Beginning January 1,
+21 2030, the aviation fuel must be derived from domestic feedstock
+22 resources and must not be derived from coprocessing an applicable
+23 material, or materials derived from an applicable material, with a
+24 feedstock that is not biomass.
+25 (ii) Meets the requirements of the ASTM International D7566
+26 "Standard Specification for Aviation Turbine Fuel Containing
+27 Synthesized Hydrocarbons" or D1655 "Standard Specification for
+28 Aviation Turbine Fuels".
+29 (iii) Achieves at least a 50% life-cycle greenhouse gas
+KAS S01436'25 (S-1) 40fvnq
+
+3
+1 emissions reduction in comparison with petroleum-based aviation
+2 fuel, as determined by any of the following:
+3 (A) The most recent life-cycle methodology for calculating the
+4 life-cycle emissions of sustainable aviation fuels adopted by the
+5 International Civil Aviation Organization with the agreement of the
+6 United States.
+7 (B) The most recent version of the Argonne National
+8 Laboratory's Greenhouse gases, Regulated Emissions, and Energy use
+9 in Technologies (GREET) model, inclusive of, but not limited to,
+10 climate smart agricultural practices, on-site renewables, and
+11 carbon capture and sequestration.
+12 (C) Any other model the department approves to calculate life-
+13 cycle greenhouse gas emissions for sustainable aviation fuel.
+14 (h) "Sustainable aviation fuel incentive program" or "program"
+15 means the program created under section 5.
+16 (i) "Sustainable aviation fuel tax credit" means the tax
+17 credit allowed under section 678 of the income tax act of 1967,
+18 1967 PA 281, MCL 206.678.
+19 (j) "Tax year" means that term as defined in section 611 of
+20 the income tax act of 1967 PA 281, MCL 206.611.
+21 Sec. 5. (1) The department shall create a sustainable aviation
+22 fuel incentive program to encourage persons engaged in the business
+23 of producing aviation fuel to produce more sustainable aviation
+24 fuel in this state. The department shall administer the program and
+25 develop and use an application, approval, and certification process
+26 for the approval of sustainable aviation fuel tax credits and make
+27 that process available on the department's website.
+28 (2) A person seeking to claim a sustainable aviation fuel tax
+29 credit shall, within 2 months after the close of the person's tax
+KAS S01436'25 (S-1) 40fvnq
+
+4
+1 year and in a form and manner as prescribed by the department,
+2 submit an application to the department for approval and
+3 certification of the number of gallons of sustainable aviation fuel
+4 produced or blended in this state and sold during the tax year that
+5 meet the requirements to be certified as qualified sustainable
+6 aviation fuel and the amount of the sustainable aviation fuel tax
+7 credit allowed to be claimed by the applicant. The applicant must
+8 submit all of the following with the application required under
+9 this subsection:
+10 (a) Evidence that the person is engaged in the business of
+11 producing or blending sustainable aviation fuel in this state and
+12 that the sustainable aviation fuel sold during the tax year for
+13 which the credit is sought to be claimed was produced or blended in
+14 this state.
+15 (b) Evidence that the sustainable aviation fuel is qualified
+16 sustainable aviation fuel and, for a person seeking the increased
+17 credit, evidence that the qualified sustainable aviation fuel has
+18 more than a 50% life-cycle greenhouse gas emissions reduction.
+19 (c) Copies of each purchaser's certification that the
+20 qualified sustainable aviation fuel purchased in this state from
+21 that person was purchased for use as fuel in an aircraft departing
+22 from an airport in this state.
+23 (3) For purposes of the purchaser's certification required
+24 under subsection (2), if the purchaser is a wholly owned subsidiary
+25 of an airline operator, the purchaser may make the certification
+26 required under this section based on information from the airline
+27 operator that the qualified sustainable aviation fuel was purchased
+28 for use in an aircraft departing from an airport in this state. If
+29 a purchaser makes a certification required under this section that
+KAS S01436'25 (S-1) 40fvnq
+
+5
+1 it knows or has reason to know is false, any person responsible for
+2 preparing or submitting that certification is guilty of a
+3 misdemeanor punishable by imprisonment for not more than 1 year, a
+4 fine of not more than $1,000.00, or both. A purchaser that is a
+5 wholly owned subsidiary of an airline operator that makes a
+6 certification required under this section based on information from
+7 that airline operator is deemed to have the same knowledge of the
+8 accuracy of such information as the airline operator.
+9 (4) Subject to the limitation under section 7, not later than
+10 30 days after receipt of an application submitted under this
+11 section, the department shall approve, reject, or request
+12 additional information if deemed necessary. If additional
+13 information is requested, the applicant has 30 days upon receipt of
+14 the notification from the department to submit the additional
+15 information. If the applicant fails to submit the additional
+16 information requested within 30 days after being notified that
+17 additional information was needed, the application is considered
+18 abandoned and rejected. If an application is rejected by the
+19 department, the department must notify the applicant in writing and
+20 include the reasons for the rejection. If an application is
+21 approved, the department must issue a certificate to the applicant.
+22 The certificate required under this subsection must state all of
+23 the following:
+24 (a) The person is a qualified taxpayer.
+25 (b) The sustainable aviation fuel for which the credit is
+26 being claimed by the qualified taxpayer is qualified sustainable
+27 aviation fuel.
+28 (c) The total amount of the qualified sustainable aviation
+29 fuel that was produced or blended and sold in this state during the
+KAS S01436'25 (S-1) 40fvnq
+
+6
+1 tax year by the qualified taxpayer and the maximum amount of the
+2 sustainable aviation fuel tax credit allowed to be claimed by the
+3 qualified taxpayer for the designated tax year.
+4 (d) The taxpayer's federal employer identification number or
+5 the Michigan department of treasury number assigned to the
+6 taxpayer.
+7 Sec. 7. The department shall not approve and certify more than
+8 $4,500,000.00 in sustainable aviation fuel tax credits under the
+9 program during the 2025-2026 state fiscal year. For each state
+10 fiscal year after the 2025-2026 state fiscal year, the maximum
+11 amount allowed to be approved and certified under the program
+12 during a state fiscal year is $9,000,000.00.
+13 Sec. 9. (1) Not later than January 1 of each year, the
+14 department shall submit a report to the senate energy and
+15 environment committee, the house of representatives energy
+16 committee, the senate and house of representatives appropriations
+17 committees, and the senate and house of representatives fiscal
+18 agencies on the operation and effectiveness of the program for the
+19 immediately preceding fiscal year.
+20 (2) The report under subsection (1) must include all of the
+21 following information:
+22 (a) The total amount of sustainable aviation fuel tax credits
+23 certified under the program.
+24 (b) The number of applications received and the number
+25 approved during the fiscal year.
+26 Enacting section 1. This act does not take effect unless
+27 Senate Bill No. 235 of the 103rd Legislature is enacted into law.
+Final Page
+KAS S01436'25 (S-1) 40fvnq
+
+[DELETED:   S 4 S f S ( s 3 (]
+[DELETED:   S 4 r t p o ( L ( o h ( a s s ( s ( s () d e 2 r m f () " S A ()]
+[DELETED:   S 4 e f ( l I U ( L i c c ( c ( m ( c 1 ( t S f o f d f t ( c]
+[DELETED:   S 4 y s c p m a c s t ( p t w t ( s c m ( q t f ( u o r o f a]
+[DELETED:   S 4 i p m f w c t a ( 3 s a i t i i a a d i a T t ( ( b a ( f]
+[DELETED:   S 4 t s q ( t t S $ p f a d S d e c c a i ( f ( c ( a E S]

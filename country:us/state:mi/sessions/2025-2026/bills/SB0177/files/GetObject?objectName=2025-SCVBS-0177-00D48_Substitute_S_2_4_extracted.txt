@@ -1,0 +1,3363 @@
+Title: SENATE BILL NO. 177
+Official Title: SENATE BILL NO. 177
+Number of Sections: 1
+Source: versions - Substitute (S-2) - 4
+Media Type: application/pdf
+Strikethrough Detection: 53 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to make appropriations for the department of licensing
+and regulatory affairs for the fiscal year ending September 30,
+2026; and to provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of
+4 licensing and regulatory affairs for the fiscal year ending
+5 September 30, 2026, from the following funds:
+6 DEPARTMENT OF LICENSING AND REGULATORY AFFAIRS
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 30.0
+9 Full-time equated classified positions 1,823.0
+DAW S01529'25 (S-2) 6z0gv8
+2
+1 GROSS APPROPRIATION $ 657,053,200
+2 Interdepartmental grant revenues:
+3 Total interdepartmental grants and
+4 intradepartmental transfers 30,192,600
+5 ADJUSTED GROSS APPROPRIATION $ 626,860,600
+6 Federal revenues:
+7 DOE-OEERE, multiple grants 4,109,100
+8 Total federal revenues 34,478,800
+9 Special revenue funds:
+10 Total local revenues 0
+11 Total private revenues 0
+12 Corporations fees 3,391,800
+13 Total other state restricted revenues 284,842,500
+14 State general fund/general purpose $ 307,539,300
+15 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+16 SUPPORT
+17 Full-time equated unclassified positions 30.0
+18 Full-time equated classified positions 104.0
+19 Unclassified salaries--FTEs 30.0 $ 3,083,500
+20 Administrative services--FTEs 70.0 8,070,700
+21 Executive director programs--FTEs 23.0 3,454,400
+22 Property management 6,924,200
+23 Worker's compensation 72,000
+24 Regulatory effectiveness office--FTEs 11.0 1,700,200
+25 GROSS APPROPRIATION $ 23,305,000
+26 Appropriated from:
+27 Interdepartmental grant revenues:
+28 IDG from MDIFS, accounting services 150,000
+DAW S01529'25 (S-2) 6z0gv8
+3
+1 Federal revenues:
+2 EPA, underground storage tanks 30,700
+3 HHS-Medicaid, certification of health care
+4 providers and suppliers 380,000
+5 HHS-Medicare, certification of health care
+6 providers and suppliers 629,800
+7 Special revenue funds:
+8 Aboveground storage tank fees 90,300
+9 Accountancy enforcement fund 54,900
+10 Boiler inspection fund 284,000
+11 Builder enforcement fund 102,700
+12 Construction code fund 884,500
+13 Corporation fees 4,506,300
+14 Elevator fees 307,400
+15 Fire alarm fees 7,100
+16 Fire safety standard and enforcement fund 2,100
+17 Fire service fees 348,900
+18 Fireworks safety fund 57,600
+19 Health professions regulatory fund 1,918,900
+20 Health systems fees 213,400
+21 Licensing and regulation fund 833,200
+22 Liquor license revenue 292,400
+23 Liquor purchase revolving fund 3,176,300
+24 Marihuana registry fund 196,200
+25 Marihuana regulation fund 1,565,700
+26 Marihuana regulatory fund 640,500
+27 Michigan unarmed combat fund 5,400
+28 Mobile home code fund 257,200
+DAW S01529'25 (S-2) 6z0gv8
+4
+1 Nurse professional fund 38,700
+2 PMECSEMA fund 45,900
+3 Property development fees 7,300
+4 Public utility assessments 3,365,000
+5 Real estate appraiser education fund 2,600
+6 Real estate education fund 11,000
+7 Real estate enforcement fund 11,300
+8 Refined petroleum fund 147,700
+9 Securities fees 1,482,000
+10 Securities investor education and training fund 9,200
+11 Security business fund 6,700
+12 Survey and remonumentation fund 96,600
+13 Tax tribunal fund 822,300
+14 Utility consumer representation fund 51,300
+15 State general fund/general purpose $ 271,900
+16 Sec. 103. PUBLIC SERVICE COMMISSION
+17 Full-time equated classified positions 223.0
+18 Michigan Saves 3,500,000
+19 Public service commission--FTEs 223.0 41,910,800
+20 GROSS APPROPRIATION $ 45,410,800
+21 Appropriated from:
+22 Federal revenues:
+23 DOT, gas pipeline safety 2,671,500
+24 Special revenue funds:
+25 Public utility assessments 39,239,300
+26 State general fund/general purpose $ 3,500,000
+27 Sec. 104. LIQUOR CONTROL COMMISSION
+28 Full-time equated classified positions 150.0
+DAW S01529'25 (S-2) 6z0gv8
+5
+1 Liquor licensing and enforcement--FTEs 119.0 18,176,300
+2 Management support services--FTEs 31.0 4,984,900
+3 GROSS APPROPRIATION $ 23,161,200
+4 Appropriated from:
+5 Special revenue funds:
+6 Direct shipper enforcement revolving fund 317,900
+7 Liquor control enforcement and license
+8 investigation revolving fund 175,000
+9 Liquor license fee enhancement fund 76,400
+10 Liquor license revenue 8,514,300
+11 Liquor purchase revolving fund 14,077,600
+12 State general fund/general purpose $ 0
+13 Sec. 105. OCCUPATIONAL REGULATION
+14 Full-time equated classified positions 942.0
+15 Bureau of community and health systems--FTEs 167.0 27,403,400
+16 Bureau of construction codes--FTEs 198.0 37,744,800
+17 Bureau of fire services--FTEs 86.0 14,451,900
+18 Bureau of professional licensing--FTEs 198.0 42,847,800
+19 Bureau of survey and certification--FTEs 184.0 32,137,900
+20 Corporations, securities, and commercial
+21 licensing bureau--FTEs 109.0 16,975,900
+22 Urban search and rescue 1,000,000
+23 GROSS APPROPRIATION $ 172,561,700
+24 Appropriated from:
+25 Interdepartmental grant revenues:
+26 Federal revenues:
+27 DHS, fire training systems 528,000
+28 DOT, hazardous materials training and planning 20,000
+DAW S01529'25 (S-2) 6z0gv8
+6
+1 EPA, underground storage tanks 820,600
+2 HHS-Medicaid, certification of health care
+3 providers and suppliers 9,201,600
+4 HHS-Medicare, certification of health care
+5 providers and suppliers 14,808,100
+6 DOE-OEERE, multiple grants 4,109,100
+7 Special revenue funds:
+8 Aboveground storage tank fees 343,700
+9 Accountancy enforcement fund 1,216,000
+10 Adult foster care facilities licenses fund 373,600
+11 Boiler inspection fund 3,046,500
+12 Builder enforcement fund 644,000
+13 Construction code fund 13,763,000
+14 Corporation fees 9,619,200
+15 Division on deafness fund 73,400
+16 Elevator fees 8,513,100
+17 Fire alarm fees 138,400
+18 Fire safety standard and enforcement fund 32,300
+19 Fire service fees 3,160,900
+20 Fireworks safety fund 1,259,100
+21 Health professions regulatory fund 27,363,300
+22 Health systems fees 4,204,300
+23 Licensing and regulation fund 11,819,800
+24 Liquor purchase revolving fund 159,500
+25 Marihuana regulatory fund 500,000
+26 Mobile home code fund 2,141,400
+27 Nurse aide registration fund 1,692,400
+28 Nurse professional fund 1,968,000
+DAW S01529'25 (S-2) 6z0gv8
+7
+1 PMECSEMA fund 2,585,000
+2 Property development fees 192,600
+3 Real estate appraiser education fund 6,200
+4 Real estate education fund 604,000
+5 Real estate enforcement fund 759,700
+6 Refined petroleum fund 2,667,900
+7 Securities fees 5,405,200
+8 Securities investor education and training fund 503,900
+9 Security business fund 182,700
+10 Survey and remonumentation fund 910,600
+11 State general fund/general purpose $ 37,224,600
+12 Sec. 106. CANNABIS REGULATORY AGENCY
+13 Full-time equated classified positions 183.0
+14 Cannabis regulatory agency--FTEs 183.0 $ 33,842,500
+15 GROSS APPROPRIATION $ 33,842,500
+16 Appropriated from:
+17 Special revenue funds:
+18 Industrial hemp licensing and registration fund 296,200
+19 Marihuana registry fund 2,256,300
+20 Marihuana regulation fund 23,090,200
+21 Marihuana regulatory fund 8,199,800
+22 State general fund/general purpose $ 0
+23 Sec. 107. MICHIGAN OFFICE OF ADMINISTRATIVE
+24 HEARINGS AND RULES
+25 Full-time equated classified positions 176.0
+26 Michigan office of administrative hearings and
+27 rules--FTEs 176.0 $ 37,034,900
+28 GROSS APPROPRIATION $ 37,034,900
+DAW S01529'25 (S-2) 6z0gv8
+8
+1 Appropriated from:
+2 Interdepartmental grant revenues:
+3 IDG revenues, administrative hearings and rules 28,594,000
+4 Special revenue funds:
+5 Construction code fund 27,400
+6 Corporation fees 998,900
+7 Health professions regulatory fund 881,800
+8 Health systems fees 165,500
+9 Licensing and regulation fund 914,300
+10 Liquor purchase revolving fund 493,200
+11 Marihuana regulation fund 253,500
+12 Marihuana regulatory fund 98,900
+13 Public utility assessments 2,970,600
+14 Securities fees 1,048,600
+15 State general fund/general purpose $ 588,200
+16 Sec. 108. COMMISSIONS
+17 Full-time equated classified positions 45.0
+18 Michigan indigent defense commission--FTEs 25.0 $ 3,947,900
+19 Michigan unarmed combat commission 126,200
+20 Michigan Tax Tribunal--FTEs 20.0 4,213,900
+21 GROSS APPROPRIATION $ 8,288,000
+22 Appropriated from:
+23 Special revenue funds:
+24 Michigan unarmed combat fund 126,200
+25 Tax tribunal fund 822,100
+26 Corporations fees 3,391,800
+27 State general fund/general purpose $ 3,947,900
+28 Sec. 109. DEPARTMENT GRANTS
+DAW S01529'25 (S-2) 6z0gv8
+9
+1 Firefighter training grants $ 2,300,000
+2 Liquor law enforcement grants 9,900,000
+3 Marihuana operation and oversight grants 3,000,000
+4 Michigan indigent defense commission grants 258,345,300
+5 Remonumentation grants 6,800,000
+6 Utility consumer representation 2,100,000
+7 GROSS APPROPRIATION $ 282,445,300
+8 Appropriated from:
+9 Special revenue funds:
+10 Fireworks safety fund 2,300,000
+11 Liquor license revenue 9,900,000
+12 Local indigent defense reimbursement 300,000
+13 Marihuana regulation fund 3,000,000
+14 Survey and remonumentation fund 6,800,000
+15 Utility consumer representation fund 2,100,000
+16 State general fund/general purpose $ 258,045,300
+17 Sec. 110. INFORMATION TECHNOLOGY
+18 Information technology services and projects $ 27,803,800
+19 GROSS APPROPRIATION $ 27,803,800
+20 Appropriated from:
+21 IDG revenues, administrative hearings and rules 1,448,600
+22 Total interdepartmental grants and
+23 intradepartmental transfers 1,448,600
+24 Federal revenues:
+25 DOT, gas pipeline safety 152,600
+26 EPA, underground storage tanks 99,900
+27 HHS-Medicaid, certification of health care
+28 providers and suppliers 385,100
+DAW S01529'25 (S-2) 6z0gv8
+10
+1 HHS-Medicare, certification of health care
+2 providers and suppliers 641,800
+3 Special revenue funds:
+4 Aboveground storage tank fees 34,500
+5 Accountancy enforcement fund 1,600
+6 Boiler inspection fund 387,500
+7 Construction code fund 1,331,900
+8 Corporation fees 5,800,700
+9 Elevator fees 505,400
+10 Fire safety standard and enforcement fund 3,500
+11 Fire service fees 542,700
+12 Fireworks safety fund 74,800
+13 Health professions regulatory fund 2,787,700
+14 Health systems fees 366,200
+15 Industrial hemp licensing and registration fund 4,000
+16 Licensing and regulation fund 941,700
+17 Licensing license revenue 235,400
+18 Liquor purchase revolving fund 4,796,800
+19 Marihuana registry fund 193,600
+20 Marihuana regulation fund 1,231,500
+21 Marihuana regulatory fund 553,000
+22 Michigan unarmed combat fund 6,800
+23 Mobile home code fund 205,000
+24 Nurse aide registration fund 7,000
+25 PMECSEMA fund 68,500
+26 Public utility assessments 2,038,000
+27 Real estate appraiser education fund 1,000
+28 Real estate education fund 4,800
+DAW S01529'25 (S-2) 6z0gv8
+11
+1 Refined petroleum fund 235,200
+2 Securities fees 465,600
+3 Securities investor education and training fund 6,100
+4 Survey and remonumentation fund 75,400
+5 Tax tribunal fund 208,500
+6 State general fund/general purpose $ 1,961,400
+7 Sec. 111. ONE-TIME APPROPRIATIONS
+8 Bureau of fire services - smoke detectors $ 1,000,000
+9 Cannabis regulatory agency social equity
+10 program 1,000,000
+11 Michigan saves 1,000,000
+12 Real Estate Continuing Education 200,000
+13 GROSS APPROPRIATION $ 3,200,000
+14 Appropriated from:
+15 Special revenue funds:
+16 Marihuana regulation fund 1,000,000
+17 Real estate education fund 200,000
+18 State general fund/general purpose $ 2,000,000
+19
+20 PART 2
+21 PROVISIONS CONCERNING APPROPRIATIONS
+22 FOR FISCAL YEAR 2025-2026
+23 GENERAL SECTIONS
+24 Sec. 201. In accordance with section 30 of article IX of the
+25 state constitution of 1963, for the fiscal year ending September
+26 30, 2026, total state spending from state sources under part 1 is
+27 $585,969,100.00 and state spending from state sources to be paid to
+28 local units of government is $280,345,300.00. The itemized
+29 statement below identifies appropriations from which spending to
+DAW S01529'25 (S-2) 6z0gv8
+12
+1 local units of government will occur:
+2 DEPARTMENT OF LICENSING AND REGULATORY AFFAIRS
+3 Firefighter training grants $ 2,300,000
+4 Liquor law enforcement grants 9,900,000
+5 Marihuana operation and oversight grants 3,000,000
+6 Michigan indigent defense commission grants 258,345,300
+7 Remonumentation grants 6,800,000
+8 TOTAL $ 280,345,300
+9 Sec. 202. The appropriations under this part and part 1 are
+10 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+11 to 18.1594.
+12 Sec. 203. As used in this part and part 1:
+13 (a) "Department" means the department of licensing and
+14 regulatory affairs.
+15 (b) "Director" means the director of the department.
+16 (c) "FTE" means full-time equated.
+17 (d) "IDG" means interdepartmental grant.
+18 (e) "Standard report recipients" means the senate and house of
+19 representatives subcommittees on the department, the senate and
+20 house fiscal agencies, the senate and house policy offices, and the
+21 state budget office.
+22 Sec. 204. A department or agency shall use the internet to
+23 fulfill the reporting requirements of this part. This requirement
+24 includes transmitting reports to the standard report recipients and
+25 any other required recipients by email and posting the reports on
+26 an internet site.
+27 Sec. 205. To the extent permissible under section 261 of the
+28 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+29 following apply to the expenditure of funds appropriated in part 1:
+DAW S01529'25 (S-2) 6z0gv8
+13
+1 (a) The funds must not be used for the purchase of foreign
+2 goods or services, or both, if competitively priced and of
+3 comparable quality American goods or services, or both, are
+4 available.
+5 (b) Preference must be given to goods or services, or both,
+6 manufactured or provided by Michigan businesses, if they are
+7 competitively priced and of comparable quality.
+8 (c) Preference must be given to goods or services, or both,
+9 that are manufactured or provided by Michigan businesses owned and
+10 operated by veterans, if they are competitively priced and of
+11 comparable quality.
+12 (d) Preference must be given to goods or services, or both,
+13 that are manufactured in facilities that employ union members.
+14 Sec. 206. The department shall not take disciplinary action
+15 against an employee of the department for communicating with a
+16 member of the legislature or legislative staff, unless the
+17 communication is prohibited by law and the department is exercising
+18 its authority as provided by law.
+19 Sec. 207. Consistent with section 217 of the management and
+20 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+21 a report on out-of-state travel expenses not later than January 1.
+22 The report must list all travel outside this state by classified
+23 and unclassified employees in the previous fiscal year that was
+24 funded in whole or in part with funds appropriated in the
+25 department's budget. The department shall submit the report to the
+26 standard report recipients and to the senate and house
+27 appropriations committees. The report must include all of the
+28 following information:
+29 (a) The dates of each travel occurrence.
+DAW S01529'25 (S-2) 6z0gv8
+14
+1 (b) The total transportation and related expenses of each
+2 travel occurrence and the proportions funded with state general
+3 fund/general purpose revenues, state restricted revenues, federal
+4 revenues, and other revenues.
+5 Sec. 208. A principal executive department, state agency, or
+6 authority shall not use funds appropriated in part 1 to hire a
+7 person to provide legal services that are the responsibility of the
+8 attorney general. This section does not apply to legal services for
+9 bonding activities or to outside legal services that the attorney
+10 general authorizes.
+11 Sec. 209. Not later than December 15, the state budget office
+12 shall prepare and submit a report that provides for estimates of
+13 the total general fund/general purpose appropriation lapses at the
+14 close of the previous fiscal year. The report must summarize the
+15 projected year-end general fund/general purpose appropriation
+16 lapses by major departmental program or program areas. The state
+17 budget office shall submit the report to the standard report
+18 recipients and the chairpersons of the senate and house of
+19 representatives appropriations committees.
+20 Sec. 210. (1) In addition to the funds appropriated in part 1,
+21 there is appropriated an amount not to exceed $1,000,000.00 for
+22 federal contingency funds. These funds are not available for
+23 expenditure until they have been transferred to another line item
+24 in this part under section 393(2) of the management and budget act,
+25 1984 PA 431, MCL 18.1393.
+26 (2) In addition to the funds appropriated in part 1, there is
+27 appropriated an amount not to exceed $25,000,000.00 for state
+28 restricted contingency funds. These funds are not available for
+29 expenditure until they have been transferred to another line item
+DAW S01529'25 (S-2) 6z0gv8
+15
+1 in this part under section 393(2) of the management and budget act,
+2 1984 PA 431, MCL 18.1393.
+3 (3) In addition to the funds appropriated in part 1, there is
+4 appropriated an amount not to exceed $200,000.00 for local
+5 contingency funds. These funds are not available for expenditure
+6 until they have been transferred to another line item in this part
+7 under section 393(2) of the management and budget act, 1984 PA 431,
+8 MCL 18.1393.
+9 (4) In addition to the funds appropriated in part 1, there is
+10 appropriated an amount not to exceed $100,000.00 for private
+11 contingency funds. These funds are not available for expenditure
+12 until they have been transferred to another line item in this part
+13 under section 393(2) of the management and budget act, 1984 PA 431,
+14 MCL 18.1393.
+15 Sec. 211. A department or agency shall cooperate with the
+16 department of technology, management, and budget to maintain a
+17 searchable website accessible by the public at no cost that
+18 includes, but is not limited to, all of the following for each
+19 department or agency:
+20 (a) Fiscal-year-to-date expenditures by category.
+21 (b) Fiscal-year-to-date expenditures by appropriation unit.
+22 (c) Fiscal-year-to-date payments to a selected vendor,
+23 including the vendor name, payment date, payment amount, and
+24 payment description.
+25 (d) The number of active employees by job classification.
+26 (e) Job specifications and wage rates.
+27 Sec. 212. Not later than 14 days after the release of the
+28 executive budget recommendation, the department shall cooperate
+29 with the state budget office to provide an annual report on
+DAW S01529'25 (S-2) 6z0gv8
+16
+1 estimated state restricted fund balances, state restricted fund
+2 projected revenues, and state restricted fund expenditures for the
+3 previous 2 fiscal years. The report must be submitted to the
+4 standard report recipients and to the chairpersons of the senate
+5 and house appropriations committees.
+6 Sec. 214. To the extent permissible under the management and
+7 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director of
+8 each department or agency receiving appropriations under part 1
+9 shall take all reasonable steps to ensure geographically
+10 disadvantaged business enterprises compete for and perform
+11 contracts to provide services or supplies, or both. Each director
+12 shall strongly encourage firms with which the department or agency
+13 contracts to subcontract with certified geographically
+14 disadvantaged business enterprises for services, supplies, or both.
+15 As used in this section, "geographically disadvantaged business
+16 enterprises" means that term as defined in Executive Directive No.
+17 2023-1.
+18 Sec. 215. On a quarterly basis, the department shall report on
+19 the number of full-time equated positions in pay status by civil
+20 service classification, including a comparison by line item of the
+21 number of full-time equated positions authorized from funds
+22 appropriated in part 1 to the actual number of full-time equated
+23 positions employed by the department at the end of the reporting
+24 period. The report must be submitted to the standard report
+25 recipients and the senate and house appropriations committees.
+26 Sec. 218. The department shall receive and retain copies of
+27 all reports funded from appropriations in part 1. The department
+28 shall follow federal and state guidelines for short-term and long-
+29 term retention of records. The department may electronically retain
+DAW S01529'25 (S-2) 6z0gv8
+17
+1 copies of reports unless otherwise required by federal or state
+2 guidelines.
+3 Sec. 219. Not later than April 1, the department shall report
+4 on each specific policy change made to implement a public act
+5 affecting the department that took effect during the previous
+6 calendar year. The department shall submit the report to the
+7 standard report recipients, the senate and house appropriations
+8 committees, and the joint committee on administrative rules.
+9 Sec. 221. (1) Funds appropriated in part 1 must not be used to
+10 restrict or impede a marginalized community's access to government
+11 resources, programs, or facilities.
+12 (2) From the funds appropriated in part 1, local governments
+13 shall report any action or policy that attempts to restrict or
+14 interfere with the duties of a local health officer.
+15 Sec. 222. To the extent possible, the department shall not
+16 expend appropriations under part 1 until all existing authorized
+17 work project funds available for the same purposes are exhausted.
+18 Sec. 223. (1) General fund appropriations in part 1 shall not
+19 be expended for items if federal funding or private grant funding
+20 is available for the same expenditures.
+21 (2) If the department is required to make a reduction in
+22 expenditures under section 395(1) or (2) of the management and
+23 budget act, 1984 PA 431, MCL 18.1395, for any appropriation under
+24 this part or part 1, the department must notify the standard report
+25 recipients not later than 10 days after the reduction. The
+26 notification must include, but not be limited to, the following:
+27 (a) A description of the fund source that is insufficient to
+28 support the expenditures being reduced and the amount of the
+29 reduction.
+DAW S01529'25 (S-2) 6z0gv8
+18
+1 (b) A description of the cause for the reduction, if any such
+2 cause is known.
+3 (c) A description of the functions of state government or
+4 services to residents that will be affected by the reduction.
+5 Sec. 225. (1) Not later than December 31, the department shall
+6 submit a report that pertains to licensing and regulatory programs
+7 overseen by the following agencies:
+8 (a) Liquor control commission.
+9 (b) Bureau of fire services.
+10 (c) Corporations, securities, and commercial licensing bureau.
+11 (d) Bureau of professional licensing.
+12 (2) The report under subsection (1) must be in a format that
+13 is consistent between the agencies listed in subsection (1) and
+14 must provide, but is not limited to, the following information for
+15 the previous fiscal year, as applicable, for each agency:
+16 (a) Revenue generated by and expenditures disbursed for each
+17 regulatory product.
+18 (b) Revenue generated, by regulatory product or regulated
+19 activity.
+20 (c) The renewal cycle and amount of each fee charged.
+21 (d) Number of initial applications.
+22 (e) Number of initial applications denied.
+23 (f) Number of license renewals.
+24 (g) Average amount of time to approve or deny completed
+25 applications.
+26 (h) Number of examinations proctored for initial applications.
+27 (i) A description of the types of complaints received.
+28 (j) A description of the process used to resolve complaints.
+29 (k) Number of complaints received.
+DAW S01529'25 (S-2) 6z0gv8
+19
+1 (l) Number of complaints investigated.
+2 (m) Number of complaints closed with no action.
+3 (n) Number of complaints resulting in administrative actions
+4 or citations.
+5 (o) Average amount of time to complete investigations.
+6 (p) Number of enforcement actions, including license
+7 revocations, suspensions, and fines.
+8 (q) A description of the types of enforcement actions taken
+9 against licensees.
+10 (r) Number of administrative hearing adjudications.
+11 (3) An agency listed in subsection (1)(a) or (b) shall report
+12 by regulated activity and an agency listed in subsection (1)(c) or
+13 (d) shall report by regulatory product or regulated activity, or
+14 both.
+15 (4) As used in this section:
+16 (a) "Regulated activity" means the particular activities,
+17 entities, facilities, and industries regulated by the agencies
+18 specified in subsection (1).
+19 (b) "Regulatory product" means each occupation, profession,
+20 trade, or program, which includes licensure, certification,
+21 registration, inspection, review, permitting, approval, or any
+22 other regulatory service provided by the agencies specified in
+23 subsection (1) for each regulated activity.
+24 Sec. 226. (1) For any grant program or project funded in part
+25 1 intended for a single recipient organization or unit of local
+26 government, the grant program or project is for a public purpose
+27 and the department shall follow procurement statutes of this state,
+28 including any bidding requirements, unless the department can fully
+29 validate, through information detailed in this part or public
+DAW S01529'25 (S-2) 6z0gv8
+20
+1 supporting documents, both of the following:
+2 (a) The specific organization or unit of local government that
+3 will receive or administer the funds.
+4 (b) How the funds will be administered and expended.
+5 (2) To be eligible to receive a grant described in subsection
+6 (1), both of the following must occur:
+7 (a) A recipient must submit the application under subsection
+8 (3) not later than 60 days after the effective date of this act.
+9 (b) A recipient must be 1 of the following:
+10 (i) A unit of local government, as that term is defined in
+11 section 115 of the management and budget act, 1984 PA 431, MCL
+12 18.1115.
+13 (ii) An institution of higher education.
+14 (iii) A state agency, as that term is defined in section 115 of
+15 the management and budget act, 1984 PA 431, MCL 18.1115.
+16 (iv) An entity registered with the department of licensing and
+17 regulatory affairs or the department of attorney general that has
+18 been in existence for at least the 12 months preceding the
+19 effective date of this act.
+20 (v) Another entity that can demonstrate, through state or
+21 federal tax filings or other state or federal government records,
+22 that it has been in existence for at least the 12 months preceding
+23 the effective date of this act.
+24 (3) Notwithstanding any other conditions or requirements for
+25 direct appropriation grants, the department shall work with the
+26 state budget office to perform at least all of the following
+27 activities to administer the grants described in subsection (1):
+28 (a) Develop a standard application process using the
+29 electronic submission portal developed by the state budget office,
+DAW S01529'25 (S-2) 6z0gv8
+21
+1 grantee reporting requirements, and any other necessary
+2 documentation, including sponsorship information as specified under
+3 subsection (4). If the electronic submission portal identified in
+4 this subdivision is not fully functional by 60 days after the
+5 effective date of this act, the state budget office shall ensure
+6 that the standard application process and form are available
+7 promptly and paper submission is acceptable. The state budget
+8 office shall promptly submit application material received to the
+9 department for departmental review.
+10 (b) Establish a process to review, complete, and execute a
+11 grant agreement with a grant recipient. The department shall not
+12 execute a grant agreement unless all necessary documentation has
+13 been submitted and reviewed.
+14 (c) Verify to the extent possible that a grant recipient will
+15 use funds for a public purpose that serves the economic prosperity,
+16 health, safety, or general welfare of the residents of this state.
+17 (d) Review and verify all necessary information to ensure the
+18 grant recipient is reasonably able to execute the grant agreement,
+19 perform its fiduciary duty, and comply with all applicable state
+20 and federal statutes. The department may deduct the cost of
+21 background checks and any other efforts performed as part of this
+22 verification from the amount of the designated grant award.
+23 (e) Establish a standard timeline to review all documents
+24 submitted by grant recipients and provide a response within 45
+25 business days stating whether submitted documents by a grant
+26 recipient are sufficient or in need of additional information. If
+27 additional information is needed, the 60-day deadline in subsection
+28 (2) is considered to have been met if a sponsor has been identified
+29 for that grant. If a grant recipient does not provide information
+DAW S01529'25 (S-2) 6z0gv8
+22
+1 sufficient to execute a grant agreement not later than 60 days
+2 after being notified by the department of grant approval, the
+3 department shall return funds associated with the grant to the
+4 state treasury.
+5 (f) Make an initial disbursement of up to 50% of the grant to
+6 the grant recipient not later than 60 days after a grant agreement
+7 has been executed. Disbursements must be consistent with part II,
+8 chapter 10, section 200 of the Financial Management Guide.
+9 (g) Disburse the funds remaining after the initial
+10 disbursement under subdivision (f) per the grant disbursement
+11 schedule in the executed grant agreement on a reimbursement basis
+12 after the grantee has provided sufficient documentation, as
+13 determined by the department, to verify that expenditures were made
+14 in accordance with the project purpose.
+15 (4) The identification and process for sponsorship of a grant
+16 described in subsection (1) are as follows:
+17 (a) Not later than the effective date of this act, the state
+18 budget office shall provide an initial list of grants that require
+19 legislative sponsorship to the legislature and shall make public an
+20 initial list of grants that likely will be sponsored by the
+21 department or by the state budget office.
+22 (b) A sponsor of a grant described in subsection (1) must be a
+23 legislator, the department, or the state budget office.
+24 (c) A legislative sponsor must be identified through a letter
+25 submitted by that legislator's office to the department and state
+26 budget director containing the name of the grant recipient, the
+27 intended amount of the grant, a certification from that legislator
+28 that the grant is for a public purpose, and specific citation of
+29 the section and subsection of the public act that authorizes the
+DAW S01529'25 (S-2) 6z0gv8
+23
+1 grant, as applicable.
+2 (d) Within 10 business days after the effective date of this
+3 act, the senate and house of representatives shall compile an
+4 initial list of legislative grant sponsors for their respective
+5 chambers and submit those compiled lists to the state budget office
+6 and the department, and the state budget office shall identify
+7 department- or state budget office-sponsored grants. The state
+8 budget director may grant an extension of this deadline of not more
+9 than 30 days on a case-by-case basis. The state budget office shall
+10 make the compiled lists public within 14 business days after the
+11 effective date of this act.
+12 (e) Not later than 60 days after the effective date of this
+13 act, the state budget office shall publish a final list of grants
+14 requiring sponsorship. If a legislative sponsor is not identified
+15 within 60 days after the effective date of this act, the department
+16 shall do 1 of the following:
+17 (i) Identify the department or the state budget office as the
+18 sponsor.
+19 (ii) Decline to execute the grant agreement and lapse the
+20 associated funds at the end of the fiscal year.
+21 (f) At any point during the fiscal year, legislative grant
+22 sponsors may be added to a grant request.
+23 (5) An executed grant agreement under this section between the
+24 department and a grant recipient must include at least all of the
+25 following:
+26 (a) All necessary identifying information for the grant
+27 recipient, including any tax and financial information for the
+28 department to administer funds under this section.
+29 (b) A description of the project for which the grant funds
+DAW S01529'25 (S-2) 6z0gv8
+24
+1 will be expended, including tentative timelines and the estimated
+2 budget. The department shall not reimburse expenditures that are
+3 outside of the project purpose, as stated in the executed grant
+4 agreement, from appropriations in part 1. The grantee shall return
+5 to the treasury any interest in excess of $1,000.00 earned on the
+6 grant funds while unexpended and in possession of the grantee.
+7 (c) Unless otherwise specified in department policy, a
+8 requirement that funds appropriated for the grants described in
+9 subsection (1) may be used only for expenditures that occur on or
+10 after the effective date of this act.
+11 (d) A requirement for reporting by the grant recipient to the
+12 department and the legislative sponsor that provides the status of
+13 the project and an accounting of all funds expended by the grant
+14 recipient, as determined by the department.
+15 (e) A claw-back provision that allows the department of
+16 treasury to recoup or otherwise collect any funds that are
+17 declined, unspent, or otherwise misused.
+18 (f) The signed legislative sponsorship letter required under
+19 subsection (4), incorporated into the grant agreement and included
+20 as an appendix or attachment.
+21 (g) If a grant recipient has provided information sufficient
+22 to execute a grant agreement, the state budget office shall
+23 promptly transmit that information to the department for the
+24 department's review of the grant application. If a grant recipient
+25 has provided information sufficient to execute a grant agreement
+26 within 60 days after the effective date of this act, but the grant
+27 application needs technical fixes or additional legislative action,
+28 as identified by the state budget office, the 60-day deadline in
+29 this subdivision is considered to have been met, if a sponsor has
+DAW S01529'25 (S-2) 6z0gv8
+25
+1 been identified for that grant. If a grant recipient does not
+2 provide information sufficient to execute a grant agreement not
+3 later than 60 days after being notified by the department of grant
+4 approval, the department shall return funds associated with the
+5 grant to the state treasury.
+6 (6) If appropriate to improve the administration or oversight
+7 of a grant described in subsection (1), the department may adopt a
+8 memorandum of understanding with another state department to
+9 perform the required duties under this section.
+10 (7) A grant recipient shall respond to all reasonable
+11 information requests from the department related to grant
+12 expenditures and retain grant records for not less than 7 years,
+13 and the grant may be subject to monitoring, site visits, and audits
+14 as determined by the department. The grant agreement required under
+15 this section must include signed assurance by the chief executive
+16 officer or other executive officer of the grant recipient that the
+17 requirements of this subsection will be met.
+18 (8) The grant recipient shall expend all funds awarded and
+19 complete all projects not later than September 30, 2030. If at that
+20 time any unexpended funds remain, the grant recipient shall return
+21 those funds to the state treasury.
+22 (9) Any funds that are granted to a state department are
+23 appropriated in that department for the purpose of the intended
+24 grant.
+25 (10) The state budget director may, on a case-by-case basis,
+26 extend the deadline in subsection (8) on request by a grant
+27 recipient if a sponsor has been identified for the grant. The state
+28 budget director shall notify the chairs of the senate and house of
+29 representatives appropriations committees not later than 5 days
+DAW S01529'25 (S-2) 6z0gv8
+26
+1 after an extension is granted.
+2 (11) By March 1, the state budget office shall post a report
+3 in a publicly accessible location on its website. The report must
+4 list the grant recipient, project purpose, and location of the
+5 project for each grant described in subsection (1), the status of
+6 funds allocated and disbursed under the grant agreement, and the
+7 legislative sponsor, if applicable. After March 1, the state budget
+8 office shall update the report monthly and shall post the updated
+9 report each month. The state budget office shall include in the
+10 report the most comprehensive information the office has available
+11 at the time of posting for grants awarded. The state budget office
+12 may compile the information required in this report across all
+13 departments. The department shall assist the state budget office
+14 with the compilation of the report required under this subsection.
+15 (12) On request, beginning 75 days after the effective date of
+16 this act, the state budget office shall release information
+17 received for grant applications.
+18 (13) As applicable, the legislative sponsor of a grant
+19 described in subsection (1) shall not sponsor a grant, or ask
+20 another legislator to sponsor a grant, if there is a conflict of
+21 interest related to the grant recipient.
+22 (14) If the department reasonably determines that the funds
+23 allocated for an executed grant agreement under this section were
+24 misused or that use of the funds was misrepresented by the grant
+25 recipient, the department shall not award any additional funds
+26 under the executed grant agreement and shall refer the grant for
+27 review following internal audit protocols.
+28 Sec. 227. A department or agency required to submit a report
+29 under this part shall make each report readily accessible to the
+DAW S01529'25 (S-2) 6z0gv8
+27
+1 public and conspicuously post each required report on the
+2 department's or agency's Michigan.gov website not later than the
+3 due date required for each report. In addition to placing all
+4 reports required in the current fiscal year on the department or
+5 agency's website, the department or agency shall maintain on its
+6 website all reports placed on the website from previous fiscal
+7 years.
+8 Sec. 228. The state budget director shall take steps to ensure
+9 that all state fiscal recovery funds allocated to this state under
+10 the American rescue plan act of 2021, Public Law 117-2, are
+11 expended by December 31, 2026, as required by law. A department or
+12 agency receiving an appropriation under this part or part 1 must
+13 notify the standard report recipients if an appropriation of funds
+14 described under this section is projected to lapse.
+15 Sec. 229. (1) Within 10 days after the effective date of this
+16 act, the department must provide a report to the standard report
+17 recipients containing the following information:
+18 (a) A list of any sections in this act that the department
+19 determines to be unenforceable, with a detailed legal rationale for
+20 those determinations, as applicable.
+21 (b) If a determination under subdivision (a) would affect the
+22 operations of a program or programs within the department, the
+23 department must report the estimated difference in cost between the
+24 policy outlined in the section determined to be unenforceable and
+25 the policy the department intends to pursue.
+26 (2) The department may coordinate with the executive office of
+27 the governor or other state departments or agencies to compile a
+28 statewide report for any departments or agencies required to submit
+29 a report substantially similar to the report described under
+DAW S01529'25 (S-2) 6z0gv8
+28
+1 subsection (1).
+2 Sec. 230. The department must provide a quarterly report to
+3 the standard report recipients detailing federal policy changes
+4 that do, or are expected to do, any of the following:
+5 (a) Affect the operations of the department.
+6 (b) Affect an industry, community, population, or other group
+7 regulated or served by, or that otherwise engages with, the
+8 department.
+9 (c) Affect regulations that currently protect the public to
+10 the extent that the regulations affect an industry, community,
+11 population, or other group regulated or served by, or that
+12 otherwise engages with, the department.
+13 (d) Create a regulatory gap that could negatively impact the
+14 public.
+15 Sec. 250. (1) The department may charge registration fees to
+16 attendees of informational, training, or special events that are
+17 sponsored by the department and related to activities under the
+18 department's purview.
+19 (2) The registration fees must reflect the costs for the
+20 department to sponsor the informational, training, or special
+21 events.
+22 (3) Revenue generated by the registration fees is appropriated
+23 on receipt and may be expended by the department to cover the
+24 department's costs of sponsoring informational, training, or
+25 special events.
+26 (4) Revenue generated by registration fees in excess of the
+27 department's costs of sponsoring informational, training, or
+28 special events carries forward to the subsequent fiscal year and
+29 does not lapse to the general fund.
+DAW S01529'25 (S-2) 6z0gv8
+29
+1 (5) The amount appropriated under subsection (3) must not
+2 exceed $1,000,000.00.
+3 Sec. 251. The department may provide to interested entities
+4 otherwise unavailable customized listings of nonconfidential
+5 information, such as the names and addresses of licensees, in the
+6 department's possession. The department may establish and collect a
+7 reasonable fee to provide this service. Revenue generated from this
+8 service is appropriated on receipt and must be used to offset the
+9 expenses of the service. Any balance of this revenue collected and
+10 unexpended at the end of the fiscal year lapses to the appropriate
+11 restricted fund.
+12 Sec. 252. (1) The department shall sell documents at a price
+13 not to exceed the cost of production and distribution. Money
+14 received from the sale of these documents reverts to the
+15 department. In addition to the funds appropriated in part 1, funds
+16 received by the department under this subsection may be expended by
+17 the department upon receipt by the department of treasury. This
+18 subsection applies for only the following:
+19 (a) Corporation and securities division documents, reports,
+20 and papers required or permitted by law in accordance with section
+21 1060(6) of the business corporation act, 1972 PA 284, MCL 450.2060.
+22 (b) The Michigan liquor control code of 1998, 1998 PA 58, MCL
+23 436.1101 to 436.2303.
+24 (c) The mobile home commission act, 1987 PA 96, MCL 125.2301
+25 to 125.2350; the business corporation act, 1972 PA 284, MCL
+26 450.1101 to 450.2098; the nonprofit corporation act, 1982 PA 162,
+27 MCL 450.2101 to 450.3192; and the uniform securities act (2002),
+28 2008 PA 551, MCL 451.2101 to 451.2703.
+29 (d) Construction code manuals.
+DAW S01529'25 (S-2) 6z0gv8
+30
+1 (e) Copies of transcripts from administrative law hearings.
+2 (2) In addition to the funds appropriated in part 1, funds
+3 appropriated for the department under sections 57, 58, and 59 of
+4 the administrative procedures act of 1969, 1969 PA 306, MCL 24.257,
+5 24.258, and 24.259, and section 203 of the legislative council act,
+6 1986 PA 268, MCL 4.1203, are appropriated for all expenses
+7 necessary to provide for the cost of publication and distribution.
+8 (3) Unexpended funds at the end of the fiscal year carry
+9 forward to the subsequent fiscal year and do not lapse to the
+10 general fund.
+11 Sec. 253. Not later than March 30, the regulatory
+12 effectiveness office shall submit a report to the standard report
+13 recipients that includes the following information:
+14 (a) Legislative recommendations for actions to take to improve
+15 the effectiveness of licensing and regulation, including ideas that
+16 make the licensing environment accessible to more consumers while
+17 maintaining consumer protection.
+18 (b) A plan from the department detailing actions needed to
+19 improve licensing and regulatory effectiveness for consumers and
+20 departmental actions, as well as detailed actions they have already
+21 taken.
+22 (c) The number of new licenses issued by category and number
+23 of those who applied in those categories.
+24 (d) The average turnaround time, in days, for licenses
+25 approved by category.
+26 Sec. 254. (1) Grants supported with private revenues received
+27 by the department are appropriated on receipt and may be expended
+28 by the department for the purposes specified within the grant
+29 agreement and as permitted under state and federal law.
+DAW S01529'25 (S-2) 6z0gv8
+31
+1 (2) Not later than 10 days after the receipt of a private
+2 grant appropriated in subsection (1), the department shall notify
+3 the chairpersons of the subcommittees, the senate and house fiscal
+4 agencies, and the state budget office of the receipt of the grant,
+5 including the fund source, purpose, and amount of the grant.
+6 (3) The amount appropriated under subsection (1) must not
+7 exceed $4,000,000.00.
+8 Sec. 255. Unless prohibited by law, the department may accept
+9 credit card or other electronic means of payment for licenses,
+10 fees, or permits.
+11 Sec. 256. The department may carry into the succeeding fiscal
+12 year unexpended federal pass-through funds to local institutions
+13 and governments that do not require additional state matching
+14 funds. Federal pass-through funds to local institutions and
+15 governments that are received in amounts in addition to those
+16 included in part 1 and that do not require additional state
+17 matching funds are appropriated for the purposes intended for the
+18 federal pass-through funds. Not later than 14 days after the
+19 receipt of federal pass-through funds, the department shall notify
+20 the chairpersons of the subcommittees, the senate and house fiscal
+21 agencies, and the state budget office of pass-through funds
+22 appropriated under this section.
+23
+24 PUBLIC SERVICE COMMISSION
+25 Sec. 301. (1) The public service commission administers the
+26 low-income energy assistance grant program on behalf of the
+27 Michigan department of health and human services via an interagency
+28 agreement. Funds supporting the grant program are appropriated to
+29 the department upon the awarding of grants and may be expended for
+DAW S01529'25 (S-2) 6z0gv8
+32
+1 grant payments and administrative-related expenses incurred in the
+2 operation of the grant program.
+3 (2) No later than March 30, the public service commission
+4 shall submit a report to the standard report recipients based on
+5 the grants administered, including:
+6 (a) Median annual household income for recipients of the
+7 grant.
+8 (b) Number of grants administered in each county of this
+9 state.
+10 Sec. 302. (1) From the funds appropriated in part 1, the
+11 Michigan public service commission shall conduct at least 1 public
+12 hearing in the Upper Peninsula, 1 public hearing in the northwest
+13 part of the Lower Peninsula, 1 public hearing in the northeast part
+14 of the Lower Peninsula, 1 public hearing in the southeast part of
+15 the Lower Peninsula, and 1 public hearing in the southwest part of
+16 the Lower Peninsula.
+17 (2) Not later than September 30, the Michigan public service
+18 commission shall submit a report to the standard report recipients
+19 that details the outcomes of the public hearings required under
+20 this section and summarizes the public comments that were received
+21 during the public hearings.
+22 Sec. 303. (1) From the funds appropriated in part 1 for the
+23 Michigan public service commission, the department shall designate
+24 1 FTE to assist consumers with utility issues, utility disruption,
+25 or outages.
+26 (2) Not later than September 30, the Michigan public service
+27 commission shall submit a report to the standard report recipients
+28 that details the energy utility rates, including the following
+29 information:
+DAW S01529'25 (S-2) 6z0gv8
+33
+1 (a) The average utility cost for residential, commercial, and
+2 industrial consumers in each county by type of utility.
+3 (b) The average utility rates for residential, commercial, and
+4 industrial consumers by utility type in the state.
+5 (c) The most and least expensive utility cost in this state by
+6 type.
+7 (d) The number of utility companies that asked for a rate
+8 increase by company name and whether the rate was approved or not.
+9 (e) The number of utility consumers assisted by the department
+10 for utility disruption, outages, and other utility issues.
+11 (f) The number of complaints received per month in the
+12 previous year.
+13 (g) The commission's plan for statewide affordability using
+14 the data collected in this subsection.
+15 Sec. 304. From the funds appropriated in part 1 for Michigan
+16 Saves, the Michigan public service commission may award a
+17 $3,500,000.00 grant to a nonprofit green bank with experience in
+18 leveraging energy-efficiency and renewable energy improvements, for
+19 the purpose of making such loans more affordable for Michigan
+20 families, businesses, and public entities. Grant funds may be used
+21 to support a loan loss reserve fund or other comparable financial
+22 instrument to further leverage private investment in clean energy
+23 improvements.
+24
+25 LIQUOR CONTROL COMMISSION
+26 Sec. 401. (1) From the funds appropriated in part 1 from the
+27 direct shipper enforcement revolving fund, the liquor control
+28 commission shall expend the funds as required under section 203(11)
+29 of the Michigan liquor control code of 1998, 1998 PA 58, MCL
+DAW S01529'25 (S-2) 6z0gv8
+34
+1 436.1203, to investigate and audit unlawful direct shipments of
+2 wine by unlicensed wineries and retailers, with priority directed
+3 toward unlicensed out-of-state retailers and third-party marketers.
+4 In addition to other investigative methods, the commission shall
+5 use shipping records available to the commission under section
+6 203(21) of the Michigan liquor control code of 1998, 1998 PA 58,
+7 MCL 436.1203, to assist with the effort to investigate and audit
+8 unlawful direct shipments of wine by unlicensed wineries and
+9 retailers. The liquor control commission shall refer all identified
+10 unlicensed out-of-state retailers and third-party marketers to the
+11 attorney general.
+12 (2) Not later than February 1, the liquor control commission
+13 shall provide a report to the legislature and the standard report
+14 recipients that details the commission's activities to investigate
+15 and audit the illegal shipping of wine and the results of the
+16 activities. The report must include all of the following:
+17 (a) Work hours spent, specific actions performed, and the
+18 number of full-time equated positions dedicated to identifying and
+19 stopping unlicensed out-of-state retailers, third-party marketers,
+20 and wineries that ship illegally in Michigan.
+21 (b) General overview of expenditures associated with efforts
+22 to identify and stop unlicensed out-of-state retailers, third-party
+23 marketers, and wineries that ship illegally in this state.
+24 (c) Number of out-of-state entities found to have illegally
+25 shipped wine into this state and total number of 750 ml bottles,
+26 number of cases with 750 ml bottles, number of liters, number of
+27 gallons, or weight of illegally shipped wine. These items must be
+28 itemized by total number of retailers and total number of wineries.
+29 (d) Suggested areas of focus on how to address direct shipper
+DAW S01529'25 (S-2) 6z0gv8
+35
+1 enforcement and illegal importation in the future.
+2 (e) Number of unlicensed out-of-state entities found to have
+3 illegally shipped wine into this state that were identified with
+4 the shipping records described in subsection (1).
+5 (f) Number of notices sent under subsection (3).
+6 (3) From the funds appropriated in part 1 from the direct
+7 shipper enforcement revolving fund, the liquor control commission
+8 shall send a notice to each unlicensed out-of-state entity found to
+9 have illegally shipped wine into this state. The notice must
+10 include all of the following statements:
+11 (a) That shipping wine into this state by unlicensed out-of-
+12 state retailers and third-party marketers is illegal, and wineries
+13 shipping into this state must obtain a direct shipper license.
+14 (b) That under section 909 of the Michigan liquor control code
+15 of 1998, 1998 PA 58, MCL 436.1909, making unlawful shipments of
+16 wine into this state may be a felony punishable by imprisonment for
+17 not more than 4 years or a fine of not more than $5,000.00, or
+18 both.
+19 (c) That the matter has been referred to the attorney general.
+20
+21 OCCUPATIONAL REGULATION
+22 Sec. 501. The department shall not expend the funds
+23 appropriated under this part and part 1 for the bureau of fire
+24 services unless, in accordance with section 2c of the fire
+25 prevention code, 1941 PA 207, MCL 29.2c, inspection and plan review
+26 fees are charged according to the following fee schedule:
+27 Operation and maintenance inspection fee
+28 Facility type Facility size Fee
+29 Hospitals Any $8.00 per bed
+DAW S01529'25 (S-2) 6z0gv8
+36
+1 Facility type Facility size Fee
+2 Nursing Homes Any $5.00 per bed
+3 Facility type Facility size Fee
+4 Homes for the $5.00 per bed
+5 Aged
+6 Facility type Facility size Fee
+7 Adult Foster Care Greater than 6 $5.00 per bed
+8 residents
+9 Plan review and construction inspection fees for
+10 hospitals and schools
+11 Project cost range Fee
+12 $101,000.00 or less minimum fee of $155.00
+13 $101,001.00 to $1,500,000.00 $1.60 per $1,000.00
+14 $1,500,001.00 to $10,000,000.00 $1.30 per $1,000.00
+15 $10,000,001.00 or more $1.10 per $1,000.00
+16 or a maximum fee of $60,000.00.
+17 Sec. 502. The funds collected by the department for licenses,
+18 permits, and other elevator regulation fees under the Michigan
+19 Administrative Code and as determined under section 8 of 1976 PA
+20 333, MCL 338.2158, and section 16 of 1967 PA 227, MCL 408.816, that
+21 are unexpended at the end of the fiscal year carry forward to the
+22 subsequent fiscal year.
+23 Sec. 503. Not later than February 15, the department shall
+24 submit a report to the standard report recipients that provides all
+25 of the following information:
+26 (a) The number of veterans who were separated from service in
+27 the Armed Forces of the United States with an honorable character
+28 of service or under honorable conditions (general) character of
+29 service, individually or if the veteran holds a majority interest
+DAW S01529'25 (S-2) 6z0gv8
+37
+1 of a corporation or limited liability company, that were exempted
+2 from paying licensure, registration, filing, or any other fees
+3 collected under each licensure or regulatory program administered
+4 by the bureau of construction codes, the bureau of professional
+5 licensing, and the corporations, securities, and commercial
+6 licensing bureau during the previous fiscal year.
+7 (b) The specific fees and total amount of revenue exempted
+8 under each licensure or regulatory program administered by the
+9 bureau of construction codes, the bureau of professional licensing,
+10 and the corporations, securities, and commercial licensing bureau
+11 during the previous fiscal year.
+12 (c) The actual costs of providing licensing and other
+13 regulatory services to veterans exempted from paying licensure,
+14 registration, filing, or any other fees during the previous fiscal
+15 year and a description of how the actual costs were calculated.
+16 (d) The estimated amount of revenue that will be exempted
+17 under each licensure or regulatory program administered by the
+18 bureau of construction codes, the bureau of professional licensing,
+19 and the corporations, securities, and commercial licensing bureau
+20 in both the current and subsequent fiscal years and a description
+21 of how the exempted revenue was estimated.
+22 Sec. 504. Revenue collected by the department for the bureau
+23 of community and health systems from fees and collections that
+24 exceeds the amount appropriated in part 1 must be carried forward
+25 into the subsequent fiscal year. The revenue carried forward under
+26 this section must be used as the first source of funds in the
+27 subsequent fiscal year.
+28 Sec. 505. (1) To defray the costs associated with responding
+29 to false final inspection appointments and to discourage the
+DAW S01529'25 (S-2) 6z0gv8
+38
+1 practice of calling for final inspections when a project is
+2 incomplete or noncompliant with a plan of correction previously
+3 provided by the bureau of fire services, the bureau of fire
+4 services may assess a fee of not more than $800.00 for responding
+5 to a second or subsequent confirmed false inspection appointment.
+6 Fees collected under this section must be deposited into the
+7 restricted account described in section 2c of the fire prevention
+8 code, 1941 PA 207, MCL 29.2c, and explicitly identified within the
+9 statewide integrated governmental management applications system.
+10 (2) Not later than September 30, the department shall submit a
+11 report to the standard report recipients that provides all of the
+12 following:
+13 (a) The amount of the fee assessed under subsection (1).
+14 (b) The number of fees assessed and issued per region.
+15 (c) The cost allocation for the work performed and reduced as
+16 a result of this section.
+17 (d) Any recommendations for consideration by the legislature.
+18 Sec. 506. Not later than November 30, the department shall
+19 submit a report to the standard report recipients on the Michigan
+20 automated prescription system. The report must include, but is not
+21 limited to, all of the following:
+22 (a) The total number of licensed health professionals
+23 registered to the Michigan automated prescription system.
+24 (b) The total number of dispensers registered to the Michigan
+25 automated prescription system.
+26 (c) The total number of prescribers using the Michigan
+27 automated prescription system.
+28 (d) The total number of dispensers using the Michigan
+29 automated prescription system.
+DAW S01529'25 (S-2) 6z0gv8
+39
+1 (e) The total number of cases related to overprescribing,
+2 overdispensing, and drug diversion where the department took
+3 administrative action because of information and data generated
+4 from the Michigan automated prescription system.
+5 (f) The total number of hospitals, doctor's offices,
+6 pharmacies, and other health facilities that have integrated the
+7 Michigan automated prescription system into the facility's
+8 electronic health records systems.
+9 (g) The total number of delegate users registered to the
+10 Michigan automated prescription system.
+11 (h) The department's recommendations for electronic health
+12 integration and optimizing data interpretation for the purpose of
+13 advancing utilization practices and ease of consumer use and
+14 interpretation.
+15 Sec. 507. (1) From the funds appropriated in part 1 for bureau
+16 of construction codes, not less than $900,000.00 must be allocated
+17 for additional inspections and enforcement activities related to
+18 the carnival-amusement safety act of 1966, 1966 PA 225, MCL 408.651
+19 to 408.670, and the ski area safety act of 1962, 1962 PA 199, MCL
+20 408.321 to 408.344.
+21 (2) Not later than March 30, the department shall submit a
+22 report to the standard report recipients that details the
+23 allocation of funds under this section. The report must include an
+24 itemized listing of how the funds were used.
+25 Sec. 508. (1) Funds remaining in the homeowner construction
+26 lien recovery fund are appropriated to the department for payment
+27 of court-ordered homeowner construction lien recovery fund
+28 judgments entered before August 23, 2010. Subject to available
+29 funds, the payment of final judgments must be made in the order in
+DAW S01529'25 (S-2) 6z0gv8
+40
+1 which the final judgments were entered and began accruing interest.
+2 (2) No later than September 30, the department shall transmit
+3 a report to the standard report recipients that details the
+4 following:
+5 (a) Expenditures from the fund.
+6 (b) Revenue balance of the fund.
+7 (c) Revenue sources for the fund.
+8 (d) Where the expenditures are going.
+9 Sec. 509. From the funds appropriated in part 1 for the bureau
+10 of fire services, in accordance with the requirements under section
+11 21c of the fire prevention code, 1941 PA 207, MCL 29.21c, the
+12 bureau shall perform or work in cooperation with local units of
+13 government to perform inspections at places of public assembly that
+14 pose the highest risk to occupants for injury or fatality based on
+15 the size, density, or the nature of activities performed within the
+16 facility.
+17 Sec. 510. From the funds appropriated in part 1 for bureau of
+18 survey and certification, the department shall submit a report
+19 pertaining to bureau activities, including surveys and
+20 investigations of nursing homes, hospitals, and acute continuing
+21 care providers to the standard report recipients not later than
+22 March 30.
+23 Sec. 511. From the funds appropriated in part 1, the bureau of
+24 construction codes shall submit biannual reports not later than
+25 April 1 and September 30 to the standard report recipients that
+26 include all of the following information:
+27 (a) A description of the specific changes that the bureau
+28 implemented to decrease the average length of time to process
+29 premanufactured unit plan submissions.
+DAW S01529'25 (S-2) 6z0gv8
+41
+1 (b) The average length of time to process a premanufactured
+2 unit plan submission in fiscal year 2023-2024.
+3 (c) The average length of time to process a premanufactured
+4 unit plan submission in fiscal year 2024-2025.
+5 (d) The total number of premanufactured unit plans submitted
+6 in fiscal year 2023-2024.
+7 (e) The total number of premanufactured unit plans submitted
+8 in fiscal year 2024-2025.
+9 (f) The total number of premanufactured unit plans submitted
+10 in fiscal year 2025-2026.
+11 Sec. 512. (1) From the funds appropriated in part 1 for the
+12 bureau of construction codes, not less than $500,000.00 must be
+13 allocated to create a database of mobile home park or seasonal
+14 mobile home park owners that includes every owner's contact
+15 information, license number, and current licensing status and any
+16 violations they have. The department must establish a method in
+17 which the public can submit a reporting form regarding potentially
+18 unlicensed owners. This database must be established by March 30.
+19 (2) At least 1.0 FTE must be allocated to assist with mobile
+20 home park resident complaints and issues. No later than September
+21 30, the department must transmit to the standard boilerplate
+22 recipients a report that includes the number of complaints received
+23 and the number of complaints resolved.
+24
+25 CANNABIS REGULATORY AGENCY
+26 Sec. 601. Not later than January 31, the department shall
+27 submit a comprehensive report to the standard report recipients for
+28 all marihuana programs administered by the cannabis regulatory
+29 agency. This report must include, but is not limited to, all of the
+DAW S01529'25 (S-2) 6z0gv8
+42
+1 following information for the previous fiscal year regarding the
+2 marihuana programs under the Michigan Medical Marihuana Act, 2008
+3 IL 1, MCL 333.26421 to 333.26430, the medical marihuana facilities
+4 licensing act, 2016 PA 281, MCL 333.27101 to 333.27801, and the
+5 Michigan Regulation and Taxation of Marihuana Act, 2018 IL 1, MCL
+6 333.27951 to 333.27967:
+7 (a) The number of initial applications received, by license
+8 category.
+9 (b) The number of initial applications approved and the number
+10 of initial applications denied, by license category.
+11 (c) The average amount of time, from receipt to approval or
+12 denial, to process an initial application, by license category.
+13 (d) The number of renewal applications approved, by license
+14 category and by county.
+15 (e) The number of renewal applications received, by license
+16 category and by county, if applicable.
+17 (f) The number of renewal applications denied, by license
+18 category and by county.
+19 (g) The average amount of time, from receipt to approval or
+20 denial, to process a renewal application, by license category, if
+21 applicable.
+22 (h) The percentage of initial applications not approved or
+23 denied within the time requirements established in the respective
+24 act, by license category, if applicable.
+25 (i) The percentage of renewal applications not approved or
+26 denied within the time requirements established in the respective
+27 act, by license category, if applicable.
+28 (j) The total amount collected from application fees or
+29 established regulatory assessment and the specific fund the amount
+DAW S01529'25 (S-2) 6z0gv8
+43
+1 is deposited into, by license category.
+2 (k) The registered names and addresses of all facilities
+3 licensed under each act, by license category and by county.
+4 (l) The number of complaints received pertaining to each act,
+5 by license type or regulatory activity.
+6 (m) A description of the types of complaints received.
+7 (n) A description of the process used to resolve complaints.
+8 (o) The number of investigations opened pertaining to each
+9 license category.
+10 (p) The number of investigations closed pertaining to each
+11 license category.
+12 (q) The average amount of time to complete investigations
+13 pertaining to each license category.
+14 (r) The number of enforcement actions pertaining to each
+15 license category.
+16 (s) A description of the types of enforcement actions taken
+17 against licensees.
+18 (t) The number of administrative-hearing adjudications
+19 pertaining to each license type.
+20 (u) A list of the fees charged for license applications,
+21 license renewals, and registry cards.
+22 (v) The number of license holders with multiple types of
+23 marihuana licenses, a list of the names of the licensees, and the
+24 status of each of the licenses.
+25 Sec. 602. From the funds appropriated in part 1, the cannabis
+26 regulatory agency shall post on a publicly accessible website a
+27 list of all of the following:
+28 (a) The number of investigative reports that identify
+29 violations of the Michigan Medical Marihuana Act, 2008 IL 1, MCL
+DAW S01529'25 (S-2) 6z0gv8
+44
+1 333.26421 to 333.26430, the medical marihuana facilities licensing
+2 act, 2016 PA 281, MCL 333.27101 to 333.27801, or the Michigan
+3 Regulation and Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951
+4 to 333.27967, or violations of administrative rules promulgated
+5 under the Michigan Medical Marihuana Act, 2008 IL 1, MCL 333.26421
+6 to 333.26430, the medical marihuana facilities licensing act, 2016
+7 PA 281, MCL 333.27101 to 333.27801, or the Michigan Regulation and
+8 Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951 to 333.27967.
+9 (b) The number of investigative reports that identify
+10 suspected marihuana product that does not have the tracking numbers
+11 assigned by the statewide monitoring system affixed, tagged, or
+12 labeled as required by law.
+13 (c) The number of complaints filed by the public with the
+14 agency that concern either of the following:
+15 (i) Marihuana product that does not have the tracking numbers
+16 assigned by the statewide monitoring system affixed, tagged, or
+17 labeled as required by law.
+18 (ii) Unlicensed commercial production or sale of delta-8 THC.
+19 (d) The number and outcome of all agency disciplinary
+20 proceedings initiated against any licensee subject to the reports
+21 or complaints in subdivisions (a), (b), and (c).
+22 (e) The number of reports the agency referred to the
+23 department of state police or other appropriate law enforcement
+24 agency.
+25 (f) For any licensee subject to disciplinary proceedings
+26 initiated by the agency:
+27 (i) Name of the licensee.
+28 (ii) Description of the allegation.
+29 (iii) Complaint type.
+DAW S01529'25 (S-2) 6z0gv8
+45
+1 (iv) Process used to resolve the allegation.
+2 (v) Name of the law enforcement agency the allegation was
+3 referred to, including the date of the referral.
+4 (vi) Current license status and whether or not the license was
+5 revoked.
+6 (g) The number of licenses revoked.
+7 Sec. 603. (1) Not later than January 31, the department shall
+8 submit a comprehensive report to the standard report recipients for
+9 all hemp programs administered by the cannabis regulatory agency.
+10 The report must include, but is not limited to, all of the
+11 following:
+12 (a) The total amount of fees collected by the cannabis
+13 regulatory agency from regulatory and licensing activities related
+14 to hemp and hemp processor-handlers.
+15 (b) The total cost of administering hemp regulatory and
+16 licensing programs.
+17 (c) The total number of hemp processor-handlers and any other
+18 hemp licensees licensed in this state, by county.
+19 (d) A list and description of any fees that the cannabis
+20 regulatory agency assesses on hemp licensees.
+21 (2) Not later than January 31, the department shall submit a
+22 comprehensive report to the standard report recipients for all hemp
+23 programs administered by the cannabis regulatory agency. The report
+24 must include, but is not limited to, all of the following:
+25 (a) The total amount of fees collected by the cannabis
+26 regulatory agency from regulatory and licensing activities related
+27 to hemp and hemp processor-handlers.
+28 (b) The total cost of administering hemp regulatory and
+29 licensing programs.
+DAW S01529'25 (S-2) 6z0gv8
+46
+1 (c) The total number of hemp processor-handlers and any other
+2 hemp licensees licensed in this state, by county.
+3 (d) A list and description of any fees that the cannabis
+4 regulatory agency assesses on hemp licensees.
+5 (e) The number of inspections conducted per year and the
+6 result of each inspection.
+7 (f) The number of hemp license applications and hemp license
+8 approvals per year.
+9 (g) The number of times the agency is contacted to destroy
+10 hemp.
+11
+12 COMMISSIONS
+13 Sec. 801. If Byrne formula grant funding is awarded to the
+14 Michigan indigent defense commission created under section 5 of the
+15 Michigan indigent defense commission act, 2013 PA 93, MCL 780.985,
+16 the Michigan indigent defense commission may receive and expend
+17 Byrne formula grant funds as an interdepartmental grant from the
+18 department of state police. The Michigan indigent defense
+19 commission may receive and expend federal grant funds from the
+20 United States Department of Justice.
+21 Sec. 802. From the funds appropriated in part 1, not later
+22 than March 1, the Michigan indigent defense commission shall submit
+23 a report to the standard report recipients on all of the following
+24 information:
+25 (a) The incremental costs associated with the standard
+26 development process, the compliance plan process, and the
+27 collection of data from all indigent defense systems and attorneys
+28 providing indigent defense. The Michigan indigent defense
+29 commission shall place particular emphasis on the costs that may be
+DAW S01529'25 (S-2) 6z0gv8
+47
+1 avoided after standards are developed and compliance plans are in
+2 place.
+3 (b) A detailed explanation of the total cost calculation for
+4 each indigent defense standard and juvenile indigent defense
+5 standard for which grant recipients are receiving state grant
+6 funding. This explanation must include a comprehensive itemization
+7 of the types of costs included for each standard.
+8 (c) An itemized listing of how much funding each grant
+9 recipient is receiving for each indigent defense standard and
+10 juvenile indigent defense standard.
+11 (d) An explanation of the specific causal factors associated
+12 with any increase or decrease of Michigan indigent defense
+13 commission grant funding from the fiscal year 2023-2024 level.
+14 Sec. 803. From the funds appropriated in part 1 for Michigan
+15 indigent defense commission grants, the Michigan indigent defense
+16 commission shall begin the statutory process of developing and
+17 implementing minimum standards for youth defense services. This
+18 process includes the planning and determining needs under the
+19 Michigan indigent defense commission act, 2013 PA 93, MCL 780.981
+20 to 780.1003.
+21 Sec. 804. From the funds appropriated in part 1, the Michigan
+22 indigent defense commission shall notify the standard report
+23 recipients not more than 60 days after the adoption of any new
+24 indigent defense standard. The notification must include an
+25 estimated cost projection to fund the adopted indigent defense
+26 standard for the initial and subsequent fiscal years.
+27
+28 GRANTS
+29 Sec. 901. (1) From the funds appropriated in part 1 for
+DAW S01529'25 (S-2) 6z0gv8
+48
+1 marihuana operation and oversight grants, the department shall
+2 expend the funds for grants to counties for education and outreach
+3 programs that relate to the Michigan medical marihuana program and
+4 the adult-use marihuana program, in accordance with section 6(l) of
+5 the Michigan Medical Marihuana Act, 2008 IL 1, MCL 333.26426, and
+6 section 14 of the Michigan Regulation and Taxation of Marihuana
+7 Act, 2018 IL 1, MCL 333.27964. The grant funds may be generated
+8 from application and license fees authorized under section 8(1)(b)
+9 of the Michigan Regulation and Taxation of Marihuana Act, 2018 IL
+10 1, MCL 333.27958. The grants must be distributed proportionately
+11 based on the number of registry identification cards issued to or
+12 renewed for the residents of each county that applied for a grant
+13 under subsection (2). For the purposes of this subsection,
+14 operation and oversight grants are for education, communication,
+15 and outreach regarding the Michigan Medical Marihuana Act, 2008 IL
+16 1, MCL 333.26421 to 333.26430, and the Michigan Regulation and
+17 Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951 to 333.27967.
+18 Grants provided under this section must not be used for law
+19 enforcement purposes.
+20 (2) Not later than December 1, the department shall post a
+21 listing of potential grant funds available to each county on the
+22 department's website. In addition, the department shall work
+23 collaboratively with counties regarding the availability of the
+24 grant funds. A county that requests grant funds shall apply on a
+25 form developed by the department and available on the department's
+26 website. The form must contain the county's specific projected plan
+27 for use of the grant funds and its agreement to maintain all
+28 records and to submit documentation to the department to support
+29 the use of the grant funds.
+DAW S01529'25 (S-2) 6z0gv8
+49
+1 (3) To be eligible to receive a grant under subsection (1), a
+2 county shall apply not later than January 1 and submit a report to
+3 the department not later than September 15 on how the grant was
+4 expended. The department shall submit a report to the standard
+5 report recipients not later than October 15 of the subsequent
+6 fiscal year that details the grant amounts by recipient and the
+7 reported uses of the grants in the previous fiscal year and details
+8 the calculation for the amount for which each county was eligible.
+9 Sec. 902. (1) The funds appropriated in part 1 for firefighter
+10 training grants must be expended only for payments to counties to
+11 reimburse organized fire departments for firefighter training and
+12 other activities required under the firefighters training council
+13 act, 1966 PA 291, MCL 29.361 to 29.377.
+14 (2) If the funds appropriated in part 1 for firefighter
+15 training grants are expended by the firefighters training council
+16 created under section 3 of the firefighters training council act,
+17 1966 PA 291, MCL 29.363, for payments to counties under section 14
+18 of the firefighters training council act, 1966 PA 291, MCL 29.374,
+19 all of the following apply to the extent otherwise permissible by
+20 law:
+21 (a) The funds appropriated in part 1 for firefighter training
+22 grants must be allocated in accordance with section 14(2) of the
+23 firefighters training council act, 1966 PA 291, MCL 29.374.
+24 (b) If the funds allocated to any county under subdivision (a)
+25 are less than $5,000.00, the funds allocated to each county under
+26 subdivision (a) must be adjusted to provide for a minimum payment
+27 of $5,000.00 to each county.
+28 (3) Not later than February 1, the department shall submit a
+29 financial report to the standard report recipients that identifies
+DAW S01529'25 (S-2) 6z0gv8
+50
+1 all of the following information for the previous fiscal year:
+2 (a) The amount of the payments that would be made to each
+3 county if the distribution formula described in section 14(2) of
+4 the firefighters training council act, 1966 PA 291, MCL 29.374,
+5 would have been utilized to allocate the total amount appropriated
+6 in part 1 for firefighter training grants.
+7 (b) The amount of the payments approved by the firefighters
+8 training council for allocation to each county.
+9 (c) The amount of the payments actually expended or encumbered
+10 within each county.
+11 (d) A description of any other payments or expenditures made
+12 under the authority of the firefighters training council.
+13 (e) The amount of payments approved for allocations to
+14 counties that was not expended or encumbered and lapsed back to the
+15 fireworks safety fund.
+16
+17 ONE-TIME APPROPRIATIONS
+18 Sec. 1001. (1) From the funds appropriated in part 1 for
+19 bureau of fire services – smoke detectors, the bureau of fire
+20 services shall purchase and distribute sealed-battery smoke
+21 detectors to the residents of this state. The bureau of fire
+22 services may purchase smoke detectors with additional capabilities
+23 for individuals with physical or psychological conditions that
+24 require an accommodative technology.
+25 (2) Not later than September 30, the department shall submit a
+26 report to the standard report recipients that contains all of the
+27 following information:
+28 (a) The number of smoke detectors that the bureau of fire
+29 services purchased.
+DAW S01529'25 (S-2) 6z0gv8
+51
+1 (b) The per-unit price that the bureau paid for the smoke
+2 detectors.
+3 (c) An itemized list of all cities, villages, or townships
+4 that received smoke detectors and the number of smoke detectors
+5 distributed to each city, village, or township.
+6 Sec. 1002. (1) From the funds appropriated in part 1 for the
+7 cannabis regulatory agency social equity program, the cannabis
+8 regulatory agency shall further develop the program established
+9 under section 8(1)(j) of the Michigan Regulation and Taxation of
+10 Marihuana Act, 2018 IL 1, MCL 333.27958, with all of the following
+11 goals:
+12 (a) To encourage and increase participation in the social
+13 equity program, with particular focus to promote and encourage
+14 participation in the marihuana industry by people from communities
+15 that have been disproportionately impacted by marihuana prohibition
+16 and enforcement.
+17 (b) To establish a minimum number of licensees that are
+18 participating in the social equity program.
+19 (c) To consider the area median income of a community in
+20 designating communities that have been disproportionately impacted
+21 by marihuana prohibition and enforcement.
+22 (2) The cannabis regulatory agency shall post on a publicly
+23 accessible website a list of all of the following:
+24 (a) The number of initial social equity program applications
+25 received, deemed eligible, and deemed ineligible by license
+26 category and reason the applicant was found ineligible.
+27 (b) The number of social equity program initial applications
+28 approved and the number of initial applications denied, by license
+29 category.
+DAW S01529'25 (S-2) 6z0gv8
+52
+1 (c) The average amount of time, from receipt to approval or
+2 denial, to process an initial social equity program application, by
+3 license category.
+4 (d) The number of social equity education and outreach
+5 sessions held per month.
+6 (e) Social equity application assistance provided per month.
+7 (f) Demographic information for social equity program
+8 participants that includes the following information:
+9 (i) Gender.
+10 (ii) Age.
+11 (iii) How long participant has been a resident of this state.
+12 (iv) Highest level of education.
+13 (v) Total household income.
+14 (vi) Ethnicity.
+15 (vii) How the participant learned about the social equity
+16 program.
+17 (g) A list of social equity program awardees.
+18 Sec. 1003. From the funds appropriated in part 1 for Michigan
+19 Saves, the Michigan public service commission may award a
+20 $1,000,000.00 grant to Michigan Saves to conduct a grant program
+21 for clean energy improvement and on-site wastewater system
+22 replacement or repair. Michigan Saves should grant funds to
+23 individuals or small businesses within the state who have history
+24 having difficulty obtaining traditional capital or households with
+25 a combined income not exceeding 300% of the federal poverty level
+26 and where businesses indicate a state of financial need or
+27 vulnerability. The amount granted to a single individual or
+28 business must not exceed $100,000.00.
+29 Sec. 1004. From the funds appropriated in part 1 for real
+DAW S01529'25 (S-2) 6z0gv8
+53
+1 estate continuing education, the bureau of professional licensing
+2 must expend the funds for grants to the Michigan Realtors
+3 Association to approve and track real estate continuing education
+4 in this state.
+Final Page
+DAW S01529'25 (S-2) 6z0gv8
+[DELETED:   S 6 F 1       3  ]
+[DELETED:   S 6N$6        3N$6        4   3      0   0   3   2e$3     3   1   3 $ 3 7  8 2  3   6   7 1  1N$2           1]
+[DELETED:   S 6      3   3   6      9   5   2   1   8   4   3   7   2   3   5   1   2   8   2   3   1   1   6   5   2]
+[DELETED:   S 6   3   4   7   3   2   1   1   1   1   9   6   9   8   5e$2     2     3 2  4N$4           2      3e$3     1  ]
+[DELETED:   S 6 1  1 3  4N$2           3   1   7   8   1e$     9   1  2 1  3 8  1 1  4 1  3 1  1   1N$1              5   2]
+[DELETED:   S 6   8   9   1   4      3   1   3   3   6   1   9   7   8   1   3   3   1   2   4   1   1   5   2   1   1]
+[DELETED:   S 6   2   1   6   6   7   2   5   5   1   9e$3     1   1 $ 3N$3           2   2   2   8e$     1   1 $ 3N$3  ]
+[DELETED:   S 6         2      2   9   8   1   9   4   2   9   2   1e$5     4   2 $ 3   1 2  4N$8           1   8   3e$3    ]
+[DELETED:   S 6  $ 2   9   3   2   6   2N$2           2   9   3   3   6   2e$2      $ 2N$2        1   1      1   9   3]
+[DELETED:   S 6   6      3   1   3   1   5   5   3   5   7   2   3   4   9   2   4   1   1   5   6   2   7   6   2   1   4]
+[DELETED:   S 6   2   4   6   7   2e$1      $ 1   1   1   2N$3           1   2e$2  ]
+[DELETED:   S 6 D M   2 R   6 S (   $ 2   9   3 $ 2]
+[DELETED:   S 6  ]
+[DELETED:   S 6]
+[DELETED:   S 6 ]
+[DELETED:   S 6]
+[DELETED:   S 6 ]
+[DELETED:   S 6]
+[DELETED:   S 6)]
+[DELETED:   S 64()6()0()))]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6))]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6 P]
+[DELETED:   S 6  ]
+[DELETED:   S 6 L ]
+[DELETED:   S 6     ]
+[DELETED:   S 6     O F F A $]
+[DELETED:   S 6 F F A $ F F $ F F G $ F m $ $ $o]
+[DELETED:   S 6]
+[DELETED:   S 6    ]
+[DELETED:   S 6   ]
+[DELETED:   S 6     ]
+[DELETED:   S 6      C ]
+[DELETED:   S 6           ]
+[DELETED:   S 6           )]
+[DELETED:   S 6    78()))))]
+[DELETED:   S 6i)))]
+[DELETED:   S 6  C ]
+[DELETED:   S 6  G]
+[DELETED:   S 6()]
+[DELETED:   S 6]
+[DELETED:   S 6   O   ]
+[DELETED:   S 6    ]
+[DELETED:   S 6)))))))]
+[DELETED:   S 6]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 177
+A bill to make appropriations for the department of licensing
+and regulatory affairs for the fiscal year ending September 30,
+2026; and to provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of
+4 licensing and regulatory affairs for the fiscal year ending
+5 September 30, 2026, from the following funds:
+6 DEPARTMENT OF LICENSING AND REGULATORY AFFAIRS
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 30.0
+9 Full-time equated classified positions 1,823.0
+DAW S01529'25 (S-2) 6z0gv8
+
+2
+1 GROSS APPROPRIATION $ 657,053,200
+2 Interdepartmental grant revenues:
+3 Total interdepartmental grants and
+4 intradepartmental transfers 30,192,600
+5 ADJUSTED GROSS APPROPRIATION $ 626,860,600
+6 Federal revenues:
+7 DOE-OEERE, multiple grants 4,109,100
+8 Total federal revenues 34,478,800
+9 Special revenue funds:
+10 Total local revenues 0
+11 Total private revenues 0
+12 Corporations fees 3,391,800
+13 Total other state restricted revenues 284,842,500
+14 State general fund/general purpose $ 307,539,300
+15 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+16 SUPPORT
+17 Full-time equated unclassified positions 30.0
+18 Full-time equated classified positions 104.0
+19 Unclassified salaries--FTEs 30.0 $ 3,083,500
+20 Administrative services--FTEs 70.0 8,070,700
+21 Executive director programs--FTEs 23.0 3,454,400
+22 Property management 6,924,200
+23 Worker's compensation 72,000
+24 Regulatory effectiveness office--FTEs 11.0 1,700,200
+25 GROSS APPROPRIATION $ 23,305,000
+26 Appropriated from:
+27 Interdepartmental grant revenues:
+28 IDG from MDIFS, accounting services 150,000
+DAW S01529'25 (S-2) 6z0gv8
+
+3
+1 Federal revenues:
+2 EPA, underground storage tanks 30,700
+3 HHS-Medicaid, certification of health care
+4 providers and suppliers 380,000
+5 HHS-Medicare, certification of health care
+6 providers and suppliers 629,800
+7 Special revenue funds:
+8 Aboveground storage tank fees 90,300
+9 Accountancy enforcement fund 54,900
+10 Boiler inspection fund 284,000
+11 Builder enforcement fund 102,700
+12 Construction code fund 884,500
+13 Corporation fees 4,506,300
+14 Elevator fees 307,400
+15 Fire alarm fees 7,100
+16 Fire safety standard and enforcement fund 2,100
+17 Fire service fees 348,900
+18 Fireworks safety fund 57,600
+19 Health professions regulatory fund 1,918,900
+20 Health systems fees 213,400
+21 Licensing and regulation fund 833,200
+22 Liquor license revenue 292,400
+23 Liquor purchase revolving fund 3,176,300
+24 Marihuana registry fund 196,200
+25 Marihuana regulation fund 1,565,700
+26 Marihuana regulatory fund 640,500
+27 Michigan unarmed combat fund 5,400
+28 Mobile home code fund 257,200
+DAW S01529'25 (S-2) 6z0gv8
+
+4
+1 Nurse professional fund 38,700
+2 PMECSEMA fund 45,900
+3 Property development fees 7,300
+4 Public utility assessments 3,365,000
+5 Real estate appraiser education fund 2,600
+6 Real estate education fund 11,000
+7 Real estate enforcement fund 11,300
+8 Refined petroleum fund 147,700
+9 Securities fees 1,482,000
+10 Securities investor education and training fund 9,200
+11 Security business fund 6,700
+12 Survey and remonumentation fund 96,600
+13 Tax tribunal fund 822,300
+14 Utility consumer representation fund 51,300
+15 State general fund/general purpose $ 271,900
+16 Sec. 103. PUBLIC SERVICE COMMISSION
+17 Full-time equated classified positions 223.0
+18 Michigan Saves 3,500,000
+19 Public service commission--FTEs 223.0 41,910,800
+20 GROSS APPROPRIATION $ 45,410,800
+21 Appropriated from:
+22 Federal revenues:
+23 DOT, gas pipeline safety 2,671,500
+24 Special revenue funds:
+25 Public utility assessments 39,239,300
+26 State general fund/general purpose $ 3,500,000
+27 Sec. 104. LIQUOR CONTROL COMMISSION
+28 Full-time equated classified positions 150.0
+DAW S01529'25 (S-2) 6z0gv8
+
+5
+1 Liquor licensing and enforcement--FTEs 119.0 18,176,300
+2 Management support services--FTEs 31.0 4,984,900
+3 GROSS APPROPRIATION $ 23,161,200
+4 Appropriated from:
+5 Special revenue funds:
+6 Direct shipper enforcement revolving fund 317,900
+7 Liquor control enforcement and license
+8 investigation revolving fund 175,000
+9 Liquor license fee enhancement fund 76,400
+10 Liquor license revenue 8,514,300
+11 Liquor purchase revolving fund 14,077,600
+12 State general fund/general purpose $ 0
+13 Sec. 105. OCCUPATIONAL REGULATION
+14 Full-time equated classified positions 942.0
+15 Bureau of community and health systems--FTEs 167.0 27,403,400
+16 Bureau of construction codes--FTEs 198.0 37,744,800
+17 Bureau of fire services--FTEs 86.0 14,451,900
+18 Bureau of professional licensing--FTEs 198.0 42,847,800
+19 Bureau of survey and certification--FTEs 184.0 32,137,900
+20 Corporations, securities, and commercial
+21 licensing bureau--FTEs 109.0 16,975,900
+22 Urban search and rescue 1,000,000
+23 GROSS APPROPRIATION $ 172,561,700
+24 Appropriated from:
+25 Interdepartmental grant revenues:
+26 Federal revenues:
+27 DHS, fire training systems 528,000
+28 DOT, hazardous materials training and planning 20,000
+DAW S01529'25 (S-2) 6z0gv8
+
+6
+1 EPA, underground storage tanks 820,600
+2 HHS-Medicaid, certification of health care
+3 providers and suppliers 9,201,600
+4 HHS-Medicare, certification of health care
+5 providers and suppliers 14,808,100
+6 DOE-OEERE, multiple grants 4,109,100
+7 Special revenue funds:
+8 Aboveground storage tank fees 343,700
+9 Accountancy enforcement fund 1,216,000
+10 Adult foster care facilities licenses fund 373,600
+11 Boiler inspection fund 3,046,500
+12 Builder enforcement fund 644,000
+13 Construction code fund 13,763,000
+14 Corporation fees 9,619,200
+15 Division on deafness fund 73,400
+16 Elevator fees 8,513,100
+17 Fire alarm fees 138,400
+18 Fire safety standard and enforcement fund 32,300
+19 Fire service fees 3,160,900
+20 Fireworks safety fund 1,259,100
+21 Health professions regulatory fund 27,363,300
+22 Health systems fees 4,204,300
+23 Licensing and regulation fund 11,819,800
+24 Liquor purchase revolving fund 159,500
+25 Marihuana regulatory fund 500,000
+26 Mobile home code fund 2,141,400
+27 Nurse aide registration fund 1,692,400
+28 Nurse professional fund 1,968,000
+DAW S01529'25 (S-2) 6z0gv8
+
+7
+1 PMECSEMA fund 2,585,000
+2 Property development fees 192,600
+3 Real estate appraiser education fund 6,200
+4 Real estate education fund 604,000
+5 Real estate enforcement fund 759,700
+6 Refined petroleum fund 2,667,900
+7 Securities fees 5,405,200
+8 Securities investor education and training fund 503,900
+9 Security business fund 182,700
+10 Survey and remonumentation fund 910,600
+11 State general fund/general purpose $ 37,224,600
+12 Sec. 106. CANNABIS REGULATORY AGENCY
+13 Full-time equated classified positions 183.0
+14 Cannabis regulatory agency--FTEs 183.0 $ 33,842,500
+15 GROSS APPROPRIATION $ 33,842,500
+16 Appropriated from:
+17 Special revenue funds:
+18 Industrial hemp licensing and registration fund 296,200
+19 Marihuana registry fund 2,256,300
+20 Marihuana regulation fund 23,090,200
+21 Marihuana regulatory fund 8,199,800
+22 State general fund/general purpose $ 0
+23 Sec. 107. MICHIGAN OFFICE OF ADMINISTRATIVE
+24 HEARINGS AND RULES
+25 Full-time equated classified positions 176.0
+26 Michigan office of administrative hearings and
+27 rules--FTEs 176.0 $ 37,034,900
+28 GROSS APPROPRIATION $ 37,034,900
+DAW S01529'25 (S-2) 6z0gv8
+
+8
+1 Appropriated from:
+2 Interdepartmental grant revenues:
+3 IDG revenues, administrative hearings and rules 28,594,000
+4 Special revenue funds:
+5 Construction code fund 27,400
+6 Corporation fees 998,900
+7 Health professions regulatory fund 881,800
+8 Health systems fees 165,500
+9 Licensing and regulation fund 914,300
+10 Liquor purchase revolving fund 493,200
+11 Marihuana regulation fund 253,500
+12 Marihuana regulatory fund 98,900
+13 Public utility assessments 2,970,600
+14 Securities fees 1,048,600
+15 State general fund/general purpose $ 588,200
+16 Sec. 108. COMMISSIONS
+17 Full-time equated classified positions 45.0
+18 Michigan indigent defense commission--FTEs 25.0 $ 3,947,900
+19 Michigan unarmed combat commission 126,200
+20 Michigan Tax Tribunal--FTEs 20.0 4,213,900
+21 GROSS APPROPRIATION $ 8,288,000
+22 Appropriated from:
+23 Special revenue funds:
+24 Michigan unarmed combat fund 126,200
+25 Tax tribunal fund 822,100
+26 Corporations fees 3,391,800
+27 State general fund/general purpose $ 3,947,900
+28 Sec. 109. DEPARTMENT GRANTS
+DAW S01529'25 (S-2) 6z0gv8
+
+9
+1 Firefighter training grants $ 2,300,000
+2 Liquor law enforcement grants 9,900,000
+3 Marihuana operation and oversight grants 3,000,000
+4 Michigan indigent defense commission grants 258,345,300
+5 Remonumentation grants 6,800,000
+6 Utility consumer representation 2,100,000
+7 GROSS APPROPRIATION $ 282,445,300
+8 Appropriated from:
+9 Special revenue funds:
+10 Fireworks safety fund 2,300,000
+11 Liquor license revenue 9,900,000
+12 Local indigent defense reimbursement 300,000
+13 Marihuana regulation fund 3,000,000
+14 Survey and remonumentation fund 6,800,000
+15 Utility consumer representation fund 2,100,000
+16 State general fund/general purpose $ 258,045,300
+17 Sec. 110. INFORMATION TECHNOLOGY
+18 Information technology services and projects $ 27,803,800
+19 GROSS APPROPRIATION $ 27,803,800
+20 Appropriated from:
+21 IDG revenues, administrative hearings and rules 1,448,600
+22 Total interdepartmental grants and
+23 intradepartmental transfers 1,448,600
+24 Federal revenues:
+25 DOT, gas pipeline safety 152,600
+26 EPA, underground storage tanks 99,900
+27 HHS-Medicaid, certification of health care
+28 providers and suppliers 385,100
+DAW S01529'25 (S-2) 6z0gv8
+
+10
+1 HHS-Medicare, certification of health care
+2 providers and suppliers 641,800
+3 Special revenue funds:
+4 Aboveground storage tank fees 34,500
+5 Accountancy enforcement fund 1,600
+6 Boiler inspection fund 387,500
+7 Construction code fund 1,331,900
+8 Corporation fees 5,800,700
+9 Elevator fees 505,400
+10 Fire safety standard and enforcement fund 3,500
+11 Fire service fees 542,700
+12 Fireworks safety fund 74,800
+13 Health professions regulatory fund 2,787,700
+14 Health systems fees 366,200
+15 Industrial hemp licensing and registration fund 4,000
+16 Licensing and regulation fund 941,700
+17 Licensing license revenue 235,400
+18 Liquor purchase revolving fund 4,796,800
+19 Marihuana registry fund 193,600
+20 Marihuana regulation fund 1,231,500
+21 Marihuana regulatory fund 553,000
+22 Michigan unarmed combat fund 6,800
+23 Mobile home code fund 205,000
+24 Nurse aide registration fund 7,000
+25 PMECSEMA fund 68,500
+26 Public utility assessments 2,038,000
+27 Real estate appraiser education fund 1,000
+28 Real estate education fund 4,800
+DAW S01529'25 (S-2) 6z0gv8
+
+11
+1 Refined petroleum fund 235,200
+2 Securities fees 465,600
+3 Securities investor education and training fund 6,100
+4 Survey and remonumentation fund 75,400
+5 Tax tribunal fund 208,500
+6 State general fund/general purpose $ 1,961,400
+7 Sec. 111. ONE-TIME APPROPRIATIONS
+8 Bureau of fire services - smoke detectors $ 1,000,000
+9 Cannabis regulatory agency social equity
+10 program 1,000,000
+11 Michigan saves 1,000,000
+12 Real Estate Continuing Education 200,000
+13 GROSS APPROPRIATION $ 3,200,000
+14 Appropriated from:
+15 Special revenue funds:
+16 Marihuana regulation fund 1,000,000
+17 Real estate education fund 200,000
+18 State general fund/general purpose $ 2,000,000
+19
+20 PART 2
+21 PROVISIONS CONCERNING APPROPRIATIONS
+22 FOR FISCAL YEAR 2025-2026
+23 GENERAL SECTIONS
+24 Sec. 201. In accordance with section 30 of article IX of the
+25 state constitution of 1963, for the fiscal year ending September
+26 30, 2026, total state spending from state sources under part 1 is
+27 $585,969,100.00 and state spending from state sources to be paid to
+28 local units of government is $280,345,300.00. The itemized
+29 statement below identifies appropriations from which spending to
+DAW S01529'25 (S-2) 6z0gv8
+
+12
+1 local units of government will occur:
+2 DEPARTMENT OF LICENSING AND REGULATORY AFFAIRS
+3 Firefighter training grants $ 2,300,000
+4 Liquor law enforcement grants 9,900,000
+5 Marihuana operation and oversight grants 3,000,000
+6 Michigan indigent defense commission grants 258,345,300
+7 Remonumentation grants 6,800,000
+8 TOTAL $ 280,345,300
+9 Sec. 202. The appropriations under this part and part 1 are
+10 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+11 to 18.1594.
+12 Sec. 203. As used in this part and part 1:
+13 (a) "Department" means the department of licensing and
+14 regulatory affairs.
+15 (b) "Director" means the director of the department.
+16 (c) "FTE" means full-time equated.
+17 (d) "IDG" means interdepartmental grant.
+18 (e) "Standard report recipients" means the senate and house of
+19 representatives subcommittees on the department, the senate and
+20 house fiscal agencies, the senate and house policy offices, and the
+21 state budget office.
+22 Sec. 204. A department or agency shall use the internet to
+23 fulfill the reporting requirements of this part. This requirement
+24 includes transmitting reports to the standard report recipients and
+25 any other required recipients by email and posting the reports on
+26 an internet site.
+27 Sec. 205. To the extent permissible under section 261 of the
+28 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+29 following apply to the expenditure of funds appropriated in part 1:
+DAW S01529'25 (S-2) 6z0gv8
+
+13
+1 (a) The funds must not be used for the purchase of foreign
+2 goods or services, or both, if competitively priced and of
+3 comparable quality American goods or services, or both, are
+4 available.
+5 (b) Preference must be given to goods or services, or both,
+6 manufactured or provided by Michigan businesses, if they are
+7 competitively priced and of comparable quality.
+8 (c) Preference must be given to goods or services, or both,
+9 that are manufactured or provided by Michigan businesses owned and
+10 operated by veterans, if they are competitively priced and of
+11 comparable quality.
+12 (d) Preference must be given to goods or services, or both,
+13 that are manufactured in facilities that employ union members.
+14 Sec. 206. The department shall not take disciplinary action
+15 against an employee of the department for communicating with a
+16 member of the legislature or legislative staff, unless the
+17 communication is prohibited by law and the department is exercising
+18 its authority as provided by law.
+19 Sec. 207. Consistent with section 217 of the management and
+20 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+21 a report on out-of-state travel expenses not later than January 1.
+22 The report must list all travel outside this state by classified
+23 and unclassified employees in the previous fiscal year that was
+24 funded in whole or in part with funds appropriated in the
+25 department's budget. The department shall submit the report to the
+26 standard report recipients and to the senate and house
+27 appropriations committees. The report must include all of the
+28 following information:
+29 (a) The dates of each travel occurrence.
+DAW S01529'25 (S-2) 6z0gv8
+
+14
+1 (b) The total transportation and related expenses of each
+2 travel occurrence and the proportions funded with state general
+3 fund/general purpose revenues, state restricted revenues, federal
+4 revenues, and other revenues.
+5 Sec. 208. A principal executive department, state agency, or
+6 authority shall not use funds appropriated in part 1 to hire a
+7 person to provide legal services that are the responsibility of the
+8 attorney general. This section does not apply to legal services for
+9 bonding activities or to outside legal services that the attorney
+10 general authorizes.
+11 Sec. 209. Not later than December 15, the state budget office
+12 shall prepare and submit a report that provides for estimates of
+13 the total general fund/general purpose appropriation lapses at the
+14 close of the previous fiscal year. The report must summarize the
+15 projected year-end general fund/general purpose appropriation
+16 lapses by major departmental program or program areas. The state
+17 budget office shall submit the report to the standard report
+18 recipients and the chairpersons of the senate and house of
+19 representatives appropriations committees.
+20 Sec. 210. (1) In addition to the funds appropriated in part 1,
+21 there is appropriated an amount not to exceed $1,000,000.00 for
+22 federal contingency funds. These funds are not available for
+23 expenditure until they have been transferred to another line item
+24 in this part under section 393(2) of the management and budget act,
+25 1984 PA 431, MCL 18.1393.
+26 (2) In addition to the funds appropriated in part 1, there is
+27 appropriated an amount not to exceed $25,000,000.00 for state
+28 restricted contingency funds. These funds are not available for
+29 expenditure until they have been transferred to another line item
+DAW S01529'25 (S-2) 6z0gv8
+
+15
+1 in this part under section 393(2) of the management and budget act,
+2 1984 PA 431, MCL 18.1393.
+3 (3) In addition to the funds appropriated in part 1, there is
+4 appropriated an amount not to exceed $200,000.00 for local
+5 contingency funds. These funds are not available for expenditure
+6 until they have been transferred to another line item in this part
+7 under section 393(2) of the management and budget act, 1984 PA 431,
+8 MCL 18.1393.
+9 (4) In addition to the funds appropriated in part 1, there is
+10 appropriated an amount not to exceed $100,000.00 for private
+11 contingency funds. These funds are not available for expenditure
+12 until they have been transferred to another line item in this part
+13 under section 393(2) of the management and budget act, 1984 PA 431,
+14 MCL 18.1393.
+15 Sec. 211. A department or agency shall cooperate with the
+16 department of technology, management, and budget to maintain a
+17 searchable website accessible by the public at no cost that
+18 includes, but is not limited to, all of the following for each
+19 department or agency:
+20 (a) Fiscal-year-to-date expenditures by category.
+21 (b) Fiscal-year-to-date expenditures by appropriation unit.
+22 (c) Fiscal-year-to-date payments to a selected vendor,
+23 including the vendor name, payment date, payment amount, and
+24 payment description.
+25 (d) The number of active employees by job classification.
+26 (e) Job specifications and wage rates.
+27 Sec. 212. Not later than 14 days after the release of the
+28 executive budget recommendation, the department shall cooperate
+29 with the state budget office to provide an annual report on
+DAW S01529'25 (S-2) 6z0gv8
+
+16
+1 estimated state restricted fund balances, state restricted fund
+2 projected revenues, and state restricted fund expenditures for the
+3 previous 2 fiscal years. The report must be submitted to the
+4 standard report recipients and to the chairpersons of the senate
+5 and house appropriations committees.
+6 Sec. 214. To the extent permissible under the management and
+7 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director of
+8 each department or agency receiving appropriations under part 1
+9 shall take all reasonable steps to ensure geographically
+10 disadvantaged business enterprises compete for and perform
+11 contracts to provide services or supplies, or both. Each director
+12 shall strongly encourage firms with which the department or agency
+13 contracts to subcontract with certified geographically
+14 disadvantaged business enterprises for services, supplies, or both.
+15 As used in this section, "geographically disadvantaged business
+16 enterprises" means that term as defined in Executive Directive No.
+17 2023-1.
+18 Sec. 215. On a quarterly basis, the department shall report on
+19 the number of full-time equated positions in pay status by civil
+20 service classification, including a comparison by line item of the
+21 number of full-time equated positions authorized from funds
+22 appropriated in part 1 to the actual number of full-time equated
+23 positions employed by the department at the end of the reporting
+24 period. The report must be submitted to the standard report
+25 recipients and the senate and house appropriations committees.
+26 Sec. 218. The department shall receive and retain copies of
+27 all reports funded from appropriations in part 1. The department
+28 shall follow federal and state guidelines for short-term and long-
+29 term retention of records. The department may electronically retain
+DAW S01529'25 (S-2) 6z0gv8
+
+17
+1 copies of reports unless otherwise required by federal or state
+2 guidelines.
+3 Sec. 219. Not later than April 1, the department shall report
+4 on each specific policy change made to implement a public act
+5 affecting the department that took effect during the previous
+6 calendar year. The department shall submit the report to the
+7 standard report recipients, the senate and house appropriations
+8 committees, and the joint committee on administrative rules.
+9 Sec. 221. (1) Funds appropriated in part 1 must not be used to
+10 restrict or impede a marginalized community's access to government
+11 resources, programs, or facilities.
+12 (2) From the funds appropriated in part 1, local governments
+13 shall report any action or policy that attempts to restrict or
+14 interfere with the duties of a local health officer.
+15 Sec. 222. To the extent possible, the department shall not
+16 expend appropriations under part 1 until all existing authorized
+17 work project funds available for the same purposes are exhausted.
+18 Sec. 223. (1) General fund appropriations in part 1 shall not
+19 be expended for items if federal funding or private grant funding
+20 is available for the same expenditures.
+21 (2) If the department is required to make a reduction in
+22 expenditures under section 395(1) or (2) of the management and
+23 budget act, 1984 PA 431, MCL 18.1395, for any appropriation under
+24 this part or part 1, the department must notify the standard report
+25 recipients not later than 10 days after the reduction. The
+26 notification must include, but not be limited to, the following:
+27 (a) A description of the fund source that is insufficient to
+28 support the expenditures being reduced and the amount of the
+29 reduction.
+DAW S01529'25 (S-2) 6z0gv8
+
+18
+1 (b) A description of the cause for the reduction, if any such
+2 cause is known.
+3 (c) A description of the functions of state government or
+4 services to residents that will be affected by the reduction.
+5 Sec. 225. (1) Not later than December 31, the department shall
+6 submit a report that pertains to licensing and regulatory programs
+7 overseen by the following agencies:
+8 (a) Liquor control commission.
+9 (b) Bureau of fire services.
+10 (c) Corporations, securities, and commercial licensing bureau.
+11 (d) Bureau of professional licensing.
+12 (2) The report under subsection (1) must be in a format that
+13 is consistent between the agencies listed in subsection (1) and
+14 must provide, but is not limited to, the following information for
+15 the previous fiscal year, as applicable, for each agency:
+16 (a) Revenue generated by and expenditures disbursed for each
+17 regulatory product.
+18 (b) Revenue generated, by regulatory product or regulated
+19 activity.
+20 (c) The renewal cycle and amount of each fee charged.
+21 (d) Number of initial applications.
+22 (e) Number of initial applications denied.
+23 (f) Number of license renewals.
+24 (g) Average amount of time to approve or deny completed
+25 applications.
+26 (h) Number of examinations proctored for initial applications.
+27 (i) A description of the types of complaints received.
+28 (j) A description of the process used to resolve complaints.
+29 (k) Number of complaints received.
+DAW S01529'25 (S-2) 6z0gv8
+
+19
+1 (l) Number of complaints investigated.
+2 (m) Number of complaints closed with no action.
+3 (n) Number of complaints resulting in administrative actions
+4 or citations.
+5 (o) Average amount of time to complete investigations.
+6 (p) Number of enforcement actions, including license
+7 revocations, suspensions, and fines.
+8 (q) A description of the types of enforcement actions taken
+9 against licensees.
+10 (r) Number of administrative hearing adjudications.
+11 (3) An agency listed in subsection (1)(a) or (b) shall report
+12 by regulated activity and an agency listed in subsection (1)(c) or
+13 (d) shall report by regulatory product or regulated activity, or
+14 both.
+15 (4) As used in this section:
+16 (a) "Regulated activity" means the particular activities,
+17 entities, facilities, and industries regulated by the agencies
+18 specified in subsection (1).
+19 (b) "Regulatory product" means each occupation, profession,
+20 trade, or program, which includes licensure, certification,
+21 registration, inspection, review, permitting, approval, or any
+22 other regulatory service provided by the agencies specified in
+23 subsection (1) for each regulated activity.
+24 Sec. 226. (1) For any grant program or project funded in part
+25 1 intended for a single recipient organization or unit of local
+26 government, the grant program or project is for a public purpose
+27 and the department shall follow procurement statutes of this state,
+28 including any bidding requirements, unless the department can fully
+29 validate, through information detailed in this part or public
+DAW S01529'25 (S-2) 6z0gv8
+
+20
+1 supporting documents, both of the following:
+2 (a) The specific organization or unit of local government that
+3 will receive or administer the funds.
+4 (b) How the funds will be administered and expended.
+5 (2) To be eligible to receive a grant described in subsection
+6 (1), both of the following must occur:
+7 (a) A recipient must submit the application under subsection
+8 (3) not later than 60 days after the effective date of this act.
+9 (b) A recipient must be 1 of the following:
+10 (i) A unit of local government, as that term is defined in
+11 section 115 of the management and budget act, 1984 PA 431, MCL
+12 18.1115.
+13 (ii) An institution of higher education.
+14 (iii) A state agency, as that term is defined in section 115 of
+15 the management and budget act, 1984 PA 431, MCL 18.1115.
+16 (iv) An entity registered with the department of licensing and
+17 regulatory affairs or the department of attorney general that has
+18 been in existence for at least the 12 months preceding the
+19 effective date of this act.
+20 (v) Another entity that can demonstrate, through state or
+21 federal tax filings or other state or federal government records,
+22 that it has been in existence for at least the 12 months preceding
+23 the effective date of this act.
+24 (3) Notwithstanding any other conditions or requirements for
+25 direct appropriation grants, the department shall work with the
+26 state budget office to perform at least all of the following
+27 activities to administer the grants described in subsection (1):
+28 (a) Develop a standard application process using the
+29 electronic submission portal developed by the state budget office,
+DAW S01529'25 (S-2) 6z0gv8
+
+21
+1 grantee reporting requirements, and any other necessary
+2 documentation, including sponsorship information as specified under
+3 subsection (4). If the electronic submission portal identified in
+4 this subdivision is not fully functional by 60 days after the
+5 effective date of this act, the state budget office shall ensure
+6 that the standard application process and form are available
+7 promptly and paper submission is acceptable. The state budget
+8 office shall promptly submit application material received to the
+9 department for departmental review.
+10 (b) Establish a process to review, complete, and execute a
+11 grant agreement with a grant recipient. The department shall not
+12 execute a grant agreement unless all necessary documentation has
+13 been submitted and reviewed.
+14 (c) Verify to the extent possible that a grant recipient will
+15 use funds for a public purpose that serves the economic prosperity,
+16 health, safety, or general welfare of the residents of this state.
+17 (d) Review and verify all necessary information to ensure the
+18 grant recipient is reasonably able to execute the grant agreement,
+19 perform its fiduciary duty, and comply with all applicable state
+20 and federal statutes. The department may deduct the cost of
+21 background checks and any other efforts performed as part of this
+22 verification from the amount of the designated grant award.
+23 (e) Establish a standard timeline to review all documents
+24 submitted by grant recipients and provide a response within 45
+25 business days stating whether submitted documents by a grant
+26 recipient are sufficient or in need of additional information. If
+27 additional information is needed, the 60-day deadline in subsection
+28 (2) is considered to have been met if a sponsor has been identified
+29 for that grant. If a grant recipient does not provide information
+DAW S01529'25 (S-2) 6z0gv8
+
+22
+1 sufficient to execute a grant agreement not later than 60 days
+2 after being notified by the department of grant approval, the
+3 department shall return funds associated with the grant to the
+4 state treasury.
+5 (f) Make an initial disbursement of up to 50% of the grant to
+6 the grant recipient not later than 60 days after a grant agreement
+7 has been executed. Disbursements must be consistent with part II,
+8 chapter 10, section 200 of the Financial Management Guide.
+9 (g) Disburse the funds remaining after the initial
+10 disbursement under subdivision (f) per the grant disbursement
+11 schedule in the executed grant agreement on a reimbursement basis
+12 after the grantee has provided sufficient documentation, as
+13 determined by the department, to verify that expenditures were made
+14 in accordance with the project purpose.
+15 (4) The identification and process for sponsorship of a grant
+16 described in subsection (1) are as follows:
+17 (a) Not later than the effective date of this act, the state
+18 budget office shall provide an initial list of grants that require
+19 legislative sponsorship to the legislature and shall make public an
+20 initial list of grants that likely will be sponsored by the
+21 department or by the state budget office.
+22 (b) A sponsor of a grant described in subsection (1) must be a
+23 legislator, the department, or the state budget office.
+24 (c) A legislative sponsor must be identified through a letter
+25 submitted by that legislator's office to the department and state
+26 budget director containing the name of the grant recipient, the
+27 intended amount of the grant, a certification from that legislator
+28 that the grant is for a public purpose, and specific citation of
+29 the section and subsection of the public act that authorizes the
+DAW S01529'25 (S-2) 6z0gv8
+
+23
+1 grant, as applicable.
+2 (d) Within 10 business days after the effective date of this
+3 act, the senate and house of representatives shall compile an
+4 initial list of legislative grant sponsors for their respective
+5 chambers and submit those compiled lists to the state budget office
+6 and the department, and the state budget office shall identify
+7 department- or state budget office-sponsored grants. The state
+8 budget director may grant an extension of this deadline of not more
+9 than 30 days on a case-by-case basis. The state budget office shall
+10 make the compiled lists public within 14 business days after the
+11 effective date of this act.
+12 (e) Not later than 60 days after the effective date of this
+13 act, the state budget office shall publish a final list of grants
+14 requiring sponsorship. If a legislative sponsor is not identified
+15 within 60 days after the effective date of this act, the department
+16 shall do 1 of the following:
+17 (i) Identify the department or the state budget office as the
+18 sponsor.
+19 (ii) Decline to execute the grant agreement and lapse the
+20 associated funds at the end of the fiscal year.
+21 (f) At any point during the fiscal year, legislative grant
+22 sponsors may be added to a grant request.
+23 (5) An executed grant agreement under this section between the
+24 department and a grant recipient must include at least all of the
+25 following:
+26 (a) All necessary identifying information for the grant
+27 recipient, including any tax and financial information for the
+28 department to administer funds under this section.
+29 (b) A description of the project for which the grant funds
+DAW S01529'25 (S-2) 6z0gv8
+
+24
+1 will be expended, including tentative timelines and the estimated
+2 budget. The department shall not reimburse expenditures that are
+3 outside of the project purpose, as stated in the executed grant
+4 agreement, from appropriations in part 1. The grantee shall return
+5 to the treasury any interest in excess of $1,000.00 earned on the
+6 grant funds while unexpended and in possession of the grantee.
+7 (c) Unless otherwise specified in department policy, a
+8 requirement that funds appropriated for the grants described in
+9 subsection (1) may be used only for expenditures that occur on or
+10 after the effective date of this act.
+11 (d) A requirement for reporting by the grant recipient to the
+12 department and the legislative sponsor that provides the status of
+13 the project and an accounting of all funds expended by the grant
+14 recipient, as determined by the department.
+15 (e) A claw-back provision that allows the department of
+16 treasury to recoup or otherwise collect any funds that are
+17 declined, unspent, or otherwise misused.
+18 (f) The signed legislative sponsorship letter required under
+19 subsection (4), incorporated into the grant agreement and included
+20 as an appendix or attachment.
+21 (g) If a grant recipient has provided information sufficient
+22 to execute a grant agreement, the state budget office shall
+23 promptly transmit that information to the department for the
+24 department's review of the grant application. If a grant recipient
+25 has provided information sufficient to execute a grant agreement
+26 within 60 days after the effective date of this act, but the grant
+27 application needs technical fixes or additional legislative action,
+28 as identified by the state budget office, the 60-day deadline in
+29 this subdivision is considered to have been met, if a sponsor has
+DAW S01529'25 (S-2) 6z0gv8
+
+25
+1 been identified for that grant. If a grant recipient does not
+2 provide information sufficient to execute a grant agreement not
+3 later than 60 days after being notified by the department of grant
+4 approval, the department shall return funds associated with the
+5 grant to the state treasury.
+6 (6) If appropriate to improve the administration or oversight
+7 of a grant described in subsection (1), the department may adopt a
+8 memorandum of understanding with another state department to
+9 perform the required duties under this section.
+10 (7) A grant recipient shall respond to all reasonable
+11 information requests from the department related to grant
+12 expenditures and retain grant records for not less than 7 years,
+13 and the grant may be subject to monitoring, site visits, and audits
+14 as determined by the department. The grant agreement required under
+15 this section must include signed assurance by the chief executive
+16 officer or other executive officer of the grant recipient that the
+17 requirements of this subsection will be met.
+18 (8) The grant recipient shall expend all funds awarded and
+19 complete all projects not later than September 30, 2030. If at that
+20 time any unexpended funds remain, the grant recipient shall return
+21 those funds to the state treasury.
+22 (9) Any funds that are granted to a state department are
+23 appropriated in that department for the purpose of the intended
+24 grant.
+25 (10) The state budget director may, on a case-by-case basis,
+26 extend the deadline in subsection (8) on request by a grant
+27 recipient if a sponsor has been identified for the grant. The state
+28 budget director shall notify the chairs of the senate and house of
+29 representatives appropriations committees not later than 5 days
+DAW S01529'25 (S-2) 6z0gv8
+
+26
+1 after an extension is granted.
+2 (11) By March 1, the state budget office shall post a report
+3 in a publicly accessible location on its website. The report must
+4 list the grant recipient, project purpose, and location of the
+5 project for each grant described in subsection (1), the status of
+6 funds allocated and disbursed under the grant agreement, and the
+7 legislative sponsor, if applicable. After March 1, the state budget
+8 office shall update the report monthly and shall post the updated
+9 report each month. The state budget office shall include in the
+10 report the most comprehensive information the office has available
+11 at the time of posting for grants awarded. The state budget office
+12 may compile the information required in this report across all
+13 departments. The department shall assist the state budget office
+14 with the compilation of the report required under this subsection.
+15 (12) On request, beginning 75 days after the effective date of
+16 this act, the state budget office shall release information
+17 received for grant applications.
+18 (13) As applicable, the legislative sponsor of a grant
+19 described in subsection (1) shall not sponsor a grant, or ask
+20 another legislator to sponsor a grant, if there is a conflict of
+21 interest related to the grant recipient.
+22 (14) If the department reasonably determines that the funds
+23 allocated for an executed grant agreement under this section were
+24 misused or that use of the funds was misrepresented by the grant
+25 recipient, the department shall not award any additional funds
+26 under the executed grant agreement and shall refer the grant for
+27 review following internal audit protocols.
+28 Sec. 227. A department or agency required to submit a report
+29 under this part shall make each report readily accessible to the
+DAW S01529'25 (S-2) 6z0gv8
+
+27
+1 public and conspicuously post each required report on the
+2 department's or agency's Michigan.gov website not later than the
+3 due date required for each report. In addition to placing all
+4 reports required in the current fiscal year on the department or
+5 agency's website, the department or agency shall maintain on its
+6 website all reports placed on the website from previous fiscal
+7 years.
+8 Sec. 228. The state budget director shall take steps to ensure
+9 that all state fiscal recovery funds allocated to this state under
+10 the American rescue plan act of 2021, Public Law 117-2, are
+11 expended by December 31, 2026, as required by law. A department or
+12 agency receiving an appropriation under this part or part 1 must
+13 notify the standard report recipients if an appropriation of funds
+14 described under this section is projected to lapse.
+15 Sec. 229. (1) Within 10 days after the effective date of this
+16 act, the department must provide a report to the standard report
+17 recipients containing the following information:
+18 (a) A list of any sections in this act that the department
+19 determines to be unenforceable, with a detailed legal rationale for
+20 those determinations, as applicable.
+21 (b) If a determination under subdivision (a) would affect the
+22 operations of a program or programs within the department, the
+23 department must report the estimated difference in cost between the
+24 policy outlined in the section determined to be unenforceable and
+25 the policy the department intends to pursue.
+26 (2) The department may coordinate with the executive office of
+27 the governor or other state departments or agencies to compile a
+28 statewide report for any departments or agencies required to submit
+29 a report substantially similar to the report described under
+DAW S01529'25 (S-2) 6z0gv8
+
+28
+1 subsection (1).
+2 Sec. 230. The department must provide a quarterly report to
+3 the standard report recipients detailing federal policy changes
+4 that do, or are expected to do, any of the following:
+5 (a) Affect the operations of the department.
+6 (b) Affect an industry, community, population, or other group
+7 regulated or served by, or that otherwise engages with, the
+8 department.
+9 (c) Affect regulations that currently protect the public to
+10 the extent that the regulations affect an industry, community,
+11 population, or other group regulated or served by, or that
+12 otherwise engages with, the department.
+13 (d) Create a regulatory gap that could negatively impact the
+14 public.
+15 Sec. 250. (1) The department may charge registration fees to
+16 attendees of informational, training, or special events that are
+17 sponsored by the department and related to activities under the
+18 department's purview.
+19 (2) The registration fees must reflect the costs for the
+20 department to sponsor the informational, training, or special
+21 events.
+22 (3) Revenue generated by the registration fees is appropriated
+23 on receipt and may be expended by the department to cover the
+24 department's costs of sponsoring informational, training, or
+25 special events.
+26 (4) Revenue generated by registration fees in excess of the
+27 department's costs of sponsoring informational, training, or
+28 special events carries forward to the subsequent fiscal year and
+29 does not lapse to the general fund.
+DAW S01529'25 (S-2) 6z0gv8
+
+29
+1 (5) The amount appropriated under subsection (3) must not
+2 exceed $1,000,000.00.
+3 Sec. 251. The department may provide to interested entities
+4 otherwise unavailable customized listings of nonconfidential
+5 information, such as the names and addresses of licensees, in the
+6 department's possession. The department may establish and collect a
+7 reasonable fee to provide this service. Revenue generated from this
+8 service is appropriated on receipt and must be used to offset the
+9 expenses of the service. Any balance of this revenue collected and
+10 unexpended at the end of the fiscal year lapses to the appropriate
+11 restricted fund.
+12 Sec. 252. (1) The department shall sell documents at a price
+13 not to exceed the cost of production and distribution. Money
+14 received from the sale of these documents reverts to the
+15 department. In addition to the funds appropriated in part 1, funds
+16 received by the department under this subsection may be expended by
+17 the department upon receipt by the department of treasury. This
+18 subsection applies for only the following:
+19 (a) Corporation and securities division documents, reports,
+20 and papers required or permitted by law in accordance with section
+21 1060(6) of the business corporation act, 1972 PA 284, MCL 450.2060.
+22 (b) The Michigan liquor control code of 1998, 1998 PA 58, MCL
+23 436.1101 to 436.2303.
+24 (c) The mobile home commission act, 1987 PA 96, MCL 125.2301
+25 to 125.2350; the business corporation act, 1972 PA 284, MCL
+26 450.1101 to 450.2098; the nonprofit corporation act, 1982 PA 162,
+27 MCL 450.2101 to 450.3192; and the uniform securities act (2002),
+28 2008 PA 551, MCL 451.2101 to 451.2703.
+29 (d) Construction code manuals.
+DAW S01529'25 (S-2) 6z0gv8
+
+30
+1 (e) Copies of transcripts from administrative law hearings.
+2 (2) In addition to the funds appropriated in part 1, funds
+3 appropriated for the department under sections 57, 58, and 59 of
+4 the administrative procedures act of 1969, 1969 PA 306, MCL 24.257,
+5 24.258, and 24.259, and section 203 of the legislative council act,
+6 1986 PA 268, MCL 4.1203, are appropriated for all expenses
+7 necessary to provide for the cost of publication and distribution.
+8 (3) Unexpended funds at the end of the fiscal year carry
+9 forward to the subsequent fiscal year and do not lapse to the
+10 general fund.
+11 Sec. 253. Not later than March 30, the regulatory
+12 effectiveness office shall submit a report to the standard report
+13 recipients that includes the following information:
+14 (a) Legislative recommendations for actions to take to improve
+15 the effectiveness of licensing and regulation, including ideas that
+16 make the licensing environment accessible to more consumers while
+17 maintaining consumer protection.
+18 (b) A plan from the department detailing actions needed to
+19 improve licensing and regulatory effectiveness for consumers and
+20 departmental actions, as well as detailed actions they have already
+21 taken.
+22 (c) The number of new licenses issued by category and number
+23 of those who applied in those categories.
+24 (d) The average turnaround time, in days, for licenses
+25 approved by category.
+26 Sec. 254. (1) Grants supported with private revenues received
+27 by the department are appropriated on receipt and may be expended
+28 by the department for the purposes specified within the grant
+29 agreement and as permitted under state and federal law.
+DAW S01529'25 (S-2) 6z0gv8
+
+31
+1 (2) Not later than 10 days after the receipt of a private
+2 grant appropriated in subsection (1), the department shall notify
+3 the chairpersons of the subcommittees, the senate and house fiscal
+4 agencies, and the state budget office of the receipt of the grant,
+5 including the fund source, purpose, and amount of the grant.
+6 (3) The amount appropriated under subsection (1) must not
+7 exceed $4,000,000.00.
+8 Sec. 255. Unless prohibited by law, the department may accept
+9 credit card or other electronic means of payment for licenses,
+10 fees, or permits.
+11 Sec. 256. The department may carry into the succeeding fiscal
+12 year unexpended federal pass-through funds to local institutions
+13 and governments that do not require additional state matching
+14 funds. Federal pass-through funds to local institutions and
+15 governments that are received in amounts in addition to those
+16 included in part 1 and that do not require additional state
+17 matching funds are appropriated for the purposes intended for the
+18 federal pass-through funds. Not later than 14 days after the
+19 receipt of federal pass-through funds, the department shall notify
+20 the chairpersons of the subcommittees, the senate and house fiscal
+21 agencies, and the state budget office of pass-through funds
+22 appropriated under this section.
+23
+24 PUBLIC SERVICE COMMISSION
+25 Sec. 301. (1) The public service commission administers the
+26 low-income energy assistance grant program on behalf of the
+27 Michigan department of health and human services via an interagency
+28 agreement. Funds supporting the grant program are appropriated to
+29 the department upon the awarding of grants and may be expended for
+DAW S01529'25 (S-2) 6z0gv8
+
+32
+1 grant payments and administrative-related expenses incurred in the
+2 operation of the grant program.
+3 (2) No later than March 30, the public service commission
+4 shall submit a report to the standard report recipients based on
+5 the grants administered, including:
+6 (a) Median annual household income for recipients of the
+7 grant.
+8 (b) Number of grants administered in each county of this
+9 state.
+10 Sec. 302. (1) From the funds appropriated in part 1, the
+11 Michigan public service commission shall conduct at least 1 public
+12 hearing in the Upper Peninsula, 1 public hearing in the northwest
+13 part of the Lower Peninsula, 1 public hearing in the northeast part
+14 of the Lower Peninsula, 1 public hearing in the southeast part of
+15 the Lower Peninsula, and 1 public hearing in the southwest part of
+16 the Lower Peninsula.
+17 (2) Not later than September 30, the Michigan public service
+18 commission shall submit a report to the standard report recipients
+19 that details the outcomes of the public hearings required under
+20 this section and summarizes the public comments that were received
+21 during the public hearings.
+22 Sec. 303. (1) From the funds appropriated in part 1 for the
+23 Michigan public service commission, the department shall designate
+24 1 FTE to assist consumers with utility issues, utility disruption,
+25 or outages.
+26 (2) Not later than September 30, the Michigan public service
+27 commission shall submit a report to the standard report recipients
+28 that details the energy utility rates, including the following
+29 information:
+DAW S01529'25 (S-2) 6z0gv8
+
+33
+1 (a) The average utility cost for residential, commercial, and
+2 industrial consumers in each county by type of utility.
+3 (b) The average utility rates for residential, commercial, and
+4 industrial consumers by utility type in the state.
+5 (c) The most and least expensive utility cost in this state by
+6 type.
+7 (d) The number of utility companies that asked for a rate
+8 increase by company name and whether the rate was approved or not.
+9 (e) The number of utility consumers assisted by the department
+10 for utility disruption, outages, and other utility issues.
+11 (f) The number of complaints received per month in the
+12 previous year.
+13 (g) The commission's plan for statewide affordability using
+14 the data collected in this subsection.
+15 Sec. 304. From the funds appropriated in part 1 for Michigan
+16 Saves, the Michigan public service commission may award a
+17 $3,500,000.00 grant to a nonprofit green bank with experience in
+18 leveraging energy-efficiency and renewable energy improvements, for
+19 the purpose of making such loans more affordable for Michigan
+20 families, businesses, and public entities. Grant funds may be used
+21 to support a loan loss reserve fund or other comparable financial
+22 instrument to further leverage private investment in clean energy
+23 improvements.
+24
+25 LIQUOR CONTROL COMMISSION
+26 Sec. 401. (1) From the funds appropriated in part 1 from the
+27 direct shipper enforcement revolving fund, the liquor control
+28 commission shall expend the funds as required under section 203(11)
+29 of the Michigan liquor control code of 1998, 1998 PA 58, MCL
+DAW S01529'25 (S-2) 6z0gv8
+
+34
+1 436.1203, to investigate and audit unlawful direct shipments of
+2 wine by unlicensed wineries and retailers, with priority directed
+3 toward unlicensed out-of-state retailers and third-party marketers.
+4 In addition to other investigative methods, the commission shall
+5 use shipping records available to the commission under section
+6 203(21) of the Michigan liquor control code of 1998, 1998 PA 58,
+7 MCL 436.1203, to assist with the effort to investigate and audit
+8 unlawful direct shipments of wine by unlicensed wineries and
+9 retailers. The liquor control commission shall refer all identified
+10 unlicensed out-of-state retailers and third-party marketers to the
+11 attorney general.
+12 (2) Not later than February 1, the liquor control commission
+13 shall provide a report to the legislature and the standard report
+14 recipients that details the commission's activities to investigate
+15 and audit the illegal shipping of wine and the results of the
+16 activities. The report must include all of the following:
+17 (a) Work hours spent, specific actions performed, and the
+18 number of full-time equated positions dedicated to identifying and
+19 stopping unlicensed out-of-state retailers, third-party marketers,
+20 and wineries that ship illegally in Michigan.
+21 (b) General overview of expenditures associated with efforts
+22 to identify and stop unlicensed out-of-state retailers, third-party
+23 marketers, and wineries that ship illegally in this state.
+24 (c) Number of out-of-state entities found to have illegally
+25 shipped wine into this state and total number of 750 ml bottles,
+26 number of cases with 750 ml bottles, number of liters, number of
+27 gallons, or weight of illegally shipped wine. These items must be
+28 itemized by total number of retailers and total number of wineries.
+29 (d) Suggested areas of focus on how to address direct shipper
+DAW S01529'25 (S-2) 6z0gv8
+
+35
+1 enforcement and illegal importation in the future.
+2 (e) Number of unlicensed out-of-state entities found to have
+3 illegally shipped wine into this state that were identified with
+4 the shipping records described in subsection (1).
+5 (f) Number of notices sent under subsection (3).
+6 (3) From the funds appropriated in part 1 from the direct
+7 shipper enforcement revolving fund, the liquor control commission
+8 shall send a notice to each unlicensed out-of-state entity found to
+9 have illegally shipped wine into this state. The notice must
+10 include all of the following statements:
+11 (a) That shipping wine into this state by unlicensed out-of-
+12 state retailers and third-party marketers is illegal, and wineries
+13 shipping into this state must obtain a direct shipper license.
+14 (b) That under section 909 of the Michigan liquor control code
+15 of 1998, 1998 PA 58, MCL 436.1909, making unlawful shipments of
+16 wine into this state may be a felony punishable by imprisonment for
+17 not more than 4 years or a fine of not more than $5,000.00, or
+18 both.
+19 (c) That the matter has been referred to the attorney general.
+20
+21 OCCUPATIONAL REGULATION
+22 Sec. 501. The department shall not expend the funds
+23 appropriated under this part and part 1 for the bureau of fire
+24 services unless, in accordance with section 2c of the fire
+25 prevention code, 1941 PA 207, MCL 29.2c, inspection and plan review
+26 fees are charged according to the following fee schedule:
+27 Operation and maintenance inspection fee
+28 Facility type Facility size Fee
+29 Hospitals Any $8.00 per bed
+DAW S01529'25 (S-2) 6z0gv8
+
+36
+1 Facility type Facility size Fee
+2 Nursing Homes Any $5.00 per bed
+3 Facility type Facility size Fee
+4 Homes for the $5.00 per bed
+5 Aged
+6 Facility type Facility size Fee
+7 Adult Foster Care Greater than 6 $5.00 per bed
+8 residents
+9 Plan review and construction inspection fees for
+10 hospitals and schools
+11 Project cost range Fee
+12 $101,000.00 or less minimum fee of $155.00
+13 $101,001.00 to $1,500,000.00 $1.60 per $1,000.00
+14 $1,500,001.00 to $10,000,000.00 $1.30 per $1,000.00
+15 $10,000,001.00 or more $1.10 per $1,000.00
+16 or a maximum fee of $60,000.00.
+17 Sec. 502. The funds collected by the department for licenses,
+18 permits, and other elevator regulation fees under the Michigan
+19 Administrative Code and as determined under section 8 of 1976 PA
+20 333, MCL 338.2158, and section 16 of 1967 PA 227, MCL 408.816, that
+21 are unexpended at the end of the fiscal year carry forward to the
+22 subsequent fiscal year.
+23 Sec. 503. Not later than February 15, the department shall
+24 submit a report to the standard report recipients that provides all
+25 of the following information:
+26 (a) The number of veterans who were separated from service in
+27 the Armed Forces of the United States with an honorable character
+28 of service or under honorable conditions (general) character of
+29 service, individually or if the veteran holds a majority interest
+DAW S01529'25 (S-2) 6z0gv8
+
+37
+1 of a corporation or limited liability company, that were exempted
+2 from paying licensure, registration, filing, or any other fees
+3 collected under each licensure or regulatory program administered
+4 by the bureau of construction codes, the bureau of professional
+5 licensing, and the corporations, securities, and commercial
+6 licensing bureau during the previous fiscal year.
+7 (b) The specific fees and total amount of revenue exempted
+8 under each licensure or regulatory program administered by the
+9 bureau of construction codes, the bureau of professional licensing,
+10 and the corporations, securities, and commercial licensing bureau
+11 during the previous fiscal year.
+12 (c) The actual costs of providing licensing and other
+13 regulatory services to veterans exempted from paying licensure,
+14 registration, filing, or any other fees during the previous fiscal
+15 year and a description of how the actual costs were calculated.
+16 (d) The estimated amount of revenue that will be exempted
+17 under each licensure or regulatory program administered by the
+18 bureau of construction codes, the bureau of professional licensing,
+19 and the corporations, securities, and commercial licensing bureau
+20 in both the current and subsequent fiscal years and a description
+21 of how the exempted revenue was estimated.
+22 Sec. 504. Revenue collected by the department for the bureau
+23 of community and health systems from fees and collections that
+24 exceeds the amount appropriated in part 1 must be carried forward
+25 into the subsequent fiscal year. The revenue carried forward under
+26 this section must be used as the first source of funds in the
+27 subsequent fiscal year.
+28 Sec. 505. (1) To defray the costs associated with responding
+29 to false final inspection appointments and to discourage the
+DAW S01529'25 (S-2) 6z0gv8
+
+38
+1 practice of calling for final inspections when a project is
+2 incomplete or noncompliant with a plan of correction previously
+3 provided by the bureau of fire services, the bureau of fire
+4 services may assess a fee of not more than $800.00 for responding
+5 to a second or subsequent confirmed false inspection appointment.
+6 Fees collected under this section must be deposited into the
+7 restricted account described in section 2c of the fire prevention
+8 code, 1941 PA 207, MCL 29.2c, and explicitly identified within the
+9 statewide integrated governmental management applications system.
+10 (2) Not later than September 30, the department shall submit a
+11 report to the standard report recipients that provides all of the
+12 following:
+13 (a) The amount of the fee assessed under subsection (1).
+14 (b) The number of fees assessed and issued per region.
+15 (c) The cost allocation for the work performed and reduced as
+16 a result of this section.
+17 (d) Any recommendations for consideration by the legislature.
+18 Sec. 506. Not later than November 30, the department shall
+19 submit a report to the standard report recipients on the Michigan
+20 automated prescription system. The report must include, but is not
+21 limited to, all of the following:
+22 (a) The total number of licensed health professionals
+23 registered to the Michigan automated prescription system.
+24 (b) The total number of dispensers registered to the Michigan
+25 automated prescription system.
+26 (c) The total number of prescribers using the Michigan
+27 automated prescription system.
+28 (d) The total number of dispensers using the Michigan
+29 automated prescription system.
+DAW S01529'25 (S-2) 6z0gv8
+
+39
+1 (e) The total number of cases related to overprescribing,
+2 overdispensing, and drug diversion where the department took
+3 administrative action because of information and data generated
+4 from the Michigan automated prescription system.
+5 (f) The total number of hospitals, doctor's offices,
+6 pharmacies, and other health facilities that have integrated the
+7 Michigan automated prescription system into the facility's
+8 electronic health records systems.
+9 (g) The total number of delegate users registered to the
+10 Michigan automated prescription system.
+11 (h) The department's recommendations for electronic health
+12 integration and optimizing data interpretation for the purpose of
+13 advancing utilization practices and ease of consumer use and
+14 interpretation.
+15 Sec. 507. (1) From the funds appropriated in part 1 for bureau
+16 of construction codes, not less than $900,000.00 must be allocated
+17 for additional inspections and enforcement activities related to
+18 the carnival-amusement safety act of 1966, 1966 PA 225, MCL 408.651
+19 to 408.670, and the ski area safety act of 1962, 1962 PA 199, MCL
+20 408.321 to 408.344.
+21 (2) Not later than March 30, the department shall submit a
+22 report to the standard report recipients that details the
+23 allocation of funds under this section. The report must include an
+24 itemized listing of how the funds were used.
+25 Sec. 508. (1) Funds remaining in the homeowner construction
+26 lien recovery fund are appropriated to the department for payment
+27 of court-ordered homeowner construction lien recovery fund
+28 judgments entered before August 23, 2010. Subject to available
+29 funds, the payment of final judgments must be made in the order in
+DAW S01529'25 (S-2) 6z0gv8
+
+40
+1 which the final judgments were entered and began accruing interest.
+2 (2) No later than September 30, the department shall transmit
+3 a report to the standard report recipients that details the
+4 following:
+5 (a) Expenditures from the fund.
+6 (b) Revenue balance of the fund.
+7 (c) Revenue sources for the fund.
+8 (d) Where the expenditures are going.
+9 Sec. 509. From the funds appropriated in part 1 for the bureau
+10 of fire services, in accordance with the requirements under section
+11 21c of the fire prevention code, 1941 PA 207, MCL 29.21c, the
+12 bureau shall perform or work in cooperation with local units of
+13 government to perform inspections at places of public assembly that
+14 pose the highest risk to occupants for injury or fatality based on
+15 the size, density, or the nature of activities performed within the
+16 facility.
+17 Sec. 510. From the funds appropriated in part 1 for bureau of
+18 survey and certification, the department shall submit a report
+19 pertaining to bureau activities, including surveys and
+20 investigations of nursing homes, hospitals, and acute continuing
+21 care providers to the standard report recipients not later than
+22 March 30.
+23 Sec. 511. From the funds appropriated in part 1, the bureau of
+24 construction codes shall submit biannual reports not later than
+25 April 1 and September 30 to the standard report recipients that
+26 include all of the following information:
+27 (a) A description of the specific changes that the bureau
+28 implemented to decrease the average length of time to process
+29 premanufactured unit plan submissions.
+DAW S01529'25 (S-2) 6z0gv8
+
+41
+1 (b) The average length of time to process a premanufactured
+2 unit plan submission in fiscal year 2023-2024.
+3 (c) The average length of time to process a premanufactured
+4 unit plan submission in fiscal year 2024-2025.
+5 (d) The total number of premanufactured unit plans submitted
+6 in fiscal year 2023-2024.
+7 (e) The total number of premanufactured unit plans submitted
+8 in fiscal year 2024-2025.
+9 (f) The total number of premanufactured unit plans submitted
+10 in fiscal year 2025-2026.
+11 Sec. 512. (1) From the funds appropriated in part 1 for the
+12 bureau of construction codes, not less than $500,000.00 must be
+13 allocated to create a database of mobile home park or seasonal
+14 mobile home park owners that includes every owner's contact
+15 information, license number, and current licensing status and any
+16 violations they have. The department must establish a method in
+17 which the public can submit a reporting form regarding potentially
+18 unlicensed owners. This database must be established by March 30.
+19 (2) At least 1.0 FTE must be allocated to assist with mobile
+20 home park resident complaints and issues. No later than September
+21 30, the department must transmit to the standard boilerplate
+22 recipients a report that includes the number of complaints received
+23 and the number of complaints resolved.
+24
+25 CANNABIS REGULATORY AGENCY
+26 Sec. 601. Not later than January 31, the department shall
+27 submit a comprehensive report to the standard report recipients for
+28 all marihuana programs administered by the cannabis regulatory
+29 agency. This report must include, but is not limited to, all of the
+DAW S01529'25 (S-2) 6z0gv8
+
+42
+1 following information for the previous fiscal year regarding the
+2 marihuana programs under the Michigan Medical Marihuana Act, 2008
+3 IL 1, MCL 333.26421 to 333.26430, the medical marihuana facilities
+4 licensing act, 2016 PA 281, MCL 333.27101 to 333.27801, and the
+5 Michigan Regulation and Taxation of Marihuana Act, 2018 IL 1, MCL
+6 333.27951 to 333.27967:
+7 (a) The number of initial applications received, by license
+8 category.
+9 (b) The number of initial applications approved and the number
+10 of initial applications denied, by license category.
+11 (c) The average amount of time, from receipt to approval or
+12 denial, to process an initial application, by license category.
+13 (d) The number of renewal applications approved, by license
+14 category and by county.
+15 (e) The number of renewal applications received, by license
+16 category and by county, if applicable.
+17 (f) The number of renewal applications denied, by license
+18 category and by county.
+19 (g) The average amount of time, from receipt to approval or
+20 denial, to process a renewal application, by license category, if
+21 applicable.
+22 (h) The percentage of initial applications not approved or
+23 denied within the time requirements established in the respective
+24 act, by license category, if applicable.
+25 (i) The percentage of renewal applications not approved or
+26 denied within the time requirements established in the respective
+27 act, by license category, if applicable.
+28 (j) The total amount collected from application fees or
+29 established regulatory assessment and the specific fund the amount
+DAW S01529'25 (S-2) 6z0gv8
+
+43
+1 is deposited into, by license category.
+2 (k) The registered names and addresses of all facilities
+3 licensed under each act, by license category and by county.
+4 (l) The number of complaints received pertaining to each act,
+5 by license type or regulatory activity.
+6 (m) A description of the types of complaints received.
+7 (n) A description of the process used to resolve complaints.
+8 (o) The number of investigations opened pertaining to each
+9 license category.
+10 (p) The number of investigations closed pertaining to each
+11 license category.
+12 (q) The average amount of time to complete investigations
+13 pertaining to each license category.
+14 (r) The number of enforcement actions pertaining to each
+15 license category.
+16 (s) A description of the types of enforcement actions taken
+17 against licensees.
+18 (t) The number of administrative-hearing adjudications
+19 pertaining to each license type.
+20 (u) A list of the fees charged for license applications,
+21 license renewals, and registry cards.
+22 (v) The number of license holders with multiple types of
+23 marihuana licenses, a list of the names of the licensees, and the
+24 status of each of the licenses.
+25 Sec. 602. From the funds appropriated in part 1, the cannabis
+26 regulatory agency shall post on a publicly accessible website a
+27 list of all of the following:
+28 (a) The number of investigative reports that identify
+29 violations of the Michigan Medical Marihuana Act, 2008 IL 1, MCL
+DAW S01529'25 (S-2) 6z0gv8
+
+44
+1 333.26421 to 333.26430, the medical marihuana facilities licensing
+2 act, 2016 PA 281, MCL 333.27101 to 333.27801, or the Michigan
+3 Regulation and Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951
+4 to 333.27967, or violations of administrative rules promulgated
+5 under the Michigan Medical Marihuana Act, 2008 IL 1, MCL 333.26421
+6 to 333.26430, the medical marihuana facilities licensing act, 2016
+7 PA 281, MCL 333.27101 to 333.27801, or the Michigan Regulation and
+8 Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951 to 333.27967.
+9 (b) The number of investigative reports that identify
+10 suspected marihuana product that does not have the tracking numbers
+11 assigned by the statewide monitoring system affixed, tagged, or
+12 labeled as required by law.
+13 (c) The number of complaints filed by the public with the
+14 agency that concern either of the following:
+15 (i) Marihuana product that does not have the tracking numbers
+16 assigned by the statewide monitoring system affixed, tagged, or
+17 labeled as required by law.
+18 (ii) Unlicensed commercial production or sale of delta-8 THC.
+19 (d) The number and outcome of all agency disciplinary
+20 proceedings initiated against any licensee subject to the reports
+21 or complaints in subdivisions (a), (b), and (c).
+22 (e) The number of reports the agency referred to the
+23 department of state police or other appropriate law enforcement
+24 agency.
+25 (f) For any licensee subject to disciplinary proceedings
+26 initiated by the agency:
+27 (i) Name of the licensee.
+28 (ii) Description of the allegation.
+29 (iii) Complaint type.
+DAW S01529'25 (S-2) 6z0gv8
+
+45
+1 (iv) Process used to resolve the allegation.
+2 (v) Name of the law enforcement agency the allegation was
+3 referred to, including the date of the referral.
+4 (vi) Current license status and whether or not the license was
+5 revoked.
+6 (g) The number of licenses revoked.
+7 Sec. 603. (1) Not later than January 31, the department shall
+8 submit a comprehensive report to the standard report recipients for
+9 all hemp programs administered by the cannabis regulatory agency.
+10 The report must include, but is not limited to, all of the
+11 following:
+12 (a) The total amount of fees collected by the cannabis
+13 regulatory agency from regulatory and licensing activities related
+14 to hemp and hemp processor-handlers.
+15 (b) The total cost of administering hemp regulatory and
+16 licensing programs.
+17 (c) The total number of hemp processor-handlers and any other
+18 hemp licensees licensed in this state, by county.
+19 (d) A list and description of any fees that the cannabis
+20 regulatory agency assesses on hemp licensees.
+21 (2) Not later than January 31, the department shall submit a
+22 comprehensive report to the standard report recipients for all hemp
+23 programs administered by the cannabis regulatory agency. The report
+24 must include, but is not limited to, all of the following:
+25 (a) The total amount of fees collected by the cannabis
+26 regulatory agency from regulatory and licensing activities related
+27 to hemp and hemp processor-handlers.
+28 (b) The total cost of administering hemp regulatory and
+29 licensing programs.
+DAW S01529'25 (S-2) 6z0gv8
+
+46
+1 (c) The total number of hemp processor-handlers and any other
+2 hemp licensees licensed in this state, by county.
+3 (d) A list and description of any fees that the cannabis
+4 regulatory agency assesses on hemp licensees.
+5 (e) The number of inspections conducted per year and the
+6 result of each inspection.
+7 (f) The number of hemp license applications and hemp license
+8 approvals per year.
+9 (g) The number of times the agency is contacted to destroy
+10 hemp.
+11
+12 COMMISSIONS
+13 Sec. 801. If Byrne formula grant funding is awarded to the
+14 Michigan indigent defense commission created under section 5 of the
+15 Michigan indigent defense commission act, 2013 PA 93, MCL 780.985,
+16 the Michigan indigent defense commission may receive and expend
+17 Byrne formula grant funds as an interdepartmental grant from the
+18 department of state police. The Michigan indigent defense
+19 commission may receive and expend federal grant funds from the
+20 United States Department of Justice.
+21 Sec. 802. From the funds appropriated in part 1, not later
+22 than March 1, the Michigan indigent defense commission shall submit
+23 a report to the standard report recipients on all of the following
+24 information:
+25 (a) The incremental costs associated with the standard
+26 development process, the compliance plan process, and the
+27 collection of data from all indigent defense systems and attorneys
+28 providing indigent defense. The Michigan indigent defense
+29 commission shall place particular emphasis on the costs that may be
+DAW S01529'25 (S-2) 6z0gv8
+
+47
+1 avoided after standards are developed and compliance plans are in
+2 place.
+3 (b) A detailed explanation of the total cost calculation for
+4 each indigent defense standard and juvenile indigent defense
+5 standard for which grant recipients are receiving state grant
+6 funding. This explanation must include a comprehensive itemization
+7 of the types of costs included for each standard.
+8 (c) An itemized listing of how much funding each grant
+9 recipient is receiving for each indigent defense standard and
+10 juvenile indigent defense standard.
+11 (d) An explanation of the specific causal factors associated
+12 with any increase or decrease of Michigan indigent defense
+13 commission grant funding from the fiscal year 2023-2024 level.
+14 Sec. 803. From the funds appropriated in part 1 for Michigan
+15 indigent defense commission grants, the Michigan indigent defense
+16 commission shall begin the statutory process of developing and
+17 implementing minimum standards for youth defense services. This
+18 process includes the planning and determining needs under the
+19 Michigan indigent defense commission act, 2013 PA 93, MCL 780.981
+20 to 780.1003.
+21 Sec. 804. From the funds appropriated in part 1, the Michigan
+22 indigent defense commission shall notify the standard report
+23 recipients not more than 60 days after the adoption of any new
+24 indigent defense standard. The notification must include an
+25 estimated cost projection to fund the adopted indigent defense
+26 standard for the initial and subsequent fiscal years.
+27
+28 GRANTS
+29 Sec. 901. (1) From the funds appropriated in part 1 for
+DAW S01529'25 (S-2) 6z0gv8
+
+48
+1 marihuana operation and oversight grants, the department shall
+2 expend the funds for grants to counties for education and outreach
+3 programs that relate to the Michigan medical marihuana program and
+4 the adult-use marihuana program, in accordance with section 6(l) of
+5 the Michigan Medical Marihuana Act, 2008 IL 1, MCL 333.26426, and
+6 section 14 of the Michigan Regulation and Taxation of Marihuana
+7 Act, 2018 IL 1, MCL 333.27964. The grant funds may be generated
+8 from application and license fees authorized under section 8(1)(b)
+9 of the Michigan Regulation and Taxation of Marihuana Act, 2018 IL
+10 1, MCL 333.27958. The grants must be distributed proportionately
+11 based on the number of registry identification cards issued to or
+12 renewed for the residents of each county that applied for a grant
+13 under subsection (2). For the purposes of this subsection,
+14 operation and oversight grants are for education, communication,
+15 and outreach regarding the Michigan Medical Marihuana Act, 2008 IL
+16 1, MCL 333.26421 to 333.26430, and the Michigan Regulation and
+17 Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951 to 333.27967.
+18 Grants provided under this section must not be used for law
+19 enforcement purposes.
+20 (2) Not later than December 1, the department shall post a
+21 listing of potential grant funds available to each county on the
+22 department's website. In addition, the department shall work
+23 collaboratively with counties regarding the availability of the
+24 grant funds. A county that requests grant funds shall apply on a
+25 form developed by the department and available on the department's
+26 website. The form must contain the county's specific projected plan
+27 for use of the grant funds and its agreement to maintain all
+28 records and to submit documentation to the department to support
+29 the use of the grant funds.
+DAW S01529'25 (S-2) 6z0gv8
+
+49
+1 (3) To be eligible to receive a grant under subsection (1), a
+2 county shall apply not later than January 1 and submit a report to
+3 the department not later than September 15 on how the grant was
+4 expended. The department shall submit a report to the standard
+5 report recipients not later than October 15 of the subsequent
+6 fiscal year that details the grant amounts by recipient and the
+7 reported uses of the grants in the previous fiscal year and details
+8 the calculation for the amount for which each county was eligible.
+9 Sec. 902. (1) The funds appropriated in part 1 for firefighter
+10 training grants must be expended only for payments to counties to
+11 reimburse organized fire departments for firefighter training and
+12 other activities required under the firefighters training council
+13 act, 1966 PA 291, MCL 29.361 to 29.377.
+14 (2) If the funds appropriated in part 1 for firefighter
+15 training grants are expended by the firefighters training council
+16 created under section 3 of the firefighters training council act,
+17 1966 PA 291, MCL 29.363, for payments to counties under section 14
+18 of the firefighters training council act, 1966 PA 291, MCL 29.374,
+19 all of the following apply to the extent otherwise permissible by
+20 law:
+21 (a) The funds appropriated in part 1 for firefighter training
+22 grants must be allocated in accordance with section 14(2) of the
+23 firefighters training council act, 1966 PA 291, MCL 29.374.
+24 (b) If the funds allocated to any county under subdivision (a)
+25 are less than $5,000.00, the funds allocated to each county under
+26 subdivision (a) must be adjusted to provide for a minimum payment
+27 of $5,000.00 to each county.
+28 (3) Not later than February 1, the department shall submit a
+29 financial report to the standard report recipients that identifies
+DAW S01529'25 (S-2) 6z0gv8
+
+50
+1 all of the following information for the previous fiscal year:
+2 (a) The amount of the payments that would be made to each
+3 county if the distribution formula described in section 14(2) of
+4 the firefighters training council act, 1966 PA 291, MCL 29.374,
+5 would have been utilized to allocate the total amount appropriated
+6 in part 1 for firefighter training grants.
+7 (b) The amount of the payments approved by the firefighters
+8 training council for allocation to each county.
+9 (c) The amount of the payments actually expended or encumbered
+10 within each county.
+11 (d) A description of any other payments or expenditures made
+12 under the authority of the firefighters training council.
+13 (e) The amount of payments approved for allocations to
+14 counties that was not expended or encumbered and lapsed back to the
+15 fireworks safety fund.
+16
+17 ONE-TIME APPROPRIATIONS
+18 Sec. 1001. (1) From the funds appropriated in part 1 for
+19 bureau of fire services – smoke detectors, the bureau of fire
+20 services shall purchase and distribute sealed-battery smoke
+21 detectors to the residents of this state. The bureau of fire
+22 services may purchase smoke detectors with additional capabilities
+23 for individuals with physical or psychological conditions that
+24 require an accommodative technology.
+25 (2) Not later than September 30, the department shall submit a
+26 report to the standard report recipients that contains all of the
+27 following information:
+28 (a) The number of smoke detectors that the bureau of fire
+29 services purchased.
+DAW S01529'25 (S-2) 6z0gv8
+
+51
+1 (b) The per-unit price that the bureau paid for the smoke
+2 detectors.
+3 (c) An itemized list of all cities, villages, or townships
+4 that received smoke detectors and the number of smoke detectors
+5 distributed to each city, village, or township.
+6 Sec. 1002. (1) From the funds appropriated in part 1 for the
+7 cannabis regulatory agency social equity program, the cannabis
+8 regulatory agency shall further develop the program established
+9 under section 8(1)(j) of the Michigan Regulation and Taxation of
+10 Marihuana Act, 2018 IL 1, MCL 333.27958, with all of the following
+11 goals:
+12 (a) To encourage and increase participation in the social
+13 equity program, with particular focus to promote and encourage
+14 participation in the marihuana industry by people from communities
+15 that have been disproportionately impacted by marihuana prohibition
+16 and enforcement.
+17 (b) To establish a minimum number of licensees that are
+18 participating in the social equity program.
+19 (c) To consider the area median income of a community in
+20 designating communities that have been disproportionately impacted
+21 by marihuana prohibition and enforcement.
+22 (2) The cannabis regulatory agency shall post on a publicly
+23 accessible website a list of all of the following:
+24 (a) The number of initial social equity program applications
+25 received, deemed eligible, and deemed ineligible by license
+26 category and reason the applicant was found ineligible.
+27 (b) The number of social equity program initial applications
+28 approved and the number of initial applications denied, by license
+29 category.
+DAW S01529'25 (S-2) 6z0gv8
+
+52
+1 (c) The average amount of time, from receipt to approval or
+2 denial, to process an initial social equity program application, by
+3 license category.
+4 (d) The number of social equity education and outreach
+5 sessions held per month.
+6 (e) Social equity application assistance provided per month.
+7 (f) Demographic information for social equity program
+8 participants that includes the following information:
+9 (i) Gender.
+10 (ii) Age.
+11 (iii) How long participant has been a resident of this state.
+12 (iv) Highest level of education.
+13 (v) Total household income.
+14 (vi) Ethnicity.
+15 (vii) How the participant learned about the social equity
+16 program.
+17 (g) A list of social equity program awardees.
+18 Sec. 1003. From the funds appropriated in part 1 for Michigan
+19 Saves, the Michigan public service commission may award a
+20 $1,000,000.00 grant to Michigan Saves to conduct a grant program
+21 for clean energy improvement and on-site wastewater system
+22 replacement or repair. Michigan Saves should grant funds to
+23 individuals or small businesses within the state who have history
+24 having difficulty obtaining traditional capital or households with
+25 a combined income not exceeding 300% of the federal poverty level
+26 and where businesses indicate a state of financial need or
+27 vulnerability. The amount granted to a single individual or
+28 business must not exceed $100,000.00.
+29 Sec. 1004. From the funds appropriated in part 1 for real
+DAW S01529'25 (S-2) 6z0gv8
+
+53
+1 estate continuing education, the bureau of professional licensing
+2 must expend the funds for grants to the Michigan Realtors
+3 Association to approve and track real estate continuing education
+4 in this state.
+Final Page
+DAW S01529'25 (S-2) 6z0gv8
+
+[DELETED:   S 6 F 1       3  ]
+[DELETED:   S 6N$6        3N$6        4   3      0   0   3   2e$3     3   1   3 $ 3 7  8 2  3   6   7 1  1N$2           1]
+[DELETED:   S 6      3   3   6      9   5   2   1   8   4   3   7   2   3   5   1   2   8   2   3   1   1   6   5   2]
+[DELETED:   S 6   3   4   7   3   2   1   1   1   1   9   6   9   8   5e$2     2     3 2  4N$4           2      3e$3     1  ]
+[DELETED:   S 6 1  1 3  4N$2           3   1   7   8   1e$     9   1  2 1  3 8  1 1  4 1  3 1  1   1N$1              5   2]
+[DELETED:   S 6   8   9   1   4      3   1   3   3   6   1   9   7   8   1   3   3   1   2   4   1   1   5   2   1   1]
+[DELETED:   S 6   2   1   6   6   7   2   5   5   1   9e$3     1   1 $ 3N$3           2   2   2   8e$     1   1 $ 3N$3  ]
+[DELETED:   S 6         2      2   9   8   1   9   4   2   9   2   1e$5     4   2 $ 3   1 2  4N$8           1   8   3e$3    ]
+[DELETED:   S 6  $ 2   9   3   2   6   2N$2           2   9   3   3   6   2e$2      $ 2N$2        1   1      1   9   3]
+[DELETED:   S 6   6      3   1   3   1   5   5   3   5   7   2   3   4   9   2   4   1   1   5   6   2   7   6   2   1   4]
+[DELETED:   S 6   2   4   6   7   2e$1      $ 1   1   1   2N$3           1   2e$2  ]
+[DELETED:   S 6 D M   2 R   6 S (   $ 2   9   3 $ 2]
+[DELETED:   S 6  ]
+[DELETED:   S 6]
+[DELETED:   S 6 ]
+[DELETED:   S 6]
+[DELETED:   S 6 ]
+[DELETED:   S 6]
+[DELETED:   S 6)]
+[DELETED:   S 64()6()0()))]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6))]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6]
+[DELETED:   S 6 P]
+[DELETED:   S 6  ]
+[DELETED:   S 6 L ]
+[DELETED:   S 6     ]
+[DELETED:   S 6     O F F A $]
+[DELETED:   S 6 F F A $ F F $ F F G $ F m $ $ $o]
+[DELETED:   S 6]
+[DELETED:   S 6    ]
+[DELETED:   S 6   ]
+[DELETED:   S 6     ]
+[DELETED:   S 6      C ]
+[DELETED:   S 6           ]
+[DELETED:   S 6           )]
+[DELETED:   S 6    78()))))]
+[DELETED:   S 6i)))]
+[DELETED:   S 6  C ]
+[DELETED:   S 6  G]
+[DELETED:   S 6()]
+[DELETED:   S 6]
+[DELETED:   S 6   O   ]
+[DELETED:   S 6    ]
+[DELETED:   S 6)))))))]
+[DELETED:   S 6]
