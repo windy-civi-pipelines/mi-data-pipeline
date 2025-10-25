@@ -1,0 +1,655 @@
+Title: SENATE BILL NO. 214
+Official Title: SENATE BILL NO. 214
+Number of Sections: 1
+Source: versions - Substitute (S-3) - 2
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1984 PA 270, entitled
+"Michigan strategic fund act,"
+(MCL 125.2001 to 125.2094) by adding sections 9a and 9b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 9a. As used in sections 9b and 9c:
+2 (a) "Strategic advisory board" means the strategic advisory
+3 board created in section 9b.
+4 (b) "Strategic plan" means the strategic plan required under
+5 section 9c(1) and includes an updated strategic plan under section
+6 9c(2).
+7 Sec. 9b. (1) The strategic advisory board is created in the
+8 fund.
+9 (2) The strategic advisory board must consist of the following
+KAS S01171'25 (S-3) b4gqve
+2
+1 members:
+2 (a) The following voting members:
+3 (i) The 4 members elected by the nonvoting members described in
+4 subdivision (b)(i) as described under subsection (12).
+5 (ii) The 4 members elected by the nonvoting members described
+6 in subdivision (b)(ii) as described under subsection (12).
+7 (iii) The 4 members elected by the nonvoting members described
+8 in subdivision (b)(iii) as described under subsection (12).
+9 (iv) The 4 members elected by the nonvoting members described
+10 in subdivision (b)(iv) as described under subsection (12).
+11 (v) The 4 members elected by the nonvoting members described
+12 in subdivision (b)(v) as described under subsection (12).
+13 (vi) The 4 members elected by the nonvoting members described
+14 in subdivision (b)(vi) as described under subsection (12).
+15 (vii) The 4 members elected by the nonvoting members described
+16 in subdivision (b)(vii) as described under subsection (12).
+17 (viii) The 4 members elected by the nonvoting members described
+18 in subdivision (b)(viii) as described under subsection (12).
+19 (b) The following, except as otherwise provided in this
+20 section, nonvoting members, appointed by the governor:
+21 (i) The following nonvoting members with expertise in jobs,
+22 talent acquisition, and small business:
+23 (A) One representative from Traverse Connect.
+24 (B) One representative from Business Leaders for Michigan.
+25 (C) One representative from the Detroit Chamber of Commerce.
+26 (D) One representative from the Upjohn Institute.
+27 (E) One representative from MichBusiness.
+28 (F) One representative from the department of labor and
+KAS S01171'25 (S-3) b4gqve
+3
+1 economic opportunity.
+2 (G) One representative from the Small Business Association of
+3 Michigan.
+4 (H) One representative from Michigan Works!.
+5 (ii) The following nonvoting members with expertise in transit:
+6 (A) One representative from Transportation Riders United.
+7 (B) One transit representative from the Southeast Michigan
+8 Council of Governments.
+9 (C) One representative from The Rapid.
+10 (D) One representative from the Capital Area Transit
+11 Authority.
+12 (E) One representative from SMART.
+13 (F) One representative from the Detroit department of
+14 transportation.
+15 (G) One representative from Michigan Public Transit.
+16 (H) One representative from the state transportation
+17 department.
+18 (I) One representative from the Michigan Transportation Team
+19 Coalition.
+20 (J) One representative from the Michigan Public Transit
+21 Association.
+22 (K) One representative from the Regional Transit Authority.
+23 (iii) The following nonvoting members with expertise in economic
+24 and community development:
+25 (A) One representative from the Northeast Michigan Council of
+26 Governments.
+27 (B) One representative from Lakeshore Advantage.
+28 (C) One representative from The Right Place.
+29 (D) One representative from Saginaw Future.
+KAS S01171'25 (S-3) b4gqve
+4
+1 (E) One representative from Flint and Genesee Economic
+2 Alliance.
+3 (F) One representative from the Lansing Economic Area
+4 Partnership.
+5 (G) One representative from the Cornerstone Alliance.
+6 (H) One representative from Southwest Michigan First.
+7 (I) One representative from the Detroit Economic Growth
+8 Corporation.
+9 (J) One representative from the Detroit Regional Partnership.
+10 (K) One representative from the Michigan Economic Developers
+11 Association.
+12 (L) One representative from the Northern Lakes Economic
+13 Alliance.
+14 (M) One representative from the MEDC.
+15 (N) One representative from the office of global Michigan.
+16 (O) One representative from the Community Economic Development
+17 Association of Michigan.
+18 (P) One representative from Networks Northwest.
+19 (Q) One representative from the Michigan Municipal League.
+20 (R) One representative from the Michigan Townships
+21 Association.
+22 (S) One representative from the Michigan Downtown Association.
+23 (iv) The following nonvoting members with expertise in housing
+24 or utilities services:
+25 (A) One representative from Michigan Future.
+26 (B) One representative from Consumers Energy.
+27 (C) One representative from DTE Energy.
+28 (D) One representative from Macomb County Planning and
+29 Economic Development.
+KAS S01171'25 (S-3) b4gqve
+5
+1 (E) One representative from Oakland County Economic
+2 Development.
+3 (F) One representative from Wayne County.
+4 (G) One representative from the Tribal Government Services and
+5 Policy.
+6 (H) One representative from the Michigan Nature Association.
+7 (I) One representative from Environmental Resource Group.
+8 (J) One representative from the Apartment Association of
+9 Michigan.
+10 (K) One network representative from Community Housing.
+11 (L) One representative from ICCF Community Homes.
+12 (M) One representative from the department of health and human
+13 services.
+14 (N) One representative from the Michigan state housing
+15 development authority created in section 21 of the state housing
+16 development authority act of 1966, 1966 PA 346, MCL 125.1421.
+17 (O) One representative from the Michigan Housing Council.
+18 (P) One representative from the Homebuilders Association of
+19 Michigan.
+20 (v) The following nonvoting members with expertise in
+21 education:
+22 (A) One individual who represents the Michigan Community
+23 College Association.
+24 (B) One individual who is an economics expert from Michigan
+25 State University.
+26 (C) One individual who is an economics expert from the
+27 University of Michigan.
+28 (D) One representative from the Michigan Education
+29 Association.
+KAS S01171'25 (S-3) b4gqve
+6
+1 (E) One representative from the Michigan Association for the
+2 Education of Young Children.
+3 (F) One representative from the Michigan Education Justice
+4 Coalition.
+5 (G) One representative from Michigan Education Technology
+6 Leaders.
+7 (H) One representative from the Michigan Education Research
+8 Institute.
+9 (I) One representative from the Michigan College Access
+10 Network.
+11 (J) One representative from the department of education.
+12 (K) One representative from the department of lifelong
+13 education, advancement, and potential.
+14 (L) One representative from the Michigan Association of School
+15 Boards.
+16 (M) One representative from the Michigan Association of State
+17 Universities.
+18 (N) One representative from Western Michigan University.
+19 (vi) The following nonvoting members with expertise in rural
+20 development:
+21 (A) One representative from Invest UP.
+22 (B) One representative from the Middle Michigan Development
+23 Corporation.
+24 (C) One representative from the Rural Partners of Michigan.
+25 (D) One representative from the Michigan Rural Community
+26 Assistance Program (RCAP).
+27 (E) One representative from the department of agriculture and
+28 rural development.
+29 (F) One representative from the Michigan Rural Development
+KAS S01171'25 (S-3) b4gqve
+7
+1 Council.
+2 (G) One representative from the department of labor and
+3 economic opportunity, office of rural prosperity.
+4 (vii) The following nonvoting members with expertise in
+5 innovation, technology, or manufacturing:
+6 (A) One representative from the Michigan Chamber of Commerce.
+7 (B) One representative from the Ann Arbor Spark.
+8 (C) One representative from Michigan Central.
+9 (D) One representative from Michigan State University Burgess
+10 Institute for Entrepreneurship and Innovation.
+11 (E) One representative from University of Michigan Center for
+12 Innovation.
+13 (F) One representative from ID Ventures.
+14 (G) One representative from Western Michigan University's
+15 Center for Bioscience Research and Commercialization.
+16 (H) One representative from the Michigan Manufacturers
+17 Association.
+18 (I) One representative from the Michigan Incubator
+19 Association.
+20 (J) One representative from Michauto.
+21 (K) An innovation report policy representative of the
+22 Citizen's Research Council.
+23 (viii) The following nonvoting members with expertise in
+24 environmental matters:
+25 (A) One representative from the Michigan Environmental Justice
+26 Coalition.
+27 (B) One representative from the Clearwater Conservation
+28 Committee.
+29 (C) One representative from the Michigan League of
+KAS S01171'25 (S-3) b4gqve
+8
+1 Conservation Voters.
+2 (D) One representative from the Michigan Organic Farm and Food
+3 Alliance.
+4 (E) One representative from the UP Land Conservancy.
+5 (F) One representative from For the Love of Water (FLOW).
+6 (G) One representative from the department of environment,
+7 Great Lakes, and energy.
+8 (H) One representative from the department of natural
+9 resources.
+10 (I) One representative from the Michigan Environmental
+11 Council.
+12 (c) The following nonvoting members, appointed by the
+13 governor:
+14 (i) Two individuals who are experts on national economics.
+15 (ii) Two individuals who are top site-selection consultants.
+16 (iii) Two individuals who are each a leader of a national
+17 economic development organization focused on policy and practice.
+18 (3) The governor shall appoint the first members of the
+19 strategic advisory board within 90 days after the effective date of
+20 the amendatory act that added this section.
+21 (4) The term of a member of the strategic advisory board is 1
+22 year or until a successor is appointed under subsection (2),
+23 whichever is later, but not to exceed the time period it takes the
+24 strategic advisory board to develop the strategic plan in
+25 accordance with section 9c.
+26 (5) If a vacancy occurs on the strategic advisory board, the
+27 governor shall appoint an individual to fill the vacancy for the
+28 balance of the term.
+29 (6) The governor may remove a member of the strategic advisory
+KAS S01171'25 (S-3) b4gqve
+9
+1 board for incompetence, dereliction of duty, malfeasance,
+2 misfeasance, or nonfeasance in office, or any other good cause.
+3 (7) The individuals appointed under subsection (2)(a) shall
+4 call the first meeting of the strategic advisory board. At the
+5 first meeting, the voting members of the strategic advisory board
+6 shall elect a member as a chairperson and may elect other officers
+7 that it considers necessary or appropriate. The strategic advisory
+8 board shall meet at least quarterly, or more frequently at the call
+9 of the chairperson or at the request of 10 or more members.
+10 (8) A majority of the voting members of the strategic advisory
+11 board constitute a quorum for transacting business. A vote in favor
+12 by a majority of the voting members of the strategic advisory board
+13 serving is required for any action of the strategic advisory board.
+14 (9) The strategic advisory board shall conduct its business in
+15 compliance with the open meetings act, 1976 PA 267, MCL 15.261 to
+16 15.275.
+17 (10) A writing that is prepared, owned, used, possessed, or
+18 retained by the strategic advisory board in performing an official
+19 function is subject to the freedom of information act, 1976 PA 442,
+20 MCL 15.231 to 15.246.
+21 (11) A member of the strategic advisory board is not entitled
+22 to compensation for service on the strategic advisory board, but
+23 the strategic advisory board may reimburse a member for actual and
+24 necessary expenses incurred in serving.
+25 (12) Only the voting members of the strategic advisory board
+26 shall develop a strategic plan in accordance with section 9c with
+27 advice and collaboration from the nonvoting members as described in
+28 this section. The nonvoting members shall elect the voting members
+29 under subsection (2)(a) as follows:
+KAS S01171'25 (S-3) b4gqve
+10
+1 (a) The nonvoting members described in subsection (2)(b)(i)
+2 shall elect 4 members to serve as voting members under subsection
+3 (2)(a)(i).
+4 (b) The nonvoting members described in subsection (2)(b)(ii)
+5 shall elect 4 members to serve as voting members under subsection
+6 (2)(a)(ii).
+7 (c) The nonvoting members described in subsection (2)(b)(iii)
+8 shall elect 4 members to serve as voting members under subsection
+9 (2)(a)(iii).
+10 (d) The nonvoting members described in subsection (2)(b)(iv)
+11 shall elect 4 members to serve as voting members under subsection
+12 (2)(a)(iv).
+13 (e) The nonvoting members described in subsection (2)(b)(v)
+14 shall elect 4 members to serve as voting members under subsection
+15 (2)(a)(v).
+16 (f) The nonvoting members described in subsection (2)(b)(vi)
+17 shall elect 4 members to serve as voting members under subsection
+18 (2)(a)(vi).
+19 (g) The nonvoting members described in subsection (2)(b)(vii)
+20 shall elect 4 members to serve as voting members under subsection
+21 (2)(a)(vii).
+22 (h) The nonvoting members described in subsection (2)(b)(viii)
+23 shall elect 4 members to serve as voting members under subsection
+24 (2)(a)(viii).
+25 (13) In addition, the strategic advisory board may do either
+26 of the following:
+27 (a) Take any other action necessary to achieve the purposes of
+28 section 9c.
+KAS S01171'25 (S-3) b4gqve
+11
+1 (b) Perform any other duties or exercise any other powers
+2 assigned to the strategic advisory board by law.
+3 (14) Once the strategic advisory board develops the strategic
+4 plan in accordance with section 9c, the strategic advisory board is
+5 dissolved and shall cease operations.
+6 Enacting section 1. This amendatory act does not take effect
+7 unless Senate Bill No. 213 of the 103rd Legislature is enacted into
+8 law.
+Final Page
+KAS S01171'25 (S-3) b4gqve
+[DELETED:   S b  ]
+[DELETED:   S b )())())())())())())())() )]
+[DELETED:   S b))]
+[DELETED:   S b)]
+[DELETED:   S b)]
+[DELETED:   S b)]
+[DELETED:   S b))]
+[DELETED:   S b)))]
+[DELETED:   S b]
+[DELETED:   S b()()()()()()()()()()()()()()()()]
+[DELETED:   S b   E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 214
+A bill to amend 1984 PA 270, entitled
+"Michigan strategic fund act,"
+(MCL 125.2001 to 125.2094) by adding sections 9a and 9b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 9a. As used in sections 9b and 9c:
+2 (a) "Strategic advisory board" means the strategic advisory
+3 board created in section 9b.
+4 (b) "Strategic plan" means the strategic plan required under
+5 section 9c(1) and includes an updated strategic plan under section
+6 9c(2).
+7 Sec. 9b. (1) The strategic advisory board is created in the
+8 fund.
+9 (2) The strategic advisory board must consist of the following
+KAS S01171'25 (S-3) b4gqve
+
+2
+1 members:
+2 (a) The following voting members:
+3 (i) The 4 members elected by the nonvoting members described in
+4 subdivision (b)(i) as described under subsection (12).
+5 (ii) The 4 members elected by the nonvoting members described
+6 in subdivision (b)(ii) as described under subsection (12).
+7 (iii) The 4 members elected by the nonvoting members described
+8 in subdivision (b)(iii) as described under subsection (12).
+9 (iv) The 4 members elected by the nonvoting members described
+10 in subdivision (b)(iv) as described under subsection (12).
+11 (v) The 4 members elected by the nonvoting members described
+12 in subdivision (b)(v) as described under subsection (12).
+13 (vi) The 4 members elected by the nonvoting members described
+14 in subdivision (b)(vi) as described under subsection (12).
+15 (vii) The 4 members elected by the nonvoting members described
+16 in subdivision (b)(vii) as described under subsection (12).
+17 (viii) The 4 members elected by the nonvoting members described
+18 in subdivision (b)(viii) as described under subsection (12).
+19 (b) The following, except as otherwise provided in this
+20 section, nonvoting members, appointed by the governor:
+21 (i) The following nonvoting members with expertise in jobs,
+22 talent acquisition, and small business:
+23 (A) One representative from Traverse Connect.
+24 (B) One representative from Business Leaders for Michigan.
+25 (C) One representative from the Detroit Chamber of Commerce.
+26 (D) One representative from the Upjohn Institute.
+27 (E) One representative from MichBusiness.
+28 (F) One representative from the department of labor and
+KAS S01171'25 (S-3) b4gqve
+
+3
+1 economic opportunity.
+2 (G) One representative from the Small Business Association of
+3 Michigan.
+4 (H) One representative from Michigan Works!.
+5 (ii) The following nonvoting members with expertise in transit:
+6 (A) One representative from Transportation Riders United.
+7 (B) One transit representative from the Southeast Michigan
+8 Council of Governments.
+9 (C) One representative from The Rapid.
+10 (D) One representative from the Capital Area Transit
+11 Authority.
+12 (E) One representative from SMART.
+13 (F) One representative from the Detroit department of
+14 transportation.
+15 (G) One representative from Michigan Public Transit.
+16 (H) One representative from the state transportation
+17 department.
+18 (I) One representative from the Michigan Transportation Team
+19 Coalition.
+20 (J) One representative from the Michigan Public Transit
+21 Association.
+22 (K) One representative from the Regional Transit Authority.
+23 (iii) The following nonvoting members with expertise in economic
+24 and community development:
+25 (A) One representative from the Northeast Michigan Council of
+26 Governments.
+27 (B) One representative from Lakeshore Advantage.
+28 (C) One representative from The Right Place.
+29 (D) One representative from Saginaw Future.
+KAS S01171'25 (S-3) b4gqve
+
+4
+1 (E) One representative from Flint and Genesee Economic
+2 Alliance.
+3 (F) One representative from the Lansing Economic Area
+4 Partnership.
+5 (G) One representative from the Cornerstone Alliance.
+6 (H) One representative from Southwest Michigan First.
+7 (I) One representative from the Detroit Economic Growth
+8 Corporation.
+9 (J) One representative from the Detroit Regional Partnership.
+10 (K) One representative from the Michigan Economic Developers
+11 Association.
+12 (L) One representative from the Northern Lakes Economic
+13 Alliance.
+14 (M) One representative from the MEDC.
+15 (N) One representative from the office of global Michigan.
+16 (O) One representative from the Community Economic Development
+17 Association of Michigan.
+18 (P) One representative from Networks Northwest.
+19 (Q) One representative from the Michigan Municipal League.
+20 (R) One representative from the Michigan Townships
+21 Association.
+22 (S) One representative from the Michigan Downtown Association.
+23 (iv) The following nonvoting members with expertise in housing
+24 or utilities services:
+25 (A) One representative from Michigan Future.
+26 (B) One representative from Consumers Energy.
+27 (C) One representative from DTE Energy.
+28 (D) One representative from Macomb County Planning and
+29 Economic Development.
+KAS S01171'25 (S-3) b4gqve
+
+5
+1 (E) One representative from Oakland County Economic
+2 Development.
+3 (F) One representative from Wayne County.
+4 (G) One representative from the Tribal Government Services and
+5 Policy.
+6 (H) One representative from the Michigan Nature Association.
+7 (I) One representative from Environmental Resource Group.
+8 (J) One representative from the Apartment Association of
+9 Michigan.
+10 (K) One network representative from Community Housing.
+11 (L) One representative from ICCF Community Homes.
+12 (M) One representative from the department of health and human
+13 services.
+14 (N) One representative from the Michigan state housing
+15 development authority created in section 21 of the state housing
+16 development authority act of 1966, 1966 PA 346, MCL 125.1421.
+17 (O) One representative from the Michigan Housing Council.
+18 (P) One representative from the Homebuilders Association of
+19 Michigan.
+20 (v) The following nonvoting members with expertise in
+21 education:
+22 (A) One individual who represents the Michigan Community
+23 College Association.
+24 (B) One individual who is an economics expert from Michigan
+25 State University.
+26 (C) One individual who is an economics expert from the
+27 University of Michigan.
+28 (D) One representative from the Michigan Education
+29 Association.
+KAS S01171'25 (S-3) b4gqve
+
+6
+1 (E) One representative from the Michigan Association for the
+2 Education of Young Children.
+3 (F) One representative from the Michigan Education Justice
+4 Coalition.
+5 (G) One representative from Michigan Education Technology
+6 Leaders.
+7 (H) One representative from the Michigan Education Research
+8 Institute.
+9 (I) One representative from the Michigan College Access
+10 Network.
+11 (J) One representative from the department of education.
+12 (K) One representative from the department of lifelong
+13 education, advancement, and potential.
+14 (L) One representative from the Michigan Association of School
+15 Boards.
+16 (M) One representative from the Michigan Association of State
+17 Universities.
+18 (N) One representative from Western Michigan University.
+19 (vi) The following nonvoting members with expertise in rural
+20 development:
+21 (A) One representative from Invest UP.
+22 (B) One representative from the Middle Michigan Development
+23 Corporation.
+24 (C) One representative from the Rural Partners of Michigan.
+25 (D) One representative from the Michigan Rural Community
+26 Assistance Program (RCAP).
+27 (E) One representative from the department of agriculture and
+28 rural development.
+29 (F) One representative from the Michigan Rural Development
+KAS S01171'25 (S-3) b4gqve
+
+7
+1 Council.
+2 (G) One representative from the department of labor and
+3 economic opportunity, office of rural prosperity.
+4 (vii) The following nonvoting members with expertise in
+5 innovation, technology, or manufacturing:
+6 (A) One representative from the Michigan Chamber of Commerce.
+7 (B) One representative from the Ann Arbor Spark.
+8 (C) One representative from Michigan Central.
+9 (D) One representative from Michigan State University Burgess
+10 Institute for Entrepreneurship and Innovation.
+11 (E) One representative from University of Michigan Center for
+12 Innovation.
+13 (F) One representative from ID Ventures.
+14 (G) One representative from Western Michigan University's
+15 Center for Bioscience Research and Commercialization.
+16 (H) One representative from the Michigan Manufacturers
+17 Association.
+18 (I) One representative from the Michigan Incubator
+19 Association.
+20 (J) One representative from Michauto.
+21 (K) An innovation report policy representative of the
+22 Citizen's Research Council.
+23 (viii) The following nonvoting members with expertise in
+24 environmental matters:
+25 (A) One representative from the Michigan Environmental Justice
+26 Coalition.
+27 (B) One representative from the Clearwater Conservation
+28 Committee.
+29 (C) One representative from the Michigan League of
+KAS S01171'25 (S-3) b4gqve
+
+8
+1 Conservation Voters.
+2 (D) One representative from the Michigan Organic Farm and Food
+3 Alliance.
+4 (E) One representative from the UP Land Conservancy.
+5 (F) One representative from For the Love of Water (FLOW).
+6 (G) One representative from the department of environment,
+7 Great Lakes, and energy.
+8 (H) One representative from the department of natural
+9 resources.
+10 (I) One representative from the Michigan Environmental
+11 Council.
+12 (c) The following nonvoting members, appointed by the
+13 governor:
+14 (i) Two individuals who are experts on national economics.
+15 (ii) Two individuals who are top site-selection consultants.
+16 (iii) Two individuals who are each a leader of a national
+17 economic development organization focused on policy and practice.
+18 (3) The governor shall appoint the first members of the
+19 strategic advisory board within 90 days after the effective date of
+20 the amendatory act that added this section.
+21 (4) The term of a member of the strategic advisory board is 1
+22 year or until a successor is appointed under subsection (2),
+23 whichever is later, but not to exceed the time period it takes the
+24 strategic advisory board to develop the strategic plan in
+25 accordance with section 9c.
+26 (5) If a vacancy occurs on the strategic advisory board, the
+27 governor shall appoint an individual to fill the vacancy for the
+28 balance of the term.
+29 (6) The governor may remove a member of the strategic advisory
+KAS S01171'25 (S-3) b4gqve
+
+9
+1 board for incompetence, dereliction of duty, malfeasance,
+2 misfeasance, or nonfeasance in office, or any other good cause.
+3 (7) The individuals appointed under subsection (2)(a) shall
+4 call the first meeting of the strategic advisory board. At the
+5 first meeting, the voting members of the strategic advisory board
+6 shall elect a member as a chairperson and may elect other officers
+7 that it considers necessary or appropriate. The strategic advisory
+8 board shall meet at least quarterly, or more frequently at the call
+9 of the chairperson or at the request of 10 or more members.
+10 (8) A majority of the voting members of the strategic advisory
+11 board constitute a quorum for transacting business. A vote in favor
+12 by a majority of the voting members of the strategic advisory board
+13 serving is required for any action of the strategic advisory board.
+14 (9) The strategic advisory board shall conduct its business in
+15 compliance with the open meetings act, 1976 PA 267, MCL 15.261 to
+16 15.275.
+17 (10) A writing that is prepared, owned, used, possessed, or
+18 retained by the strategic advisory board in performing an official
+19 function is subject to the freedom of information act, 1976 PA 442,
+20 MCL 15.231 to 15.246.
+21 (11) A member of the strategic advisory board is not entitled
+22 to compensation for service on the strategic advisory board, but
+23 the strategic advisory board may reimburse a member for actual and
+24 necessary expenses incurred in serving.
+25 (12) Only the voting members of the strategic advisory board
+26 shall develop a strategic plan in accordance with section 9c with
+27 advice and collaboration from the nonvoting members as described in
+28 this section. The nonvoting members shall elect the voting members
+29 under subsection (2)(a) as follows:
+KAS S01171'25 (S-3) b4gqve
+
+10
+1 (a) The nonvoting members described in subsection (2)(b)(i)
+2 shall elect 4 members to serve as voting members under subsection
+3 (2)(a)(i).
+4 (b) The nonvoting members described in subsection (2)(b)(ii)
+5 shall elect 4 members to serve as voting members under subsection
+6 (2)(a)(ii).
+7 (c) The nonvoting members described in subsection (2)(b)(iii)
+8 shall elect 4 members to serve as voting members under subsection
+9 (2)(a)(iii).
+10 (d) The nonvoting members described in subsection (2)(b)(iv)
+11 shall elect 4 members to serve as voting members under subsection
+12 (2)(a)(iv).
+13 (e) The nonvoting members described in subsection (2)(b)(v)
+14 shall elect 4 members to serve as voting members under subsection
+15 (2)(a)(v).
+16 (f) The nonvoting members described in subsection (2)(b)(vi)
+17 shall elect 4 members to serve as voting members under subsection
+18 (2)(a)(vi).
+19 (g) The nonvoting members described in subsection (2)(b)(vii)
+20 shall elect 4 members to serve as voting members under subsection
+21 (2)(a)(vii).
+22 (h) The nonvoting members described in subsection (2)(b)(viii)
+23 shall elect 4 members to serve as voting members under subsection
+24 (2)(a)(viii).
+25 (13) In addition, the strategic advisory board may do either
+26 of the following:
+27 (a) Take any other action necessary to achieve the purposes of
+28 section 9c.
+KAS S01171'25 (S-3) b4gqve
+
+11
+1 (b) Perform any other duties or exercise any other powers
+2 assigned to the strategic advisory board by law.
+3 (14) Once the strategic advisory board develops the strategic
+4 plan in accordance with section 9c, the strategic advisory board is
+5 dissolved and shall cease operations.
+6 Enacting section 1. This amendatory act does not take effect
+7 unless Senate Bill No. 213 of the 103rd Legislature is enacted into
+8 law.
+Final Page
+KAS S01171'25 (S-3) b4gqve
+
+[DELETED:   S b  ]
+[DELETED:   S b )())())())())())())())() )]
+[DELETED:   S b))]
+[DELETED:   S b)]
+[DELETED:   S b)]
+[DELETED:   S b)]
+[DELETED:   S b))]
+[DELETED:   S b)))]
+[DELETED:   S b]
+[DELETED:   S b()()()()()()()()()()()()()()()()]
+[DELETED:   S b   E u l]

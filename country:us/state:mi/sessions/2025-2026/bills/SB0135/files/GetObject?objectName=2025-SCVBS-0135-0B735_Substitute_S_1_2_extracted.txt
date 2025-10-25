@@ -1,0 +1,665 @@
+Title: SENATE BILL NO. 135
+Official Title: SENATE BILL NO. 135
+Number of Sections: 3
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1956 PA 218, entitled
+"The insurance code of 1956,"
+by amending sections 3403, 3406z, 3406bb, 3406hh, and 3406ii (MCL
+
+Section 2:
+500.3403, 500.3406z, 500.3406bb, 500.3406hh, and 500.3406ii),
+
+Section 3:
+section 3403 as amended by 2023 PA 158, section 3406z as added by
+2023 PA 159, section 3406bb as added by 2023 PA 160, section 3406hh
+as added by 2024 PA 41, and section 3406ii as added by 2023 PA 157.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3403. (1) An insurer that delivers, issues for delivery,
+2 or renews in this state a health insurance policy that makes
+3 dependent coverage available under the health insurance policy
+4 shall do all of the following:
+5 (a) Make available dependent coverage, at the option of the
+DAW S02032'25 (S-1) uen9rt
+2
+1 policyholder, until the dependent has attained 26 years of age.
+2 (b) Provide the same health insurance benefits to a dependent
+3 child that are available to any other covered dependent.
+4 (c) Provide health insurance benefits to a dependent child at
+5 the same rate or premium applicable to any other covered dependent.
+6 (d) Include both of the following provisions in the health
+7 insurance policy:
+8 (i) That the health insurance benefits applicable for children
+9 are payable with respect to a newly born child of the insured from
+10 the moment of birth.
+11 (ii) That the coverage for newly born children consists of
+12 coverage of injury or sickness including the necessary care and
+13 treatment of medically diagnosed congenital defects and birth
+14 abnormalities.
+15 (2) A health insurance policy that offers dependent coverage
+16 shall not deny enrollment to an insured's child on any of the
+17 following grounds:
+18 (a) The child was born out of wedlock.
+19 (b) The child is not claimed as a dependent on the insured's
+20 federal income tax return.
+21 (c) The child does not reside with the insured or in the
+22 insurer's service area.
+23 (3) This section does not require an insurer or plan to make
+24 coverage available for a child of a child receiving dependent
+25 coverage.
+26 (4) This section does not apply to retiree-only health
+27 insurance coverage.
+28 Sec. 3406z. (1) An insurer that delivers, issues for delivery,
+29 or renews in this state a health insurance policy shall not
+DAW S02032'25 (S-1) uen9rt
+3
+1 institute either of the following:
+2 (a) Lifetime limits on the dollar value of essential health
+3 benefit coverage under section 3406bb(1).
+4 (b) Annual limits on the dollar value of essential health
+5 benefit coverage under section 3406bb(1).
+6 (2) This section does not prevent an insurer from placing
+7 annual or lifetime dollar limits with respect to any individual on
+8 specific covered benefits that are not essential health benefits to
+9 the extent that the limits are otherwise permitted under applicable
+10 federal or state law.
+11 (3) This section does not apply to grandfathered health plan
+12 coverage, as that term is defined in 45 CFR 147.140, retiree-only
+13 health insurance coverage, or to a short-term or 1-time limited
+14 duration policy or certificate of not longer than 6 months.
+15 Sec. 3406bb. (1) An insurer that delivers, issues for
+16 delivery, or renews in the individual or small group market in this
+17 state a health insurance policy shall provide coverage for all of
+18 the following:
+19 (a) Ambulatory patient services.
+20 (b) Emergency services.
+21 (c) Hospitalization.
+22 (d) Pregnancy, maternity, and newborn care.
+23 (e) Mental health and substance use disorder services,
+24 including behavioral health treatment.
+25 (f) Prescription drugs.
+26 (g) Rehabilitative and habilitative services and devices.
+27 (h) Laboratory services.
+28 (i) Preventive and wellness services and chronic disease
+29 management identified by the director as meeting a requirement
+DAW S02032'25 (S-1) uen9rt
+4
+1 under this subdivision. Coverage for an item or service is not
+2 required under this subdivision unless the item or service is 1 or
+3 more of the following:
+4 (i) Evidence-based items or services if the United States
+5 Preventive Services Task Force has rated the item or service as "A"
+6 or "B" for the purposes of its recommendations currently in effect
+7 with respect to the individual involved.
+8 (ii) An immunization with routine use in children, adolescents,
+9 and adults if the Advisory Committee on Immunization Practices of
+10 the United States Centers for Disease Control and Prevention has
+11 included the immunization for the purposes of its recommendations
+12 with respect to the individual involved.
+13 (iii) With respect to infants, children, and adolescents,
+14 evidence-informed preventive care and screenings if the United
+15 States Health Resources and Services Administration has included
+16 the care or screening for the purposes of its guidelines.
+17 (iv) With respect to women, preventive care and screenings not
+18 described in subparagraph (i) if the United States Health Resources
+19 and Services Administration has included the care or screening for
+20 the purposes of its guidelines.
+21 (j) Pediatric services, including oral and vision care.
+22 Pediatric oral care, as required under this subdivision, is not
+23 required if an insured has dental insurance from another source and
+24 provides evidence of the coverage to the insurer.
+25 (2) Except as otherwise allowed under 45 CFR 147.130
+26 (a)(2)(i),(ii), and (iii), an insurer that delivers, issues for
+27 delivery, or renews in this state a health insurance policy shall
+28 not impose any cost-sharing requirements for benefits provided
+29 under subsection (1)(i).
+DAW S02032'25 (S-1) uen9rt
+5
+1 (3) Benefits provided under subsection (1) are subject to all
+2 requirements applicable to those benefits under this chapter.
+3 (4) This section does not limit the requirements to provide
+4 additional benefits under this chapter.
+5 (5) This section does not require an insurer that has a
+6 network of providers to provide benefits for items or services
+7 described in subsection (1) that are delivered by an out-of-network
+8 provider or preclude an insurer that has a network of providers
+9 from imposing cost-sharing requirements for items or services
+10 described in subsection (1) that are delivered by an out-of-network
+11 provider. If an insurer does not have in its network a provider who
+12 can provide an item or service described in subsection (1), the
+13 insurer must cover the item or service when performed by an out-of-
+14 network provider, and may not impose cost sharing with respect to
+15 the item or service.
+16 (6) This section does not prevent an insurer from using
+17 reasonable medical management techniques to determine the
+18 frequency, method, treatment, or setting for an item or service
+19 described in subsection (1) to the extent not specified in the
+20 relevant recommendation or guideline. To the extent not specified
+21 in a recommendation or guideline, an insurer may rely on the
+22 relevant clinical evidence base and established reasonable medical
+23 management techniques to determine the frequency, method,
+24 treatment, or setting for coverage of a recommended preventive
+25 health service.
+26 (7) This section does not require an insurer to cover items of
+27 the United States Preventive Services Task Force that have been
+28 downgraded to a "D" rating, or any item or service during the plan
+29 year that is subject to a safety recall or is otherwise determined
+DAW S02032'25 (S-1) uen9rt
+6
+1 to pose a significant safety concern by a federal agency authorized
+2 to regulate the item or service.
+3 (8) This section does not apply to a short-term or 1-time
+4 limited duration policy or certificate of not more than 6 months as
+5 described in section 2213b, or to a grandfathered health plan
+6 coverage as that term is defined in 45 CFR 147.140, non-
+7 grandfathered health plan coverage, or retiree-only health
+8 insurance coverage.
+9 (9) Any changes to the items and services required under
+10 subsection (1)(i) must take effect for the plan year that begins on
+11 or after the date that is 1 year after the date the recommendation
+12 or guideline is issued.
+13 (10) As used in this section, "non-grandfathered health plan
+14 coverage" means individual and small group transitional insurance
+15 plans that have been afforded additional time to comply with
+16 certain market reform provisions of the affordable care act, Public
+17 Law 111-148, as amended by the health care and education
+18 reconciliation act of 2010, Public Law 111-152, and as specified
+19 annually by the director, until the Centers for Medicare and
+20 Medicaid Services requires these plans to come into full compliance
+21 with the affordable care act.
+22 Sec. 3406hh. (1) An insurer that delivers, issues for
+23 delivery, or renews in this state a health insurance policy shall
+24 provide coverage for mental health and substance use disorder
+25 services. All of the following apply to the coverage required under
+26 this subsection:
+27 (a) Any financial requirements or quantitative treatment
+28 limitations applicable to mental health and substance use disorder
+29 benefits in any classification must be no more restrictive than the
+DAW S02032'25 (S-1) uen9rt
+7
+1 predominant financial requirements or quantitative treatment
+2 limitations applied to substantially all benefits provided for
+3 medical/surgical benefits in the same classification and there must
+4 be no separate cumulative financial requirements that are
+5 applicable only with respect to mental health or substance use
+6 disorder benefits.
+7 (b) Except as otherwise provided in subsections (3) and (4),
+8 nonquantitative treatment limitations may be imposed on mental
+9 health or substance use disorder benefits in any classification
+10 only if the processes, strategies, evidentiary standards, or other
+11 factors used in developing and applying the nonquantitative
+12 treatment limitation to mental health or substance use disorder
+13 benefits in the same classification are comparable to, and are
+14 applied no more stringently than, the processes, strategies,
+15 evidentiary standards, or other factors used in developing and
+16 applying the limitation with respect to medical/surgical benefits
+17 in the same classification.
+18 (c) The insurer may divide its benefits furnished on an
+19 outpatient basis into the following subclassifications:
+20 (i) Office visits, such as physician visits.
+21 (ii) Any other outpatient benefit, such as outpatient surgery,
+22 facility charges for day treatment centers, laboratory charges, and
+23 other medical items.
+24 (2) Benefits provided under subsection (1) must meet all
+25 applicable federal parity requirements, including, but not limited
+26 to, 42 USC 300gg-26 and the regulations promulgated under that
+27 section. An insurer that meets the federal parity requirements
+28 described in this subsection is considered to meet the requirements
+29 under subsection (1) if the federal parity requirements are not
+DAW S02032'25 (S-1) uen9rt
+8
+1 less stringent than the requirements under subsection (1).
+2 (3) If a health insurance policy provides benefits through
+3 multiple tiers of in-network providers, including an in-network
+4 tier of preferred providers with more generous cost-sharing to
+5 participants than a separate in-network tier of participating
+6 providers, the health plan may divide its benefits provided on an
+7 in-network basis into subclassifications that reflect network
+8 tiers, if the tiering is based on reasonable factors determined in
+9 accordance with the requirements for nonquantitative treatment
+10 limits limitations and without regard to whether a provider
+11 provides services with respect to medical and surgical benefits or
+12 mental health or substance use disorder benefits. After the
+13 subclassifications are established, the health insurance policy
+14 must not impose any financial requirement or treatment limitation
+15 on mental health or substance use disorder benefits in any
+16 subclassification that is more restrictive than the predominant
+17 financial requirement or treatment limit that applies to
+18 substantially all medical and surgical benefits in the
+19 subclassification.
+20 (4) If a health insurance policy applies different levels of
+21 financial requirements to different tiers of prescription drug
+22 benefits that are based on reasonable factors determined in
+23 accordance with the requirements for nonquantitative treatment
+24 limits limitations and without regard to whether a drug is
+25 generally prescribed with respect to medical and surgical benefits
+26 or with respect to mental health or substance use disorder
+27 benefits, the health plan satisfies the parity requirements of this
+28 section with respect to prescription drug benefits. As used in this
+29 subsection, "reasonable factors" include cost, efficacy, generic
+DAW S02032'25 (S-1) uen9rt
+9
+1 versus brand name drugs, and mail order versus pharmacy pick-up.
+2 (5) This section does not apply to retiree-only health
+3 insurance coverage.
+4 (6)(5) As used in this section:
+5 (a) "Classification" means any 1 of the following:
+6 (i) Inpatient in-network.
+7 (ii) Inpatient out-of-network.
+8 (iii) Outpatient in-network.
+9 (iv) Outpatient out-of-network.
+10 (v) Emergency services.
+11 (vi) Prescription drugs.
+12 (b) "Financial requirements" means deductibles, copayments,
+13 coinsurance, and out-of-pocket maximums. Financial requirements do
+14 not include aggregate lifetime or annual dollar limits.
+15 (c) "Nonquantitative treatment limitations" means those
+16 limitations that are not expressed numerically but otherwise limit
+17 the scope or duration of benefits for treatment under a health
+18 insurance policy or coverage and includes, but is not limited to,
+19 the limitations described under 45 CFR 146.136. Nonquantitative
+20 treatment limitations do not include a complete exclusion of all
+21 benefits for a certain condition or disorder.
+22 (d) "Predominant" means that term as defined in 45 CFR
+23 146.136.
+24 (e) "Quantitative treatment limitations" includes limitations
+25 that are expressed numerically, such as limits on benefits based on
+26 the frequency of treatment, number of visits, days of coverage,
+27 days in a waiting period, or other similar limits on the scope or
+28 duration of treatment, and includes, but is not limited to, the
+29 limitations described under 45 CFR 146.136. Quantitative treatment
+DAW S02032'25 (S-1) uen9rt
+10
+1 limitations do not include a complete exclusion of all benefits for
+2 a certain condition or disorder.
+3 (f) "Substantially all" means that term as defined in 45 CFR
+4 146.136.
+5 Sec. 3406ii. (1) An insurer that delivers, issues for
+6 delivery, or renews in this state a health insurance policy shall
+7 not limit or exclude coverage for an individual by imposing a
+8 preexisting condition exclusion on the individual.
+9 (2) This section does not apply to any of the following:
+10 (a) Grandfathered health plan coverage, as that term is
+11 defined in 45 CFR 147.140.
+12 (b) Insurance coverage that provides benefits for any of the
+13 following:
+14 (i) Hospital confinement indemnity or other fixed indemnity as
+15 that term is described in 45 CFR 148.220(b)(4).
+16 (ii) Disability income.
+17 (iii) Accident only.
+18 (iv) Long-term care.
+19 (v) Medicare supplemental.
+20 (vi) Limited benefit health.
+21 (vii) Specified disease indemnity.
+22 (viii) Sickness or bodily injury, or death by accident, or both.
+23 (ix) Retiree-only health insurance coverage.
+24 (x) Stand-alone dental plans.
+25 (xi) Stand-alone vision plans.
+26 (xii) Other limited benefit policies.
+27 (xiii) A short-term or 1-time limited duration policy or
+28 certificate of not longer than 6 months as described in section
+DAW S02032'25 (S-1) uen9rt
+11
+1 2213b.
+2 (c) Non-grandfathered health plan coverage as that term is
+3 defined in section 3406bb.
+4 (3) As used in this section, "preexisting condition exclusion"
+5 means a limitation or exclusion of benefits or a denial of coverage
+6 based on the fact that a physical or mental condition was present
+7 before the effective date of coverage or before the date coverage
+8 is denied, whether or not any medical advice, diagnosis, care, or
+9 treatment was recommended or received for the condition before the
+10 date of coverage or denial of coverage.
+Final Page
+DAW S02032'25 (S-1) uen9rt
+[DELETED:   S u S o d s (]
+[DELETED:   S u p ( c ( t ( i () a t () c t a ( s f ( ( f ( i ( c c S o]
+[DELETED:   S u i ( b ( b ( a s t f ( c o d. S d s t ( ( ( ( ( i ( ( ( ( m]
+[DELETED:   S u u r m () P o w () a t i w () e S t () d() a t ( P r p ( (()()()iii d n u]
+[DELETED:   S u ( r ( a ( n d p f d p c i n t ( r f d r i r m t h ( t d y]
+[DELETED:   S u t t ( l ddp e,  e . ( s o o  S d p s t ( l b]
+[DELETED:   S u p l m b a d ( n h o f t b a e a i ( o () () f o ( a t s d u]
+[DELETED:   S u l ( m t p p i t a l a p m s m o s f s s ( f b a l a g o b s s]
+[DELETED:   S u v  ( ( () () () () () () ( c n ( l t i t t b ( 1 ( t t d d l]
+[DELETED:   S u l a ( 1 S d n p ( ( d. ( f () . () () () () () () () () () () ())]
+[DELETED:   S u   ( m b b i t d]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 135
+A bill to amend 1956 PA 218, entitled
+"The insurance code of 1956,"
+by amending sections 3403, 3406z, 3406bb, 3406hh, and 3406ii (MCL
+500.3403, 500.3406z, 500.3406bb, 500.3406hh, and 500.3406ii),
+section 3403 as amended by 2023 PA 158, section 3406z as added by
+2023 PA 159, section 3406bb as added by 2023 PA 160, section 3406hh
+as added by 2024 PA 41, and section 3406ii as added by 2023 PA 157.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3403. (1) An insurer that delivers, issues for delivery,
+2 or renews in this state a health insurance policy that makes
+3 dependent coverage available under the health insurance policy
+4 shall do all of the following:
+5 (a) Make available dependent coverage, at the option of the
+DAW S02032'25 (S-1) uen9rt
+
+2
+1 policyholder, until the dependent has attained 26 years of age.
+2 (b) Provide the same health insurance benefits to a dependent
+3 child that are available to any other covered dependent.
+4 (c) Provide health insurance benefits to a dependent child at
+5 the same rate or premium applicable to any other covered dependent.
+6 (d) Include both of the following provisions in the health
+7 insurance policy:
+8 (i) That the health insurance benefits applicable for children
+9 are payable with respect to a newly born child of the insured from
+10 the moment of birth.
+11 (ii) That the coverage for newly born children consists of
+12 coverage of injury or sickness including the necessary care and
+13 treatment of medically diagnosed congenital defects and birth
+14 abnormalities.
+15 (2) A health insurance policy that offers dependent coverage
+16 shall not deny enrollment to an insured's child on any of the
+17 following grounds:
+18 (a) The child was born out of wedlock.
+19 (b) The child is not claimed as a dependent on the insured's
+20 federal income tax return.
+21 (c) The child does not reside with the insured or in the
+22 insurer's service area.
+23 (3) This section does not require an insurer or plan to make
+24 coverage available for a child of a child receiving dependent
+25 coverage.
+26 (4) This section does not apply to retiree-only health
+27 insurance coverage.
+28 Sec. 3406z. (1) An insurer that delivers, issues for delivery,
+29 or renews in this state a health insurance policy shall not
+DAW S02032'25 (S-1) uen9rt
+
+3
+1 institute either of the following:
+2 (a) Lifetime limits on the dollar value of essential health
+3 benefit coverage under section 3406bb(1).
+4 (b) Annual limits on the dollar value of essential health
+5 benefit coverage under section 3406bb(1).
+6 (2) This section does not prevent an insurer from placing
+7 annual or lifetime dollar limits with respect to any individual on
+8 specific covered benefits that are not essential health benefits to
+9 the extent that the limits are otherwise permitted under applicable
+10 federal or state law.
+11 (3) This section does not apply to grandfathered health plan
+12 coverage, as that term is defined in 45 CFR 147.140, retiree-only
+13 health insurance coverage, or to a short-term or 1-time limited
+14 duration policy or certificate of not longer than 6 months.
+15 Sec. 3406bb. (1) An insurer that delivers, issues for
+16 delivery, or renews in the individual or small group market in this
+17 state a health insurance policy shall provide coverage for all of
+18 the following:
+19 (a) Ambulatory patient services.
+20 (b) Emergency services.
+21 (c) Hospitalization.
+22 (d) Pregnancy, maternity, and newborn care.
+23 (e) Mental health and substance use disorder services,
+24 including behavioral health treatment.
+25 (f) Prescription drugs.
+26 (g) Rehabilitative and habilitative services and devices.
+27 (h) Laboratory services.
+28 (i) Preventive and wellness services and chronic disease
+29 management identified by the director as meeting a requirement
+DAW S02032'25 (S-1) uen9rt
+
+4
+1 under this subdivision. Coverage for an item or service is not
+2 required under this subdivision unless the item or service is 1 or
+3 more of the following:
+4 (i) Evidence-based items or services if the United States
+5 Preventive Services Task Force has rated the item or service as "A"
+6 or "B" for the purposes of its recommendations currently in effect
+7 with respect to the individual involved.
+8 (ii) An immunization with routine use in children, adolescents,
+9 and adults if the Advisory Committee on Immunization Practices of
+10 the United States Centers for Disease Control and Prevention has
+11 included the immunization for the purposes of its recommendations
+12 with respect to the individual involved.
+13 (iii) With respect to infants, children, and adolescents,
+14 evidence-informed preventive care and screenings if the United
+15 States Health Resources and Services Administration has included
+16 the care or screening for the purposes of its guidelines.
+17 (iv) With respect to women, preventive care and screenings not
+18 described in subparagraph (i) if the United States Health Resources
+19 and Services Administration has included the care or screening for
+20 the purposes of its guidelines.
+21 (j) Pediatric services, including oral and vision care.
+22 Pediatric oral care, as required under this subdivision, is not
+23 required if an insured has dental insurance from another source and
+24 provides evidence of the coverage to the insurer.
+25 (2) Except as otherwise allowed under 45 CFR 147.130
+26 (a)(2)(i),(ii), and (iii), an insurer that delivers, issues for
+27 delivery, or renews in this state a health insurance policy shall
+28 not impose any cost-sharing requirements for benefits provided
+29 under subsection (1)(i).
+DAW S02032'25 (S-1) uen9rt
+
+5
+1 (3) Benefits provided under subsection (1) are subject to all
+2 requirements applicable to those benefits under this chapter.
+3 (4) This section does not limit the requirements to provide
+4 additional benefits under this chapter.
+5 (5) This section does not require an insurer that has a
+6 network of providers to provide benefits for items or services
+7 described in subsection (1) that are delivered by an out-of-network
+8 provider or preclude an insurer that has a network of providers
+9 from imposing cost-sharing requirements for items or services
+10 described in subsection (1) that are delivered by an out-of-network
+11 provider. If an insurer does not have in its network a provider who
+12 can provide an item or service described in subsection (1), the
+13 insurer must cover the item or service when performed by an out-of-
+14 network provider, and may not impose cost sharing with respect to
+15 the item or service.
+16 (6) This section does not prevent an insurer from using
+17 reasonable medical management techniques to determine the
+18 frequency, method, treatment, or setting for an item or service
+19 described in subsection (1) to the extent not specified in the
+20 relevant recommendation or guideline. To the extent not specified
+21 in a recommendation or guideline, an insurer may rely on the
+22 relevant clinical evidence base and established reasonable medical
+23 management techniques to determine the frequency, method,
+24 treatment, or setting for coverage of a recommended preventive
+25 health service.
+26 (7) This section does not require an insurer to cover items of
+27 the United States Preventive Services Task Force that have been
+28 downgraded to a "D" rating, or any item or service during the plan
+29 year that is subject to a safety recall or is otherwise determined
+DAW S02032'25 (S-1) uen9rt
+
+6
+1 to pose a significant safety concern by a federal agency authorized
+2 to regulate the item or service.
+3 (8) This section does not apply to a short-term or 1-time
+4 limited duration policy or certificate of not more than 6 months as
+5 described in section 2213b, or to a grandfathered health plan
+6 coverage as that term is defined in 45 CFR 147.140, non-
+7 grandfathered health plan coverage, or retiree-only health
+8 insurance coverage.
+9 (9) Any changes to the items and services required under
+10 subsection (1)(i) must take effect for the plan year that begins on
+11 or after the date that is 1 year after the date the recommendation
+12 or guideline is issued.
+13 (10) As used in this section, "non-grandfathered health plan
+14 coverage" means individual and small group transitional insurance
+15 plans that have been afforded additional time to comply with
+16 certain market reform provisions of the affordable care act, Public
+17 Law 111-148, as amended by the health care and education
+18 reconciliation act of 2010, Public Law 111-152, and as specified
+19 annually by the director, until the Centers for Medicare and
+20 Medicaid Services requires these plans to come into full compliance
+21 with the affordable care act.
+22 Sec. 3406hh. (1) An insurer that delivers, issues for
+23 delivery, or renews in this state a health insurance policy shall
+24 provide coverage for mental health and substance use disorder
+25 services. All of the following apply to the coverage required under
+26 this subsection:
+27 (a) Any financial requirements or quantitative treatment
+28 limitations applicable to mental health and substance use disorder
+29 benefits in any classification must be no more restrictive than the
+DAW S02032'25 (S-1) uen9rt
+
+7
+1 predominant financial requirements or quantitative treatment
+2 limitations applied to substantially all benefits provided for
+3 medical/surgical benefits in the same classification and there must
+4 be no separate cumulative financial requirements that are
+5 applicable only with respect to mental health or substance use
+6 disorder benefits.
+7 (b) Except as otherwise provided in subsections (3) and (4),
+8 nonquantitative treatment limitations may be imposed on mental
+9 health or substance use disorder benefits in any classification
+10 only if the processes, strategies, evidentiary standards, or other
+11 factors used in developing and applying the nonquantitative
+12 treatment limitation to mental health or substance use disorder
+13 benefits in the same classification are comparable to, and are
+14 applied no more stringently than, the processes, strategies,
+15 evidentiary standards, or other factors used in developing and
+16 applying the limitation with respect to medical/surgical benefits
+17 in the same classification.
+18 (c) The insurer may divide its benefits furnished on an
+19 outpatient basis into the following subclassifications:
+20 (i) Office visits, such as physician visits.
+21 (ii) Any other outpatient benefit, such as outpatient surgery,
+22 facility charges for day treatment centers, laboratory charges, and
+23 other medical items.
+24 (2) Benefits provided under subsection (1) must meet all
+25 applicable federal parity requirements, including, but not limited
+26 to, 42 USC 300gg-26 and the regulations promulgated under that
+27 section. An insurer that meets the federal parity requirements
+28 described in this subsection is considered to meet the requirements
+29 under subsection (1) if the federal parity requirements are not
+DAW S02032'25 (S-1) uen9rt
+
+8
+1 less stringent than the requirements under subsection (1).
+2 (3) If a health insurance policy provides benefits through
+3 multiple tiers of in-network providers, including an in-network
+4 tier of preferred providers with more generous cost-sharing to
+5 participants than a separate in-network tier of participating
+6 providers, the health plan may divide its benefits provided on an
+7 in-network basis into subclassifications that reflect network
+8 tiers, if the tiering is based on reasonable factors determined in
+9 accordance with the requirements for nonquantitative treatment
+10 limits limitations and without regard to whether a provider
+11 provides services with respect to medical and surgical benefits or
+12 mental health or substance use disorder benefits. After the
+13 subclassifications are established, the health insurance policy
+14 must not impose any financial requirement or treatment limitation
+15 on mental health or substance use disorder benefits in any
+16 subclassification that is more restrictive than the predominant
+17 financial requirement or treatment limit that applies to
+18 substantially all medical and surgical benefits in the
+19 subclassification.
+20 (4) If a health insurance policy applies different levels of
+21 financial requirements to different tiers of prescription drug
+22 benefits that are based on reasonable factors determined in
+23 accordance with the requirements for nonquantitative treatment
+24 limits limitations and without regard to whether a drug is
+25 generally prescribed with respect to medical and surgical benefits
+26 or with respect to mental health or substance use disorder
+27 benefits, the health plan satisfies the parity requirements of this
+28 section with respect to prescription drug benefits. As used in this
+29 subsection, "reasonable factors" include cost, efficacy, generic
+DAW S02032'25 (S-1) uen9rt
+
+9
+1 versus brand name drugs, and mail order versus pharmacy pick-up.
+2 (5) This section does not apply to retiree-only health
+3 insurance coverage.
+4 (6)(5) As used in this section:
+5 (a) "Classification" means any 1 of the following:
+6 (i) Inpatient in-network.
+7 (ii) Inpatient out-of-network.
+8 (iii) Outpatient in-network.
+9 (iv) Outpatient out-of-network.
+10 (v) Emergency services.
+11 (vi) Prescription drugs.
+12 (b) "Financial requirements" means deductibles, copayments,
+13 coinsurance, and out-of-pocket maximums. Financial requirements do
+14 not include aggregate lifetime or annual dollar limits.
+15 (c) "Nonquantitative treatment limitations" means those
+16 limitations that are not expressed numerically but otherwise limit
+17 the scope or duration of benefits for treatment under a health
+18 insurance policy or coverage and includes, but is not limited to,
+19 the limitations described under 45 CFR 146.136. Nonquantitative
+20 treatment limitations do not include a complete exclusion of all
+21 benefits for a certain condition or disorder.
+22 (d) "Predominant" means that term as defined in 45 CFR
+23 146.136.
+24 (e) "Quantitative treatment limitations" includes limitations
+25 that are expressed numerically, such as limits on benefits based on
+26 the frequency of treatment, number of visits, days of coverage,
+27 days in a waiting period, or other similar limits on the scope or
+28 duration of treatment, and includes, but is not limited to, the
+29 limitations described under 45 CFR 146.136. Quantitative treatment
+DAW S02032'25 (S-1) uen9rt
+
+10
+1 limitations do not include a complete exclusion of all benefits for
+2 a certain condition or disorder.
+3 (f) "Substantially all" means that term as defined in 45 CFR
+4 146.136.
+5 Sec. 3406ii. (1) An insurer that delivers, issues for
+6 delivery, or renews in this state a health insurance policy shall
+7 not limit or exclude coverage for an individual by imposing a
+8 preexisting condition exclusion on the individual.
+9 (2) This section does not apply to any of the following:
+10 (a) Grandfathered health plan coverage, as that term is
+11 defined in 45 CFR 147.140.
+12 (b) Insurance coverage that provides benefits for any of the
+13 following:
+14 (i) Hospital confinement indemnity or other fixed indemnity as
+15 that term is described in 45 CFR 148.220(b)(4).
+16 (ii) Disability income.
+17 (iii) Accident only.
+18 (iv) Long-term care.
+19 (v) Medicare supplemental.
+20 (vi) Limited benefit health.
+21 (vii) Specified disease indemnity.
+22 (viii) Sickness or bodily injury, or death by accident, or both.
+23 (ix) Retiree-only health insurance coverage.
+24 (x) Stand-alone dental plans.
+25 (xi) Stand-alone vision plans.
+26 (xii) Other limited benefit policies.
+27 (xiii) A short-term or 1-time limited duration policy or
+28 certificate of not longer than 6 months as described in section
+DAW S02032'25 (S-1) uen9rt
+
+11
+1 2213b.
+2 (c) Non-grandfathered health plan coverage as that term is
+3 defined in section 3406bb.
+4 (3) As used in this section, "preexisting condition exclusion"
+5 means a limitation or exclusion of benefits or a denial of coverage
+6 based on the fact that a physical or mental condition was present
+7 before the effective date of coverage or before the date coverage
+8 is denied, whether or not any medical advice, diagnosis, care, or
+9 treatment was recommended or received for the condition before the
+10 date of coverage or denial of coverage.
+Final Page
+DAW S02032'25 (S-1) uen9rt
+
+[DELETED:   S u S o d s (]
+[DELETED:   S u p ( c ( t ( i () a t () c t a ( s f ( ( f ( i ( c c S o]
+[DELETED:   S u i ( b ( b ( a s t f ( c o d. S d s t ( ( ( ( ( i ( ( ( ( m]
+[DELETED:   S u u r m () P o w () a t i w () e S t () d() a t ( P r p ( (()()()iii d n u]
+[DELETED:   S u ( r ( a ( n d p f d p c i n t ( r f d r i r m t h ( t d y]
+[DELETED:   S u t t ( l ddp e,  e . ( s o o  S d p s t ( l b]
+[DELETED:   S u p l m b a d ( n h o f t b a e a i ( o () () f o ( a t s d u]
+[DELETED:   S u l ( m t p p i t a l a p m s m o s f s s ( f b a l a g o b s s]
+[DELETED:   S u v  ( ( () () () () () () ( c n ( l t i t t b ( 1 ( t t d d l]
+[DELETED:   S u l a ( 1 S d n p ( ( d. ( f () . () () () () () () () () () () ())]
+[DELETED:   S u   ( m b b i t d]

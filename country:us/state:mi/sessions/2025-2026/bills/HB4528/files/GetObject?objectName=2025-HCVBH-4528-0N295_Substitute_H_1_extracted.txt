@@ -1,0 +1,106 @@
+Title: HOUSE BILL NO. 4528
+Official Title: HOUSE BILL NO. 4528
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1927 PA 175, entitled
+"The code of criminal procedure,"
+by amending section 17b of chapter XVII (MCL 777.17b), as added by
+2002 PA 28.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER XVII
+2 Sec. 17b. This chapter applies to the following felonies
+3 enumerated in chapter 752 of the Michigan Compiled Laws:
+4 M.C.L. Category Class Description Stat Max
+LEP H01723'25 a (H-1) nu1c0i
+2
+1 752.53(3) Person C Driver approaching 15
+2 pedestrian crossing in
+3 grossly negligent
+4 manner causing the
+5 death of a blind
+6 pedestrian
+7 752.53(4) Property E Driver approaching 5
+8 pedestrian crossing in
+9 grossly negligent
+10 manner causing the
+11 death of a blind
+12 pedestrian's service
+13 animal
+14 752.272a(2)(c) Pub saf F Sale or distribution 4
+15 752.272a(4)(c) of nitrous oxide
+16 device — 2 or more
+17 prior convictions
+18 752.365(3) Pub ord G Obscenity — subsequent 2
+19 offense
+20 752.541 Pub saf D Riot 10
+21 752.542 Pub saf D Incitement to riot 10
+22 752.542a Pub saf D Riot in state 10
+23 correctional
+24 facilities
+25 752.543 Pub saf G Unlawful assembly 5
+26 Enacting section 1. This amendatory act does not take effect
+27 unless House Bill No. 4527 of the 103rd Legislature is enacted into
+28 law.
+Final Page
+LEP H01723'25 a (H-1) nu1c0i
+[DELETED:   H n M.CyCsDnS   ]
+[DELETED:   H n 7 PnCD 1 p g m d p 7 P E D 5 p g m d p a  7)P F S 4o P G O 2 P D R 1 P D I 1 P D R 1 P G U 5]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4528
+A bill to amend 1927 PA 175, entitled
+"The code of criminal procedure,"
+by amending section 17b of chapter XVII (MCL 777.17b), as added by
+2002 PA 28.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER XVII
+2 Sec. 17b. This chapter applies to the following felonies
+3 enumerated in chapter 752 of the Michigan Compiled Laws:
+4 M.C.L. Category Class Description Stat Max
+LEP H01723'25 a (H-1) nu1c0i
+
+2
+1 752.53(3) Person C Driver approaching 15
+2 pedestrian crossing in
+3 grossly negligent
+4 manner causing the
+5 death of a blind
+6 pedestrian
+7 752.53(4) Property E Driver approaching 5
+8 pedestrian crossing in
+9 grossly negligent
+10 manner causing the
+11 death of a blind
+12 pedestrian's service
+13 animal
+14 752.272a(2)(c) Pub saf F Sale or distribution 4
+15 752.272a(4)(c) of nitrous oxide
+16 device — 2 or more
+17 prior convictions
+18 752.365(3) Pub ord G Obscenity — subsequent 2
+19 offense
+20 752.541 Pub saf D Riot 10
+21 752.542 Pub saf D Incitement to riot 10
+22 752.542a Pub saf D Riot in state 10
+23 correctional
+24 facilities
+25 752.543 Pub saf G Unlawful assembly 5
+26 Enacting section 1. This amendatory act does not take effect
+27 unless House Bill No. 4527 of the 103rd Legislature is enacted into
+28 law.
+Final Page
+LEP H01723'25 a (H-1) nu1c0i
+
+[DELETED:   H n M.CyCsDnS   ]
+[DELETED:   H n 7 PnCD 1 p g m d p 7 P E D 5 p g m d p a  7)P F S 4o P G O 2 P D R 1 P D I 1 P D R 1 P G U 5]

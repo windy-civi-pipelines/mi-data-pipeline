@@ -1,0 +1,366 @@
+Title: HOUSE BILL NO. 4037
+Official Title: HOUSE BILL NO. 4037
+Number of Sections: 1
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 2501 and 2505 (MCL 333.2501 and 333.2505), as
+added by 2006 PA 137, and by adding section 2508.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2501. As used in this part:
+2 (a) "Commission" means the health information technology
+3 commission created under section 2503.
+4 (b) "Department" means the department of community health and
+5 human services.
+6 (c) "Health data utility" means a system that is operated by
+7 the health information exchange and that does all of the following:
+8 (i) Combines and facilitates the exchange of disparate clinical
+LEP H00858'25 (H-2) 1zno9s
+2
+1 and other health data for treatment, care coordination, quality
+2 improvement, population health, public health emergencies, and
+3 other public health and community health purposes.
+4 (ii) Provides trusted data sharing organizations identified
+5 under subparagraph (vi) with access to data to support care
+6 coordination among participants.
+7 (iii) Provides a variety of technical services from which a
+8 participant may select to allow for the exchange of information
+9 using multiple modalities, including, but not limited to, query
+10 searches and push notifications.
+11 (iv) Promotes interoperability between health care entities,
+12 this state, and other participants.
+13 (v) Is patient-centered and market-driven.
+14 (vi) Identifies trusted data sharing organizations and only
+15 allows those organizations to access and submit data.
+16 (vii) Ensures that the access to and submission of data
+17 complies with the laws of this state and federal laws related to
+18 health information.
+19 (d) "Health information exchange" means the nonprofit entity
+20 that operates an inclusive health information technology
+21 infrastructure in this state that serves as a health data
+22 aggregator and that is enabled to collect, normalize, and share
+23 disparate health data content from a diverse set of health data
+24 sources.
+25 Sec. 2505. (1) The commission shall, in consultation with the
+26 department, do each of the following:
+27 (a) Develop and maintain a strategic plan in accordance with
+28 subsection (2) to guide the implementation of an interoperable
+29 health information technology system data utility that will reduce
+LEP H00858'25 (H-2) 1zno9s
+3
+1 reduces medical errors, improve improves quality of care, and
+2 produce produces greater value for health care expenditures.
+3 (b) Identify critical technical, scientific, economic, and
+4 other critical issues affecting the public and private adoption of
+5 health information technology.
+6 (c) Provide recommendations on policies and measures necessary
+7 to achieve widespread adoption of health information technology.
+8 (d) Increase the public's understanding of health information
+9 technology.
+10 (e) Promote more efficient and effective communication among
+11 multiple health care providers, including, but not limited to,
+12 hospitals, physicians, payers, employers, pharmacies, laboratories,
+13 and any other health care related entity.
+14 (f) Identify strategies to improve the ability to monitor
+15 community health status.
+16 (g) Develop or design any other initiatives in furtherance of
+17 the commission's purpose.
+18 (h) Annually, report and make recommendations to the
+19 chairpersons of the standing committees of the house of
+20 representatives and senate with jurisdiction over issues pertaining
+21 to community health and information technology, the house of
+22 representatives and senate appropriations subcommittees on
+23 community health and information technology, and the senate and
+24 house fiscal agencies.
+25 (i) Perform any and all other activities in furtherance of the
+26 above the actions under subdivisions (a) to (h) or as directed by
+27 the department or the department of information technology,
+28 technology, management, and budget, or both.
+29 (2) The strategic plan developed pursuant to under subsection
+LEP H00858'25 (H-2) 1zno9s
+4
+1 (1)(a) shall must include, at a minimum, each of the following:
+2 (a) The development or adoption of health care information
+3 technology standards and strategies.
+4 (b) The ability to base medical decisions on the availability
+5 of information at the time and place of care.
+6 (c) The use of evidence-based medical care.
+7 (d) Measures to protect the privacy and security of personal
+8 health information.
+9 (e) Measures to prevent unauthorized access to health
+10 information.
+11 (f) Measures to ensure accurate patient identification.
+12 (g) Methods to facilitate secure patient access to health
+13 information.
+14 (h) Measures to reduce health care costs by addressing
+15 inefficiencies, redundancy in data capture and storage, medical
+16 errors, inappropriate care, incomplete information, and
+17 administrative, billing, and data collection costs.
+18 (i) Incorporating health information technology into the
+19 provision of care and the organization of the health care
+20 workplace.
+21 (j) The ability to identify priority areas in which health
+22 information technology can provide benefits to consumers and a
+23 recommended timeline for implementation.
+24 (k) Measurable outcomes.
+25 Sec. 2508. (1) In accordance with the management and budget
+26 act, 1984 PA 431, MCL 18.1101 to 18.1594, and no later than March
+27 1, 2026, a request for proposal must be issued to select an
+28 established, Michigan-based health information exchange that
+29 operates throughout this state to operate a health data utility in
+LEP H00858'25 (H-2) 1zno9s
+5
+1 this state. At a minimum, the request for proposal and any
+2 resulting contract must require the health information exchange to
+3 comply with all the federal laws and the laws of this state that
+4 pertain to cyber security and data protection.
+5 (2) The health information exchange selected under subsection
+6 (1) must meet all of the following requirements:
+7 (a) Is able to route relevant real-time data throughout this
+8 state.
+9 (b) Is able to allow health-focused programs access to
+10 relevant data to improve health care services in compliance with
+11 federal law and the laws of this state.
+12 (c) Is able to improve the quality of health care in this
+13 state by increasing public health monitoring efforts, incorporating
+14 public health data into electronic records, and allowing for the
+15 coordination of care in clinical and social decision-making
+16 efforts.
+17 (d) Complies with all applicable federal laws and the laws of
+18 this state regarding standards-based health data exchange,
+19 including, but not limited to, adherence to cybersecurity and data
+20 protection requirements required by law.
+21 (e) Has a governing board with representatives that have
+22 expertise in public health or are associated with the department,
+23 the commission, a hospital, a health plan, a human services
+24 organization, a physician organization, or a pharmacy.
+25 (f) Maintains a high-level of cybersecurity standards,
+26 including, but not limited to, a certification from HITRUST
+27 Alliance or a similar certification that, through a third-party
+28 assessment, requires an organization to demonstrate compliance with
+29 Common Security Framework (CSF) and requires adherence to industry
+LEP H00858'25 (H-2) 1zno9s
+6
+1 best practices and standards.
+2 (g) Is a nonprofit, Michigan-based health information exchange
+3 that operates throughout this state and has technical connections
+4 to a significant percentage of health care providers, public health
+5 agencies, and payors in this state.
+6 (h) Has a technology infrastructure that includes all of the
+7 following to provide a high-level of protection of patient data:
+8 (i) Advanced identity management.
+9 (ii) Patient consent management that allows the patient to
+10 manage the patient's consent practices.
+11 (iii) Patient matching.
+12 (iv) Strict audit logs and role-based access controls that
+13 include, but are not limited to, both of the following protections
+14 for all patients:
+15 (A) The ability to request an accounting of disclosures.
+16 (B) Access to reporting mechanisms to review data access logs.
+17 (i) Provides all patients, through a clear and conspicuous
+18 process, the ability to opt out of data sharing through the health
+19 data utility at any time.
+20 (j) On the request of a patient or, if a patient is unable to
+21 participate in medical treatment decisions, the patient's patient
+22 advocate, provides the patient or the patient advocate, at no cost,
+23 with a record of the disclosures of protected health information
+24 that were made during the 6 years preceding the request.
+Final Page
+LEP H00858'25 (H-2) 1zno9s
+[DELETED:   H 1 S ( c ( .)]
+[DELETED:   H 1)())) ) ) )  S   ( s h t]
+[DELETED:   H 1 i m q p g ( o h ( t ( t ( m h a e ( c ( t ( c r t r c h ( a o t o ( s]
+[DELETED:   H 1 ( i ( t ( o ( ( h ( i ( ( i ( i e a ( p w ( i r (]
+[DELETED:   H 1]
+[DELETED:   H 1))))  ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4037
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 2501 and 2505 (MCL 333.2501 and 333.2505), as
+added by 2006 PA 137, and by adding section 2508.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2501. As used in this part:
+2 (a) "Commission" means the health information technology
+3 commission created under section 2503.
+4 (b) "Department" means the department of community health and
+5 human services.
+6 (c) "Health data utility" means a system that is operated by
+7 the health information exchange and that does all of the following:
+8 (i) Combines and facilitates the exchange of disparate clinical
+LEP H00858'25 (H-2) 1zno9s
+
+2
+1 and other health data for treatment, care coordination, quality
+2 improvement, population health, public health emergencies, and
+3 other public health and community health purposes.
+4 (ii) Provides trusted data sharing organizations identified
+5 under subparagraph (vi) with access to data to support care
+6 coordination among participants.
+7 (iii) Provides a variety of technical services from which a
+8 participant may select to allow for the exchange of information
+9 using multiple modalities, including, but not limited to, query
+10 searches and push notifications.
+11 (iv) Promotes interoperability between health care entities,
+12 this state, and other participants.
+13 (v) Is patient-centered and market-driven.
+14 (vi) Identifies trusted data sharing organizations and only
+15 allows those organizations to access and submit data.
+16 (vii) Ensures that the access to and submission of data
+17 complies with the laws of this state and federal laws related to
+18 health information.
+19 (d) "Health information exchange" means the nonprofit entity
+20 that operates an inclusive health information technology
+21 infrastructure in this state that serves as a health data
+22 aggregator and that is enabled to collect, normalize, and share
+23 disparate health data content from a diverse set of health data
+24 sources.
+25 Sec. 2505. (1) The commission shall, in consultation with the
+26 department, do each of the following:
+27 (a) Develop and maintain a strategic plan in accordance with
+28 subsection (2) to guide the implementation of an interoperable
+29 health information technology system data utility that will reduce
+LEP H00858'25 (H-2) 1zno9s
+
+3
+1 reduces medical errors, improve improves quality of care, and
+2 produce produces greater value for health care expenditures.
+3 (b) Identify critical technical, scientific, economic, and
+4 other critical issues affecting the public and private adoption of
+5 health information technology.
+6 (c) Provide recommendations on policies and measures necessary
+7 to achieve widespread adoption of health information technology.
+8 (d) Increase the public's understanding of health information
+9 technology.
+10 (e) Promote more efficient and effective communication among
+11 multiple health care providers, including, but not limited to,
+12 hospitals, physicians, payers, employers, pharmacies, laboratories,
+13 and any other health care related entity.
+14 (f) Identify strategies to improve the ability to monitor
+15 community health status.
+16 (g) Develop or design any other initiatives in furtherance of
+17 the commission's purpose.
+18 (h) Annually, report and make recommendations to the
+19 chairpersons of the standing committees of the house of
+20 representatives and senate with jurisdiction over issues pertaining
+21 to community health and information technology, the house of
+22 representatives and senate appropriations subcommittees on
+23 community health and information technology, and the senate and
+24 house fiscal agencies.
+25 (i) Perform any and all other activities in furtherance of the
+26 above the actions under subdivisions (a) to (h) or as directed by
+27 the department or the department of information technology,
+28 technology, management, and budget, or both.
+29 (2) The strategic plan developed pursuant to under subsection
+LEP H00858'25 (H-2) 1zno9s
+
+4
+1 (1)(a) shall must include, at a minimum, each of the following:
+2 (a) The development or adoption of health care information
+3 technology standards and strategies.
+4 (b) The ability to base medical decisions on the availability
+5 of information at the time and place of care.
+6 (c) The use of evidence-based medical care.
+7 (d) Measures to protect the privacy and security of personal
+8 health information.
+9 (e) Measures to prevent unauthorized access to health
+10 information.
+11 (f) Measures to ensure accurate patient identification.
+12 (g) Methods to facilitate secure patient access to health
+13 information.
+14 (h) Measures to reduce health care costs by addressing
+15 inefficiencies, redundancy in data capture and storage, medical
+16 errors, inappropriate care, incomplete information, and
+17 administrative, billing, and data collection costs.
+18 (i) Incorporating health information technology into the
+19 provision of care and the organization of the health care
+20 workplace.
+21 (j) The ability to identify priority areas in which health
+22 information technology can provide benefits to consumers and a
+23 recommended timeline for implementation.
+24 (k) Measurable outcomes.
+25 Sec. 2508. (1) In accordance with the management and budget
+26 act, 1984 PA 431, MCL 18.1101 to 18.1594, and no later than March
+27 1, 2026, a request for proposal must be issued to select an
+28 established, Michigan-based health information exchange that
+29 operates throughout this state to operate a health data utility in
+LEP H00858'25 (H-2) 1zno9s
+
+5
+1 this state. At a minimum, the request for proposal and any
+2 resulting contract must require the health information exchange to
+3 comply with all the federal laws and the laws of this state that
+4 pertain to cyber security and data protection.
+5 (2) The health information exchange selected under subsection
+6 (1) must meet all of the following requirements:
+7 (a) Is able to route relevant real-time data throughout this
+8 state.
+9 (b) Is able to allow health-focused programs access to
+10 relevant data to improve health care services in compliance with
+11 federal law and the laws of this state.
+12 (c) Is able to improve the quality of health care in this
+13 state by increasing public health monitoring efforts, incorporating
+14 public health data into electronic records, and allowing for the
+15 coordination of care in clinical and social decision-making
+16 efforts.
+17 (d) Complies with all applicable federal laws and the laws of
+18 this state regarding standards-based health data exchange,
+19 including, but not limited to, adherence to cybersecurity and data
+20 protection requirements required by law.
+21 (e) Has a governing board with representatives that have
+22 expertise in public health or are associated with the department,
+23 the commission, a hospital, a health plan, a human services
+24 organization, a physician organization, or a pharmacy.
+25 (f) Maintains a high-level of cybersecurity standards,
+26 including, but not limited to, a certification from HITRUST
+27 Alliance or a similar certification that, through a third-party
+28 assessment, requires an organization to demonstrate compliance with
+29 Common Security Framework (CSF) and requires adherence to industry
+LEP H00858'25 (H-2) 1zno9s
+
+6
+1 best practices and standards.
+2 (g) Is a nonprofit, Michigan-based health information exchange
+3 that operates throughout this state and has technical connections
+4 to a significant percentage of health care providers, public health
+5 agencies, and payors in this state.
+6 (h) Has a technology infrastructure that includes all of the
+7 following to provide a high-level of protection of patient data:
+8 (i) Advanced identity management.
+9 (ii) Patient consent management that allows the patient to
+10 manage the patient's consent practices.
+11 (iii) Patient matching.
+12 (iv) Strict audit logs and role-based access controls that
+13 include, but are not limited to, both of the following protections
+14 for all patients:
+15 (A) The ability to request an accounting of disclosures.
+16 (B) Access to reporting mechanisms to review data access logs.
+17 (i) Provides all patients, through a clear and conspicuous
+18 process, the ability to opt out of data sharing through the health
+19 data utility at any time.
+20 (j) On the request of a patient or, if a patient is unable to
+21 participate in medical treatment decisions, the patient's patient
+22 advocate, provides the patient or the patient advocate, at no cost,
+23 with a record of the disclosures of protected health information
+24 that were made during the 6 years preceding the request.
+Final Page
+LEP H00858'25 (H-2) 1zno9s
+
+[DELETED:   H 1 S ( c ( .)]
+[DELETED:   H 1)())) ) ) )  S   ( s h t]
+[DELETED:   H 1 i m q p g ( o h ( t ( t ( m h a e ( c ( t ( c r t r c h ( a o t o ( s]
+[DELETED:   H 1 ( i ( t ( o ( ( h ( i ( ( i ( i e a ( p w ( i r (]
+[DELETED:   H 1]
+[DELETED:   H 1))))  ]

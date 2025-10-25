@@ -1,0 +1,1016 @@
+Title: SENATE BILL NO. 548
+Official Title: SENATE BILL NO. 548
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1956 PA 218, entitled
+"The insurance code of 1956,"
+(MCL 500.100 to 500.8302) by adding chapter 4A.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER 4A
+2 MARKET CONDUCT EXAMINATIONS
+3 Sec. 481. As used in this chapter:
+4 (a) "Complaint" means a written or oral communication that is
+5 documented that primarily expresses a grievance. As used in this
+6 subdivision, "grievance" means an expression of dissatisfaction.
+7 (b) "Desk examination" means a targeted examination that is
+8 conducted by an examiner at a location other than the insurer's
+9 premises. A desk examination is usually performed at the
+DAW S03525'25 (S-1) p9k8w4
+2
+1 department's offices with the insurer providing, for review,
+2 requested documents by hard copy, microfiche, discs, or other
+3 electronic media.
+4 (c) "Insurer" means that term as defined in section 106 and
+5 includes a nonprofit dental care corporation operating under 1963
+6 PA 125, MCL 550.351 to 550.373.
+7 (d) "Market analysis" means a process through which market
+8 conduct surveillance personnel collect and analyze pertinent
+9 information from filed schedules, surveys, required reports, and
+10 other sources in order to develop a baseline understanding of the
+11 marketplace and to identify, for further review, patterns or
+12 practices of insurers that deviate significantly from the norm or
+13 that may pose a potential risk to insurance consumers. The director
+14 shall ensure that the NAIC Market Regulation Handbook is used as 1
+15 resource in performing a market analysis. For purposes of this
+16 subdivision, "pertinent information" means information gathered by
+17 market conduct surveillance personnel from all of the following:
+18 (i) Data currently available to the department.
+19 (ii) Surveys and information from required reports.
+20 (iii) Information collected by the NAIC and other sources in the
+21 public and private sectors.
+22 (iv) Information from within and outside the insurance
+23 industry.
+24 (e) "Market conduct action" means any activities that the
+25 director may initiate to assess and address the market practices of
+26 insurers, including, but not limited to, a market analysis and,
+27 following a market analysis, the provision of a targeted
+28 examination. Market conduct action does not include the director's
+29 resolution of an individual consumer complaint or other report of a
+DAW S03525'25 (S-1) p9k8w4
+3
+1 specific instance of misconduct.
+2 (f) "Market conduct surveillance personnel" means those
+3 individuals employed or contracted by the director to collect,
+4 analyze, review, or act on information concerning the insurance
+5 marketplace that identifies patterns or practices of insurers.
+6 (g) "NAIC" means the National Association of Insurance
+7 Commissioners.
+8 (h) "NAIC Market Conduct Examiner's Handbook" means the set of
+9 guidelines developed and adopted by the NAIC that documents
+10 established practices to be used by market conduct surveillance
+11 personnel in developing and executing an examination, or a
+12 successor document.
+13 (i) "NAIC Market Conduct Uniform Examination Procedures" means
+14 the set of guidelines developed and adopted by the NAIC designed to
+15 be used by market conduct surveillance personnel in conducting an
+16 examination, or a successor document.
+17 (j) "NAIC Market Regulation Handbook" means the outline of the
+18 elements and objectives of market analysis developed and adopted by
+19 the NAIC and the process by which states can establish and
+20 implement market analysis programs, or a successor document.
+21 (k) "NAIC Standard Data Request" means the set of field names
+22 and descriptions developed and adopted by the NAIC for use by
+23 market conduct surveillance personnel in an examination.
+24 (l) "On-site examination" means a targeted examination
+25 conducted at the insurer's home office or the location where the
+26 records under review are stored.
+27 (m) "Qualified contract examiner" means a person under
+28 contract with the director who is qualified by education,
+29 experience, and, where applicable, professional designations to
+DAW S03525'25 (S-1) p9k8w4
+4
+1 perform market conduct actions.
+2 (n) "Targeted examination" means a focused exam based on the
+3 results of a market analysis that indicates a need to review a
+4 specific line of business or specific business practices. A
+5 targeted examination may be conducted by desk examination or by an
+6 on-site examination. As referenced in this subdivision, "specific
+7 line of business or specific business practices" includes, but is
+8 not limited to, the following:
+9 (i) Underwriting and rating.
+10 (ii) Marketing and sales.
+11 (iii) Complaint handling operations and management.
+12 (iv) Advertising materials.
+13 (v) Licensing.
+14 (vi) Policyholder services.
+15 (vii) Nonforfeitures.
+16 (viii) Claims handling.
+17 (ix) Policy forms and filings.
+18 (o) "Third-party model or product" means a model or product
+19 provided by an entity separate from, and not under direct or
+20 indirect corporate control of, the insurer using the model or
+21 product.
+22 Sec. 482. (1) The director shall, on an ongoing basis, ensure
+23 that market analysis is conducted.
+24 (2) Subject to subsection (4), if the director determines, as
+25 a result of a market analysis, that further inquiry into a
+26 particular insurer or practice is needed, the director may consider
+27 the following continuum of market conduct actions before conducting
+28 a targeted examination by on-site examination:
+29 (a) Correspondence with the insurer.
+DAW S03525'25 (S-1) p9k8w4
+5
+1 (b) Insurer interviews.
+2 (c) Information gathering.
+3 (d) Policy and procedure reviews.
+4 (e) Interrogatories.
+5 (f) Review of insurer self-evaluation and compliance programs.
+6 If the director is satisfied that the organization's qualification
+7 process is likely to provide reasonable assurance of compliance
+8 with pertinent insurance laws, the review under this subdivision
+9 may include consideration of the insurer's membership in a best-
+10 practices organization.
+11 (g) Desk examinations.
+12 (h) Examinations.
+13 (3) If the director considers a continuum of market conduct
+14 actions under subsection (2) and the consideration involves insurer
+15 participation or response, the director shall make the action in
+16 consideration known to the insurer in writing.
+17 (4) If the director considers a continuum of market conduct
+18 actions under subsection (2), the director shall select actions for
+19 consideration that yield a consideration that is cost effective for
+20 the department and the insurer and that protect insurance
+21 consumers.
+22 (5) The director shall take steps reasonably necessary to
+23 eliminate duplicative inquiries and shall coordinate market conduct
+24 actions and findings with other states.
+25 Sec. 483. (1) Market conduct actions taken as a result of a
+26 market analysis must focus on the general business practices and
+27 compliance activities of insurers rather than identifying
+28 infrequent or unintentional random errors that do not cause
+29 significant consumer harm.
+DAW S03525'25 (S-1) p9k8w4
+6
+1 (2) Except as otherwise provided in this subsection, the
+2 director may determine the frequency and timing of market conduct
+3 actions. However, unless extraordinary circumstances indicate a
+4 risk to consumers if immediate action is not taken, the director
+5 shall take into account the specific market conduct action in
+6 determining timing as described in this subsection.
+7 (3) If the director has information indicating that more than
+8 1 insurer is engaged in common practices that may violate statute
+9 or rules, the director may schedule and coordinate multiple market
+10 conduct actions simultaneously.
+11 (4) The director may give an insurer reasonable opportunity to
+12 resolve, to the satisfaction of the director, matters that arise as
+13 a result of a market analysis before additional market conduct
+14 actions are taken against the insurer.
+15 (5) The director shall give notice and provide parties with an
+16 opportunity for a public hearing under the administrative
+17 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, for any
+18 changes made to an NAIC work product referenced in this chapter
+19 that changes the way in which market conduct actions are conducted
+20 in either of the following circumstances:
+21 (a) A change is made that necessitates a change in statute,
+22 regulation, or rule.
+23 (b) The director deviates from the most recently adopted NAIC
+24 work product.
+25 (6) Except as otherwise provided by law, every person from
+26 whom information is sought for purposes of this chapter and the
+27 person's officers, directors, and agents shall provide the director
+28 convenient and free access to all books, records, accounts, papers,
+29 documents, and any computer or other recordings relating to the
+DAW S03525'25 (S-1) p9k8w4
+7
+1 property, assets, business, and affairs of the person. An officer,
+2 director, employee, insurance producer, and agent of a person shall
+3 facilitate market conduct actions and aid in market conduct actions
+4 so far as it is in their power to do so.
+5 Sec. 484. (1) If the director determines that the continuum of
+6 market conduct actions identified in section 482(2) is not
+7 appropriate, the director may conduct a targeted examination by on-
+8 site examination in accordance with NAIC Market Conduct Uniform
+9 Examination Procedures and the NAIC Market Conduct Examiner's
+10 Handbook.
+11 (2) In conjunction with the notification requirements under
+12 subsection (8), the director shall post notification on the NAIC
+13 Examination Tracking System, or a successor NAIC product, as
+14 determined by the director, that a market conduct action has been
+15 scheduled.
+16 (3) Instead of market conduct action against an insurer
+17 licensed in this state, the director may accept an examination
+18 report from another state provided that the state has a market
+19 surveillance system the director deems comparable to the market
+20 surveillance system set forth under this chapter. The director's
+21 determination under this subsection is discretionary and is not
+22 subject to appeal.
+23 (4) Before a targeted examination by on-site examination,
+24 market conduct surveillance personnel must prepare a work plan
+25 consisting of all of the following:
+26 (a) The name and address of the insurer being examined.
+27 (b) The name and contact information of the examiner-in-
+28 charge.
+29 (c) The justification for the targeted examination by on-site
+DAW S03525'25 (S-1) p9k8w4
+8
+1 examination.
+2 (d) The scope of the targeted examination by on-site
+3 examination.
+4 (e) The date the on-site examination is scheduled to begin.
+5 (f) Notice of any non-insurance department personnel who will
+6 assist in the examination.
+7 (g) A time estimate for the targeted examination by on-site
+8 examination.
+9 (h) A budget for the targeted examination by on-site
+10 examination, if the cost of the examination is billed to the
+11 insurer.
+12 (i) An identification of factors that will be included in the
+13 billing if the cost of the examination is billed to the insurer.
+14 (5) Market conduct action must, to the extent feasible, be
+15 conducted by desk examination, and data requests must be utilized
+16 before a targeted examination by on-site examination is utilized.
+17 (6) Market conduct action must be conducted in accordance with
+18 the provisions set forth in the NAIC Market Conduct Examiner's
+19 Handbook and the NAIC Market Conduct Uniform Examinations
+20 Procedures.
+21 (7) The department shall use the NAIC Standard Data Request or
+22 a successor product to request data or information during an on-
+23 site examination.
+24 (8) The director shall make an announcement of market conduct
+25 action by sending it to the insurer and posting on the NAIC's
+26 Examination Tracking System, or a successor product, as determined
+27 by the director, as soon as possible, but, except when the action
+28 is conducted in response to an extraordinary circumstance described
+29 in section 483(2), if a targeted examination is by on-site
+DAW S03525'25 (S-1) p9k8w4
+9
+1 examination, by not later than 60 days before the estimated
+2 commencement of the targeted examination by on-site examination.
+3 The announcement described in this subsection must contain both of
+4 the following, as applicable:
+5 (a) An examination work plan.
+6 (b) A request for the insurer to name its examination
+7 coordinator.
+8 (9) Not later than 30 days before the commencement of market
+9 conduct action, the director shall conduct a pre-examination
+10 conference with the insurer examination coordinator and key
+11 personnel to clarify expectations.
+12 (10) Before the conclusion of a targeted examination by on-
+13 site examination, a person among the market conduct surveillance
+14 personnel who is designated as the examiner-in-charge shall
+15 schedule an exit conference with the insurer.
+16 (11) Unless a mutual agreement is reached with the insurer to
+17 modify the timeline, the director shall adhere to the following
+18 timeline:
+19 (a) The director must deliver a draft report to the insurer
+20 not later than 60 days after the completion of market conduct
+21 action. Completion of the market conduct action is the date the
+22 director is considered to confirm, in writing, that the market
+23 conduct action is completed.
+24 (b) The insurer must respond with written comments not later
+25 than 30 days after receipt of the draft report described in
+26 subdivision (a).
+27 (c) Unless a mutual agreement is reached between the director
+28 and the insurer to extend the deadline, the department shall make a
+29 good-faith effort to resolve issues informally and prepare a final
+DAW S03525'25 (S-1) p9k8w4
+10
+1 report not later than 30 days after receipt of the insurer's
+2 written comments as described in subdivision (b). The director may
+3 make corrections and other changes to the final report as
+4 appropriate.
+5 (d) The insurer must, not later than 30 days after issuance of
+6 the final report, accept the final report and accept the findings
+7 of the report or request a hearing. If agreed on by the director
+8 and the insurer, not more than 30 days may be added to the 30-day
+9 deadline described in this subsection. A hearing request described
+10 in this subdivision must comply with the requirements of the
+11 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+12 24.328.
+13 (12) The director shall include the insurer's response
+14 described under subsection (11) in the final report described under
+15 subsection (11). The insurer's response may be included as an
+16 appendix or in the text of the examination report. This chapter
+17 does not require an insurer to submit a response. Individuals
+18 involved in the examination must not be named in either the report
+19 or the response, except to acknowledge their involvement.
+20 (13) Except as otherwise provided in subsection (14), on
+21 acceptance of the final report under subsection (11), the director
+22 shall continue to hold the content of the report as private and
+23 confidential for a period of not less than 30 days. After the 30-
+24 day period described in this subsection, unless a court of
+25 competent jurisdiction has stayed its publication, the director
+26 shall open the report for public inspection.
+27 (14) This chapter does not prevent the director from
+28 disclosing the content of any of the following to a department of
+29 this state, a department of any other state, or a federal agency,
+DAW S03525'25 (S-1) p9k8w4
+11
+1 at any time, that agrees to hold the content as confidential in a
+2 manner that is consistent with this chapter:
+3 (a) A final report described under subsection (11).
+4 (b) A preliminary examination report or results.
+5 (c) Any matter relating to the items described in subdivisions
+6 (a) and (b).
+7 (15) If reasonable and necessary costs of a market conduct
+8 action are assessed against an insurer that is subject to the
+9 action, the fees must be consistent with fees otherwise authorized
+10 under law. The fees described in this subsection must be itemized,
+11 and bills must be provided to the insurer on a monthly basis for
+12 review before submission for payment.
+13 (16) The director shall maintain active management and
+14 oversight of examination costs for examinations described in this
+15 chapter, including costs associated with the director's own
+16 examiners and with retaining qualified contract examiners necessary
+17 to perform an on-site examination. To the extent the director
+18 retains outside assistance in administering the requirements under
+19 this chapter, the director shall have, in writing, protocols that
+20 do all of the following:
+21 (a) Clearly identify the types of functions to be subject to
+22 outsourcing.
+23 (b) Provide specific timelines for completion of the
+24 outsourced review.
+25 (c) Require disclosure of contract examiners' recommendations.
+26 (d) Establish and utilize a dispute resolution or arbitration
+27 mechanism to resolve conflicts with insurers regarding examination
+28 fees.
+29 (e) Require disclosure of the terms of the contracts with the
+DAW S03525'25 (S-1) p9k8w4
+12
+1 outside consultants that will be used, specifically the fees and
+2 hourly rates that can be charged.
+3 (17) The director shall review and affirmatively endorse
+4 detailed billings from a qualified contract examiner before the
+5 detailed billings are sent to the insurer.
+6 Sec. 485. (1) Except as otherwise provided by law and subject
+7 to subsection (4), during market conduct action, market conduct
+8 surveillance personnel must have as free, convenient, and full
+9 access, as practicable, to all books and records, employees,
+10 officers, and directors of the insurer subject to the market
+11 conduct action. An insurer that uses a third-party model or product
+12 for any of the activities subject to action shall, on the request
+13 of market conduct surveillance personnel, ensure that the details
+14 of the models or products are made available to the market conduct
+15 surveillance personnel. All documents, including, but not limited
+16 to, working papers, third-party models or products, complaint logs,
+17 and copies of those items, that are created, produced, obtained by,
+18 or disclosed to any of the following persons as follows are
+19 confidential and privileged, are not subject to subpoena, and are
+20 not subject to discovery or admissible as evidence in any private
+21 civil action:
+22 (a) The director or any other person in the course of any
+23 market conduct actions made under this chapter.
+24 (b) The director in the course of a market analysis by the
+25 director of the market conditions of an insurer.
+26 (c) The NAIC as a result of any provision of this chapter.
+27 (2) A disclosure to the director under this section does not
+28 waive any applicable privilege or claim of confidentiality as
+29 created under subsection (1).
+DAW S03525'25 (S-1) p9k8w4
+13
+1 (3) If an action is ordered by the director under section 222,
+2 market conduct surveillance personnel may issue subpoenas and
+3 examine insurance company personnel under oath.
+4 (4) In performing duties under this chapter, the director may
+5 do all of the following:
+6 (a) Share documents, materials, or other information,
+7 including confidential and privileged documents, materials, or
+8 information described in subsection (1), with other state, federal,
+9 and international regulatory agencies, law enforcement authorities,
+10 and the NAIC and its affiliates and subsidiaries, if the recipient
+11 agrees to, and has the legal authority to, maintain the
+12 confidential and privileged status of the document, material, or
+13 information.
+14 (b) Receive documents, materials, or information, including
+15 otherwise confidential and privileged documents, materials, or
+16 information, from the NAIC and its affiliates or subsidiaries and
+17 regulatory and law enforcement officials of other foreign or
+18 domestic jurisdictions. The director shall maintain as confidential
+19 or privileged any document, material, or information described in
+20 this subdivision that is received with notice or the understanding
+21 that it is confidential or privileged under the laws of the
+22 jurisdiction that is the source of the document, material, or
+23 information.
+24 (c) Enter into agreements governing the sharing and use of
+25 information consistent with this subsection.
+26 Sec. 486. (1) Market conduct surveillance personnel must be
+27 qualified by education, experience, and, where applicable,
+28 professional designations. If the director determines that the
+29 assistance is necessary, the director may supplement in-house
+DAW S03525'25 (S-1) p9k8w4
+14
+1 market conduct surveillance staff with qualified outside
+2 professional assistance.
+3 (2) Market conduct surveillance personnel have a conflict of
+4 interest, either directly or indirectly, if they are affiliated
+5 with the management of, have been employed by, or own a pecuniary
+6 interest in the insurer that is subject to any examination under
+7 this chapter. This section does not automatically preclude any of
+8 the following individuals from serving as market conduct
+9 surveillance personnel:
+10 (a) A policyholder or claimant under an insurance policy.
+11 (b) A grantee of a mortgage or similar instrument on the
+12 individual's residence from a regulated entity if done under
+13 customary terms and in the ordinary course of business.
+14 (c) An investment owner in shares of regulated diversified
+15 investment companies.
+16 (d) A settlor or beneficiary of a blind trust into which any
+17 otherwise permissible holdings have been placed.
+18 Sec. 487. (1) A person shall not file a civil action against
+19 the director, the director's authorized representative, or an
+20 examiner appointed by the director, and the director, the
+21 director's authorized representatives, or an examiner appointed by
+22 the director is not liable, for any statements made or conduct
+23 performed in good faith while carrying out this chapter.
+24 (2) A person shall not file a civil action against any person,
+25 and a person is not liable, for communicating or delivering
+26 information or data to the director, the director's authorized
+27 representative, or an examiner pursuant to an examination made
+28 under this chapter, if the communication or delivery was performed
+29 in good faith and without fraudulent intent or an intent to
+DAW S03525'25 (S-1) p9k8w4
+15
+1 deceive.
+2 (3) The director, the director's authorized representative, or
+3 an examiner appointed by the director is entitled to an award of
+4 attorney fees and costs if the director, the director's authorized
+5 representative, or an examiner appointed by the director is the
+6 prevailing party in a civil action for libel, slander, or any other
+7 relevant tort arising out of activities in carrying out this
+8 chapter, and the person bringing the action was not substantially
+9 justified in bringing the action. As used in this subsection,
+10 "substantially justified" means the action had a reasonable basis
+11 in law or fact at the time that it was initiated.
+12 (4) This section does not abrogate or modify any applicable
+13 common law or statutory privilege or immunity.
+14 Sec. 488. (1) Fines and penalties applied to an insurer under
+15 this act applied as a result of market conduct action must be
+16 consistent, reasonable, and justified.
+17 (2) In determining the appropriate fines to apply as described
+18 under subsection (1), the director shall consider both of the
+19 following factors:
+20 (a) Actions taken by insurers to maintain membership in, and
+21 comply with the standards of, best-practices organizations that
+22 promote high ethical standards of conduct in the marketplace.
+23 (b) The extent to which insurers maintain regulatory
+24 compliance programs to self-assess, self-report, and remediate
+25 problems detected.
+26 Sec. 489. (1) The director shall collect and report market
+27 data to the NAIC's market information systems, including the NAIC
+28 Complaint Database System, the NAIC Examination Tracking System,
+29 and the NAIC Regulatory Information Retrieval System, or other
+DAW S03525'25 (S-1) p9k8w4
+16
+1 successor NAIC products, as determined by the director.
+2 (2) The department shall compile information it collects and
+3 maintains in a manner that meets the requirements of the NAIC.
+4 Sec. 490. The director shall share information and coordinate
+5 the department's market analysis and examination efforts with other
+6 states through the NAIC.
+7 Sec. 491. (1) The director shall, at least annually, make
+8 available, in an appropriate manner, information on new laws and
+9 regulations, enforcement actions, and other information the
+10 director determines is pertinent to ensure compliance with market
+11 conduct requirements to persons subject to this chapter. The
+12 failure of the director to provide information is not a defense for
+13 an insurer that fails to comply with any insurance law of this
+14 state.
+15 (2) The director must designate a specific person or persons
+16 within the department whose responsibilities must include the
+17 receipt of information from employees of insurers and licensed
+18 entities concerning violations of laws, rules, or regulations by
+19 employers, as defined in this chapter. The director shall provide
+20 the person or persons described in this subsection with proper
+21 training on the handling of the information that is considered
+22 confidential communication for the purposes of this chapter.
+23 Enacting section 1. This amendatory act takes effect January
+24 1, 2026.
+Final Page
+DAW S03525'25 (S-1) p9k8w4
+[DELETED:   S p]
+[DELETED:   S p ) ) ) )]
+[DELETED:   S p)]
+[DELETED:   S p)))))))))]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p E 1]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 548
+A bill to amend 1956 PA 218, entitled
+"The insurance code of 1956,"
+(MCL 500.100 to 500.8302) by adding chapter 4A.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER 4A
+2 MARKET CONDUCT EXAMINATIONS
+3 Sec. 481. As used in this chapter:
+4 (a) "Complaint" means a written or oral communication that is
+5 documented that primarily expresses a grievance. As used in this
+6 subdivision, "grievance" means an expression of dissatisfaction.
+7 (b) "Desk examination" means a targeted examination that is
+8 conducted by an examiner at a location other than the insurer's
+9 premises. A desk examination is usually performed at the
+DAW S03525'25 (S-1) p9k8w4
+
+2
+1 department's offices with the insurer providing, for review,
+2 requested documents by hard copy, microfiche, discs, or other
+3 electronic media.
+4 (c) "Insurer" means that term as defined in section 106 and
+5 includes a nonprofit dental care corporation operating under 1963
+6 PA 125, MCL 550.351 to 550.373.
+7 (d) "Market analysis" means a process through which market
+8 conduct surveillance personnel collect and analyze pertinent
+9 information from filed schedules, surveys, required reports, and
+10 other sources in order to develop a baseline understanding of the
+11 marketplace and to identify, for further review, patterns or
+12 practices of insurers that deviate significantly from the norm or
+13 that may pose a potential risk to insurance consumers. The director
+14 shall ensure that the NAIC Market Regulation Handbook is used as 1
+15 resource in performing a market analysis. For purposes of this
+16 subdivision, "pertinent information" means information gathered by
+17 market conduct surveillance personnel from all of the following:
+18 (i) Data currently available to the department.
+19 (ii) Surveys and information from required reports.
+20 (iii) Information collected by the NAIC and other sources in the
+21 public and private sectors.
+22 (iv) Information from within and outside the insurance
+23 industry.
+24 (e) "Market conduct action" means any activities that the
+25 director may initiate to assess and address the market practices of
+26 insurers, including, but not limited to, a market analysis and,
+27 following a market analysis, the provision of a targeted
+28 examination. Market conduct action does not include the director's
+29 resolution of an individual consumer complaint or other report of a
+DAW S03525'25 (S-1) p9k8w4
+
+3
+1 specific instance of misconduct.
+2 (f) "Market conduct surveillance personnel" means those
+3 individuals employed or contracted by the director to collect,
+4 analyze, review, or act on information concerning the insurance
+5 marketplace that identifies patterns or practices of insurers.
+6 (g) "NAIC" means the National Association of Insurance
+7 Commissioners.
+8 (h) "NAIC Market Conduct Examiner's Handbook" means the set of
+9 guidelines developed and adopted by the NAIC that documents
+10 established practices to be used by market conduct surveillance
+11 personnel in developing and executing an examination, or a
+12 successor document.
+13 (i) "NAIC Market Conduct Uniform Examination Procedures" means
+14 the set of guidelines developed and adopted by the NAIC designed to
+15 be used by market conduct surveillance personnel in conducting an
+16 examination, or a successor document.
+17 (j) "NAIC Market Regulation Handbook" means the outline of the
+18 elements and objectives of market analysis developed and adopted by
+19 the NAIC and the process by which states can establish and
+20 implement market analysis programs, or a successor document.
+21 (k) "NAIC Standard Data Request" means the set of field names
+22 and descriptions developed and adopted by the NAIC for use by
+23 market conduct surveillance personnel in an examination.
+24 (l) "On-site examination" means a targeted examination
+25 conducted at the insurer's home office or the location where the
+26 records under review are stored.
+27 (m) "Qualified contract examiner" means a person under
+28 contract with the director who is qualified by education,
+29 experience, and, where applicable, professional designations to
+DAW S03525'25 (S-1) p9k8w4
+
+4
+1 perform market conduct actions.
+2 (n) "Targeted examination" means a focused exam based on the
+3 results of a market analysis that indicates a need to review a
+4 specific line of business or specific business practices. A
+5 targeted examination may be conducted by desk examination or by an
+6 on-site examination. As referenced in this subdivision, "specific
+7 line of business or specific business practices" includes, but is
+8 not limited to, the following:
+9 (i) Underwriting and rating.
+10 (ii) Marketing and sales.
+11 (iii) Complaint handling operations and management.
+12 (iv) Advertising materials.
+13 (v) Licensing.
+14 (vi) Policyholder services.
+15 (vii) Nonforfeitures.
+16 (viii) Claims handling.
+17 (ix) Policy forms and filings.
+18 (o) "Third-party model or product" means a model or product
+19 provided by an entity separate from, and not under direct or
+20 indirect corporate control of, the insurer using the model or
+21 product.
+22 Sec. 482. (1) The director shall, on an ongoing basis, ensure
+23 that market analysis is conducted.
+24 (2) Subject to subsection (4), if the director determines, as
+25 a result of a market analysis, that further inquiry into a
+26 particular insurer or practice is needed, the director may consider
+27 the following continuum of market conduct actions before conducting
+28 a targeted examination by on-site examination:
+29 (a) Correspondence with the insurer.
+DAW S03525'25 (S-1) p9k8w4
+
+5
+1 (b) Insurer interviews.
+2 (c) Information gathering.
+3 (d) Policy and procedure reviews.
+4 (e) Interrogatories.
+5 (f) Review of insurer self-evaluation and compliance programs.
+6 If the director is satisfied that the organization's qualification
+7 process is likely to provide reasonable assurance of compliance
+8 with pertinent insurance laws, the review under this subdivision
+9 may include consideration of the insurer's membership in a best-
+10 practices organization.
+11 (g) Desk examinations.
+12 (h) Examinations.
+13 (3) If the director considers a continuum of market conduct
+14 actions under subsection (2) and the consideration involves insurer
+15 participation or response, the director shall make the action in
+16 consideration known to the insurer in writing.
+17 (4) If the director considers a continuum of market conduct
+18 actions under subsection (2), the director shall select actions for
+19 consideration that yield a consideration that is cost effective for
+20 the department and the insurer and that protect insurance
+21 consumers.
+22 (5) The director shall take steps reasonably necessary to
+23 eliminate duplicative inquiries and shall coordinate market conduct
+24 actions and findings with other states.
+25 Sec. 483. (1) Market conduct actions taken as a result of a
+26 market analysis must focus on the general business practices and
+27 compliance activities of insurers rather than identifying
+28 infrequent or unintentional random errors that do not cause
+29 significant consumer harm.
+DAW S03525'25 (S-1) p9k8w4
+
+6
+1 (2) Except as otherwise provided in this subsection, the
+2 director may determine the frequency and timing of market conduct
+3 actions. However, unless extraordinary circumstances indicate a
+4 risk to consumers if immediate action is not taken, the director
+5 shall take into account the specific market conduct action in
+6 determining timing as described in this subsection.
+7 (3) If the director has information indicating that more than
+8 1 insurer is engaged in common practices that may violate statute
+9 or rules, the director may schedule and coordinate multiple market
+10 conduct actions simultaneously.
+11 (4) The director may give an insurer reasonable opportunity to
+12 resolve, to the satisfaction of the director, matters that arise as
+13 a result of a market analysis before additional market conduct
+14 actions are taken against the insurer.
+15 (5) The director shall give notice and provide parties with an
+16 opportunity for a public hearing under the administrative
+17 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, for any
+18 changes made to an NAIC work product referenced in this chapter
+19 that changes the way in which market conduct actions are conducted
+20 in either of the following circumstances:
+21 (a) A change is made that necessitates a change in statute,
+22 regulation, or rule.
+23 (b) The director deviates from the most recently adopted NAIC
+24 work product.
+25 (6) Except as otherwise provided by law, every person from
+26 whom information is sought for purposes of this chapter and the
+27 person's officers, directors, and agents shall provide the director
+28 convenient and free access to all books, records, accounts, papers,
+29 documents, and any computer or other recordings relating to the
+DAW S03525'25 (S-1) p9k8w4
+
+7
+1 property, assets, business, and affairs of the person. An officer,
+2 director, employee, insurance producer, and agent of a person shall
+3 facilitate market conduct actions and aid in market conduct actions
+4 so far as it is in their power to do so.
+5 Sec. 484. (1) If the director determines that the continuum of
+6 market conduct actions identified in section 482(2) is not
+7 appropriate, the director may conduct a targeted examination by on-
+8 site examination in accordance with NAIC Market Conduct Uniform
+9 Examination Procedures and the NAIC Market Conduct Examiner's
+10 Handbook.
+11 (2) In conjunction with the notification requirements under
+12 subsection (8), the director shall post notification on the NAIC
+13 Examination Tracking System, or a successor NAIC product, as
+14 determined by the director, that a market conduct action has been
+15 scheduled.
+16 (3) Instead of market conduct action against an insurer
+17 licensed in this state, the director may accept an examination
+18 report from another state provided that the state has a market
+19 surveillance system the director deems comparable to the market
+20 surveillance system set forth under this chapter. The director's
+21 determination under this subsection is discretionary and is not
+22 subject to appeal.
+23 (4) Before a targeted examination by on-site examination,
+24 market conduct surveillance personnel must prepare a work plan
+25 consisting of all of the following:
+26 (a) The name and address of the insurer being examined.
+27 (b) The name and contact information of the examiner-in-
+28 charge.
+29 (c) The justification for the targeted examination by on-site
+DAW S03525'25 (S-1) p9k8w4
+
+8
+1 examination.
+2 (d) The scope of the targeted examination by on-site
+3 examination.
+4 (e) The date the on-site examination is scheduled to begin.
+5 (f) Notice of any non-insurance department personnel who will
+6 assist in the examination.
+7 (g) A time estimate for the targeted examination by on-site
+8 examination.
+9 (h) A budget for the targeted examination by on-site
+10 examination, if the cost of the examination is billed to the
+11 insurer.
+12 (i) An identification of factors that will be included in the
+13 billing if the cost of the examination is billed to the insurer.
+14 (5) Market conduct action must, to the extent feasible, be
+15 conducted by desk examination, and data requests must be utilized
+16 before a targeted examination by on-site examination is utilized.
+17 (6) Market conduct action must be conducted in accordance with
+18 the provisions set forth in the NAIC Market Conduct Examiner's
+19 Handbook and the NAIC Market Conduct Uniform Examinations
+20 Procedures.
+21 (7) The department shall use the NAIC Standard Data Request or
+22 a successor product to request data or information during an on-
+23 site examination.
+24 (8) The director shall make an announcement of market conduct
+25 action by sending it to the insurer and posting on the NAIC's
+26 Examination Tracking System, or a successor product, as determined
+27 by the director, as soon as possible, but, except when the action
+28 is conducted in response to an extraordinary circumstance described
+29 in section 483(2), if a targeted examination is by on-site
+DAW S03525'25 (S-1) p9k8w4
+
+9
+1 examination, by not later than 60 days before the estimated
+2 commencement of the targeted examination by on-site examination.
+3 The announcement described in this subsection must contain both of
+4 the following, as applicable:
+5 (a) An examination work plan.
+6 (b) A request for the insurer to name its examination
+7 coordinator.
+8 (9) Not later than 30 days before the commencement of market
+9 conduct action, the director shall conduct a pre-examination
+10 conference with the insurer examination coordinator and key
+11 personnel to clarify expectations.
+12 (10) Before the conclusion of a targeted examination by on-
+13 site examination, a person among the market conduct surveillance
+14 personnel who is designated as the examiner-in-charge shall
+15 schedule an exit conference with the insurer.
+16 (11) Unless a mutual agreement is reached with the insurer to
+17 modify the timeline, the director shall adhere to the following
+18 timeline:
+19 (a) The director must deliver a draft report to the insurer
+20 not later than 60 days after the completion of market conduct
+21 action. Completion of the market conduct action is the date the
+22 director is considered to confirm, in writing, that the market
+23 conduct action is completed.
+24 (b) The insurer must respond with written comments not later
+25 than 30 days after receipt of the draft report described in
+26 subdivision (a).
+27 (c) Unless a mutual agreement is reached between the director
+28 and the insurer to extend the deadline, the department shall make a
+29 good-faith effort to resolve issues informally and prepare a final
+DAW S03525'25 (S-1) p9k8w4
+
+10
+1 report not later than 30 days after receipt of the insurer's
+2 written comments as described in subdivision (b). The director may
+3 make corrections and other changes to the final report as
+4 appropriate.
+5 (d) The insurer must, not later than 30 days after issuance of
+6 the final report, accept the final report and accept the findings
+7 of the report or request a hearing. If agreed on by the director
+8 and the insurer, not more than 30 days may be added to the 30-day
+9 deadline described in this subsection. A hearing request described
+10 in this subdivision must comply with the requirements of the
+11 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+12 24.328.
+13 (12) The director shall include the insurer's response
+14 described under subsection (11) in the final report described under
+15 subsection (11). The insurer's response may be included as an
+16 appendix or in the text of the examination report. This chapter
+17 does not require an insurer to submit a response. Individuals
+18 involved in the examination must not be named in either the report
+19 or the response, except to acknowledge their involvement.
+20 (13) Except as otherwise provided in subsection (14), on
+21 acceptance of the final report under subsection (11), the director
+22 shall continue to hold the content of the report as private and
+23 confidential for a period of not less than 30 days. After the 30-
+24 day period described in this subsection, unless a court of
+25 competent jurisdiction has stayed its publication, the director
+26 shall open the report for public inspection.
+27 (14) This chapter does not prevent the director from
+28 disclosing the content of any of the following to a department of
+29 this state, a department of any other state, or a federal agency,
+DAW S03525'25 (S-1) p9k8w4
+
+11
+1 at any time, that agrees to hold the content as confidential in a
+2 manner that is consistent with this chapter:
+3 (a) A final report described under subsection (11).
+4 (b) A preliminary examination report or results.
+5 (c) Any matter relating to the items described in subdivisions
+6 (a) and (b).
+7 (15) If reasonable and necessary costs of a market conduct
+8 action are assessed against an insurer that is subject to the
+9 action, the fees must be consistent with fees otherwise authorized
+10 under law. The fees described in this subsection must be itemized,
+11 and bills must be provided to the insurer on a monthly basis for
+12 review before submission for payment.
+13 (16) The director shall maintain active management and
+14 oversight of examination costs for examinations described in this
+15 chapter, including costs associated with the director's own
+16 examiners and with retaining qualified contract examiners necessary
+17 to perform an on-site examination. To the extent the director
+18 retains outside assistance in administering the requirements under
+19 this chapter, the director shall have, in writing, protocols that
+20 do all of the following:
+21 (a) Clearly identify the types of functions to be subject to
+22 outsourcing.
+23 (b) Provide specific timelines for completion of the
+24 outsourced review.
+25 (c) Require disclosure of contract examiners' recommendations.
+26 (d) Establish and utilize a dispute resolution or arbitration
+27 mechanism to resolve conflicts with insurers regarding examination
+28 fees.
+29 (e) Require disclosure of the terms of the contracts with the
+DAW S03525'25 (S-1) p9k8w4
+
+12
+1 outside consultants that will be used, specifically the fees and
+2 hourly rates that can be charged.
+3 (17) The director shall review and affirmatively endorse
+4 detailed billings from a qualified contract examiner before the
+5 detailed billings are sent to the insurer.
+6 Sec. 485. (1) Except as otherwise provided by law and subject
+7 to subsection (4), during market conduct action, market conduct
+8 surveillance personnel must have as free, convenient, and full
+9 access, as practicable, to all books and records, employees,
+10 officers, and directors of the insurer subject to the market
+11 conduct action. An insurer that uses a third-party model or product
+12 for any of the activities subject to action shall, on the request
+13 of market conduct surveillance personnel, ensure that the details
+14 of the models or products are made available to the market conduct
+15 surveillance personnel. All documents, including, but not limited
+16 to, working papers, third-party models or products, complaint logs,
+17 and copies of those items, that are created, produced, obtained by,
+18 or disclosed to any of the following persons as follows are
+19 confidential and privileged, are not subject to subpoena, and are
+20 not subject to discovery or admissible as evidence in any private
+21 civil action:
+22 (a) The director or any other person in the course of any
+23 market conduct actions made under this chapter.
+24 (b) The director in the course of a market analysis by the
+25 director of the market conditions of an insurer.
+26 (c) The NAIC as a result of any provision of this chapter.
+27 (2) A disclosure to the director under this section does not
+28 waive any applicable privilege or claim of confidentiality as
+29 created under subsection (1).
+DAW S03525'25 (S-1) p9k8w4
+
+13
+1 (3) If an action is ordered by the director under section 222,
+2 market conduct surveillance personnel may issue subpoenas and
+3 examine insurance company personnel under oath.
+4 (4) In performing duties under this chapter, the director may
+5 do all of the following:
+6 (a) Share documents, materials, or other information,
+7 including confidential and privileged documents, materials, or
+8 information described in subsection (1), with other state, federal,
+9 and international regulatory agencies, law enforcement authorities,
+10 and the NAIC and its affiliates and subsidiaries, if the recipient
+11 agrees to, and has the legal authority to, maintain the
+12 confidential and privileged status of the document, material, or
+13 information.
+14 (b) Receive documents, materials, or information, including
+15 otherwise confidential and privileged documents, materials, or
+16 information, from the NAIC and its affiliates or subsidiaries and
+17 regulatory and law enforcement officials of other foreign or
+18 domestic jurisdictions. The director shall maintain as confidential
+19 or privileged any document, material, or information described in
+20 this subdivision that is received with notice or the understanding
+21 that it is confidential or privileged under the laws of the
+22 jurisdiction that is the source of the document, material, or
+23 information.
+24 (c) Enter into agreements governing the sharing and use of
+25 information consistent with this subsection.
+26 Sec. 486. (1) Market conduct surveillance personnel must be
+27 qualified by education, experience, and, where applicable,
+28 professional designations. If the director determines that the
+29 assistance is necessary, the director may supplement in-house
+DAW S03525'25 (S-1) p9k8w4
+
+14
+1 market conduct surveillance staff with qualified outside
+2 professional assistance.
+3 (2) Market conduct surveillance personnel have a conflict of
+4 interest, either directly or indirectly, if they are affiliated
+5 with the management of, have been employed by, or own a pecuniary
+6 interest in the insurer that is subject to any examination under
+7 this chapter. This section does not automatically preclude any of
+8 the following individuals from serving as market conduct
+9 surveillance personnel:
+10 (a) A policyholder or claimant under an insurance policy.
+11 (b) A grantee of a mortgage or similar instrument on the
+12 individual's residence from a regulated entity if done under
+13 customary terms and in the ordinary course of business.
+14 (c) An investment owner in shares of regulated diversified
+15 investment companies.
+16 (d) A settlor or beneficiary of a blind trust into which any
+17 otherwise permissible holdings have been placed.
+18 Sec. 487. (1) A person shall not file a civil action against
+19 the director, the director's authorized representative, or an
+20 examiner appointed by the director, and the director, the
+21 director's authorized representatives, or an examiner appointed by
+22 the director is not liable, for any statements made or conduct
+23 performed in good faith while carrying out this chapter.
+24 (2) A person shall not file a civil action against any person,
+25 and a person is not liable, for communicating or delivering
+26 information or data to the director, the director's authorized
+27 representative, or an examiner pursuant to an examination made
+28 under this chapter, if the communication or delivery was performed
+29 in good faith and without fraudulent intent or an intent to
+DAW S03525'25 (S-1) p9k8w4
+
+15
+1 deceive.
+2 (3) The director, the director's authorized representative, or
+3 an examiner appointed by the director is entitled to an award of
+4 attorney fees and costs if the director, the director's authorized
+5 representative, or an examiner appointed by the director is the
+6 prevailing party in a civil action for libel, slander, or any other
+7 relevant tort arising out of activities in carrying out this
+8 chapter, and the person bringing the action was not substantially
+9 justified in bringing the action. As used in this subsection,
+10 "substantially justified" means the action had a reasonable basis
+11 in law or fact at the time that it was initiated.
+12 (4) This section does not abrogate or modify any applicable
+13 common law or statutory privilege or immunity.
+14 Sec. 488. (1) Fines and penalties applied to an insurer under
+15 this act applied as a result of market conduct action must be
+16 consistent, reasonable, and justified.
+17 (2) In determining the appropriate fines to apply as described
+18 under subsection (1), the director shall consider both of the
+19 following factors:
+20 (a) Actions taken by insurers to maintain membership in, and
+21 comply with the standards of, best-practices organizations that
+22 promote high ethical standards of conduct in the marketplace.
+23 (b) The extent to which insurers maintain regulatory
+24 compliance programs to self-assess, self-report, and remediate
+25 problems detected.
+26 Sec. 489. (1) The director shall collect and report market
+27 data to the NAIC's market information systems, including the NAIC
+28 Complaint Database System, the NAIC Examination Tracking System,
+29 and the NAIC Regulatory Information Retrieval System, or other
+DAW S03525'25 (S-1) p9k8w4
+
+16
+1 successor NAIC products, as determined by the director.
+2 (2) The department shall compile information it collects and
+3 maintains in a manner that meets the requirements of the NAIC.
+4 Sec. 490. The director shall share information and coordinate
+5 the department's market analysis and examination efforts with other
+6 states through the NAIC.
+7 Sec. 491. (1) The director shall, at least annually, make
+8 available, in an appropriate manner, information on new laws and
+9 regulations, enforcement actions, and other information the
+10 director determines is pertinent to ensure compliance with market
+11 conduct requirements to persons subject to this chapter. The
+12 failure of the director to provide information is not a defense for
+13 an insurer that fails to comply with any insurance law of this
+14 state.
+15 (2) The director must designate a specific person or persons
+16 within the department whose responsibilities must include the
+17 receipt of information from employees of insurers and licensed
+18 entities concerning violations of laws, rules, or regulations by
+19 employers, as defined in this chapter. The director shall provide
+20 the person or persons described in this subsection with proper
+21 training on the handling of the information that is considered
+22 confidential communication for the purposes of this chapter.
+23 Enacting section 1. This amendatory act takes effect January
+24 1, 2026.
+Final Page
+DAW S03525'25 (S-1) p9k8w4
+
+[DELETED:   S p]
+[DELETED:   S p ) ) ) )]
+[DELETED:   S p)]
+[DELETED:   S p)))))))))]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p]
+[DELETED:   S p E 1]

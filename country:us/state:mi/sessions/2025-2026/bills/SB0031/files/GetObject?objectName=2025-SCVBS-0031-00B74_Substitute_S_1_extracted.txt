@@ -1,0 +1,894 @@
+Title: SENATE BILL NO. 31
+Official Title: SENATE BILL NO. 31
+Number of Sections: 2
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 20201 and 21513 (MCL 333.20201 and 333.21513),
+
+Section 2:
+section 20201 as amended by 2016 PA 499 and section 21513 as
+amended by 2022 PA 265, and by adding section 21538.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 20201. (1) A health facility or agency that provides
+2 services directly to patients or residents and is licensed under
+3 this article shall adopt a policy describing the rights and
+4 responsibilities of patients or residents admitted to the health
+5 facility or agency. Except for a licensed health maintenance
+6 organization that is subject to chapter 35 of the insurance code of
+7 1956, 1956 PA 218, MCL 500.3501 to 500.3573, the health facility or
+EMR S01082'25 (S-1) dae81p
+2
+1 agency shall post the policy at a public place in the health
+2 facility or agency and shall provide the policy to each member of
+3 the health facility or agency staff. Patients A health facility or
+4 agency shall treat patients or residents shall be treated in
+5 accordance with the policy.
+6 (2) The policy describing the rights and responsibilities of
+7 patients or residents required under subsection (1) shall must
+8 include, as a minimum, all of the following:
+9 (a) A patient or resident shall not be denied appropriate care
+10 on the basis of race, religion, color, national origin, sex, age,
+11 disability, marital status, sexual preference, or source of
+12 payment.
+13 (b) An individual who is or has been a patient or resident is
+14 entitled to inspect, or receive for a reasonable fee, a copy of his
+15 or her the patient's or resident's medical record upon on request
+16 in accordance with the medical records access act, 2004 PA 47, MCL
+17 333.26261 to 333.26271. Except as otherwise permitted or required
+18 under the health insurance portability and accountability act of
+19 1996, Public Law 104-191, or regulations promulgated under that
+20 act, 45 CFR parts 160 and 164, a third party shall must not be
+21 given a copy of the patient's or resident's medical record without
+22 prior authorization of the patient or resident.
+23 (c) A patient or resident is entitled to confidential
+24 treatment of personal and medical records, and may refuse their
+25 release to a person outside the health facility or agency except as
+26 required because of a transfer to another health care facility, as
+27 required by law or third party payment contract, or as permitted or
+28 required under the health insurance portability and accountability
+29 act of 1996, Public Law 104-191, or regulations promulgated under
+EMR S01082'25 (S-1) dae81p
+3
+1 that act, 45 CFR parts 160 and 164.
+2 (d) A patient or resident is entitled to privacy, to the
+3 extent feasible, in treatment and in caring for personal needs with
+4 consideration, respect, and full recognition of his or her the
+5 patient's or resident's dignity and individuality.
+6 (e) A patient or resident is entitled to receive adequate and
+7 appropriate care, and to receive, from the appropriate individual
+8 within the health facility or agency, information about his or her
+9 the patient's or resident's medical condition, proposed course of
+10 treatment, and prospects for recovery, in terms that the patient or
+11 resident can understand, unless medically contraindicated as
+12 documented in the medical record by the attending physician, a
+13 physician's assistant with whom the physician has a practice
+14 agreement, or an advanced practice registered nurse.
+15 (f) A patient or resident is entitled to refuse treatment to
+16 the extent provided by law and to be informed of the consequences
+17 of that refusal. If Subject to this subdivision, if a refusal of
+18 treatment prevents a health facility or agency or its staff from
+19 providing appropriate care according to ethical and professional
+20 standards, the relationship with the patient or resident may be
+21 terminated upon reasonable notice. If the patient or resident is
+22 pregnant and in labor at the health facility or agency, the health
+23 facility or agency shall stabilize the patient or resident before
+24 terminating the relationship with the patient or resident under
+25 this subdivision.
+26 (g) A patient or resident is entitled to exercise his or her
+27 rights as a patient or resident and as a citizen, and to this end
+28 may present grievances or recommend changes in policies and
+29 services on behalf of himself or herself the patient or resident or
+EMR S01082'25 (S-1) dae81p
+4
+1 others to the health facility or agency staff, to governmental
+2 officials, or to another person of his or her the patient's or
+3 resident's choice within or outside the health facility or agency,
+4 free from restraint, interference, coercion, discrimination, or
+5 reprisal. A patient or resident is entitled to information about
+6 the health facility's or agency's policies and procedures for
+7 initiation, review, and resolution of patient or resident
+8 complaints.
+9 (h) A patient or resident is entitled to information
+10 concerning an experimental procedure proposed as a part of his or
+11 her the patient's or resident's care and has the right to refuse to
+12 participate in the experimental procedure without jeopardizing his
+13 or her the patient's or resident's continuing care.
+14 (i) A patient or resident is entitled to receive and examine
+15 an explanation of his or her the patient's or resident's bill
+16 regardless of the source of payment and to receive, upon request,
+17 information relating to financial assistance available through the
+18 health facility or agency.
+19 (j) A patient or resident is entitled to know who is
+20 responsible for and who is providing his or her the patient's or
+21 resident's direct care, to receive information concerning his or
+22 her the patient's or resident's continuing health needs and
+23 alternatives for meeting those needs, and to be involved in his or
+24 her the patient's or resident's discharge planning, if appropriate.
+25 (k) A patient or resident is entitled to associate and have
+26 private communications and consultations with his or her the
+27 patient's or resident's physician or a physician's assistant with
+28 whom the physician has a practice agreement, with his or her the
+29 patient's or resident's advanced practice registered nurse, with
+EMR S01082'25 (S-1) dae81p
+5
+1 his or her the patient's or resident's attorney, or with any other
+2 individual of his or her the patient's or resident's choice and to
+3 send and receive personal mail unopened on the same day it is
+4 received at the health facility or agency, unless medically
+5 contraindicated as documented in the medical record by the
+6 attending physician, a physician's assistant with whom the
+7 physician has a practice agreement, or an advanced practice
+8 registered nurse. A patient's or resident's civil and religious
+9 liberties, including the right to independent personal decisions
+10 and the right to knowledge of available choices, shall must not be
+11 infringed and the health facility or agency shall encourage and
+12 assist in the fullest possible exercise of these rights. A patient
+13 or resident may meet with, and participate in, the activities of
+14 social, religious, and community groups at his or her the patient's
+15 or resident's discretion, unless medically contraindicated as
+16 documented in the medical record by the attending physician, a
+17 physician's assistant with whom the physician has a practice
+18 agreement, or an advanced practice registered nurse.
+19 (l) A patient or resident is entitled to be free from mental
+20 and physical abuse and from physical and chemical restraints,
+21 except those restraints authorized in writing by the attending
+22 physician, by a physician's assistant with whom the physician has a
+23 practice agreement, or by an advanced practice registered nurse,
+24 for a specified and limited time or as are necessitated by an
+25 emergency to protect the patient or resident from injury to self or
+26 others, in which case the restraint may only be applied by a
+27 qualified professional who shall set forth in writing the
+28 circumstances requiring the use of restraints and who shall
+29 promptly report the action to the attending physician, physician's
+EMR S01082'25 (S-1) dae81p
+6
+1 assistant, or advanced practice registered nurse who authorized the
+2 restraint. In case of a chemical restraint, the physician, or the
+3 advanced practice registered nurse who authorized the restraint,
+4 shall be consulted within 24 hours after the commencement of the
+5 chemical restraint.
+6 (m) A patient or resident is entitled to be free from
+7 performing services for the health facility or agency that are not
+8 included for therapeutic purposes in the plan of care.
+9 (n) A patient or resident is entitled to information about the
+10 health facility or agency rules and regulations affecting patient
+11 or resident care and conduct.
+12 (o) A patient or resident is entitled to adequate and
+13 appropriate pain and symptom management as a basic and essential
+14 element of his or her the patient's or resident's medical
+15 treatment.
+16 (3) The following additional requirements for the policy
+17 described in subsection (2) apply to licensees under parts 213 and
+18 217:
+19 (a) The policy shall must be provided to each nursing home
+20 patient or home for the aged resident upon admission, and the staff
+21 of the facility shall must be trained and involved in the
+22 implementation of the policy.
+23 (b) Each nursing home patient may associate and communicate
+24 privately with persons of his or her the patient's choice.
+25 Reasonable, regular visiting hours, which shall be are not less
+26 than 8 hours per day, and which shall take into consideration the
+27 special circumstances of each visitor, shall must be established
+28 for patients to receive visitors. A patient may be visited by the
+29 patient's attorney or by representatives of the departments named
+EMR S01082'25 (S-1) dae81p
+7
+1 in section 20156, during other than established visiting hours.
+2 Reasonable privacy shall must be afforded for visitation of a
+3 patient who shares a room with another patient. Each patient shall
+4 must have reasonable access to a telephone. A married nursing home
+5 patient or home for the aged resident is entitled to meet privately
+6 with his or her the patient's or resident's spouse in a room that
+7 ensures privacy. If both spouses are residents in the same
+8 facility, they are entitled to share a room unless medically
+9 contraindicated and documented in the medical record by the
+10 attending physician, a physician's assistant with whom the
+11 physician has a practice agreement, or an advanced practice
+12 registered nurse.
+13 (c) A nursing home patient or home for the aged resident is
+14 entitled to retain and use personal clothing and possessions as
+15 space permits, unless to do so would infringe upon the rights of
+16 other patients or residents, or unless medically contraindicated as
+17 documented in the medical record by the attending physician, a
+18 physician's assistant with whom the physician has a practice
+19 agreement, or an advanced practice registered nurse. Each nursing
+20 home patient or home for the aged resident shall must be provided
+21 with reasonable space. At the request of a patient, a nursing home
+22 shall provide for the safekeeping of personal effects, money, and
+23 other property of a patient in accordance with section 21767,
+24 except that a nursing home is not required to provide for the
+25 safekeeping of a property that would impose an unreasonable burden
+26 on the nursing home.
+27 (d) A nursing home patient or home for the aged resident is
+28 entitled to the opportunity to participate in the planning of his
+29 or her the patient's or resident's medical treatment. The attending
+EMR S01082'25 (S-1) dae81p
+8
+1 physician, a physician's assistant with whom the physician has a
+2 practice agreement, or an advanced practice registered nurse, shall
+3 fully inform the nursing home patient of the patient's medical
+4 condition unless medically contraindicated as documented in the
+5 medical record by a physician, a physician's assistant with whom
+6 the physician has a practice agreement, or an advanced practice
+7 registered nurse. Each A nursing home patient shall must be
+8 afforded the opportunity to discharge himself or herself the
+9 patient from the nursing home.
+10 (e) A home for the aged resident may be transferred or
+11 discharged only for medical reasons, for his or her the resident's
+12 welfare or that of other residents, or for nonpayment of his or her
+13 the resident's stay, except as provided by title XVIII or title
+14 XIX. A nursing home patient may be transferred or discharged only
+15 as provided in sections 21773 to 21777. A nursing home patient or
+16 home for the aged resident is entitled to be given reasonable
+17 advance notice to ensure orderly transfer or discharge. Those
+18 actions shall must be documented in the patient's or resident's
+19 medical record.
+20 (f) A nursing home patient or home for the aged resident is
+21 entitled to be fully informed before or at the time of admission
+22 and during stay of services available in the facility, and of the
+23 related charges including any charges for services not covered
+24 under title XVIII, or not covered by the facility's basic per diem
+25 rate. The statement of services provided by the facility shall must
+26 be in writing and shall include those required to be offered on an
+27 as-needed basis.
+28 (g) A nursing home patient or home for the aged resident is
+29 entitled to manage his or her the patient's or resident's own
+EMR S01082'25 (S-1) dae81p
+9
+1 financial affairs, or to have at least a quarterly accounting of
+2 personal financial transactions undertaken in his or her the
+3 patient's or resident's behalf by the facility during a period of
+4 time the patient or resident has delegated those responsibilities
+5 to the facility. In addition, a patient or resident is entitled to
+6 receive each month from the facility an itemized statement setting
+7 forth the services paid for by or on behalf of the patient or
+8 resident and the services rendered by the facility. The admission
+9 of a patient to a nursing home does not confer on the nursing home
+10 or its owner, administrator, employees, or representatives the
+11 authority to manage, use, or dispose of a patient's property.
+12 (h) A nursing home patient or a person authorized by the
+13 patient in writing may inspect and copy the patient's personal and
+14 medical records. The records shall must be made available for
+15 inspection and copying by the nursing home within a reasonable
+16 time, not exceeding 1 week, after the receipt of a written request.
+17 (i) If a nursing home patient desires treatment by a licensed
+18 member of the healing arts, the treatment shall must be made
+19 available unless it is medically contraindicated, and the medical
+20 contraindication is justified in the patient's medical record by
+21 the attending physician, a physician's assistant with whom the
+22 physician has a practice agreement, or an advanced practice
+23 registered nurse.
+24 (j) A nursing home patient has the right to have his or her
+25 the patient's parents, if a minor, or his or her the patient's or
+26 resident's spouse, next of kin, or patient's representative, if an
+27 adult, stay at the facility 24 hours a day if the patient is
+28 considered terminally ill by the physician responsible for the
+29 patient's care, a physician's assistant with whom the physician has
+EMR S01082'25 (S-1) dae81p
+10
+1 a practice agreement, or an advanced practice registered nurse.
+2 (k) Each nursing home patient shall must be provided with
+3 meals that meet the recommended dietary allowances for that
+4 patient's age and sex and that may be modified according to special
+5 dietary needs or ability to chew.
+6 (l) Each nursing home patient has the right to receive
+7 representatives of approved organizations as provided in section
+8 21763.
+9 (4) A nursing home, its owner, administrator, employee, or
+10 representative shall not discharge, harass, or retaliate or
+11 discriminate against a patient because the patient has exercised a
+12 right protected under this section.
+13 (5) In the case of a nursing home patient, the rights
+14 enumerated in subsection (2)(c), (g), and (k) and subsection
+15 (3)(d), (g), and (h) may be exercised by the patient's
+16 representative.
+17 (6) A nursing home patient or home for the aged resident is
+18 entitled to be fully informed, as evidenced by the patient's or
+19 resident's written acknowledgment, before or at the time of
+20 admission and during stay, of the policy required by this section.
+21 The policy shall must provide that if a patient or resident is
+22 adjudicated incompetent and not restored to legal capacity, the
+23 rights and responsibilities set forth in this section shall must be
+24 exercised by a person designated by the patient or resident. The
+25 health facility or agency shall provide proper forms for the
+26 patient or resident to provide for the designation of this person
+27 at the time of admission.
+28 (7) This section does not prohibit a health facility or agency
+29 from establishing and recognizing additional patients' rights.
+EMR S01082'25 (S-1) dae81p
+11
+1 (8) As used in this section:
+2 (a) "Advanced practice registered nurse" means that term as
+3 defined in section 17201.
+4 (b) "Patient's representative" means that term as defined in
+5 section 21703.
+6 (c) "Practice agreement" means an agreement described in
+7 section 17047, 17547, or 18047.
+8 (d) "Title XVIII" means title XVIII of the social security
+9 act, 42 USC 1395 to 1395lll.
+10 (e) "Title XIX" means title XIX of the social security act, 42
+11 USC 1396 to 1396w-5.1396w-8.
+12 Sec. 21513. The owner, operator, and governing body of a
+13 hospital licensed under this article:
+14 (a) Are responsible for all phases of the operation of the
+15 hospital, selection of the medical staff, and quality of care
+16 rendered in the hospital.
+17 (b) Shall cooperate with the department in the enforcement of
+18 this part, and require that the physicians, dentists, and other
+19 personnel working in the hospital who are required to be licensed
+20 or registered are in fact currently licensed or registered.
+21 (c) Shall ensure that physicians and dentists admitted to
+22 practice in the hospital are granted hospital privileges consistent
+23 with their individual training, experience, and other
+24 qualifications.
+25 (d) Shall ensure that physicians and dentists admitted to
+26 practice in the hospital are organized into a medical staff to
+27 enable an effective review of the professional practices in the
+28 hospital for the purpose of reducing morbidity and mortality and
+29 improving the care provided in the hospital for patients. The
+EMR S01082'25 (S-1) dae81p
+12
+1 review must include the quality and necessity of the care provided
+2 and the preventability of complications and deaths occurring in the
+3 hospital.
+4 (e) Shall not discriminate because of race, religion, color,
+5 national origin, age, or sex in the operation of the hospital
+6 including employment, patient admission and care, room assignment,
+7 and professional or nonprofessional selection and training
+8 programs, and shall not discriminate in the selection and
+9 appointment of individuals to the physician staff of the hospital
+10 or its training programs on the basis of licensure or registration
+11 or professional education as doctors of medicine, osteopathic
+12 medicine and surgery, or podiatry. As used in this subdivision,
+13 "sex" includes, but is not limited to, pregnancy or lactating
+14 status.
+15 (f) Shall ensure that the hospital adheres to medical control
+16 authority protocols according to section 20918.
+17 (g) Shall ensure that the hospital develops and maintains a
+18 plan for biohazard detection and handling.
+19 (h) Shall notify the department of health and human services
+20 if the owner, operator, or governing body of the hospital applies
+21 for designation as a rural emergency hospital.
+22 Sec. 21538. (1) Beginning January 1, 2026, a hospital shall
+23 have a policy that complies with all of the following:
+24 (a) Subject to subsection (2) and unless otherwise prohibited
+25 by law, allows a patient who is giving birth to have, at a minimum,
+26 the following present with the patient from the time the patient is
+27 admitted to the hospital and throughout the duration of the
+28 patient's stay in the hospital:
+29 (i) If the patient has a partner or a spouse, both of the
+EMR S01082'25 (S-1) dae81p
+13
+1 following:
+2 (A) The partner or spouse.
+3 (B) A doula.
+4 (ii) If the patient does not have a partner or spouse or the
+5 patient's partner or spouse is not available, both of the
+6 following:
+7 (A) A doula.
+8 (B) A companion of the patient.
+9 (b) Provides the hospital's policy on receiving informed
+10 consent from the patient.
+11 (c) Provides the hospital's process for receiving a pregnant
+12 patient's information from a health professional who initiates the
+13 transfer of the patient's care to the hospital. If the health
+14 professional initiating the transfer is a midwife, the process must
+15 require the hospital to accept the standard form described in
+16 section 17107, if the form is provided to the hospital for the
+17 patient, or accept any information that the midwife is required to
+18 provide to the hospital pursuant to rules promulgated under section
+19 17117. If the health professional initiating the transfer is a
+20 certified nurse midwife, the process must require the hospital to
+21 accept any information that the certified nurse midwife provides.
+22 (2) Subject to subsection (3), a hospital may limit or
+23 otherwise exclude an individual from being present with a patient
+24 described in subsection (1) under any of the following
+25 circumstances:
+26 (a) Any of the following apply that require limiting or
+27 excluding the individual:
+28 (i) A declared public health emergency.
+29 (ii) A public health risk.
+EMR S01082'25 (S-1) dae81p
+14
+1 (iii) An infection control risk.
+2 (b) The individual assaults another individual on the premises
+3 of the hospital.
+4 (c) Any other circumstance exists in which the hospital
+5 determines that limiting or excluding the individual is necessary
+6 to protect public health or safety or to protect the health or
+7 safety of 1 or more individuals on the premises of the hospital.
+8 (3) If a hospital limits or otherwise excludes an individual
+9 who is a doula from being present under subsection (2), the
+10 hospital shall document the reason for the doula's exclusion and
+11 allow for an alternative individual who would not otherwise be
+12 excluded under subsection (2) to be present with the patient.
+13 (4) The department may promulgate rules to implement this
+14 section.
+15 (5) As used in this section:
+16 (a) "Certified nurse midwife" means an individual who is
+17 licensed as a registered professional nurse under part 172 who has
+18 been granted a specialty certification in the health profession
+19 specialty field of nurse midwifery by the Michigan board of nursing
+20 under section 17210.
+21 (b) "Doula" means an individual who provides nonclinical
+22 physical, emotional, and informational support to an individual who
+23 is pregnant before, during, and after the individual's pregnancy.
+24 (c) "Health professional" means an individual who is licensed,
+25 registered, or otherwise authorized to engage in a health
+26 profession under article 15.
+27 (d) "Midwife" means that term as defined in section 17101.
+Final Page
+EMR S01082'25 (S-1) dae81p
+[DELETED:   S d S s t r f o 1]
+[DELETED:   S d a f t o a ( p i ( o d p ( e o m r o i 3 u 1 a n g p ( t r r r r a]
+[DELETED:   S d t ( e c d ( a w m t r d p a ( t o a t p s t  ( r m s o]
+[DELETED:   S d o o c f r t i c ( c h c p o c ( a b r i h ( r d h c a h d ( p p w a]
+[DELETED:   S d h a i c s r c a p r l a n i a o s d d p a () a e p p f e o q c p]
+[DELETED:   S d a r a s c ( p i ( h o ( a e m t ( d 2 ( b p o b i ( p c R n t s b f p]
+[DELETED:   S d i R b p h p w s e f c a p r ( e s o d p a h b w s o e s o ( e o m]
+[DELETED:   S d p p f c m t r n b m a f ( d w s X a h a a b p m ( e a r u r b a ( e o]
+[DELETED:   S d f p b t t r f   o o a ( p m b i t ( m b a c t p r ( t p s a c p]
+[DELETED:   S d a ( b m p d () r 2 ( r d r ( e ( r ( e r a T p a r b e h p a ( f]
+[DELETED:   S d ( ( d ( s ( s ( a5. ( U S h ( h r ( t p o ( p w q ( p e h i]
+[DELETED:   S d r a h ( n i a p a o o m  ( a ( p ( i f)]
+[DELETED:   S d  )    ) ) ]
+[DELETED:   S d)        ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 31
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 20201 and 21513 (MCL 333.20201 and 333.21513),
+section 20201 as amended by 2016 PA 499 and section 21513 as
+amended by 2022 PA 265, and by adding section 21538.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 20201. (1) A health facility or agency that provides
+2 services directly to patients or residents and is licensed under
+3 this article shall adopt a policy describing the rights and
+4 responsibilities of patients or residents admitted to the health
+5 facility or agency. Except for a licensed health maintenance
+6 organization that is subject to chapter 35 of the insurance code of
+7 1956, 1956 PA 218, MCL 500.3501 to 500.3573, the health facility or
+EMR S01082'25 (S-1) dae81p
+
+2
+1 agency shall post the policy at a public place in the health
+2 facility or agency and shall provide the policy to each member of
+3 the health facility or agency staff. Patients A health facility or
+4 agency shall treat patients or residents shall be treated in
+5 accordance with the policy.
+6 (2) The policy describing the rights and responsibilities of
+7 patients or residents required under subsection (1) shall must
+8 include, as a minimum, all of the following:
+9 (a) A patient or resident shall not be denied appropriate care
+10 on the basis of race, religion, color, national origin, sex, age,
+11 disability, marital status, sexual preference, or source of
+12 payment.
+13 (b) An individual who is or has been a patient or resident is
+14 entitled to inspect, or receive for a reasonable fee, a copy of his
+15 or her the patient's or resident's medical record upon on request
+16 in accordance with the medical records access act, 2004 PA 47, MCL
+17 333.26261 to 333.26271. Except as otherwise permitted or required
+18 under the health insurance portability and accountability act of
+19 1996, Public Law 104-191, or regulations promulgated under that
+20 act, 45 CFR parts 160 and 164, a third party shall must not be
+21 given a copy of the patient's or resident's medical record without
+22 prior authorization of the patient or resident.
+23 (c) A patient or resident is entitled to confidential
+24 treatment of personal and medical records, and may refuse their
+25 release to a person outside the health facility or agency except as
+26 required because of a transfer to another health care facility, as
+27 required by law or third party payment contract, or as permitted or
+28 required under the health insurance portability and accountability
+29 act of 1996, Public Law 104-191, or regulations promulgated under
+EMR S01082'25 (S-1) dae81p
+
+3
+1 that act, 45 CFR parts 160 and 164.
+2 (d) A patient or resident is entitled to privacy, to the
+3 extent feasible, in treatment and in caring for personal needs with
+4 consideration, respect, and full recognition of his or her the
+5 patient's or resident's dignity and individuality.
+6 (e) A patient or resident is entitled to receive adequate and
+7 appropriate care, and to receive, from the appropriate individual
+8 within the health facility or agency, information about his or her
+9 the patient's or resident's medical condition, proposed course of
+10 treatment, and prospects for recovery, in terms that the patient or
+11 resident can understand, unless medically contraindicated as
+12 documented in the medical record by the attending physician, a
+13 physician's assistant with whom the physician has a practice
+14 agreement, or an advanced practice registered nurse.
+15 (f) A patient or resident is entitled to refuse treatment to
+16 the extent provided by law and to be informed of the consequences
+17 of that refusal. If Subject to this subdivision, if a refusal of
+18 treatment prevents a health facility or agency or its staff from
+19 providing appropriate care according to ethical and professional
+20 standards, the relationship with the patient or resident may be
+21 terminated upon reasonable notice. If the patient or resident is
+22 pregnant and in labor at the health facility or agency, the health
+23 facility or agency shall stabilize the patient or resident before
+24 terminating the relationship with the patient or resident under
+25 this subdivision.
+26 (g) A patient or resident is entitled to exercise his or her
+27 rights as a patient or resident and as a citizen, and to this end
+28 may present grievances or recommend changes in policies and
+29 services on behalf of himself or herself the patient or resident or
+EMR S01082'25 (S-1) dae81p
+
+4
+1 others to the health facility or agency staff, to governmental
+2 officials, or to another person of his or her the patient's or
+3 resident's choice within or outside the health facility or agency,
+4 free from restraint, interference, coercion, discrimination, or
+5 reprisal. A patient or resident is entitled to information about
+6 the health facility's or agency's policies and procedures for
+7 initiation, review, and resolution of patient or resident
+8 complaints.
+9 (h) A patient or resident is entitled to information
+10 concerning an experimental procedure proposed as a part of his or
+11 her the patient's or resident's care and has the right to refuse to
+12 participate in the experimental procedure without jeopardizing his
+13 or her the patient's or resident's continuing care.
+14 (i) A patient or resident is entitled to receive and examine
+15 an explanation of his or her the patient's or resident's bill
+16 regardless of the source of payment and to receive, upon request,
+17 information relating to financial assistance available through the
+18 health facility or agency.
+19 (j) A patient or resident is entitled to know who is
+20 responsible for and who is providing his or her the patient's or
+21 resident's direct care, to receive information concerning his or
+22 her the patient's or resident's continuing health needs and
+23 alternatives for meeting those needs, and to be involved in his or
+24 her the patient's or resident's discharge planning, if appropriate.
+25 (k) A patient or resident is entitled to associate and have
+26 private communications and consultations with his or her the
+27 patient's or resident's physician or a physician's assistant with
+28 whom the physician has a practice agreement, with his or her the
+29 patient's or resident's advanced practice registered nurse, with
+EMR S01082'25 (S-1) dae81p
+
+5
+1 his or her the patient's or resident's attorney, or with any other
+2 individual of his or her the patient's or resident's choice and to
+3 send and receive personal mail unopened on the same day it is
+4 received at the health facility or agency, unless medically
+5 contraindicated as documented in the medical record by the
+6 attending physician, a physician's assistant with whom the
+7 physician has a practice agreement, or an advanced practice
+8 registered nurse. A patient's or resident's civil and religious
+9 liberties, including the right to independent personal decisions
+10 and the right to knowledge of available choices, shall must not be
+11 infringed and the health facility or agency shall encourage and
+12 assist in the fullest possible exercise of these rights. A patient
+13 or resident may meet with, and participate in, the activities of
+14 social, religious, and community groups at his or her the patient's
+15 or resident's discretion, unless medically contraindicated as
+16 documented in the medical record by the attending physician, a
+17 physician's assistant with whom the physician has a practice
+18 agreement, or an advanced practice registered nurse.
+19 (l) A patient or resident is entitled to be free from mental
+20 and physical abuse and from physical and chemical restraints,
+21 except those restraints authorized in writing by the attending
+22 physician, by a physician's assistant with whom the physician has a
+23 practice agreement, or by an advanced practice registered nurse,
+24 for a specified and limited time or as are necessitated by an
+25 emergency to protect the patient or resident from injury to self or
+26 others, in which case the restraint may only be applied by a
+27 qualified professional who shall set forth in writing the
+28 circumstances requiring the use of restraints and who shall
+29 promptly report the action to the attending physician, physician's
+EMR S01082'25 (S-1) dae81p
+
+6
+1 assistant, or advanced practice registered nurse who authorized the
+2 restraint. In case of a chemical restraint, the physician, or the
+3 advanced practice registered nurse who authorized the restraint,
+4 shall be consulted within 24 hours after the commencement of the
+5 chemical restraint.
+6 (m) A patient or resident is entitled to be free from
+7 performing services for the health facility or agency that are not
+8 included for therapeutic purposes in the plan of care.
+9 (n) A patient or resident is entitled to information about the
+10 health facility or agency rules and regulations affecting patient
+11 or resident care and conduct.
+12 (o) A patient or resident is entitled to adequate and
+13 appropriate pain and symptom management as a basic and essential
+14 element of his or her the patient's or resident's medical
+15 treatment.
+16 (3) The following additional requirements for the policy
+17 described in subsection (2) apply to licensees under parts 213 and
+18 217:
+19 (a) The policy shall must be provided to each nursing home
+20 patient or home for the aged resident upon admission, and the staff
+21 of the facility shall must be trained and involved in the
+22 implementation of the policy.
+23 (b) Each nursing home patient may associate and communicate
+24 privately with persons of his or her the patient's choice.
+25 Reasonable, regular visiting hours, which shall be are not less
+26 than 8 hours per day, and which shall take into consideration the
+27 special circumstances of each visitor, shall must be established
+28 for patients to receive visitors. A patient may be visited by the
+29 patient's attorney or by representatives of the departments named
+EMR S01082'25 (S-1) dae81p
+
+7
+1 in section 20156, during other than established visiting hours.
+2 Reasonable privacy shall must be afforded for visitation of a
+3 patient who shares a room with another patient. Each patient shall
+4 must have reasonable access to a telephone. A married nursing home
+5 patient or home for the aged resident is entitled to meet privately
+6 with his or her the patient's or resident's spouse in a room that
+7 ensures privacy. If both spouses are residents in the same
+8 facility, they are entitled to share a room unless medically
+9 contraindicated and documented in the medical record by the
+10 attending physician, a physician's assistant with whom the
+11 physician has a practice agreement, or an advanced practice
+12 registered nurse.
+13 (c) A nursing home patient or home for the aged resident is
+14 entitled to retain and use personal clothing and possessions as
+15 space permits, unless to do so would infringe upon the rights of
+16 other patients or residents, or unless medically contraindicated as
+17 documented in the medical record by the attending physician, a
+18 physician's assistant with whom the physician has a practice
+19 agreement, or an advanced practice registered nurse. Each nursing
+20 home patient or home for the aged resident shall must be provided
+21 with reasonable space. At the request of a patient, a nursing home
+22 shall provide for the safekeeping of personal effects, money, and
+23 other property of a patient in accordance with section 21767,
+24 except that a nursing home is not required to provide for the
+25 safekeeping of a property that would impose an unreasonable burden
+26 on the nursing home.
+27 (d) A nursing home patient or home for the aged resident is
+28 entitled to the opportunity to participate in the planning of his
+29 or her the patient's or resident's medical treatment. The attending
+EMR S01082'25 (S-1) dae81p
+
+8
+1 physician, a physician's assistant with whom the physician has a
+2 practice agreement, or an advanced practice registered nurse, shall
+3 fully inform the nursing home patient of the patient's medical
+4 condition unless medically contraindicated as documented in the
+5 medical record by a physician, a physician's assistant with whom
+6 the physician has a practice agreement, or an advanced practice
+7 registered nurse. Each A nursing home patient shall must be
+8 afforded the opportunity to discharge himself or herself the
+9 patient from the nursing home.
+10 (e) A home for the aged resident may be transferred or
+11 discharged only for medical reasons, for his or her the resident's
+12 welfare or that of other residents, or for nonpayment of his or her
+13 the resident's stay, except as provided by title XVIII or title
+14 XIX. A nursing home patient may be transferred or discharged only
+15 as provided in sections 21773 to 21777. A nursing home patient or
+16 home for the aged resident is entitled to be given reasonable
+17 advance notice to ensure orderly transfer or discharge. Those
+18 actions shall must be documented in the patient's or resident's
+19 medical record.
+20 (f) A nursing home patient or home for the aged resident is
+21 entitled to be fully informed before or at the time of admission
+22 and during stay of services available in the facility, and of the
+23 related charges including any charges for services not covered
+24 under title XVIII, or not covered by the facility's basic per diem
+25 rate. The statement of services provided by the facility shall must
+26 be in writing and shall include those required to be offered on an
+27 as-needed basis.
+28 (g) A nursing home patient or home for the aged resident is
+29 entitled to manage his or her the patient's or resident's own
+EMR S01082'25 (S-1) dae81p
+
+9
+1 financial affairs, or to have at least a quarterly accounting of
+2 personal financial transactions undertaken in his or her the
+3 patient's or resident's behalf by the facility during a period of
+4 time the patient or resident has delegated those responsibilities
+5 to the facility. In addition, a patient or resident is entitled to
+6 receive each month from the facility an itemized statement setting
+7 forth the services paid for by or on behalf of the patient or
+8 resident and the services rendered by the facility. The admission
+9 of a patient to a nursing home does not confer on the nursing home
+10 or its owner, administrator, employees, or representatives the
+11 authority to manage, use, or dispose of a patient's property.
+12 (h) A nursing home patient or a person authorized by the
+13 patient in writing may inspect and copy the patient's personal and
+14 medical records. The records shall must be made available for
+15 inspection and copying by the nursing home within a reasonable
+16 time, not exceeding 1 week, after the receipt of a written request.
+17 (i) If a nursing home patient desires treatment by a licensed
+18 member of the healing arts, the treatment shall must be made
+19 available unless it is medically contraindicated, and the medical
+20 contraindication is justified in the patient's medical record by
+21 the attending physician, a physician's assistant with whom the
+22 physician has a practice agreement, or an advanced practice
+23 registered nurse.
+24 (j) A nursing home patient has the right to have his or her
+25 the patient's parents, if a minor, or his or her the patient's or
+26 resident's spouse, next of kin, or patient's representative, if an
+27 adult, stay at the facility 24 hours a day if the patient is
+28 considered terminally ill by the physician responsible for the
+29 patient's care, a physician's assistant with whom the physician has
+EMR S01082'25 (S-1) dae81p
+
+10
+1 a practice agreement, or an advanced practice registered nurse.
+2 (k) Each nursing home patient shall must be provided with
+3 meals that meet the recommended dietary allowances for that
+4 patient's age and sex and that may be modified according to special
+5 dietary needs or ability to chew.
+6 (l) Each nursing home patient has the right to receive
+7 representatives of approved organizations as provided in section
+8 21763.
+9 (4) A nursing home, its owner, administrator, employee, or
+10 representative shall not discharge, harass, or retaliate or
+11 discriminate against a patient because the patient has exercised a
+12 right protected under this section.
+13 (5) In the case of a nursing home patient, the rights
+14 enumerated in subsection (2)(c), (g), and (k) and subsection
+15 (3)(d), (g), and (h) may be exercised by the patient's
+16 representative.
+17 (6) A nursing home patient or home for the aged resident is
+18 entitled to be fully informed, as evidenced by the patient's or
+19 resident's written acknowledgment, before or at the time of
+20 admission and during stay, of the policy required by this section.
+21 The policy shall must provide that if a patient or resident is
+22 adjudicated incompetent and not restored to legal capacity, the
+23 rights and responsibilities set forth in this section shall must be
+24 exercised by a person designated by the patient or resident. The
+25 health facility or agency shall provide proper forms for the
+26 patient or resident to provide for the designation of this person
+27 at the time of admission.
+28 (7) This section does not prohibit a health facility or agency
+29 from establishing and recognizing additional patients' rights.
+EMR S01082'25 (S-1) dae81p
+
+11
+1 (8) As used in this section:
+2 (a) "Advanced practice registered nurse" means that term as
+3 defined in section 17201.
+4 (b) "Patient's representative" means that term as defined in
+5 section 21703.
+6 (c) "Practice agreement" means an agreement described in
+7 section 17047, 17547, or 18047.
+8 (d) "Title XVIII" means title XVIII of the social security
+9 act, 42 USC 1395 to 1395lll.
+10 (e) "Title XIX" means title XIX of the social security act, 42
+11 USC 1396 to 1396w-5.1396w-8.
+12 Sec. 21513. The owner, operator, and governing body of a
+13 hospital licensed under this article:
+14 (a) Are responsible for all phases of the operation of the
+15 hospital, selection of the medical staff, and quality of care
+16 rendered in the hospital.
+17 (b) Shall cooperate with the department in the enforcement of
+18 this part, and require that the physicians, dentists, and other
+19 personnel working in the hospital who are required to be licensed
+20 or registered are in fact currently licensed or registered.
+21 (c) Shall ensure that physicians and dentists admitted to
+22 practice in the hospital are granted hospital privileges consistent
+23 with their individual training, experience, and other
+24 qualifications.
+25 (d) Shall ensure that physicians and dentists admitted to
+26 practice in the hospital are organized into a medical staff to
+27 enable an effective review of the professional practices in the
+28 hospital for the purpose of reducing morbidity and mortality and
+29 improving the care provided in the hospital for patients. The
+EMR S01082'25 (S-1) dae81p
+
+12
+1 review must include the quality and necessity of the care provided
+2 and the preventability of complications and deaths occurring in the
+3 hospital.
+4 (e) Shall not discriminate because of race, religion, color,
+5 national origin, age, or sex in the operation of the hospital
+6 including employment, patient admission and care, room assignment,
+7 and professional or nonprofessional selection and training
+8 programs, and shall not discriminate in the selection and
+9 appointment of individuals to the physician staff of the hospital
+10 or its training programs on the basis of licensure or registration
+11 or professional education as doctors of medicine, osteopathic
+12 medicine and surgery, or podiatry. As used in this subdivision,
+13 "sex" includes, but is not limited to, pregnancy or lactating
+14 status.
+15 (f) Shall ensure that the hospital adheres to medical control
+16 authority protocols according to section 20918.
+17 (g) Shall ensure that the hospital develops and maintains a
+18 plan for biohazard detection and handling.
+19 (h) Shall notify the department of health and human services
+20 if the owner, operator, or governing body of the hospital applies
+21 for designation as a rural emergency hospital.
+22 Sec. 21538. (1) Beginning January 1, 2026, a hospital shall
+23 have a policy that complies with all of the following:
+24 (a) Subject to subsection (2) and unless otherwise prohibited
+25 by law, allows a patient who is giving birth to have, at a minimum,
+26 the following present with the patient from the time the patient is
+27 admitted to the hospital and throughout the duration of the
+28 patient's stay in the hospital:
+29 (i) If the patient has a partner or a spouse, both of the
+EMR S01082'25 (S-1) dae81p
+
+13
+1 following:
+2 (A) The partner or spouse.
+3 (B) A doula.
+4 (ii) If the patient does not have a partner or spouse or the
+5 patient's partner or spouse is not available, both of the
+6 following:
+7 (A) A doula.
+8 (B) A companion of the patient.
+9 (b) Provides the hospital's policy on receiving informed
+10 consent from the patient.
+11 (c) Provides the hospital's process for receiving a pregnant
+12 patient's information from a health professional who initiates the
+13 transfer of the patient's care to the hospital. If the health
+14 professional initiating the transfer is a midwife, the process must
+15 require the hospital to accept the standard form described in
+16 section 17107, if the form is provided to the hospital for the
+17 patient, or accept any information that the midwife is required to
+18 provide to the hospital pursuant to rules promulgated under section
+19 17117. If the health professional initiating the transfer is a
+20 certified nurse midwife, the process must require the hospital to
+21 accept any information that the certified nurse midwife provides.
+22 (2) Subject to subsection (3), a hospital may limit or
+23 otherwise exclude an individual from being present with a patient
+24 described in subsection (1) under any of the following
+25 circumstances:
+26 (a) Any of the following apply that require limiting or
+27 excluding the individual:
+28 (i) A declared public health emergency.
+29 (ii) A public health risk.
+EMR S01082'25 (S-1) dae81p
+
+14
+1 (iii) An infection control risk.
+2 (b) The individual assaults another individual on the premises
+3 of the hospital.
+4 (c) Any other circumstance exists in which the hospital
+5 determines that limiting or excluding the individual is necessary
+6 to protect public health or safety or to protect the health or
+7 safety of 1 or more individuals on the premises of the hospital.
+8 (3) If a hospital limits or otherwise excludes an individual
+9 who is a doula from being present under subsection (2), the
+10 hospital shall document the reason for the doula's exclusion and
+11 allow for an alternative individual who would not otherwise be
+12 excluded under subsection (2) to be present with the patient.
+13 (4) The department may promulgate rules to implement this
+14 section.
+15 (5) As used in this section:
+16 (a) "Certified nurse midwife" means an individual who is
+17 licensed as a registered professional nurse under part 172 who has
+18 been granted a specialty certification in the health profession
+19 specialty field of nurse midwifery by the Michigan board of nursing
+20 under section 17210.
+21 (b) "Doula" means an individual who provides nonclinical
+22 physical, emotional, and informational support to an individual who
+23 is pregnant before, during, and after the individual's pregnancy.
+24 (c) "Health professional" means an individual who is licensed,
+25 registered, or otherwise authorized to engage in a health
+26 profession under article 15.
+27 (d) "Midwife" means that term as defined in section 17101.
+Final Page
+EMR S01082'25 (S-1) dae81p
+
+[DELETED:   S d S s t r f o 1]
+[DELETED:   S d a f t o a ( p i ( o d p ( e o m r o i 3 u 1 a n g p ( t r r r r a]
+[DELETED:   S d t ( e c d ( a w m t r d p a ( t o a t p s t  ( r m s o]
+[DELETED:   S d o o c f r t i c ( c h c p o c ( a b r i h ( r d h c a h d ( p p w a]
+[DELETED:   S d h a i c s r c a p r l a n i a o s d d p a () a e p p f e o q c p]
+[DELETED:   S d a r a s c ( p i ( h o ( a e m t ( d 2 ( b p o b i ( p c R n t s b f p]
+[DELETED:   S d i R b p h p w s e f c a p r ( e s o d p a h b w s o e s o ( e o m]
+[DELETED:   S d p p f c m t r n b m a f ( d w s X a h a a b p m ( e a r u r b a ( e o]
+[DELETED:   S d f p b t t r f   o o a ( p m b i t ( m b a c t p r ( t p s a c p]
+[DELETED:   S d a ( b m p d () r 2 ( r d r ( e ( r ( e r a T p a r b e h p a ( f]
+[DELETED:   S d ( ( d ( s ( s ( a5. ( U S h ( h r ( t p o ( p w q ( p e h i]
+[DELETED:   S d r a h ( n i a p a o o m  ( a ( p ( i f)]
+[DELETED:   S d  )    ) ) ]
+[DELETED:   S d)        ]

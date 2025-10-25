@@ -1,0 +1,980 @@
+Title: SENATE BILL NO. 3
+Official Title: SENATE BILL NO. 3
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to provide for a cost and affordability review of
+certain prescription drug products; to create the prescription drug
+pricing board and prescription drug affordability stakeholder
+council and to prescribe their powers and duties; to provide for
+the powers and duties of certain state governmental officers and
+entities; to establish upper payment limits for certain
+prescription drug products and provide remedies; and to provide for
+the promulgation of rules.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "prescription drug cost
+2 and affordability review act".
+3 Sec. 3. As used in this act:
+4 (a) "Biologic" means a drug that is produced or distributed in
+EMR S00487'25 (S-1) pwb154
+2
+1 accordance with a biologics license application approved by the
+2 United States Food and Drug Administration.
+3 (b) "Biosimilar" means a drug that is produced or distributed
+4 in accordance with a biologics license application approved under
+5 42 USC 262(k).
+6 (c) "Board" means the prescription drug affordability board
+7 created in section 5.
+8 (d) "Brand-name drug" means a drug other than an authorized
+9 generic that is produced or distributed in accordance with an
+10 original new drug application approved under 21 USC 355.
+11 (e) "Consumer Price Index" means the United States Consumer
+12 Price Index for all urban consumers as defined and reported by the
+13 United States Department of Labor, Bureau of Labor Statistics.
+14 (f) "Council" means the prescription drug affordability
+15 stakeholder council created in section 9.
+16 (g) "Department" means the department of insurance and
+17 financial services.
+18 (h) "Director" means the director of the department.
+19 (i) "Fund" means the prescription drug affordability fund
+20 created in section 17.
+21 (j) "Generic drug" means any of the following:
+22 (i) A retail drug that is marketed or distributed in accordance
+23 with an abbreviated new drug application approved under 21 USC 355.
+24 (ii) An authorized generic drug as that term is defined in 42
+25 CFR 447.502.
+26 (iii) A drug that entered the market before 1962 that was not
+27 originally marketed under a new drug application.
+28 (k) "Health insurer" means any of the following:
+29 (i) An insurer authorized under the insurance code of 1956,
+EMR S00487'25 (S-1) pwb154
+3
+1 1956 PA 218, MCL 500.100 to 500.8302, to deliver, issue for
+2 delivery, or renew in this state a health insurance policy.
+3 (ii) A health maintenance organization as that term is defined
+4 in section 3501 of the insurance code of 1956, 1956 PA 218, MCL
+5 500.3501.
+6 (l) "Manufacturer" means an entity that meets any of the
+7 following:
+8 (i) Owns the patent to a prescription drug product or enters
+9 into a lease with another manufacturer to market and distribute a
+10 prescription drug product under the entity's own name.
+11 (ii) Is the labeled entity of a generic drug at the point of
+12 manufacture and the entity does 1 of the following:
+13 (A) Sets or changes the wholesale acquisition cost of a brand-
+14 name drug that it manufactures or has leased the right to market.
+15 (B) Sets or changes the wholesale acquisition cost of a
+16 generic drug that it manufactures.
+17 (m) "Person" means an individual and includes a body politic
+18 and corporate.
+19 (n) "Prescription drug product" means a brand-name drug, a
+20 generic drug, a biologic, or a biosimilar.
+21 (o) "Prescription drug product purchaser" means an entity that
+22 purchases and takes ownership of a prescription drug product for
+23 resale or providing to patients.
+24 (p) "Rule" means a rule promulgated pursuant to the
+25 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+26 24.328.
+27 (q) "Third-party payer" means a health insurer, a state
+28 department or agency administering a plan of medical assistance
+29 under the social welfare act, 1939 PA 280, MCL 400.1 to 400.119b, a
+EMR S00487'25 (S-1) pwb154
+4
+1 person administering a self-funded plan, or a pharmacy benefit
+2 manager.
+3 (r) "340B covered entity" means covered entity as that term is
+4 defined in 42 USC 256b that is authorized to participate in the
+5 federal 340B Program under section 340B of the public health
+6 service act, 42 USC 256b.
+7 (s) "Wholesale acquisition cost" means that term as defined in
+8 42 USC 1395w-3a(c)(6)(B).
+9 Sec. 5. (1) The prescription drug affordability board is
+10 created as an autonomous entity within the department.
+11 (2) The board consists of 5 members, appointed by the governor
+12 with the advice and consent of the senate. The members of the board
+13 must include individuals who have expertise in health care
+14 economics, health policy, health equity, clinical medicine, and
+15 hospital pharmacy administration. The governor shall not appoint an
+16 individual to the board if the individual is employed by, a
+17 consultant to, or a board member of a manufacturer or a trade
+18 association for a manufacturer or otherwise has a personal or
+19 financial interest that has the potential to bias or has the
+20 appearance of biasing the individual's decision in matters related
+21 to the board or in conducting the board's activities. The governor
+22 shall not appoint an individual to the board if the individual is a
+23 lobbyist who is registered in this state. An individual who is
+24 appointed to the board shall not register as a lobbyist in this
+25 state for a period of 5 years after the individual's term on the
+26 board expires.
+27 (3) The governor shall appoint 2 of the first members to 1-
+28 year terms and 3 of the first members to 2-year terms. After the
+29 first appointments, the term of a member of the board is 4 years or
+EMR S00487'25 (S-1) pwb154
+5
+1 until a successor is appointed, whichever is later.
+2 (4) If a vacancy occurs on the board, the governor shall
+3 appoint an individual to fill the vacancy for the balance of the
+4 term in the same manner as the original appointment.
+5 (5) The governor may remove a member of the board for
+6 incompetence, dereliction of duty, malfeasance, misfeasance, or
+7 nonfeasance in office, or any other good cause.
+8 (6) The governor shall call the first meeting of the board. At
+9 the first meeting, the board shall elect from among its members a
+10 chairperson and other officers as it considers necessary or
+11 appropriate. After the first meeting, the board shall meet at least
+12 quarterly, or more frequently at the call of the chairperson or if
+13 requested by 3 or more members.
+14 (7) A majority of the members of the board constitute a quorum
+15 for transacting business. Except as otherwise provided in this
+16 subsection, a majority of the members present and serving are
+17 required for official action of the board. If 1 or more members of
+18 the board recuse themselves, 2/3 of the members present and serving
+19 are required for official action of the board.
+20 (8) The board shall conduct its business in compliance with
+21 the open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+22 (9) Except as otherwise provided in this subsection, a writing
+23 that is prepared, owned, used, in the possession of, or retained by
+24 the board in performing an official function is subject to the
+25 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246. A
+26 writing containing a trade secret or proprietary information is
+27 confidential and is not subject to disclosure under the freedom of
+28 information act, 1976 PA 442, MCL 15.231 to 15.246.
+29 (10) The salaries and other expenses incurred by members of
+EMR S00487'25 (S-1) pwb154
+6
+1 the board are subject to an annual appropriation as provided by
+2 law.
+3 (11) As used in this section, "health equity" means attaining
+4 the highest level of health for all individuals, in which an
+5 individual has a fair and just opportunity to attain the
+6 individual's optimal health regardless of race, ethnicity,
+7 disability, sexual orientation, gender identity, socioeconomic
+8 status, geography, preferred language, or other factor that affects
+9 access to health care and health outcomes.
+10 Sec. 7. A member of the board is subject to 1968 PA 317, MCL
+11 15.321 to 15.330, and 1973 PA 196, MCL 15.341 to 15.348.
+12 Sec. 9. (1) The prescription drug affordability stakeholder
+13 council is created within the department.
+14 (2) Subject to subsection (3), the council consists of the
+15 following 21 members:
+16 (a) Seven members appointed by the governor as follows:
+17 (i) One individual representing manufacturers of brand-name
+18 drugs.
+19 (ii) One individual representing manufacturers of generic
+20 drugs.
+21 (iii) One individual representing employers.
+22 (iv) One individual representing pharmacy benefit managers.
+23 (v) One individual representing pharmacists.
+24 (vi) One individual representing a mutual insurance company.
+25 The mutual insurance company under this subparagraph must not be an
+26 entity that, directly or indirectly, through 1 or more
+27 intermediaries, controls, is controlled by, or is under common
+28 control with the managed care organization under subdivision
+29 (c)(iv).
+EMR S00487'25 (S-1) pwb154
+7
+1 (vii) One member of the public.
+2 (b) Seven members appointed by the governor from a list of
+3 nominees submitted by the speaker of the house of representatives.
+4 The list of nominees must include individuals who represent the
+5 following:
+6 (i) A statewide organization that advocates for senior
+7 citizens.
+8 (ii) A statewide organization that advocates for health care.
+9 (iii) A statewide organization that advocates for diversity
+10 within communities.
+11 (iv) A labor union.
+12 (v) Researchers who specialize in prescription drug products.
+13 (vi) The public.
+14 (c) Seven members appointed by the governor from a list of
+15 nominees submitted by the senate majority leader. The list of
+16 nominees must include individuals who represent each of the
+17 following:
+18 (i) Physicians.
+19 (ii) Nurses.
+20 (iii) Hospitals.
+21 (iv) Managed care organizations. The managed care organization
+22 under this subparagraph must not be an entity that, directly or
+23 indirectly, through 1 or more intermediaries, controls, is
+24 controlled by, or is under common control with the mutual insurance
+25 company under subdivision (a)(vi).
+26 (v) The department of technology, management, and budget.
+27 (vi) Clinical researchers.
+28 (vii) The public.
+EMR S00487'25 (S-1) pwb154
+8
+1 (3) The governor shall ensure that the members appointed to
+2 the council have knowledge in 1 or more of the following areas:
+3 (a) The pharmaceutical business model.
+4 (b) Supply chain business models.
+5 (c) The practice of medicine or clinical training.
+6 (d) Consumer or patient perspectives.
+7 (e) Health care costs trends.
+8 (f) Clinical and health services research.
+9 (4) The governor shall appoint 7 of the first members to 1-
+10 year terms, 7 of the first members to 2-year terms, and 7 of the
+11 first members to 3-year terms. After the first appointments, the
+12 term of a member of the council is 3 years or until a successor is
+13 appointed, whichever is later.
+14 (5) If a vacancy occurs on the council, the governor shall
+15 appoint an individual to fill the vacancy for the balance of the
+16 term in the same manner as the original appointment.
+17 (6) The governor may remove a member of the council for
+18 incompetence, dereliction of duty, malfeasance, misfeasance, or
+19 nonfeasance in office, or any other good cause.
+20 (7) At the first meeting of the council, the council shall
+21 elect from among its members a chairperson and other officers as it
+22 considers necessary or appropriate. After the first meeting, the
+23 council shall meet at least quarterly, or more frequently at the
+24 call of the chairperson or if requested by 7 or more members.
+25 (8) A majority of the members of the council constitute a
+26 quorum for transacting business. A majority of the members present
+27 and serving are required for official action of the council.
+28 (9) The council shall conduct its business in compliance with
+29 the open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+EMR S00487'25 (S-1) pwb154
+9
+1 (10) Except as otherwise provided in this subsection, a
+2 writing that is prepared, owned, used, in the possession of, or
+3 retained by the council in performing an official function is
+4 subject to the freedom of information act, 1976 PA 442, MCL 15.231
+5 to 15.246. A writing containing a trade secret or proprietary
+6 information is confidential and is not subject to disclosure under
+7 the freedom of information act, 1976 PA 442, MCL 15.231 to 15.246.
+8 (11) A member of the council is not entitled to compensation
+9 for service on the council, but may be reimbursed for actual and
+10 necessary expenses incurred in serving.
+11 (12) The council shall assist the board in making decisions
+12 required under this act.
+13 Sec. 11. (1) Beginning 18 months after the effective date of
+14 this act, subject to subsection (2), the board, in consultation
+15 with the council, shall select 1 or more prescription drug products
+16 based on any of the following criteria:
+17 (a) The prescription drug product is a brand-name drug or a
+18 biologic that, as adjusted annually for inflation in accordance
+19 with the Consumer Price Index, has a wholesale acquisition cost of
+20 $60,000.00 or more per year or course of treatment or has a
+21 wholesale acquisition cost increase of $3,000.00 or more in any 12-
+22 month period.
+23 (b) The prescription drug product is a biosimilar that has a
+24 wholesale acquisition cost that is not at least 15% lower than the
+25 referenced brand biologic.
+26 (c) The prescription drug product is a generic drug that, as
+27 adjusted annually for inflation in accordance with the Consumer
+28 Price Index, has a wholesale acquisition cost that meets both of
+29 the following requirements:
+EMR S00487'25 (S-1) pwb154
+10
+1 (i) Is $100.00 or more for any of the following:
+2 (A) A 30-day supply that lasts a patient for a period of 30
+3 consecutive days based on the recommended dosage approved for
+4 labeling by the United States Food and Drug Administration.
+5 (B) A supply that lasts a patient for fewer than 30 days based
+6 on the recommended dosage approved for labeling by the United
+7 States Food and Drug Administration.
+8 (C) One unit of the drug if the labeling approved by the
+9 United States Food and Drug Administration does not recommend a
+10 finite dosage.
+11 (ii) Increased by 200% or more during the immediately preceding
+12 12-month period, as determined by the difference between the
+13 resulting wholesale acquisition cost and the average wholesale
+14 acquisition cost reported over the immediately preceding 12 months.
+15 (d) The prescription drug product is a prescription drug
+16 product that may create affordability challenges for health care
+17 systems in this state and patients, including, but not limited to,
+18 a prescription drug product needed to address a public health
+19 emergency.
+20 (2) In selecting 1 or more prescription drug products under
+21 subsection (1), the board is not required to identify each
+22 prescription drug product that meets the criteria described in
+23 subsection (1).
+24 (3) The board shall determine whether to conduct a cost and
+25 affordability review for each prescription drug product that is
+26 selected under subsection (1). In making a determination under this
+27 subsection, the board shall consider input from the council and the
+28 average patient cost share for each prescription drug product.
+29 (4) If the board conducts a cost and affordability review of a
+EMR S00487'25 (S-1) pwb154
+11
+1 prescription drug product, the board may consider when conducting
+2 the review any document or research related to the manufacturer's
+3 selection of the introductory price or price increase of the
+4 prescription drug product, including life cycle management, net
+5 average price in this state, market competition, projected revenue,
+6 and, subject to subsection (7), the estimated cost effectiveness of
+7 the prescription drug product. In its review, the board shall
+8 determine whether the use of a prescription drug product that is
+9 fully consistent with the labeling approved by the United States
+10 Food and Drug Administration or standard medical practice for the
+11 prescription drug product has led to or will lead to affordability
+12 challenges to hospitals and health care systems in this state or
+13 high out-of-pocket costs for patients in this state. In making its
+14 determination under this subsection, the board shall consider any
+15 information that a manufacturer chooses to provide to the board and
+16 all of the following factors, to the extent practicable:
+17 (a) The wholesale acquisition cost for the prescription drug
+18 product sold in this state.
+19 (b) The average monetary price concession, discount, or rebate
+20 that the manufacturer provides to health insurers and pharmacy
+21 benefit managers in this state or is expected to provide to health
+22 insurers and pharmacy benefit managers in this state, expressed as
+23 a percent of the wholesale acquisition cost for the prescription
+24 drug product under review.
+25 (c) The price at which therapeutic alternatives for the
+26 prescription drug product have been sold in this state.
+27 (d) The average monetary concession, discount, or rebate that
+28 another manufacturer provides or is expected to provide to health
+29 insurers and pharmacy benefit managers in this state for
+EMR S00487'25 (S-1) pwb154
+12
+1 therapeutic alternatives.
+2 (e) The cost to health insurers based on patient access
+3 consistent with United States Food and Drug Administration labeled
+4 indications or recognized standard medical practice.
+5 (f) The impact on patient access resulting from the cost of
+6 the prescription drug product relative to insurance benefit design.
+7 (g) The current or expected dollar value of drug-specific
+8 patient access programs that are supported by the manufacturer.
+9 (h) The relative financial impact to health, medical, or
+10 social service costs as can be quantified and compared to baseline
+11 effects of existing therapeutic alternatives.
+12 (i) The average patient co-pay or other cost-sharing for the
+13 prescription drug product in this state.
+14 (j) The impact on hospital access to the prescription drug
+15 product, prescription drug product shortage concerns, and the
+16 impact on the cost to hospitals purchasing the prescription drug
+17 product.
+18 (k) Any other factor established by the board by rule.
+19 (5) If the board determines that spending on a prescription
+20 drug product reviewed under this section has led to or will lead to
+21 affordability challenges to hospitals and health care systems in
+22 this state or high out-of-pocket costs for patients in this state,
+23 the board may, subject to and except as otherwise provided in
+24 subsection (6), establish by rule an upper payment limit for the
+25 prescription drug product. In establishing an upper payment limit
+26 under this subsection, the board shall consider all of the
+27 following:
+28 (a) Relevant administrative costs related to supplying or
+29 stocking the prescription drug product.
+EMR S00487'25 (S-1) pwb154
+13
+1 (b) The impact of an upper payment limit for the prescription
+2 drug product on 340B covered entities.
+3 (6) An upper payment limit established under this section must
+4 not include professional dispensing fees. An upper payment limit
+5 must not be established for any prescription drug product that is
+6 listed as "currently in shortage" in the drug shortage database
+7 maintained by the United States Food and Drug Administration.
+8 (7) If the board considers the estimated cost effectiveness of
+9 a prescription drug product under this section, the board shall
+10 comply with both of the following:
+11 (a) The board shall not use a cost-per-quality adjusted life
+12 year, or a similar measure, to identify a subpopulation for which a
+13 prescription drug product would be less cost effective due to
+14 severity of illness, age, or preexisting disability.
+15 (b) If the board uses a cost-effectiveness analysis for a
+16 prescription drug product that extends an individual's life, the
+17 board must use a cost-effectiveness analysis that weighs the value
+18 of all additional lifetime gained equally for any individual, no
+19 matter the severity of illness, age, or preexisting disability.
+20 (8) An upper payment limit established under this section
+21 takes effect on the date prescribed by the board by rule but no
+22 sooner than 6 months after the date the upper payment limit is
+23 established.
+24 Sec. 12. (1) Except as otherwise provided in subsection (2),
+25 if the board establishes an upper payment limit under section 11
+26 for a prescription drug product intended for use by individuals in
+27 this state, beginning on the effective date of the upper payment
+28 limit, a prescription drug product purchaser or third-party payer
+29 shall not purchase, bill, or reimburse for the prescription drug
+EMR S00487'25 (S-1) pwb154
+14
+1 product in an amount that exceeds the upper payment limit,
+2 regardless of whether the prescription drug product is dispensed or
+3 distributed in person, by mail, or by other means.
+4 (2) A prescription drug product purchaser or third-party payer
+5 shall not reimburse any of the following prescription drug product
+6 purchasers for a prescription drug product in an amount less than
+7 an upper payment limit established under section 11 for the
+8 prescription drug product:
+9 (a) An independent pharmacy.
+10 (b) A hospital pharmacy.
+11 (c) A hospital.
+12 (d) A behavioral health hospital.
+13 (e) A 340B covered entity.
+14 (3) The attorney general may investigate a violation of this
+15 section and may commence a civil action against a person for
+16 appropriate relief, including, but not limited to, injunctive
+17 relief, for a violation of this section.
+18 (4) This section does not prohibit any other sanction against
+19 a prescription drug product purchaser or third-party payer as
+20 provided by law.
+21 Sec. 13. A person aggrieved by a decision of the board under
+22 this act may request an appeal within 30 days. A hearing and appeal
+23 is subject to the administrative procedures act of 1969, 1969 PA
+24 306, MCL 24.201 to 24.328.
+25 Sec. 17. (1) The prescription drug affordability fund is
+26 created within the state treasury.
+27 (2) The state treasurer shall deposit money and other assets
+28 from any source into the fund. The state treasurer shall direct the
+29 investment of money in the fund and credit interest and earnings
+EMR S00487'25 (S-1) pwb154
+15
+1 from fund investments to the fund.
+2 (3) Money in the fund at the close of the fiscal year must
+3 remain in the fund and must not lapse to the general fund.
+4 (4) The department is the administrator of the fund for audits
+5 of the fund.
+6 (5) The department shall expend money from the fund, on
+7 appropriation, only to fund the board and for costs expended by the
+8 department to implement this act.
+9 Sec. 19. On or before December 31 of each year, the board
+10 shall submit a written report to the legislature that includes all
+11 of the following information:
+12 (a) Price trends for prescription drug products.
+13 (b) The number of prescription drug products that were subject
+14 to board review, including the results of the review and the number
+15 and disposition of appeals of board decisions.
+16 (c) Any recommendations that the board may have on further
+17 legislation to make prescription drug products more affordable in
+18 this state.
+19 Sec. 20. The board shall conduct a 1-time study on all of the
+20 following and report its findings to the legislature:
+21 (a) The prices of generic drugs on a year-to-year basis.
+22 (b) The degree to which the prices of generic drugs affect
+23 yearly insurance premium charges.
+24 (c) Annual changes in insurance cost-sharing for generic
+25 drugs.
+26 (d) The potential for and history of drug shortages.
+27 (e) The degree to which the prices of generic drugs affect
+28 yearly Medicaid spending in this state.
+29 (f) The impact of an upper payment limit on 340B covered
+EMR S00487'25 (S-1) pwb154
+16
+1 entities.
+2 (g) Any other issue that the board considers relevant.
+3 Sec. 21. The board may promulgate rules to implement this act
+4 and enter into contracts with third parties to assist the board in
+5 carrying out its functions under this act.
+6 Sec. 23. The implementation of this act is subject to
+7 appropriation.
+Final Page
+EMR S00487'25 (S-1) pwb154
+[DELETED:   S p S a S (]
+[DELETED:   S p a U ( i 4 ( c ( g o ( P U ( s ( f ( ( c ( () w () C () o ( ()]
+[DELETED:   S p 1 d () i 5 () f () i p () m ( n ( g ( a ( g ( p r ( a 2 ( d u]
+[DELETED:   S p p m ( d f s ( 4 S c ( w m e h i c a f a t s l a s b ( y f]
+[DELETED:   S p u ( a t ( i n ( t c a q r ( f s r t a ( t ( t t f w c i (]
+[DELETED:   S p t l ( t i i d s a S 1 S c ( f ( () d () d () () () () T e i c (()]
+[DELETED:   S p () ( n T f () c () () w () () () ( n n f () () () () u i c c() () () ()]
+[DELETED:   S p ( t ( ( ( ( ( ( ( y f t a ( a t ( i n ( e c c c ( q a ( t]
+[DELETED:   S p ( w r s t i t ( f n ( r S t w b ( b w $ w m ( w r ( a P t]
+[DELETED:   S p () ( c l ( o S ( U f () 1 r a ( p s a e ( s p s ( a s s a (]
+[DELETED:   S p p t s p a a t d f F p c h d i a ( p ( t b i a d ( p ( a i]
+[DELETED:   S p t ( c i ( t ( p ( s e ( p ( p i p ( ( d a t t s p u f ( s]
+[DELETED:   S p ( d ( n m l m ( a c ( y p s ( p b o m ( t s e S i f t l s]
+[DELETED:   S p p r d ( s p a p ( ( ( ( ( ( s a r ( a p S t i 3 S c ( f i]
+[DELETED:   S p f ( r ( o ( a d S s o ( ( t a ( l t S f ( ( y ( d ( ( y (]
+[DELETED:   S p e ( S a c S a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 3
+A bill to provide for a cost and affordability review of
+certain prescription drug products; to create the prescription drug
+pricing board and prescription drug affordability stakeholder
+council and to prescribe their powers and duties; to provide for
+the powers and duties of certain state governmental officers and
+entities; to establish upper payment limits for certain
+prescription drug products and provide remedies; and to provide for
+the promulgation of rules.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "prescription drug cost
+2 and affordability review act".
+3 Sec. 3. As used in this act:
+4 (a) "Biologic" means a drug that is produced or distributed in
+EMR S00487'25 (S-1) pwb154
+
+2
+1 accordance with a biologics license application approved by the
+2 United States Food and Drug Administration.
+3 (b) "Biosimilar" means a drug that is produced or distributed
+4 in accordance with a biologics license application approved under
+5 42 USC 262(k).
+6 (c) "Board" means the prescription drug affordability board
+7 created in section 5.
+8 (d) "Brand-name drug" means a drug other than an authorized
+9 generic that is produced or distributed in accordance with an
+10 original new drug application approved under 21 USC 355.
+11 (e) "Consumer Price Index" means the United States Consumer
+12 Price Index for all urban consumers as defined and reported by the
+13 United States Department of Labor, Bureau of Labor Statistics.
+14 (f) "Council" means the prescription drug affordability
+15 stakeholder council created in section 9.
+16 (g) "Department" means the department of insurance and
+17 financial services.
+18 (h) "Director" means the director of the department.
+19 (i) "Fund" means the prescription drug affordability fund
+20 created in section 17.
+21 (j) "Generic drug" means any of the following:
+22 (i) A retail drug that is marketed or distributed in accordance
+23 with an abbreviated new drug application approved under 21 USC 355.
+24 (ii) An authorized generic drug as that term is defined in 42
+25 CFR 447.502.
+26 (iii) A drug that entered the market before 1962 that was not
+27 originally marketed under a new drug application.
+28 (k) "Health insurer" means any of the following:
+29 (i) An insurer authorized under the insurance code of 1956,
+EMR S00487'25 (S-1) pwb154
+
+3
+1 1956 PA 218, MCL 500.100 to 500.8302, to deliver, issue for
+2 delivery, or renew in this state a health insurance policy.
+3 (ii) A health maintenance organization as that term is defined
+4 in section 3501 of the insurance code of 1956, 1956 PA 218, MCL
+5 500.3501.
+6 (l) "Manufacturer" means an entity that meets any of the
+7 following:
+8 (i) Owns the patent to a prescription drug product or enters
+9 into a lease with another manufacturer to market and distribute a
+10 prescription drug product under the entity's own name.
+11 (ii) Is the labeled entity of a generic drug at the point of
+12 manufacture and the entity does 1 of the following:
+13 (A) Sets or changes the wholesale acquisition cost of a brand-
+14 name drug that it manufactures or has leased the right to market.
+15 (B) Sets or changes the wholesale acquisition cost of a
+16 generic drug that it manufactures.
+17 (m) "Person" means an individual and includes a body politic
+18 and corporate.
+19 (n) "Prescription drug product" means a brand-name drug, a
+20 generic drug, a biologic, or a biosimilar.
+21 (o) "Prescription drug product purchaser" means an entity that
+22 purchases and takes ownership of a prescription drug product for
+23 resale or providing to patients.
+24 (p) "Rule" means a rule promulgated pursuant to the
+25 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+26 24.328.
+27 (q) "Third-party payer" means a health insurer, a state
+28 department or agency administering a plan of medical assistance
+29 under the social welfare act, 1939 PA 280, MCL 400.1 to 400.119b, a
+EMR S00487'25 (S-1) pwb154
+
+4
+1 person administering a self-funded plan, or a pharmacy benefit
+2 manager.
+3 (r) "340B covered entity" means covered entity as that term is
+4 defined in 42 USC 256b that is authorized to participate in the
+5 federal 340B Program under section 340B of the public health
+6 service act, 42 USC 256b.
+7 (s) "Wholesale acquisition cost" means that term as defined in
+8 42 USC 1395w-3a(c)(6)(B).
+9 Sec. 5. (1) The prescription drug affordability board is
+10 created as an autonomous entity within the department.
+11 (2) The board consists of 5 members, appointed by the governor
+12 with the advice and consent of the senate. The members of the board
+13 must include individuals who have expertise in health care
+14 economics, health policy, health equity, clinical medicine, and
+15 hospital pharmacy administration. The governor shall not appoint an
+16 individual to the board if the individual is employed by, a
+17 consultant to, or a board member of a manufacturer or a trade
+18 association for a manufacturer or otherwise has a personal or
+19 financial interest that has the potential to bias or has the
+20 appearance of biasing the individual's decision in matters related
+21 to the board or in conducting the board's activities. The governor
+22 shall not appoint an individual to the board if the individual is a
+23 lobbyist who is registered in this state. An individual who is
+24 appointed to the board shall not register as a lobbyist in this
+25 state for a period of 5 years after the individual's term on the
+26 board expires.
+27 (3) The governor shall appoint 2 of the first members to 1-
+28 year terms and 3 of the first members to 2-year terms. After the
+29 first appointments, the term of a member of the board is 4 years or
+EMR S00487'25 (S-1) pwb154
+
+5
+1 until a successor is appointed, whichever is later.
+2 (4) If a vacancy occurs on the board, the governor shall
+3 appoint an individual to fill the vacancy for the balance of the
+4 term in the same manner as the original appointment.
+5 (5) The governor may remove a member of the board for
+6 incompetence, dereliction of duty, malfeasance, misfeasance, or
+7 nonfeasance in office, or any other good cause.
+8 (6) The governor shall call the first meeting of the board. At
+9 the first meeting, the board shall elect from among its members a
+10 chairperson and other officers as it considers necessary or
+11 appropriate. After the first meeting, the board shall meet at least
+12 quarterly, or more frequently at the call of the chairperson or if
+13 requested by 3 or more members.
+14 (7) A majority of the members of the board constitute a quorum
+15 for transacting business. Except as otherwise provided in this
+16 subsection, a majority of the members present and serving are
+17 required for official action of the board. If 1 or more members of
+18 the board recuse themselves, 2/3 of the members present and serving
+19 are required for official action of the board.
+20 (8) The board shall conduct its business in compliance with
+21 the open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+22 (9) Except as otherwise provided in this subsection, a writing
+23 that is prepared, owned, used, in the possession of, or retained by
+24 the board in performing an official function is subject to the
+25 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246. A
+26 writing containing a trade secret or proprietary information is
+27 confidential and is not subject to disclosure under the freedom of
+28 information act, 1976 PA 442, MCL 15.231 to 15.246.
+29 (10) The salaries and other expenses incurred by members of
+EMR S00487'25 (S-1) pwb154
+
+6
+1 the board are subject to an annual appropriation as provided by
+2 law.
+3 (11) As used in this section, "health equity" means attaining
+4 the highest level of health for all individuals, in which an
+5 individual has a fair and just opportunity to attain the
+6 individual's optimal health regardless of race, ethnicity,
+7 disability, sexual orientation, gender identity, socioeconomic
+8 status, geography, preferred language, or other factor that affects
+9 access to health care and health outcomes.
+10 Sec. 7. A member of the board is subject to 1968 PA 317, MCL
+11 15.321 to 15.330, and 1973 PA 196, MCL 15.341 to 15.348.
+12 Sec. 9. (1) The prescription drug affordability stakeholder
+13 council is created within the department.
+14 (2) Subject to subsection (3), the council consists of the
+15 following 21 members:
+16 (a) Seven members appointed by the governor as follows:
+17 (i) One individual representing manufacturers of brand-name
+18 drugs.
+19 (ii) One individual representing manufacturers of generic
+20 drugs.
+21 (iii) One individual representing employers.
+22 (iv) One individual representing pharmacy benefit managers.
+23 (v) One individual representing pharmacists.
+24 (vi) One individual representing a mutual insurance company.
+25 The mutual insurance company under this subparagraph must not be an
+26 entity that, directly or indirectly, through 1 or more
+27 intermediaries, controls, is controlled by, or is under common
+28 control with the managed care organization under subdivision
+29 (c)(iv).
+EMR S00487'25 (S-1) pwb154
+
+7
+1 (vii) One member of the public.
+2 (b) Seven members appointed by the governor from a list of
+3 nominees submitted by the speaker of the house of representatives.
+4 The list of nominees must include individuals who represent the
+5 following:
+6 (i) A statewide organization that advocates for senior
+7 citizens.
+8 (ii) A statewide organization that advocates for health care.
+9 (iii) A statewide organization that advocates for diversity
+10 within communities.
+11 (iv) A labor union.
+12 (v) Researchers who specialize in prescription drug products.
+13 (vi) The public.
+14 (c) Seven members appointed by the governor from a list of
+15 nominees submitted by the senate majority leader. The list of
+16 nominees must include individuals who represent each of the
+17 following:
+18 (i) Physicians.
+19 (ii) Nurses.
+20 (iii) Hospitals.
+21 (iv) Managed care organizations. The managed care organization
+22 under this subparagraph must not be an entity that, directly or
+23 indirectly, through 1 or more intermediaries, controls, is
+24 controlled by, or is under common control with the mutual insurance
+25 company under subdivision (a)(vi).
+26 (v) The department of technology, management, and budget.
+27 (vi) Clinical researchers.
+28 (vii) The public.
+EMR S00487'25 (S-1) pwb154
+
+8
+1 (3) The governor shall ensure that the members appointed to
+2 the council have knowledge in 1 or more of the following areas:
+3 (a) The pharmaceutical business model.
+4 (b) Supply chain business models.
+5 (c) The practice of medicine or clinical training.
+6 (d) Consumer or patient perspectives.
+7 (e) Health care costs trends.
+8 (f) Clinical and health services research.
+9 (4) The governor shall appoint 7 of the first members to 1-
+10 year terms, 7 of the first members to 2-year terms, and 7 of the
+11 first members to 3-year terms. After the first appointments, the
+12 term of a member of the council is 3 years or until a successor is
+13 appointed, whichever is later.
+14 (5) If a vacancy occurs on the council, the governor shall
+15 appoint an individual to fill the vacancy for the balance of the
+16 term in the same manner as the original appointment.
+17 (6) The governor may remove a member of the council for
+18 incompetence, dereliction of duty, malfeasance, misfeasance, or
+19 nonfeasance in office, or any other good cause.
+20 (7) At the first meeting of the council, the council shall
+21 elect from among its members a chairperson and other officers as it
+22 considers necessary or appropriate. After the first meeting, the
+23 council shall meet at least quarterly, or more frequently at the
+24 call of the chairperson or if requested by 7 or more members.
+25 (8) A majority of the members of the council constitute a
+26 quorum for transacting business. A majority of the members present
+27 and serving are required for official action of the council.
+28 (9) The council shall conduct its business in compliance with
+29 the open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+EMR S00487'25 (S-1) pwb154
+
+9
+1 (10) Except as otherwise provided in this subsection, a
+2 writing that is prepared, owned, used, in the possession of, or
+3 retained by the council in performing an official function is
+4 subject to the freedom of information act, 1976 PA 442, MCL 15.231
+5 to 15.246. A writing containing a trade secret or proprietary
+6 information is confidential and is not subject to disclosure under
+7 the freedom of information act, 1976 PA 442, MCL 15.231 to 15.246.
+8 (11) A member of the council is not entitled to compensation
+9 for service on the council, but may be reimbursed for actual and
+10 necessary expenses incurred in serving.
+11 (12) The council shall assist the board in making decisions
+12 required under this act.
+13 Sec. 11. (1) Beginning 18 months after the effective date of
+14 this act, subject to subsection (2), the board, in consultation
+15 with the council, shall select 1 or more prescription drug products
+16 based on any of the following criteria:
+17 (a) The prescription drug product is a brand-name drug or a
+18 biologic that, as adjusted annually for inflation in accordance
+19 with the Consumer Price Index, has a wholesale acquisition cost of
+20 $60,000.00 or more per year or course of treatment or has a
+21 wholesale acquisition cost increase of $3,000.00 or more in any 12-
+22 month period.
+23 (b) The prescription drug product is a biosimilar that has a
+24 wholesale acquisition cost that is not at least 15% lower than the
+25 referenced brand biologic.
+26 (c) The prescription drug product is a generic drug that, as
+27 adjusted annually for inflation in accordance with the Consumer
+28 Price Index, has a wholesale acquisition cost that meets both of
+29 the following requirements:
+EMR S00487'25 (S-1) pwb154
+
+10
+1 (i) Is $100.00 or more for any of the following:
+2 (A) A 30-day supply that lasts a patient for a period of 30
+3 consecutive days based on the recommended dosage approved for
+4 labeling by the United States Food and Drug Administration.
+5 (B) A supply that lasts a patient for fewer than 30 days based
+6 on the recommended dosage approved for labeling by the United
+7 States Food and Drug Administration.
+8 (C) One unit of the drug if the labeling approved by the
+9 United States Food and Drug Administration does not recommend a
+10 finite dosage.
+11 (ii) Increased by 200% or more during the immediately preceding
+12 12-month period, as determined by the difference between the
+13 resulting wholesale acquisition cost and the average wholesale
+14 acquisition cost reported over the immediately preceding 12 months.
+15 (d) The prescription drug product is a prescription drug
+16 product that may create affordability challenges for health care
+17 systems in this state and patients, including, but not limited to,
+18 a prescription drug product needed to address a public health
+19 emergency.
+20 (2) In selecting 1 or more prescription drug products under
+21 subsection (1), the board is not required to identify each
+22 prescription drug product that meets the criteria described in
+23 subsection (1).
+24 (3) The board shall determine whether to conduct a cost and
+25 affordability review for each prescription drug product that is
+26 selected under subsection (1). In making a determination under this
+27 subsection, the board shall consider input from the council and the
+28 average patient cost share for each prescription drug product.
+29 (4) If the board conducts a cost and affordability review of a
+EMR S00487'25 (S-1) pwb154
+
+11
+1 prescription drug product, the board may consider when conducting
+2 the review any document or research related to the manufacturer's
+3 selection of the introductory price or price increase of the
+4 prescription drug product, including life cycle management, net
+5 average price in this state, market competition, projected revenue,
+6 and, subject to subsection (7), the estimated cost effectiveness of
+7 the prescription drug product. In its review, the board shall
+8 determine whether the use of a prescription drug product that is
+9 fully consistent with the labeling approved by the United States
+10 Food and Drug Administration or standard medical practice for the
+11 prescription drug product has led to or will lead to affordability
+12 challenges to hospitals and health care systems in this state or
+13 high out-of-pocket costs for patients in this state. In making its
+14 determination under this subsection, the board shall consider any
+15 information that a manufacturer chooses to provide to the board and
+16 all of the following factors, to the extent practicable:
+17 (a) The wholesale acquisition cost for the prescription drug
+18 product sold in this state.
+19 (b) The average monetary price concession, discount, or rebate
+20 that the manufacturer provides to health insurers and pharmacy
+21 benefit managers in this state or is expected to provide to health
+22 insurers and pharmacy benefit managers in this state, expressed as
+23 a percent of the wholesale acquisition cost for the prescription
+24 drug product under review.
+25 (c) The price at which therapeutic alternatives for the
+26 prescription drug product have been sold in this state.
+27 (d) The average monetary concession, discount, or rebate that
+28 another manufacturer provides or is expected to provide to health
+29 insurers and pharmacy benefit managers in this state for
+EMR S00487'25 (S-1) pwb154
+
+12
+1 therapeutic alternatives.
+2 (e) The cost to health insurers based on patient access
+3 consistent with United States Food and Drug Administration labeled
+4 indications or recognized standard medical practice.
+5 (f) The impact on patient access resulting from the cost of
+6 the prescription drug product relative to insurance benefit design.
+7 (g) The current or expected dollar value of drug-specific
+8 patient access programs that are supported by the manufacturer.
+9 (h) The relative financial impact to health, medical, or
+10 social service costs as can be quantified and compared to baseline
+11 effects of existing therapeutic alternatives.
+12 (i) The average patient co-pay or other cost-sharing for the
+13 prescription drug product in this state.
+14 (j) The impact on hospital access to the prescription drug
+15 product, prescription drug product shortage concerns, and the
+16 impact on the cost to hospitals purchasing the prescription drug
+17 product.
+18 (k) Any other factor established by the board by rule.
+19 (5) If the board determines that spending on a prescription
+20 drug product reviewed under this section has led to or will lead to
+21 affordability challenges to hospitals and health care systems in
+22 this state or high out-of-pocket costs for patients in this state,
+23 the board may, subject to and except as otherwise provided in
+24 subsection (6), establish by rule an upper payment limit for the
+25 prescription drug product. In establishing an upper payment limit
+26 under this subsection, the board shall consider all of the
+27 following:
+28 (a) Relevant administrative costs related to supplying or
+29 stocking the prescription drug product.
+EMR S00487'25 (S-1) pwb154
+
+13
+1 (b) The impact of an upper payment limit for the prescription
+2 drug product on 340B covered entities.
+3 (6) An upper payment limit established under this section must
+4 not include professional dispensing fees. An upper payment limit
+5 must not be established for any prescription drug product that is
+6 listed as "currently in shortage" in the drug shortage database
+7 maintained by the United States Food and Drug Administration.
+8 (7) If the board considers the estimated cost effectiveness of
+9 a prescription drug product under this section, the board shall
+10 comply with both of the following:
+11 (a) The board shall not use a cost-per-quality adjusted life
+12 year, or a similar measure, to identify a subpopulation for which a
+13 prescription drug product would be less cost effective due to
+14 severity of illness, age, or preexisting disability.
+15 (b) If the board uses a cost-effectiveness analysis for a
+16 prescription drug product that extends an individual's life, the
+17 board must use a cost-effectiveness analysis that weighs the value
+18 of all additional lifetime gained equally for any individual, no
+19 matter the severity of illness, age, or preexisting disability.
+20 (8) An upper payment limit established under this section
+21 takes effect on the date prescribed by the board by rule but no
+22 sooner than 6 months after the date the upper payment limit is
+23 established.
+24 Sec. 12. (1) Except as otherwise provided in subsection (2),
+25 if the board establishes an upper payment limit under section 11
+26 for a prescription drug product intended for use by individuals in
+27 this state, beginning on the effective date of the upper payment
+28 limit, a prescription drug product purchaser or third-party payer
+29 shall not purchase, bill, or reimburse for the prescription drug
+EMR S00487'25 (S-1) pwb154
+
+14
+1 product in an amount that exceeds the upper payment limit,
+2 regardless of whether the prescription drug product is dispensed or
+3 distributed in person, by mail, or by other means.
+4 (2) A prescription drug product purchaser or third-party payer
+5 shall not reimburse any of the following prescription drug product
+6 purchasers for a prescription drug product in an amount less than
+7 an upper payment limit established under section 11 for the
+8 prescription drug product:
+9 (a) An independent pharmacy.
+10 (b) A hospital pharmacy.
+11 (c) A hospital.
+12 (d) A behavioral health hospital.
+13 (e) A 340B covered entity.
+14 (3) The attorney general may investigate a violation of this
+15 section and may commence a civil action against a person for
+16 appropriate relief, including, but not limited to, injunctive
+17 relief, for a violation of this section.
+18 (4) This section does not prohibit any other sanction against
+19 a prescription drug product purchaser or third-party payer as
+20 provided by law.
+21 Sec. 13. A person aggrieved by a decision of the board under
+22 this act may request an appeal within 30 days. A hearing and appeal
+23 is subject to the administrative procedures act of 1969, 1969 PA
+24 306, MCL 24.201 to 24.328.
+25 Sec. 17. (1) The prescription drug affordability fund is
+26 created within the state treasury.
+27 (2) The state treasurer shall deposit money and other assets
+28 from any source into the fund. The state treasurer shall direct the
+29 investment of money in the fund and credit interest and earnings
+EMR S00487'25 (S-1) pwb154
+
+15
+1 from fund investments to the fund.
+2 (3) Money in the fund at the close of the fiscal year must
+3 remain in the fund and must not lapse to the general fund.
+4 (4) The department is the administrator of the fund for audits
+5 of the fund.
+6 (5) The department shall expend money from the fund, on
+7 appropriation, only to fund the board and for costs expended by the
+8 department to implement this act.
+9 Sec. 19. On or before December 31 of each year, the board
+10 shall submit a written report to the legislature that includes all
+11 of the following information:
+12 (a) Price trends for prescription drug products.
+13 (b) The number of prescription drug products that were subject
+14 to board review, including the results of the review and the number
+15 and disposition of appeals of board decisions.
+16 (c) Any recommendations that the board may have on further
+17 legislation to make prescription drug products more affordable in
+18 this state.
+19 Sec. 20. The board shall conduct a 1-time study on all of the
+20 following and report its findings to the legislature:
+21 (a) The prices of generic drugs on a year-to-year basis.
+22 (b) The degree to which the prices of generic drugs affect
+23 yearly insurance premium charges.
+24 (c) Annual changes in insurance cost-sharing for generic
+25 drugs.
+26 (d) The potential for and history of drug shortages.
+27 (e) The degree to which the prices of generic drugs affect
+28 yearly Medicaid spending in this state.
+29 (f) The impact of an upper payment limit on 340B covered
+EMR S00487'25 (S-1) pwb154
+
+16
+1 entities.
+2 (g) Any other issue that the board considers relevant.
+3 Sec. 21. The board may promulgate rules to implement this act
+4 and enter into contracts with third parties to assist the board in
+5 carrying out its functions under this act.
+6 Sec. 23. The implementation of this act is subject to
+7 appropriation.
+Final Page
+EMR S00487'25 (S-1) pwb154
+
+[DELETED:   S p S a S (]
+[DELETED:   S p a U ( i 4 ( c ( g o ( P U ( s ( f ( ( c ( () w () C () o ( ()]
+[DELETED:   S p 1 d () i 5 () f () i p () m ( n ( g ( a ( g ( p r ( a 2 ( d u]
+[DELETED:   S p p m ( d f s ( 4 S c ( w m e h i c a f a t s l a s b ( y f]
+[DELETED:   S p u ( a t ( i n ( t c a q r ( f s r t a ( t ( t t f w c i (]
+[DELETED:   S p t l ( t i i d s a S 1 S c ( f ( () d () d () () () () T e i c (()]
+[DELETED:   S p () ( n T f () c () () w () () () ( n n f () () () () u i c c() () () ()]
+[DELETED:   S p ( t ( ( ( ( ( ( ( y f t a ( a t ( i n ( e c c c ( q a ( t]
+[DELETED:   S p ( w r s t i t ( f n ( r S t w b ( b w $ w m ( w r ( a P t]
+[DELETED:   S p () ( c l ( o S ( U f () 1 r a ( p s a e ( s p s ( a s s a (]
+[DELETED:   S p p t s p a a t d f F p c h d i a ( p ( t b i a d ( p ( a i]
+[DELETED:   S p t ( c i ( t ( p ( s e ( p ( p i p ( ( d a t t s p u f ( s]
+[DELETED:   S p ( d ( n m l m ( a c ( y p s ( p b o m ( t s e S i f t l s]
+[DELETED:   S p p r d ( s p a p ( ( ( ( ( ( s a r ( a p S t i 3 S c ( f i]
+[DELETED:   S p f ( r ( o ( a d S s o ( ( t a ( l t S f ( ( y ( d ( ( y (]
+[DELETED:   S p e ( S a c S a]

@@ -1,0 +1,1284 @@
+Title: HOUSE BILL NO. 4823
+Official Title: HOUSE BILL NO. 4823
+Number of Sections: 5
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1998 PA 58, entitled
+"Michigan liquor control code of 1998,"
+by amending sections 105, 303, 526, 607, 609b, 903b, and 1025 (MCL
+
+Section 2:
+436.1105, 436.1303, 436.1526, 436.1607, 436.1609b, 436.1903b, and
+
+Section 3:
+436.2025), section 105 as amended by 2025 PA 9, section 303 as
+amended by 2018 PA 154, section 526 as amended by 2020 PA 111,
+
+Section 4:
+section 607 as amended by 2018 PA 417, section 609b as added by
+2016 PA 81, section 903b as added by 2016 PA 434, and section 1025
+as amended by 2019 PA 131, and by adding sections 412, 609k, and
+
+Section 5:
+804.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 105. (1) "Alcohol" means the product of distillation of
+2 fermented liquid, whether or not rectified or diluted with water,
+DAW H01868'25 (H-1) e3nsv7
+2
+1 but does not mean ethyl or industrial alcohol, diluted or not, that
+2 has been denatured or otherwise rendered unfit for beverage
+3 purposes.
+4 (2) "Alcohol vapor device" means any device that provides for
+5 the use of air or oxygen bubbled through alcoholic liquor to
+6 produce a vapor or mist that allows the user to inhale this
+7 alcoholic vapor through the mouth or nose.
+8 (3) "Alcoholic liquor" means any spirituous, vinous, malt, or
+9 fermented liquor, powder, liquids, and compounds, whether or not
+10 medicated, proprietary, or patented, and by whatever name called,
+11 containing 1/2 of 1% or more of alcohol by volume that are fit for
+12 use for food purposes or beverage purposes as defined and
+13 classified by the commission according to alcoholic content as
+14 belonging to 1 of the varieties defined in this chapter.
+15 (4) "Alternating proprietorship" means 1 of the following:
+16 (a) An arrangement in which 2 or more wine makers or small
+17 wine makers take turns using the same space and equipment to
+18 manufacture wine under section 603(9)(a) and in accordance with 27
+19 CFR 24.136.
+20 (b) An arrangement in which 2 or more brewers or micro brewers
+21 take turns using the same space and equipment to manufacture beer
+22 under section 603(9)(b) and in accordance with 27 CFR 25.52.
+23 (c) An arrangement in which 2 or more distillers or small
+24 distillers take turns using the same space and equipment to
+25 manufacture spirits under section 603(9)(c) and in accordance with
+26 27 CFR 19.141.
+27 (d) An arrangement in which 2 or more mixed spirit drink
+28 manufacturers take turns using the same space and equipment to
+29 manufacture mixed spirit drinks drink under section 603(9)(d) and
+DAW H01868'25 (H-1) e3nsv7
+3
+1 in accordance with 27 CFR 19.141.
+2 (5) "Approved tasting room" means a tasting room that is
+3 approved by the commission. A licensee with an approved tasting
+4 room is not a retail licensee as that term is used in this act and
+5 the rules promulgated under this act except for sections 701, 801,
+6 803, 815, 905, and 906.
+7 (6) "Authorized distribution agent" means a person approved by
+8 the commission to do 1 or more of the following:
+9 (a) To store spirits owned by a supplier of spirits or the
+10 commission.
+11 (b) To deliver spirits sold by the commission to retail
+12 licensees.
+13 (c) To perform any function needed to store spirits owned by a
+14 supplier of spirits or by the commission or to deliver spirits sold
+15 by the commission to retail licensees.
+16 (7) "Bar" means a barrier or counter at which alcoholic liquor
+17 is sold to, served to, or consumed by customers.
+18 (8) "Beer" means a beverage both of the following:
+19 (a) A beverage obtained by alcoholic fermentation of an
+20 infusion or decoction of barley, malt, hops, sugar, or other cereal
+21 in potable water that contains at least 0.5% of alcohol by volume.
+22 (b) A beverage obtained by alcoholic fermentation of an
+23 infusion or decoction of barley, malt, hops, or other cereal in
+24 potable water that contains less than 0.5% of alcohol by volume,
+25 including a beverage that contains 0.0% of alcohol by volume.
+26 (9) "Bottle" or "bottling" means a process, separate from
+27 manufacturing, using owned or leased equipment to fill and seal a
+28 container, including a keg, with alcoholic liquor for sale at
+29 wholesale or retail in accordance with this act. Bottle or bottling
+DAW H01868'25 (H-1) e3nsv7
+4
+1 does not include filling a growler for sale at retail.
+2 (10) "Brand" means any word, name, group of letters, symbol,
+3 trademark, or combination, or any word, name, group of letters,
+4 symbol, or trademark adopted and used by a supplier to identify a
+5 specific beer, malt beverage, wine, mixed wine drink, or mixed
+6 spirit drink product and to distinguish that product from another
+7 beer, malt beverage, wine, mixed wine drink, or mixed spirit drink
+8 product that is produced or marketed by that or another supplier.
+9 As used in this subsection, "supplier" means a brewer, micro
+10 brewer, an outstate seller of beer, a wine maker, a small wine
+11 maker, an outstate seller of wine, a manufacturer of mixed wine
+12 drink, an outstate seller of a mixed wine drink, a mixed spirit
+13 drink manufacturer, or an outstate seller of mixed spirit drink.
+14 (11) "Brand extension" means any brand that incorporates all
+15 or a substantial part of the unique features of a preexisting
+16 brand, regardless of whether the extension is beer, wine, mixed
+17 wine drink, or mixed spirit drink.
+18 (12) "Brandy" means an alcoholic liquor as defined in former
+19 27 CFR 5.22(d).5.145.
+20 (13) "Brandy manufacturer" means a wine maker or a small wine
+21 maker licensed under this act to manufacture brandy. A wine maker
+22 or small wine maker authorized to manufacture brandy shall not
+23 manufacture any other spirits. The commission may approve a brandy
+24 manufacturer to sell brandy that it manufactures at retail in
+25 accordance with section 537.
+26 (14) "Brewer" means a person located in this state that is
+27 licensed to manufacture beer and sell at retail in accordance with
+28 section 537 and to licensed wholesalers beer manufactured by the
+29 person.
+DAW H01868'25 (H-1) e3nsv7
+5
+1 (15) "Brewpub" means a license issued in conjunction with a
+2 class C, tavern, class A hotel, or class B hotel license that
+3 authorizes the person licensed with the class C, tavern, class A
+4 hotel, or class B hotel license to manufacture and brew not more
+5 than 18,000 barrels of beer per calendar year in this state and
+6 sell at its licensed premises the beer produced for consumption on
+7 or off the licensed brewery premises in the manner provided for in
+8 sections 405, 407, and 537.
+9 Sec. 303. (1) The grape and wine industry council created
+10 under Executive Reorganization Order No. 2014-2, MCL 333.26253,
+11 shall be housed within the department of agriculture and rural
+12 development. Beginning on the effective date of the 2018 amendatory
+13 act that amended this section, October 1, 2018, the council shall
+14 be known as the Michigan craft beverage council and shall consist
+15 of the following members:
+16 (a) As a nonvoting member, the director of the department of
+17 agriculture and rural development or his or her the director's
+18 designee and the commission's business manager or the business
+19 manager's designee.
+20 (b) Subject to subsection (2), the following voting members,
+21 appointed by the governor:
+22 (i) A representative of retail food establishments that hold a
+23 specially designated merchant license and sell Michigan wines or
+24 beer.
+25 (ii) A representative of restaurants that hold a class C
+26 license and serve Michigan wines, beer, or spirits.
+27 (iii) Two representatives of wine makers.
+28 (iv) A representative of wine makers that primarily manufacture
+29 cider.
+DAW H01868'25 (H-1) e3nsv7
+6
+1 (v) A representative of large brewers.a brewer or micro
+2 brewer.
+3 (vi) One of the following:
+4 (A) A representative of micro brewers.
+5 (B) A representative of brewpub license holders.
+6 (vii) A representative of small distillers.
+7 (viii) A representative of distillers that manufacture more than
+8 60,000 gallons of spirits per year.
+9 (2) The following apply to a member of the council appointed
+10 under subsection (1)(b):
+11 (a) The member's principal place of business must be located
+12 in this state.
+13 (b) The member must not be a lobbyist or a lobbyist agent as
+14 those terms are defined in section 5 of 1978 PA 472, MCL 4.415.
+15 (3) Voting members of the council appointed by the governor
+16 under subsection (1) shall serve for terms of 3 years or until a
+17 successor is appointed, whichever is later, except that of the
+18 voting members first appointed, 3 shall serve for 1 year, 3 shall
+19 serve for 2 years, and 3 shall serve for 3 years. A voting member
+20 shall not serve more than 2 consecutive terms. A vacancy on the
+21 board shall be filled in the same manner as the original
+22 appointment. The director of the department of agriculture and
+23 rural development is the chairperson of the council.
+24 (4) The council may employ personnel and incur expenses that
+25 are necessary to carry out the responsibilities of the council
+26 under this act. A member of the council or an employee or agent of
+27 the council is not personally liable on the contracts of the
+28 council.
+29 (5) A nongovernmental member of the council may receive $50.00
+DAW H01868'25 (H-1) e3nsv7
+7
+1 per day for each day spent in actual attendance at meetings of the
+2 council and traveling expenses while on council business in
+3 accordance with standard travel regulations of the department of
+4 technology, management, and budget.
+5 (6) The council shall maintain accurate books and records, and
+6 all money received by the council shall be used to implement and
+7 enforce this section. The council may accept money from any source
+8 for the purpose of carrying out this section. All money received by
+9 the council shall be forwarded to the state treasurer for deposit
+10 into the Michigan craft beverage council fund created in section
+11 303a.
+12 (7) Subject to an appropriation, the council shall direct the
+13 department of agriculture and rural development to award grants for
+14 the following:
+15 (a) Research into both of the following:
+16 (i) Fruits used in winemaking and wines, including, but not
+17 limited to, methods of planting, growing, controlling insects and
+18 diseases, charting microclimates and locations for growing
+19 desirable varieties of fruits used in winemaking and wines,
+20 marketing, processing, distribution, advertising, sales production,
+21 and product development.
+22 (ii) Hops, barley, beer, and spirits, including, but not
+23 limited to, methods of planting, growing, controlling insects and
+24 diseases, marketing, processing, distribution, advertising, sales
+25 production, and product development.
+26 (b) Projects that do 1 or more of the following:
+27 (i) Provide the wine industry, including growers, wineries,
+28 distributors, and retailers, with information relative to proper
+29 methods of handling and selling fruits used in winemaking and
+DAW H01868'25 (H-1) e3nsv7
+8
+1 wines.
+2 (ii) Provide the brewing and distilling industries, including
+3 growers, brewers, distillers, distributors, and retailers, with
+4 information relative to proper methods of handling and selling
+5 hops, barley, beer, spirits, and mixed spirit drinks.
+6 (iii) Provide for market surveys and analyses for purposes of
+7 expanding existing markets and creating new and larger markets for
+8 Michigan agricultural products such as fruits, hops, and barley,
+9 that are used in the production of wine, cider, beer, spirits, and
+10 mixed spirit drinks.
+11 (iv) Provide for the promotion of the sale of Michigan
+12 agricultural products such as fruits, hops, and barley, that are
+13 used in the production of wine, cider, beer, spirits, and mixed
+14 spirit drinks for the purpose of maintaining or expanding present
+15 markets and creating new and larger domestic and foreign markets.
+16 (v) Develop and administer financial aid programs to growers
+17 of fruits used in winemaking to encourage the increased planting in
+18 this state of desirable fruit varieties in microclimates determined
+19 to provide the best conditions for producing quality wines.
+20 (vi) Develop and administer financial aid programs to hops
+21 growers to encourage increased planting in this state of desirable
+22 hops varieties in microclimates determined to provide the best
+23 conditions for producing quality beer.
+24 (vii) Develop and administer financial aid programs to barley
+25 growers to encourage increased planting in this state of desirable
+26 barley varieties in microclimates determined to provide the best
+27 conditions for producing quality beer.
+28 (viii) Establish educational partnerships to benefit the beer,
+29 wine, cider, spirits, and mixed spirit drink industries.
+DAW H01868'25 (H-1) e3nsv7
+9
+1 (8) The department of agriculture and rural development shall
+2 administer the grants awarded under subsection (7).
+3 (9) The council shall do all of the following:
+4 (a) Apply for and accept grants or contributions from the
+5 federal government or any of its agencies, the state, or other
+6 public or private agencies to be used for any of the purposes of
+7 this section and to do any and all things within its express or
+8 implied powers necessary or desirable to secure that financial or
+9 other aid or cooperation in the carrying out of any of the purposes
+10 of this section.
+11 (b) Invite the chief executive officer of the Michigan
+12 economic development corporation or his or her designee to attend
+13 at least 1 council meeting annually to inform the council about
+14 partnership activities and opportunities related to the marketing
+15 and promotion of Michigan agricultural products such as fruits,
+16 hops, and barley, that are used in the production of wine, cider,
+17 beer, spirits, and mixed spirit drinks.
+18 (c) Invite the director of the department of licensing and
+19 regulatory affairs to attend at least 1 council meeting annually to
+20 inform the council about funding activities affecting the council.
+21 (d) Prepare and adopt an annual budget.
+22 (10) Based on the information provided to the council under
+23 subsection (9)(b) and (c), the council may do either or both of the
+24 following:
+25 (a) Take actions that will enhance the marketing and promotion
+26 of Michigan agricultural products, such as fruits, hops, and
+27 barley, that are used in the production of wine, cider, beer,
+28 spirits, and mixed spirit drinks.
+29 (b) Annually review and adopt strategies for marketing and
+DAW H01868'25 (H-1) e3nsv7
+10
+1 promotion of Michigan agricultural products, such as fruits, hops,
+2 and barley, that are used in the production of wine, cider, beer,
+3 spirits, and mixed spirit drinks.
+4 (11) The council may promulgate rules pursuant to in
+5 accordance with the administrative procedures act of 1969, 1969 PA
+6 306, MCL 24.201 to 24.328, for the purposes of implementing and
+7 enforcing this section. However, the council shall not promulgate a
+8 rule that conflicts with a rule promulgated by the commission under
+9 section 215.
+10 (12) Except as otherwise provided in this subsection, the
+11 council shall not engage in lobbying. This subsection does not
+12 prohibit the council or a council member or council employee from
+13 providing technical information to the legislature or to the
+14 department of agriculture and rural development, regardless of
+15 whether the council, council member, or council employee is
+16 appearing before an officially convened legislative committee or
+17 department of agriculture and rural development hearing panel, if
+18 the technical information is related to the council's duties under
+19 this section.
+20 (13) This section does not prevent the council from
+21 establishing a commodity committee under the agriculture
+22 commodities marketing act, 1965 PA 232, MCL 290.651 to 290.674.
+23 (14) As used in this section:
+24 (a) "Cider" means an alcoholic beverage made from the
+25 fermentation of juice from primarily apples or pears, or both,
+26 which contains not less than 1/2 of 1% and not more than 8.5% of
+27 alcohol by volume. Cider may be still or carbonated and may contain
+28 other fruits, spices, botanicals, or other flavors.
+29 (b) "Council" means the Michigan craft beverage council
+DAW H01868'25 (H-1) e3nsv7
+11
+1 described in subsection (1).
+2 (c) "Large brewer" means a brewer that produces in total at
+3 least 60,000 barrels of beer and not more than 1,000,000 barrels of
+4 beer per year. In determining the barrel threshold under this
+5 subdivision, all brands and labels of a brewer, whether brewed in
+6 this state or outside this state, must be combined and all
+7 facilities for the production of beer that are owned or controlled
+8 by the same person are treated as a single facility.
+9 (c) (d) "Lobbying" means that term as defined in section 5 of
+10 1978 PA 472, MCL 4.415.
+11 (d) (e) "Technical information" means that term as defined in
+12 section 5 of 1978 PA 472, MCL 4.415.
+13 Sec. 412. (1) The legislature finds that the availability of
+14 nonalcoholic beverages, including nonalcoholic beer at tasting
+15 rooms, promotes public health and safety when done through a
+16 regulated structure that minimizes minor access to nonalcoholic
+17 beer.
+18 (2) The legislature further finds that the 3-tier distribution
+19 system remains the most effective balance of increasing competition
+20 and variety and access to market against public health and safety.
+21 The ability of a wholesaler to sell nonalcoholic products to a
+22 brewer operating a tasting room under this section must not be used
+23 to undermine the 3-tier distribution system.
+24 (3) Notwithstanding anything in this act to the contrary, a
+25 wholesaler may sell beer as defined in section 105(8)(b) to a
+26 brewer or micro brewer to sell at the brewer's or micro brewer's
+27 approved tasting room for consumption on or off the licensed
+28 premises.
+29 (4) A brewer or micro brewer that purchases beer as defined in
+DAW H01868'25 (H-1) e3nsv7
+12
+1 section 105(8)(b) under subsection (3) shall not do either of the
+2 following:
+3 (a) Sell or transfer the beer to another licensee.
+4 (b) If the micro brewer or the brewer has multiple licensed
+5 locations with approved tasting rooms, transfer the beer to any of
+6 the brewer's or micro brewer's licensed locations.
+7 Sec. 526. (1) The commission may issue a special license under
+8 this section to an organization conducting a beer festival. The
+9 application must conform to the following:
+10 (a) Be submitted by a nonprofit entity composed primarily of
+11 brewers, micro brewers, and brewpubs, as determined by the
+12 commission.
+13 (b) Involve an event having for its primary purpose the
+14 showcasing of beer and its production.
+15 (c) Be accompanied by a fee of $25.00 per day of the event.
+16 (2) The special license must not allow more than 6 events per
+17 calendar year conforming to the requirements of subsection (1). For
+18 purposes of this subsection, a beer festival that spans 2 or more
+19 consecutive days is considered 1 event.
+20 (3) A holder of a special license issued under this section
+21 may buy a quantity of beer directly from any licensed brewpub or
+22 wholesaler or directly from a micro brewer eligible to self-
+23 distribute to the beer festival for consumption only at the
+24 licensed event.
+25 (4) Beer Notwithstanding anything in this act to the contrary,
+26 beer that is dispensed to consumers for showcasing beer at a beer
+27 festival is considered a sample. A holder of a special license
+28 issued under this section may offer beer described in this
+29 subsection without consideration.
+DAW H01868'25 (H-1) e3nsv7
+13
+1 (5) A member, who is 18 years of age or older, of an
+2 organization that holds a special license issued under this section
+3 may serve beer at the event.
+4 (6) As used in this section and section 413, "beer festival"
+5 means an event at which the various types and kinds of beer and the
+6 production of that beer are showcased to the general public and at
+7 which the general public can purchase and sample the beer being
+8 showcased for consumption on the licensed premises.
+9 Sec. 607. (1) Except as provided in section 536(7)(h), a
+10 warehouser, mixed spirit drink manufacturer, wholesaler, outstate
+11 seller of beer, outstate seller of wine, outstate seller of mixed
+12 spirit drink, or vendor of spirits shall must not be licensed as a
+13 specially designated merchant or a specially designated
+14 distributor. A person licensed as a small distiller is not
+15 considered to be a specially designated distributor. Beginning
+16 December 23, 2007 and in addition to the persons described in this
+17 subsection, a wine maker and a small wine maker shall must also not
+18 be licensed as a specially designated merchant or a specially
+19 designated distributor. Any wine maker or small wine maker holding
+20 a specially designated merchant or specially designated distributor
+21 license on December 23, 2007 may continue to hold a specially
+22 designated merchant or specially designated distributor license.
+23 (2) A specially designated distributor or specially designated
+24 merchant or any other retailer shall not hold a mixed spirit drink
+25 manufacturer, wholesale, warehouse, outstate seller of beer,
+26 outstate seller of mixed spirit drink, or outstate seller of wine
+27 license. Beginning December 23, 2007, a specially designated
+28 distributor or specially designated merchant shall not hold a wine
+29 maker or small wine maker license in addition to being prohibited
+DAW H01868'25 (H-1) e3nsv7
+14
+1 from holding any other license described in this subsection. Any
+2 specially designated distributor or specially designated merchant
+3 holding a wine maker or small wine maker license on December 23,
+4 2007 may continue to hold a wine maker or small wine maker license.
+5 (3) A brewer, warehouser, or wholesaler shall must not be
+6 licensed as a specially designated merchant. This subsection does
+7 not affect the operation of a brewery hospitality room.
+8 (4) A wholesaler may sell or deliver beer, wine, mixed wine
+9 drink, and alcoholic liquor mixed spirit drink to hospitals; ,
+10 military establishments; , governments of federal Indian
+11 reservations; , a border store or airport store as defined in 19
+12 USC 1555(b)(8); a trade association exempt from taxation under
+13 section 501(c)(6) of the internal revenue code of 1986, 26 USC 501,
+14 whose members are licensed under this act and where the beer, wine,
+15 mixed wine drink, or mixed spirit drink is for on-premises
+16 consumption and not for resale; and churches requiring sacramental
+17 wines and may sell to the wholesaler's own employees to a limit of
+18 2 cases of 24 12-ounce units or its equivalent of malt beverage per
+19 week, or 1 case of 12 1-liter units or its equivalent of wine,
+20 mixed wine drink, or mixed spirit drink per week.
+21 Sec. 609b. (1) A vendor representative and salesperson of a
+22 vendor of spirits, a manufacturer of beer, a manufacturer of wine,
+23 a mixed spirit drink manufacturer, an outstate seller of beer, an
+24 outstate seller of wine, an outstate seller of mixed spirit drink,
+25 or a wholesaler shall maintain accurate records of expenditures for
+26 each call on a retail licensee. The records must be maintained for
+27 4 years and must be made available for commission inspection.
+28 (2) A vendor representative or salesperson of spirits or wine,
+29 for promotional purposes, may purchase 1 drink for each customer of
+DAW H01868'25 (H-1) e3nsv7
+15
+1 an on-premises licensee. A drink purchased under this subsection
+2 must be of the brand represented by the vendor representative or
+3 salesperson.
+4 (3) A vendor representative or salesperson of a manufacturer
+5 of beer, a mixed spirit drink manufacturer, a wholesaler of beer or
+6 mixed wine drink, an outstate seller of mixed spirit drink, or an
+7 outstate seller of beer, for promotional purposes, may purchase 1
+8 drink for each customer of an on-premises retail licensee subject
+9 to a total spending limit of $100.00 per day. A drink purchased
+10 under this subsection must be of the brand represented by the
+11 vendor representative or salesperson.
+12 (4) A vendor representative or salesperson of a manufacturer
+13 of beer, a mixed spirit drink manufacturer, a wholesaler of beer or
+14 mixed wine drink, an outstate seller of mixed spirit drink, or an
+15 outstate seller of beer shall not purchase a drink under subsection
+16 (3) more than twice per month at the same on-premises retail
+17 licensed location.
+18 (5) A licensee employed to deliver alcoholic liquor shall not
+19 purchase a drink of alcoholic liquor for a retail licensee while on
+20 duty or in the course of employment.
+21 Sec. 609k. (1) Notwithstanding section 609, a vendor may
+22 provide a philanthropic gift or sponsorship payment to a 2- or 4-
+23 year college or university located in this state that holds a
+24 retail license if the following conditions are met:
+25 (a) The gift does not include alcoholic liquor.
+26 (b) The gift or sponsorship payment is not contingent on the
+27 purchase of alcoholic liquor by the governing body of the 2- or 4-
+28 year college or university located in this state that is a
+29 retailer.
+DAW H01868'25 (H-1) e3nsv7
+16
+1 (c) The gift or sponsorship payment is not contingent on the
+2 sale of alcoholic liquor at the site at which a retail license is
+3 held by the governing body of the 2- or 4-year college or
+4 university located in this state the governing body of which is
+5 issued a retail license.
+6 (2) A vendor may provide signs that promote the brands and
+7 prices of alcoholic liquor for use on the licensed premises of a
+8 retail license issued to the governing body of a 2- or 4-year
+9 college or university located in this state. All of the following
+10 apply to a sign allowed under this subsection:
+11 (a) The sign must not be illuminated.
+12 (b) The sign must not have any use beyond the actual
+13 advertising of brands and prices related to the alcoholic liquor.
+14 (c) For a sign that is located inside the retailer's licensed
+15 premises, the sign must not be more than 3,500 square inches in
+16 dimension.
+17 (d) Notwithstanding anything in this act to the contrary, the
+18 signs allowed under this subsection may include the name or logo of
+19 the 2- or 4-year college or university located in this state that
+20 holds a retail license.
+21 (3) Notwithstanding subsection (2), a sports or entertainment
+22 venue for which a retail license has been issued to the governing
+23 body of a public university under section 531(8) may contain
+24 illuminated advertising signs that have a total area of more than
+25 3,5000 square inches. Any of the following entities may provide and
+26 install illuminated advertising signs and advertising signs that
+27 have a total area of more than 3,500 square inches per sign:
+28 (a) A brewer.
+29 (b) A micro brewer.
+DAW H01868'25 (H-1) e3nsv7
+17
+1 (c) A wine maker.
+2 (d) A small wine maker.
+3 (e) An outstate seller of beer.
+4 (f) An outstate seller of wine.
+5 (g) An outstate seller of mixed spirit drink.
+6 (h) A manufacturer of spirits.
+7 (i) A manufacturer of mixed spirit drink.
+8 (j) A vendor of spirits.
+9 (k) An outstate self-distributor.
+10 (4) Notwithstanding anything in this act to the contrary, a
+11 vendor may sell alcoholic liquor that includes on the container or
+12 packaging of the alcoholic liquor the name or logo of a 2- or 4-
+13 year college or university located in this state that holds a
+14 retailer license.
+15 (5) Notwithstanding anything in this act to the contrary, a
+16 vendor may provide signs that promote the brands and prices of
+17 alcoholic liquor authorized under section 610a and advertising
+18 items authorized under section 609 to a retailer if the retailer is
+19 a 2- or 4-year college or university located in this state that
+20 include the name or logo of a 2- or 4-year college or university
+21 located in this state.
+22 (6) As used in this section, "sports or entertainment venue"
+23 means the public area of a facility on university property
+24 described in section 531(8).
+25 Sec. 804. The commission shall suspend the license of a
+26 retailer for 14 days if the retailer has made 6 or more payments to
+27 a wholesaler that have been dishonored by a financial institution
+28 in violation of section 903b on different dates in 12 consecutive
+29 months.
+DAW H01868'25 (H-1) e3nsv7
+18
+1 Sec. 903b. (1) A retailer violates this act if the retailer or
+2 the retailer's clerk, servant, agent, or employee makes a payment
+3 to a wholesaler , the commission, or this state by any means that
+4 has been dishonored by a financial institution for lack of
+5 sufficient funds.any reason.
+6 (2) A wholesaler shall require a retailer that has made a
+7 payment to the wholesaler that has been dishonored by a financial
+8 institution to pay the wholesaler an administrative fee as follows:
+9 (a) For the first dishonored payment, $50.00.
+10 (b) For a second dishonored payment within 12 months of the
+11 first dishonored payment, $100.00.
+12 (c) For a third dishonored payment within 12 months of the
+13 first dishonored payment, $150.00.
+14 (d) For a fourth dishonored payment within 12 months of the
+15 first dishonored payment, $200.00.
+16 (e) For a fifth or any subsequent dishonored payment within 12
+17 months of the first dishonored payment, $250.00.
+18 Sec. 1025. (1) Except as otherwise provided in subsection (3),
+19 and subject to subsection (2), a vendor shall not give away any
+20 alcoholic liquor of any kind or description at any time in
+21 connection with his or her the vendor's business, except a vendor
+22 that is a manufacturer for consumption on the premises only.
+23 (2) Subsection (1) does not prevent any of the following:
+24 (a) A vendor of spirits, brewer, mixed spirit drink
+25 manufacturer, wine maker, small wine maker, outstate seller of
+26 beer, outstate seller of wine, or outstate seller of mixed spirit
+27 drink, or a bona fide market research organization retained by 1 of
+28 the persons named in this subdivision, from conducting samplings or
+29 tastings of an alcoholic liquor product before it is approved for
+DAW H01868'25 (H-1) e3nsv7
+19
+1 sale in this state, if the sampling or tasting is conducted
+2 pursuant to prior written approval of the commission.
+3 (b) A person from conducting any sampling or tasting
+4 authorized by rule of the commission.
+5 (c) The holder of a farmer's market permit from conducting a
+6 tasting authorized under section 415.
+7 (d) A person from conducting any sampling or tasting
+8 authorized under section 537.
+9 (e) A retailer licensed for consumption on the premises from
+10 conducting a sampling authorized under section 1027(2).
+11 (f) A person from conducting a sampling at a consumer sampling
+12 event authorized under section 1027(4) and (5).
+13 (g) A class A or B hotel designed to attract and accommodate
+14 tourists and visitors in a resort area from giving away alcoholic
+15 liquor to an invitee or guest in connection with a business event
+16 or as a part of a room special or promotion for overnight
+17 accommodations.
+18 (3) A wholesaler or manufacturer may give samples of beer or
+19 wine to an employee of the wholesaler if all of the following
+20 conditions are met:
+21 (a) The sampling is for the purpose of educating the employee
+22 regarding the beer or wine.
+23 (b) The employee is at least 21 years of age.
+24 (c) The sampling takes place on the licensed premises of the
+25 wholesaler.
+26 (4) A micro brewer or a brewer may give samples of beer to an
+27 employee of another brewer or micro brewer if all of the following
+28 conditions are met:
+29 (a) The sampling is for the purpose of research or of
+DAW H01868'25 (H-1) e3nsv7
+20
+1 educating the employee regarding the beer.
+2 (b) The employee is at least 21 years of age.
+3 (c) The sampling takes place on the licensed premises of the
+4 other micro brewer or the other brewer.
+5 (5) (4) A vendor shall not sell an alcoholic liquor to an
+6 individual in an intoxicated condition.
+7 (6) (5) Evidence of any breathalyzer or blood alcohol test
+8 results obtained in a licensed establishment, or on property
+9 adjacent to the licensed premises and under the control or
+10 ownership of the licensee, is not admissible to prove a violation
+11 of this section, section 707(1), (2), (3), or (4), or section
+12 801(1). To establish a violation of this section, section 707(1),
+13 (2), (3), or (4), or section 801(1), the individual's intoxicated
+14 condition at the time of the sale or consumption of alcohol must be
+15 proven by direct observation by law enforcement or commission
+16 enforcement personnel or through other admissible witness
+17 statements or corroborating evidence obtained as part of the
+18 standard investigation other than breathalyzer or blood alcohol
+19 test results.
+20 Enacting section 1. This amendatory act does not take effect
+21 unless all of the following bills of the 103rd Legislature are
+22 enacted into law:
+23 (a) House Bill No. 4824.
+24 (b) House Bill No. 4825.
+Final Page
+DAW H01868'25 (H-1) e3nsv7
+[DELETED:   H e S f]
+[DELETED:   H e b h p ( t p a ( f m c u c b ( ( w m C ( t u ( d m 2 ( m m u]
+[DELETED:   H e i ( a r t 8 ( t ( c ( l ( s b ( i ( o i ire  ( m c w]
+[DELETED:   H e d ( t s t s s b p A b m d d ( o b w ( 2. ( m o m m a ( l s p]
+[DELETED:   H e ( c a h t s o s S u s d a t b o ( a d . ( a () s b () l () () c]
+[DELETED:   H e ()  () ( ( () () 6 ( u ( i ( t ( u s v s s b a r ( a u t c (]
+[DELETED:   H e p c a t ( a e f t i 3 ( d t ( () l d d m a () l d p ( () d m]
+[DELETED:   H e w () g i h () e M t m () a u s m () o t t () g h c () g b c () w]
+[DELETED:   H e ( a ( ( f p t i o o ( e a p a h b ( r i ( ( s f ( o b s (]
+[DELETED:   H e p a s ( t 3 e r s ( c p p d w a d t t ( e c ( ( f w a o (]
+[DELETED:   H e d ( l b s t f b ( 1 ( s]
+[DELETED:   H e S t a ( b c ( s ( ( c p c ( m w d l ( t f i s]
+[DELETED:   H e ( o m ( m p w s S w s s n s d c D s a b d a l d ( m m o l d m]
+[DELETED:   H e f s h 2 ( n l n (rw m ; a ts, ms, rs, a a w 2 w   S v m m a a o o o w e 4 ( f]
+[DELETED:   H e a m s ( o a  ka , o o d t u v ( o a  ka , o o ( l ( p d]
+[DELETED:   H e]
+[DELETED:   H e]
+[DELETED:   H e S A t tr, h s.  S a a c b t ( ( m b d t t]
+[DELETED:   H e s p ( a ( t ( a ( c ( e ( t l o a ( w c ( r ( ( w]
+[DELETED:   H e  ( i ( r a o o 8 ( c p e s s t E u e ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4823
+A bill to amend 1998 PA 58, entitled
+"Michigan liquor control code of 1998,"
+by amending sections 105, 303, 526, 607, 609b, 903b, and 1025 (MCL
+436.1105, 436.1303, 436.1526, 436.1607, 436.1609b, 436.1903b, and
+436.2025), section 105 as amended by 2025 PA 9, section 303 as
+amended by 2018 PA 154, section 526 as amended by 2020 PA 111,
+section 607 as amended by 2018 PA 417, section 609b as added by
+2016 PA 81, section 903b as added by 2016 PA 434, and section 1025
+as amended by 2019 PA 131, and by adding sections 412, 609k, and
+804.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 105. (1) "Alcohol" means the product of distillation of
+2 fermented liquid, whether or not rectified or diluted with water,
+DAW H01868'25 (H-1) e3nsv7
+
+2
+1 but does not mean ethyl or industrial alcohol, diluted or not, that
+2 has been denatured or otherwise rendered unfit for beverage
+3 purposes.
+4 (2) "Alcohol vapor device" means any device that provides for
+5 the use of air or oxygen bubbled through alcoholic liquor to
+6 produce a vapor or mist that allows the user to inhale this
+7 alcoholic vapor through the mouth or nose.
+8 (3) "Alcoholic liquor" means any spirituous, vinous, malt, or
+9 fermented liquor, powder, liquids, and compounds, whether or not
+10 medicated, proprietary, or patented, and by whatever name called,
+11 containing 1/2 of 1% or more of alcohol by volume that are fit for
+12 use for food purposes or beverage purposes as defined and
+13 classified by the commission according to alcoholic content as
+14 belonging to 1 of the varieties defined in this chapter.
+15 (4) "Alternating proprietorship" means 1 of the following:
+16 (a) An arrangement in which 2 or more wine makers or small
+17 wine makers take turns using the same space and equipment to
+18 manufacture wine under section 603(9)(a) and in accordance with 27
+19 CFR 24.136.
+20 (b) An arrangement in which 2 or more brewers or micro brewers
+21 take turns using the same space and equipment to manufacture beer
+22 under section 603(9)(b) and in accordance with 27 CFR 25.52.
+23 (c) An arrangement in which 2 or more distillers or small
+24 distillers take turns using the same space and equipment to
+25 manufacture spirits under section 603(9)(c) and in accordance with
+26 27 CFR 19.141.
+27 (d) An arrangement in which 2 or more mixed spirit drink
+28 manufacturers take turns using the same space and equipment to
+29 manufacture mixed spirit drinks drink under section 603(9)(d) and
+DAW H01868'25 (H-1) e3nsv7
+
+3
+1 in accordance with 27 CFR 19.141.
+2 (5) "Approved tasting room" means a tasting room that is
+3 approved by the commission. A licensee with an approved tasting
+4 room is not a retail licensee as that term is used in this act and
+5 the rules promulgated under this act except for sections 701, 801,
+6 803, 815, 905, and 906.
+7 (6) "Authorized distribution agent" means a person approved by
+8 the commission to do 1 or more of the following:
+9 (a) To store spirits owned by a supplier of spirits or the
+10 commission.
+11 (b) To deliver spirits sold by the commission to retail
+12 licensees.
+13 (c) To perform any function needed to store spirits owned by a
+14 supplier of spirits or by the commission or to deliver spirits sold
+15 by the commission to retail licensees.
+16 (7) "Bar" means a barrier or counter at which alcoholic liquor
+17 is sold to, served to, or consumed by customers.
+18 (8) "Beer" means a beverage both of the following:
+19 (a) A beverage obtained by alcoholic fermentation of an
+20 infusion or decoction of barley, malt, hops, sugar, or other cereal
+21 in potable water that contains at least 0.5% of alcohol by volume.
+22 (b) A beverage obtained by alcoholic fermentation of an
+23 infusion or decoction of barley, malt, hops, or other cereal in
+24 potable water that contains less than 0.5% of alcohol by volume,
+25 including a beverage that contains 0.0% of alcohol by volume.
+26 (9) "Bottle" or "bottling" means a process, separate from
+27 manufacturing, using owned or leased equipment to fill and seal a
+28 container, including a keg, with alcoholic liquor for sale at
+29 wholesale or retail in accordance with this act. Bottle or bottling
+DAW H01868'25 (H-1) e3nsv7
+
+4
+1 does not include filling a growler for sale at retail.
+2 (10) "Brand" means any word, name, group of letters, symbol,
+3 trademark, or combination, or any word, name, group of letters,
+4 symbol, or trademark adopted and used by a supplier to identify a
+5 specific beer, malt beverage, wine, mixed wine drink, or mixed
+6 spirit drink product and to distinguish that product from another
+7 beer, malt beverage, wine, mixed wine drink, or mixed spirit drink
+8 product that is produced or marketed by that or another supplier.
+9 As used in this subsection, "supplier" means a brewer, micro
+10 brewer, an outstate seller of beer, a wine maker, a small wine
+11 maker, an outstate seller of wine, a manufacturer of mixed wine
+12 drink, an outstate seller of a mixed wine drink, a mixed spirit
+13 drink manufacturer, or an outstate seller of mixed spirit drink.
+14 (11) "Brand extension" means any brand that incorporates all
+15 or a substantial part of the unique features of a preexisting
+16 brand, regardless of whether the extension is beer, wine, mixed
+17 wine drink, or mixed spirit drink.
+18 (12) "Brandy" means an alcoholic liquor as defined in former
+19 27 CFR 5.22(d).5.145.
+20 (13) "Brandy manufacturer" means a wine maker or a small wine
+21 maker licensed under this act to manufacture brandy. A wine maker
+22 or small wine maker authorized to manufacture brandy shall not
+23 manufacture any other spirits. The commission may approve a brandy
+24 manufacturer to sell brandy that it manufactures at retail in
+25 accordance with section 537.
+26 (14) "Brewer" means a person located in this state that is
+27 licensed to manufacture beer and sell at retail in accordance with
+28 section 537 and to licensed wholesalers beer manufactured by the
+29 person.
+DAW H01868'25 (H-1) e3nsv7
+
+5
+1 (15) "Brewpub" means a license issued in conjunction with a
+2 class C, tavern, class A hotel, or class B hotel license that
+3 authorizes the person licensed with the class C, tavern, class A
+4 hotel, or class B hotel license to manufacture and brew not more
+5 than 18,000 barrels of beer per calendar year in this state and
+6 sell at its licensed premises the beer produced for consumption on
+7 or off the licensed brewery premises in the manner provided for in
+8 sections 405, 407, and 537.
+9 Sec. 303. (1) The grape and wine industry council created
+10 under Executive Reorganization Order No. 2014-2, MCL 333.26253,
+11 shall be housed within the department of agriculture and rural
+12 development. Beginning on the effective date of the 2018 amendatory
+13 act that amended this section, October 1, 2018, the council shall
+14 be known as the Michigan craft beverage council and shall consist
+15 of the following members:
+16 (a) As a nonvoting member, the director of the department of
+17 agriculture and rural development or his or her the director's
+18 designee and the commission's business manager or the business
+19 manager's designee.
+20 (b) Subject to subsection (2), the following voting members,
+21 appointed by the governor:
+22 (i) A representative of retail food establishments that hold a
+23 specially designated merchant license and sell Michigan wines or
+24 beer.
+25 (ii) A representative of restaurants that hold a class C
+26 license and serve Michigan wines, beer, or spirits.
+27 (iii) Two representatives of wine makers.
+28 (iv) A representative of wine makers that primarily manufacture
+29 cider.
+DAW H01868'25 (H-1) e3nsv7
+
+6
+1 (v) A representative of large brewers.a brewer or micro
+2 brewer.
+3 (vi) One of the following:
+4 (A) A representative of micro brewers.
+5 (B) A representative of brewpub license holders.
+6 (vii) A representative of small distillers.
+7 (viii) A representative of distillers that manufacture more than
+8 60,000 gallons of spirits per year.
+9 (2) The following apply to a member of the council appointed
+10 under subsection (1)(b):
+11 (a) The member's principal place of business must be located
+12 in this state.
+13 (b) The member must not be a lobbyist or a lobbyist agent as
+14 those terms are defined in section 5 of 1978 PA 472, MCL 4.415.
+15 (3) Voting members of the council appointed by the governor
+16 under subsection (1) shall serve for terms of 3 years or until a
+17 successor is appointed, whichever is later, except that of the
+18 voting members first appointed, 3 shall serve for 1 year, 3 shall
+19 serve for 2 years, and 3 shall serve for 3 years. A voting member
+20 shall not serve more than 2 consecutive terms. A vacancy on the
+21 board shall be filled in the same manner as the original
+22 appointment. The director of the department of agriculture and
+23 rural development is the chairperson of the council.
+24 (4) The council may employ personnel and incur expenses that
+25 are necessary to carry out the responsibilities of the council
+26 under this act. A member of the council or an employee or agent of
+27 the council is not personally liable on the contracts of the
+28 council.
+29 (5) A nongovernmental member of the council may receive $50.00
+DAW H01868'25 (H-1) e3nsv7
+
+7
+1 per day for each day spent in actual attendance at meetings of the
+2 council and traveling expenses while on council business in
+3 accordance with standard travel regulations of the department of
+4 technology, management, and budget.
+5 (6) The council shall maintain accurate books and records, and
+6 all money received by the council shall be used to implement and
+7 enforce this section. The council may accept money from any source
+8 for the purpose of carrying out this section. All money received by
+9 the council shall be forwarded to the state treasurer for deposit
+10 into the Michigan craft beverage council fund created in section
+11 303a.
+12 (7) Subject to an appropriation, the council shall direct the
+13 department of agriculture and rural development to award grants for
+14 the following:
+15 (a) Research into both of the following:
+16 (i) Fruits used in winemaking and wines, including, but not
+17 limited to, methods of planting, growing, controlling insects and
+18 diseases, charting microclimates and locations for growing
+19 desirable varieties of fruits used in winemaking and wines,
+20 marketing, processing, distribution, advertising, sales production,
+21 and product development.
+22 (ii) Hops, barley, beer, and spirits, including, but not
+23 limited to, methods of planting, growing, controlling insects and
+24 diseases, marketing, processing, distribution, advertising, sales
+25 production, and product development.
+26 (b) Projects that do 1 or more of the following:
+27 (i) Provide the wine industry, including growers, wineries,
+28 distributors, and retailers, with information relative to proper
+29 methods of handling and selling fruits used in winemaking and
+DAW H01868'25 (H-1) e3nsv7
+
+8
+1 wines.
+2 (ii) Provide the brewing and distilling industries, including
+3 growers, brewers, distillers, distributors, and retailers, with
+4 information relative to proper methods of handling and selling
+5 hops, barley, beer, spirits, and mixed spirit drinks.
+6 (iii) Provide for market surveys and analyses for purposes of
+7 expanding existing markets and creating new and larger markets for
+8 Michigan agricultural products such as fruits, hops, and barley,
+9 that are used in the production of wine, cider, beer, spirits, and
+10 mixed spirit drinks.
+11 (iv) Provide for the promotion of the sale of Michigan
+12 agricultural products such as fruits, hops, and barley, that are
+13 used in the production of wine, cider, beer, spirits, and mixed
+14 spirit drinks for the purpose of maintaining or expanding present
+15 markets and creating new and larger domestic and foreign markets.
+16 (v) Develop and administer financial aid programs to growers
+17 of fruits used in winemaking to encourage the increased planting in
+18 this state of desirable fruit varieties in microclimates determined
+19 to provide the best conditions for producing quality wines.
+20 (vi) Develop and administer financial aid programs to hops
+21 growers to encourage increased planting in this state of desirable
+22 hops varieties in microclimates determined to provide the best
+23 conditions for producing quality beer.
+24 (vii) Develop and administer financial aid programs to barley
+25 growers to encourage increased planting in this state of desirable
+26 barley varieties in microclimates determined to provide the best
+27 conditions for producing quality beer.
+28 (viii) Establish educational partnerships to benefit the beer,
+29 wine, cider, spirits, and mixed spirit drink industries.
+DAW H01868'25 (H-1) e3nsv7
+
+9
+1 (8) The department of agriculture and rural development shall
+2 administer the grants awarded under subsection (7).
+3 (9) The council shall do all of the following:
+4 (a) Apply for and accept grants or contributions from the
+5 federal government or any of its agencies, the state, or other
+6 public or private agencies to be used for any of the purposes of
+7 this section and to do any and all things within its express or
+8 implied powers necessary or desirable to secure that financial or
+9 other aid or cooperation in the carrying out of any of the purposes
+10 of this section.
+11 (b) Invite the chief executive officer of the Michigan
+12 economic development corporation or his or her designee to attend
+13 at least 1 council meeting annually to inform the council about
+14 partnership activities and opportunities related to the marketing
+15 and promotion of Michigan agricultural products such as fruits,
+16 hops, and barley, that are used in the production of wine, cider,
+17 beer, spirits, and mixed spirit drinks.
+18 (c) Invite the director of the department of licensing and
+19 regulatory affairs to attend at least 1 council meeting annually to
+20 inform the council about funding activities affecting the council.
+21 (d) Prepare and adopt an annual budget.
+22 (10) Based on the information provided to the council under
+23 subsection (9)(b) and (c), the council may do either or both of the
+24 following:
+25 (a) Take actions that will enhance the marketing and promotion
+26 of Michigan agricultural products, such as fruits, hops, and
+27 barley, that are used in the production of wine, cider, beer,
+28 spirits, and mixed spirit drinks.
+29 (b) Annually review and adopt strategies for marketing and
+DAW H01868'25 (H-1) e3nsv7
+
+10
+1 promotion of Michigan agricultural products, such as fruits, hops,
+2 and barley, that are used in the production of wine, cider, beer,
+3 spirits, and mixed spirit drinks.
+4 (11) The council may promulgate rules pursuant to in
+5 accordance with the administrative procedures act of 1969, 1969 PA
+6 306, MCL 24.201 to 24.328, for the purposes of implementing and
+7 enforcing this section. However, the council shall not promulgate a
+8 rule that conflicts with a rule promulgated by the commission under
+9 section 215.
+10 (12) Except as otherwise provided in this subsection, the
+11 council shall not engage in lobbying. This subsection does not
+12 prohibit the council or a council member or council employee from
+13 providing technical information to the legislature or to the
+14 department of agriculture and rural development, regardless of
+15 whether the council, council member, or council employee is
+16 appearing before an officially convened legislative committee or
+17 department of agriculture and rural development hearing panel, if
+18 the technical information is related to the council's duties under
+19 this section.
+20 (13) This section does not prevent the council from
+21 establishing a commodity committee under the agriculture
+22 commodities marketing act, 1965 PA 232, MCL 290.651 to 290.674.
+23 (14) As used in this section:
+24 (a) "Cider" means an alcoholic beverage made from the
+25 fermentation of juice from primarily apples or pears, or both,
+26 which contains not less than 1/2 of 1% and not more than 8.5% of
+27 alcohol by volume. Cider may be still or carbonated and may contain
+28 other fruits, spices, botanicals, or other flavors.
+29 (b) "Council" means the Michigan craft beverage council
+DAW H01868'25 (H-1) e3nsv7
+
+11
+1 described in subsection (1).
+2 (c) "Large brewer" means a brewer that produces in total at
+3 least 60,000 barrels of beer and not more than 1,000,000 barrels of
+4 beer per year. In determining the barrel threshold under this
+5 subdivision, all brands and labels of a brewer, whether brewed in
+6 this state or outside this state, must be combined and all
+7 facilities for the production of beer that are owned or controlled
+8 by the same person are treated as a single facility.
+9 (c) (d) "Lobbying" means that term as defined in section 5 of
+10 1978 PA 472, MCL 4.415.
+11 (d) (e) "Technical information" means that term as defined in
+12 section 5 of 1978 PA 472, MCL 4.415.
+13 Sec. 412. (1) The legislature finds that the availability of
+14 nonalcoholic beverages, including nonalcoholic beer at tasting
+15 rooms, promotes public health and safety when done through a
+16 regulated structure that minimizes minor access to nonalcoholic
+17 beer.
+18 (2) The legislature further finds that the 3-tier distribution
+19 system remains the most effective balance of increasing competition
+20 and variety and access to market against public health and safety.
+21 The ability of a wholesaler to sell nonalcoholic products to a
+22 brewer operating a tasting room under this section must not be used
+23 to undermine the 3-tier distribution system.
+24 (3) Notwithstanding anything in this act to the contrary, a
+25 wholesaler may sell beer as defined in section 105(8)(b) to a
+26 brewer or micro brewer to sell at the brewer's or micro brewer's
+27 approved tasting room for consumption on or off the licensed
+28 premises.
+29 (4) A brewer or micro brewer that purchases beer as defined in
+DAW H01868'25 (H-1) e3nsv7
+
+12
+1 section 105(8)(b) under subsection (3) shall not do either of the
+2 following:
+3 (a) Sell or transfer the beer to another licensee.
+4 (b) If the micro brewer or the brewer has multiple licensed
+5 locations with approved tasting rooms, transfer the beer to any of
+6 the brewer's or micro brewer's licensed locations.
+7 Sec. 526. (1) The commission may issue a special license under
+8 this section to an organization conducting a beer festival. The
+9 application must conform to the following:
+10 (a) Be submitted by a nonprofit entity composed primarily of
+11 brewers, micro brewers, and brewpubs, as determined by the
+12 commission.
+13 (b) Involve an event having for its primary purpose the
+14 showcasing of beer and its production.
+15 (c) Be accompanied by a fee of $25.00 per day of the event.
+16 (2) The special license must not allow more than 6 events per
+17 calendar year conforming to the requirements of subsection (1). For
+18 purposes of this subsection, a beer festival that spans 2 or more
+19 consecutive days is considered 1 event.
+20 (3) A holder of a special license issued under this section
+21 may buy a quantity of beer directly from any licensed brewpub or
+22 wholesaler or directly from a micro brewer eligible to self-
+23 distribute to the beer festival for consumption only at the
+24 licensed event.
+25 (4) Beer Notwithstanding anything in this act to the contrary,
+26 beer that is dispensed to consumers for showcasing beer at a beer
+27 festival is considered a sample. A holder of a special license
+28 issued under this section may offer beer described in this
+29 subsection without consideration.
+DAW H01868'25 (H-1) e3nsv7
+
+13
+1 (5) A member, who is 18 years of age or older, of an
+2 organization that holds a special license issued under this section
+3 may serve beer at the event.
+4 (6) As used in this section and section 413, "beer festival"
+5 means an event at which the various types and kinds of beer and the
+6 production of that beer are showcased to the general public and at
+7 which the general public can purchase and sample the beer being
+8 showcased for consumption on the licensed premises.
+9 Sec. 607. (1) Except as provided in section 536(7)(h), a
+10 warehouser, mixed spirit drink manufacturer, wholesaler, outstate
+11 seller of beer, outstate seller of wine, outstate seller of mixed
+12 spirit drink, or vendor of spirits shall must not be licensed as a
+13 specially designated merchant or a specially designated
+14 distributor. A person licensed as a small distiller is not
+15 considered to be a specially designated distributor. Beginning
+16 December 23, 2007 and in addition to the persons described in this
+17 subsection, a wine maker and a small wine maker shall must also not
+18 be licensed as a specially designated merchant or a specially
+19 designated distributor. Any wine maker or small wine maker holding
+20 a specially designated merchant or specially designated distributor
+21 license on December 23, 2007 may continue to hold a specially
+22 designated merchant or specially designated distributor license.
+23 (2) A specially designated distributor or specially designated
+24 merchant or any other retailer shall not hold a mixed spirit drink
+25 manufacturer, wholesale, warehouse, outstate seller of beer,
+26 outstate seller of mixed spirit drink, or outstate seller of wine
+27 license. Beginning December 23, 2007, a specially designated
+28 distributor or specially designated merchant shall not hold a wine
+29 maker or small wine maker license in addition to being prohibited
+DAW H01868'25 (H-1) e3nsv7
+
+14
+1 from holding any other license described in this subsection. Any
+2 specially designated distributor or specially designated merchant
+3 holding a wine maker or small wine maker license on December 23,
+4 2007 may continue to hold a wine maker or small wine maker license.
+5 (3) A brewer, warehouser, or wholesaler shall must not be
+6 licensed as a specially designated merchant. This subsection does
+7 not affect the operation of a brewery hospitality room.
+8 (4) A wholesaler may sell or deliver beer, wine, mixed wine
+9 drink, and alcoholic liquor mixed spirit drink to hospitals; ,
+10 military establishments; , governments of federal Indian
+11 reservations; , a border store or airport store as defined in 19
+12 USC 1555(b)(8); a trade association exempt from taxation under
+13 section 501(c)(6) of the internal revenue code of 1986, 26 USC 501,
+14 whose members are licensed under this act and where the beer, wine,
+15 mixed wine drink, or mixed spirit drink is for on-premises
+16 consumption and not for resale; and churches requiring sacramental
+17 wines and may sell to the wholesaler's own employees to a limit of
+18 2 cases of 24 12-ounce units or its equivalent of malt beverage per
+19 week, or 1 case of 12 1-liter units or its equivalent of wine,
+20 mixed wine drink, or mixed spirit drink per week.
+21 Sec. 609b. (1) A vendor representative and salesperson of a
+22 vendor of spirits, a manufacturer of beer, a manufacturer of wine,
+23 a mixed spirit drink manufacturer, an outstate seller of beer, an
+24 outstate seller of wine, an outstate seller of mixed spirit drink,
+25 or a wholesaler shall maintain accurate records of expenditures for
+26 each call on a retail licensee. The records must be maintained for
+27 4 years and must be made available for commission inspection.
+28 (2) A vendor representative or salesperson of spirits or wine,
+29 for promotional purposes, may purchase 1 drink for each customer of
+DAW H01868'25 (H-1) e3nsv7
+
+15
+1 an on-premises licensee. A drink purchased under this subsection
+2 must be of the brand represented by the vendor representative or
+3 salesperson.
+4 (3) A vendor representative or salesperson of a manufacturer
+5 of beer, a mixed spirit drink manufacturer, a wholesaler of beer or
+6 mixed wine drink, an outstate seller of mixed spirit drink, or an
+7 outstate seller of beer, for promotional purposes, may purchase 1
+8 drink for each customer of an on-premises retail licensee subject
+9 to a total spending limit of $100.00 per day. A drink purchased
+10 under this subsection must be of the brand represented by the
+11 vendor representative or salesperson.
+12 (4) A vendor representative or salesperson of a manufacturer
+13 of beer, a mixed spirit drink manufacturer, a wholesaler of beer or
+14 mixed wine drink, an outstate seller of mixed spirit drink, or an
+15 outstate seller of beer shall not purchase a drink under subsection
+16 (3) more than twice per month at the same on-premises retail
+17 licensed location.
+18 (5) A licensee employed to deliver alcoholic liquor shall not
+19 purchase a drink of alcoholic liquor for a retail licensee while on
+20 duty or in the course of employment.
+21 Sec. 609k. (1) Notwithstanding section 609, a vendor may
+22 provide a philanthropic gift or sponsorship payment to a 2- or 4-
+23 year college or university located in this state that holds a
+24 retail license if the following conditions are met:
+25 (a) The gift does not include alcoholic liquor.
+26 (b) The gift or sponsorship payment is not contingent on the
+27 purchase of alcoholic liquor by the governing body of the 2- or 4-
+28 year college or university located in this state that is a
+29 retailer.
+DAW H01868'25 (H-1) e3nsv7
+
+16
+1 (c) The gift or sponsorship payment is not contingent on the
+2 sale of alcoholic liquor at the site at which a retail license is
+3 held by the governing body of the 2- or 4-year college or
+4 university located in this state the governing body of which is
+5 issued a retail license.
+6 (2) A vendor may provide signs that promote the brands and
+7 prices of alcoholic liquor for use on the licensed premises of a
+8 retail license issued to the governing body of a 2- or 4-year
+9 college or university located in this state. All of the following
+10 apply to a sign allowed under this subsection:
+11 (a) The sign must not be illuminated.
+12 (b) The sign must not have any use beyond the actual
+13 advertising of brands and prices related to the alcoholic liquor.
+14 (c) For a sign that is located inside the retailer's licensed
+15 premises, the sign must not be more than 3,500 square inches in
+16 dimension.
+17 (d) Notwithstanding anything in this act to the contrary, the
+18 signs allowed under this subsection may include the name or logo of
+19 the 2- or 4-year college or university located in this state that
+20 holds a retail license.
+21 (3) Notwithstanding subsection (2), a sports or entertainment
+22 venue for which a retail license has been issued to the governing
+23 body of a public university under section 531(8) may contain
+24 illuminated advertising signs that have a total area of more than
+25 3,5000 square inches. Any of the following entities may provide and
+26 install illuminated advertising signs and advertising signs that
+27 have a total area of more than 3,500 square inches per sign:
+28 (a) A brewer.
+29 (b) A micro brewer.
+DAW H01868'25 (H-1) e3nsv7
+
+17
+1 (c) A wine maker.
+2 (d) A small wine maker.
+3 (e) An outstate seller of beer.
+4 (f) An outstate seller of wine.
+5 (g) An outstate seller of mixed spirit drink.
+6 (h) A manufacturer of spirits.
+7 (i) A manufacturer of mixed spirit drink.
+8 (j) A vendor of spirits.
+9 (k) An outstate self-distributor.
+10 (4) Notwithstanding anything in this act to the contrary, a
+11 vendor may sell alcoholic liquor that includes on the container or
+12 packaging of the alcoholic liquor the name or logo of a 2- or 4-
+13 year college or university located in this state that holds a
+14 retailer license.
+15 (5) Notwithstanding anything in this act to the contrary, a
+16 vendor may provide signs that promote the brands and prices of
+17 alcoholic liquor authorized under section 610a and advertising
+18 items authorized under section 609 to a retailer if the retailer is
+19 a 2- or 4-year college or university located in this state that
+20 include the name or logo of a 2- or 4-year college or university
+21 located in this state.
+22 (6) As used in this section, "sports or entertainment venue"
+23 means the public area of a facility on university property
+24 described in section 531(8).
+25 Sec. 804. The commission shall suspend the license of a
+26 retailer for 14 days if the retailer has made 6 or more payments to
+27 a wholesaler that have been dishonored by a financial institution
+28 in violation of section 903b on different dates in 12 consecutive
+29 months.
+DAW H01868'25 (H-1) e3nsv7
+
+18
+1 Sec. 903b. (1) A retailer violates this act if the retailer or
+2 the retailer's clerk, servant, agent, or employee makes a payment
+3 to a wholesaler , the commission, or this state by any means that
+4 has been dishonored by a financial institution for lack of
+5 sufficient funds.any reason.
+6 (2) A wholesaler shall require a retailer that has made a
+7 payment to the wholesaler that has been dishonored by a financial
+8 institution to pay the wholesaler an administrative fee as follows:
+9 (a) For the first dishonored payment, $50.00.
+10 (b) For a second dishonored payment within 12 months of the
+11 first dishonored payment, $100.00.
+12 (c) For a third dishonored payment within 12 months of the
+13 first dishonored payment, $150.00.
+14 (d) For a fourth dishonored payment within 12 months of the
+15 first dishonored payment, $200.00.
+16 (e) For a fifth or any subsequent dishonored payment within 12
+17 months of the first dishonored payment, $250.00.
+18 Sec. 1025. (1) Except as otherwise provided in subsection (3),
+19 and subject to subsection (2), a vendor shall not give away any
+20 alcoholic liquor of any kind or description at any time in
+21 connection with his or her the vendor's business, except a vendor
+22 that is a manufacturer for consumption on the premises only.
+23 (2) Subsection (1) does not prevent any of the following:
+24 (a) A vendor of spirits, brewer, mixed spirit drink
+25 manufacturer, wine maker, small wine maker, outstate seller of
+26 beer, outstate seller of wine, or outstate seller of mixed spirit
+27 drink, or a bona fide market research organization retained by 1 of
+28 the persons named in this subdivision, from conducting samplings or
+29 tastings of an alcoholic liquor product before it is approved for
+DAW H01868'25 (H-1) e3nsv7
+
+19
+1 sale in this state, if the sampling or tasting is conducted
+2 pursuant to prior written approval of the commission.
+3 (b) A person from conducting any sampling or tasting
+4 authorized by rule of the commission.
+5 (c) The holder of a farmer's market permit from conducting a
+6 tasting authorized under section 415.
+7 (d) A person from conducting any sampling or tasting
+8 authorized under section 537.
+9 (e) A retailer licensed for consumption on the premises from
+10 conducting a sampling authorized under section 1027(2).
+11 (f) A person from conducting a sampling at a consumer sampling
+12 event authorized under section 1027(4) and (5).
+13 (g) A class A or B hotel designed to attract and accommodate
+14 tourists and visitors in a resort area from giving away alcoholic
+15 liquor to an invitee or guest in connection with a business event
+16 or as a part of a room special or promotion for overnight
+17 accommodations.
+18 (3) A wholesaler or manufacturer may give samples of beer or
+19 wine to an employee of the wholesaler if all of the following
+20 conditions are met:
+21 (a) The sampling is for the purpose of educating the employee
+22 regarding the beer or wine.
+23 (b) The employee is at least 21 years of age.
+24 (c) The sampling takes place on the licensed premises of the
+25 wholesaler.
+26 (4) A micro brewer or a brewer may give samples of beer to an
+27 employee of another brewer or micro brewer if all of the following
+28 conditions are met:
+29 (a) The sampling is for the purpose of research or of
+DAW H01868'25 (H-1) e3nsv7
+
+20
+1 educating the employee regarding the beer.
+2 (b) The employee is at least 21 years of age.
+3 (c) The sampling takes place on the licensed premises of the
+4 other micro brewer or the other brewer.
+5 (5) (4) A vendor shall not sell an alcoholic liquor to an
+6 individual in an intoxicated condition.
+7 (6) (5) Evidence of any breathalyzer or blood alcohol test
+8 results obtained in a licensed establishment, or on property
+9 adjacent to the licensed premises and under the control or
+10 ownership of the licensee, is not admissible to prove a violation
+11 of this section, section 707(1), (2), (3), or (4), or section
+12 801(1). To establish a violation of this section, section 707(1),
+13 (2), (3), or (4), or section 801(1), the individual's intoxicated
+14 condition at the time of the sale or consumption of alcohol must be
+15 proven by direct observation by law enforcement or commission
+16 enforcement personnel or through other admissible witness
+17 statements or corroborating evidence obtained as part of the
+18 standard investigation other than breathalyzer or blood alcohol
+19 test results.
+20 Enacting section 1. This amendatory act does not take effect
+21 unless all of the following bills of the 103rd Legislature are
+22 enacted into law:
+23 (a) House Bill No. 4824.
+24 (b) House Bill No. 4825.
+Final Page
+DAW H01868'25 (H-1) e3nsv7
+
+[DELETED:   H e S f]
+[DELETED:   H e b h p ( t p a ( f m c u c b ( ( w m C ( t u ( d m 2 ( m m u]
+[DELETED:   H e i ( a r t 8 ( t ( c ( l ( s b ( i ( o i ire  ( m c w]
+[DELETED:   H e d ( t s t s s b p A b m d d ( o b w ( 2. ( m o m m a ( l s p]
+[DELETED:   H e ( c a h t s o s S u s d a t b o ( a d . ( a () s b () l () () c]
+[DELETED:   H e ()  () ( ( () () 6 ( u ( i ( t ( u s v s s b a r ( a u t c (]
+[DELETED:   H e p c a t ( a e f t i 3 ( d t ( () l d d m a () l d p ( () d m]
+[DELETED:   H e w () g i h () e M t m () a u s m () o t t () g h c () g b c () w]
+[DELETED:   H e ( a ( ( f p t i o o ( e a p a h b ( r i ( ( s f ( o b s (]
+[DELETED:   H e p a s ( t 3 e r s ( c p p d w a d t t ( e c ( ( f w a o (]
+[DELETED:   H e d ( l b s t f b ( 1 ( s]
+[DELETED:   H e S t a ( b c ( s ( ( c p c ( m w d l ( t f i s]
+[DELETED:   H e ( o m ( m p w s S w s s n s d c D s a b d a l d ( m m o l d m]
+[DELETED:   H e f s h 2 ( n l n (rw m ; a ts, ms, rs, a a w 2 w   S v m m a a o o o w e 4 ( f]
+[DELETED:   H e a m s ( o a  ka , o o d t u v ( o a  ka , o o ( l ( p d]
+[DELETED:   H e]
+[DELETED:   H e]
+[DELETED:   H e S A t tr, h s.  S a a c b t ( ( m b d t t]
+[DELETED:   H e s p ( a ( t ( a ( c ( e ( t l o a ( w c ( r ( ( w]
+[DELETED:   H e  ( i ( r a o o 8 ( c p e s s t E u e ( (]

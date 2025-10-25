@@ -1,0 +1,374 @@
+Title: SENATE BILL NO. 402
+Official Title: SENATE BILL NO. 402
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 5
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1939 PA 280, entitled
+"The social welfare act,"
+by amending section 109 (MCL 400.109), as amended by 2024 PA 248.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 109. (1) An eligible individual may receive the following
+2 medical services under this act:
+3 (a) Hospital services that an eligible individual may receive
+4 consist of medical, surgical, or obstetrical care, together with
+5 necessary drugs, X-rays, physical therapy, prosthesis,
+6 transportation, and nursing care incident to the medical, surgical,
+7 or obstetrical care. The period of inpatient hospital service shall
+8 must be the minimum period necessary in this type of facility for
+9 the proper care and treatment of the individual. Necessary
+OOI S00737'25 (S-1) peg9do
+2
+1 hospitalization to provide dental care must be provided if
+2 certified by the attending dentist with the approval of the
+3 department. An individual who is receiving medical treatment as an
+4 inpatient because of a diagnosis of mental disease may receive
+5 service under this section, notwithstanding the mental health code,
+6 1974 PA 258, MCL 330.1001 to 330.2106. The department must pay for
+7 hospital services according to the state plan for medical
+8 assistance adopted under section 10 and approved by the United
+9 States Department of Health and Human Services.
+10 (b) Physicians Physician services authorized by the
+11 department. The services may be furnished in the physician's
+12 office, the eligible individual's home, a medical institution, or
+13 elsewhere in case of emergency. A physician must be paid a
+14 reasonable charge for the service rendered. The department must
+15 determine reasonable charges. Reasonable charges must not be more
+16 than those paid in this state for services rendered under title
+17 XVIII.
+18 (c) Nursing home services in a state licensed nursing home, a
+19 medical care facility, or other facility or identifiable unit of
+20 that facility, certified by the appropriate authority as meeting
+21 established standards for a nursing home under the laws and rules
+22 of this state and the United States Department of Health and Human
+23 Services, to the extent found necessary by the attending physician,
+24 dentist, or certified Christian Science practitioner. An eligible
+25 individual may receive nursing home services in an extended care
+26 services program established under section 22210 of the public
+27 health code, 1978 PA 368, MCL 333.22210, to the extent found
+28 necessary by the attending physician when the combined length of
+29 stay in the acute care bed and short-term nursing care bed exceeds
+OOI S00737'25 (S-1) peg9do
+3
+1 the average length of stay for Medicaid hospital diagnostic related
+2 group reimbursement. The department shall not make a final payment
+3 under title XIX for benefits available under title XVIII without
+4 documentation that title XVIII claims have been filed and denied.
+5 The department must pay for nursing home services according to the
+6 state plan for medical assistance adopted according to section 10
+7 and approved by the United States Department of Health and Human
+8 Services. A county must reimburse a county maintenance of effort
+9 rate determined on an annual basis for each patient day of Medicaid
+10 nursing home services provided to eligible individuals in long-term
+11 care facilities owned by the county and licensed to provide nursing
+12 home services. For purposes of determining rates and costs
+13 described in this subdivision, all of the following apply:
+14 (i) For county-owned facilities with per patient day updated
+15 variable costs exceeding the variable cost limit for the county
+16 facility, county maintenance of effort rate means 45% of the
+17 difference between per patient day updated variable cost and the
+18 concomitant nursing home-class variable cost limit, the quantity
+19 offset by the difference between per patient day updated variable
+20 cost and the concomitant variable cost limit for the county
+21 facility. The county rate must not be less than zero.
+22 (ii) For county-owned facilities with per patient day updated
+23 variable costs not exceeding the variable cost limit for the county
+24 facility, county maintenance of effort rate means 45% of the
+25 difference between per patient day updated variable cost and the
+26 concomitant nursing home class variable cost limit.
+27 (iii) For county-owned facilities with per patient day updated
+28 variable costs not exceeding the concomitant nursing home class
+29 variable cost limit, the county maintenance of effort rate must
+OOI S00737'25 (S-1) peg9do
+4
+1 equal zero.
+2 (iv) For the purposes of this section: "per patient day updated
+3 variable costs and the variable cost limit for the county facility"
+4 must be determined according to the state plan for medical
+5 assistance; for freestanding county facilities the "nursing home
+6 class variable cost limit" must be determined according to the
+7 state plan for medical assistance and for hospital attached county
+8 facilities the "nursing class variable cost limit" must be
+9 determined according to the state plan for medical assistance plus
+10 $5.00 per patient day; and "freestanding" and "hospital attached"
+11 must be determined according to the federal regulations.
+12 (v) If the county maintenance of effort rate computed under
+13 this section exceeds the county maintenance of effort rate in
+14 effect as of September 30, 1984, the rate in effect as of September
+15 30, 1984 must remain in effect until a time that the rate computed
+16 under this section is less than the September 30, 1984 rate. This
+17 limitation remains in effect until December 31, 2025 or until a new
+18 reimbursement system determined by the department replaces the
+19 current system, whichever is sooner. For each subsequent county
+20 fiscal year, the maintenance of effort rate may not increase by
+21 more than $1.00 per patient day each year.
+22 (vi) For county-owned facilities, reimbursement for plant costs
+23 must continue to be based on interest expense and depreciation
+24 allowance unless otherwise provided by law.
+25 (d) Pharmaceutical services from a licensed pharmacist of the
+26 individual's choice as prescribed by a licensed physician or
+27 dentist and approved by the department. In an emergency, but not
+28 routinely, the individual may receive pharmaceutical services
+29 rendered personally by a licensed physician or dentist on the same
+OOI S00737'25 (S-1) peg9do
+5
+1 basis as approved for pharmacists.
+2 (e) Other medical and health services as authorized by the
+3 department.
+4 (f) Psychiatric care provided according to the guidelines
+5 established by the department to the extent of appropriations made
+6 available by the legislature for the fiscal year.
+7 (g) Screening, laboratory services, diagnostic services, early
+8 intervention services, and treatment for chronic kidney disease
+9 under guidelines established by the department. A clinical
+10 laboratory performing a creatinine test on an eligible individual
+11 under this subdivision must include in the lab report the
+12 glomerular filtration rate (eGFR) of the individual and must report
+13 it as a percentage of kidney function remaining.
+14 (h) Medically necessary acute medical detoxification for
+15 opioid use disorder, medically necessary inpatient care at an
+16 approved facility, or care in an appropriately licensed substance
+17 use disorder residential treatment facility.
+18 (i) Mental health screenings during the postpartum period as
+19 described in section 9137 of the public health code, 1978 PA 368,
+20 MCL 333.9137.
+21 (j) Street medicine services, including prescriptions for
+22 opioid use disorder by an eligible provider. As used in this
+23 subdivision:
+24 (i) "Eligible provider" means a nurse practitioner, licensed
+25 physician's assistant, licensed physician, or peer recovery coach.
+26 (ii) "Nurse practitioner" means an individual who is licensed
+27 as a registered professional nurse under part 172 of the public
+28 health code, 1978 PA 368, MCL 333.17201 to 333.17242, who has been
+29 granted a specialty certification as a nurse practitioner by the
+OOI S00737'25 (S-1) peg9do
+6
+1 Michigan board of nursing under section 17210 of the public health
+2 code, 1978 PA 368, MCL 333.17210.
+3 (iii) "Peer recovery coach" means an individual who has lived
+4 experience of recovery, has received training and supervision to
+5 assist other individuals in initiating and maintaining recovery,
+6 and is either of the following:
+7 (A) A certified peer recovery mentor certified by the Michigan
+8 certification board for addiction professionals.
+9 (B) A certified peer recovery coach certified by the
+10 department.
+11 (iv) "Street medicine services" means health and social care
+12 provided directly to a homeless individual in the individual's
+13 environment.
+14 (2) The director must provide notice to the public, according
+15 to applicable federal regulations, and must obtain the approval of
+16 the committees on appropriations of the house of representatives
+17 and senate of the state legislature, of a proposed change in the
+18 statewide method or level of reimbursement for a service, if the
+19 proposed change is expected to increase or decrease payments for
+20 that service by 1% or more during the 12 months after the effective
+21 date of the change.
+22 (3) As used in this act:
+23 (a) "Title XVIII" means title XVIII of the social security
+24 act, 42 USC 1395 to 1395lll.
+25 (b) "Title XIX" means title XIX of the social security act, 42
+26 USC 1396 to 1396w-7.1396w-8.
+27 (c) "Title XX" means title XX of the social security act, 42
+28 USC 1397 to 1397n-13.
+Final Page
+OOI S00737'25 (S-1) peg9do
+[DELETED:   S p S m ( c n t o b t]
+[DELETED:   S p h c d i s 1 h a S ( s d o e r d t X ( m t e o S d i s h n s]
+[DELETED:   S p t g u d T s a S r n c h d () v f d c o c f () v f d c () v v]
+[DELETED:   S p e () v m a c s f d $ m () t e 3 u l r c f m () m a ( i d r r]
+[DELETED:   S p b ( d ( a e a ( i u l u g i ( o a u ( d M))]
+[DELETED:   S p))  ( t t a s p t d ( ( a5. ( U. ( U]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 402
+A bill to amend 1939 PA 280, entitled
+"The social welfare act,"
+by amending section 109 (MCL 400.109), as amended by 2024 PA 248.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 109. (1) An eligible individual may receive the following
+2 medical services under this act:
+3 (a) Hospital services that an eligible individual may receive
+4 consist of medical, surgical, or obstetrical care, together with
+5 necessary drugs, X-rays, physical therapy, prosthesis,
+6 transportation, and nursing care incident to the medical, surgical,
+7 or obstetrical care. The period of inpatient hospital service shall
+8 must be the minimum period necessary in this type of facility for
+9 the proper care and treatment of the individual. Necessary
+OOI S00737'25 (S-1) peg9do
+
+2
+1 hospitalization to provide dental care must be provided if
+2 certified by the attending dentist with the approval of the
+3 department. An individual who is receiving medical treatment as an
+4 inpatient because of a diagnosis of mental disease may receive
+5 service under this section, notwithstanding the mental health code,
+6 1974 PA 258, MCL 330.1001 to 330.2106. The department must pay for
+7 hospital services according to the state plan for medical
+8 assistance adopted under section 10 and approved by the United
+9 States Department of Health and Human Services.
+10 (b) Physicians Physician services authorized by the
+11 department. The services may be furnished in the physician's
+12 office, the eligible individual's home, a medical institution, or
+13 elsewhere in case of emergency. A physician must be paid a
+14 reasonable charge for the service rendered. The department must
+15 determine reasonable charges. Reasonable charges must not be more
+16 than those paid in this state for services rendered under title
+17 XVIII.
+18 (c) Nursing home services in a state licensed nursing home, a
+19 medical care facility, or other facility or identifiable unit of
+20 that facility, certified by the appropriate authority as meeting
+21 established standards for a nursing home under the laws and rules
+22 of this state and the United States Department of Health and Human
+23 Services, to the extent found necessary by the attending physician,
+24 dentist, or certified Christian Science practitioner. An eligible
+25 individual may receive nursing home services in an extended care
+26 services program established under section 22210 of the public
+27 health code, 1978 PA 368, MCL 333.22210, to the extent found
+28 necessary by the attending physician when the combined length of
+29 stay in the acute care bed and short-term nursing care bed exceeds
+OOI S00737'25 (S-1) peg9do
+
+3
+1 the average length of stay for Medicaid hospital diagnostic related
+2 group reimbursement. The department shall not make a final payment
+3 under title XIX for benefits available under title XVIII without
+4 documentation that title XVIII claims have been filed and denied.
+5 The department must pay for nursing home services according to the
+6 state plan for medical assistance adopted according to section 10
+7 and approved by the United States Department of Health and Human
+8 Services. A county must reimburse a county maintenance of effort
+9 rate determined on an annual basis for each patient day of Medicaid
+10 nursing home services provided to eligible individuals in long-term
+11 care facilities owned by the county and licensed to provide nursing
+12 home services. For purposes of determining rates and costs
+13 described in this subdivision, all of the following apply:
+14 (i) For county-owned facilities with per patient day updated
+15 variable costs exceeding the variable cost limit for the county
+16 facility, county maintenance of effort rate means 45% of the
+17 difference between per patient day updated variable cost and the
+18 concomitant nursing home-class variable cost limit, the quantity
+19 offset by the difference between per patient day updated variable
+20 cost and the concomitant variable cost limit for the county
+21 facility. The county rate must not be less than zero.
+22 (ii) For county-owned facilities with per patient day updated
+23 variable costs not exceeding the variable cost limit for the county
+24 facility, county maintenance of effort rate means 45% of the
+25 difference between per patient day updated variable cost and the
+26 concomitant nursing home class variable cost limit.
+27 (iii) For county-owned facilities with per patient day updated
+28 variable costs not exceeding the concomitant nursing home class
+29 variable cost limit, the county maintenance of effort rate must
+OOI S00737'25 (S-1) peg9do
+
+4
+1 equal zero.
+2 (iv) For the purposes of this section: "per patient day updated
+3 variable costs and the variable cost limit for the county facility"
+4 must be determined according to the state plan for medical
+5 assistance; for freestanding county facilities the "nursing home
+6 class variable cost limit" must be determined according to the
+7 state plan for medical assistance and for hospital attached county
+8 facilities the "nursing class variable cost limit" must be
+9 determined according to the state plan for medical assistance plus
+10 $5.00 per patient day; and "freestanding" and "hospital attached"
+11 must be determined according to the federal regulations.
+12 (v) If the county maintenance of effort rate computed under
+13 this section exceeds the county maintenance of effort rate in
+14 effect as of September 30, 1984, the rate in effect as of September
+15 30, 1984 must remain in effect until a time that the rate computed
+16 under this section is less than the September 30, 1984 rate. This
+17 limitation remains in effect until December 31, 2025 or until a new
+18 reimbursement system determined by the department replaces the
+19 current system, whichever is sooner. For each subsequent county
+20 fiscal year, the maintenance of effort rate may not increase by
+21 more than $1.00 per patient day each year.
+22 (vi) For county-owned facilities, reimbursement for plant costs
+23 must continue to be based on interest expense and depreciation
+24 allowance unless otherwise provided by law.
+25 (d) Pharmaceutical services from a licensed pharmacist of the
+26 individual's choice as prescribed by a licensed physician or
+27 dentist and approved by the department. In an emergency, but not
+28 routinely, the individual may receive pharmaceutical services
+29 rendered personally by a licensed physician or dentist on the same
+OOI S00737'25 (S-1) peg9do
+
+5
+1 basis as approved for pharmacists.
+2 (e) Other medical and health services as authorized by the
+3 department.
+4 (f) Psychiatric care provided according to the guidelines
+5 established by the department to the extent of appropriations made
+6 available by the legislature for the fiscal year.
+7 (g) Screening, laboratory services, diagnostic services, early
+8 intervention services, and treatment for chronic kidney disease
+9 under guidelines established by the department. A clinical
+10 laboratory performing a creatinine test on an eligible individual
+11 under this subdivision must include in the lab report the
+12 glomerular filtration rate (eGFR) of the individual and must report
+13 it as a percentage of kidney function remaining.
+14 (h) Medically necessary acute medical detoxification for
+15 opioid use disorder, medically necessary inpatient care at an
+16 approved facility, or care in an appropriately licensed substance
+17 use disorder residential treatment facility.
+18 (i) Mental health screenings during the postpartum period as
+19 described in section 9137 of the public health code, 1978 PA 368,
+20 MCL 333.9137.
+21 (j) Street medicine services, including prescriptions for
+22 opioid use disorder by an eligible provider. As used in this
+23 subdivision:
+24 (i) "Eligible provider" means a nurse practitioner, licensed
+25 physician's assistant, licensed physician, or peer recovery coach.
+26 (ii) "Nurse practitioner" means an individual who is licensed
+27 as a registered professional nurse under part 172 of the public
+28 health code, 1978 PA 368, MCL 333.17201 to 333.17242, who has been
+29 granted a specialty certification as a nurse practitioner by the
+OOI S00737'25 (S-1) peg9do
+
+6
+1 Michigan board of nursing under section 17210 of the public health
+2 code, 1978 PA 368, MCL 333.17210.
+3 (iii) "Peer recovery coach" means an individual who has lived
+4 experience of recovery, has received training and supervision to
+5 assist other individuals in initiating and maintaining recovery,
+6 and is either of the following:
+7 (A) A certified peer recovery mentor certified by the Michigan
+8 certification board for addiction professionals.
+9 (B) A certified peer recovery coach certified by the
+10 department.
+11 (iv) "Street medicine services" means health and social care
+12 provided directly to a homeless individual in the individual's
+13 environment.
+14 (2) The director must provide notice to the public, according
+15 to applicable federal regulations, and must obtain the approval of
+16 the committees on appropriations of the house of representatives
+17 and senate of the state legislature, of a proposed change in the
+18 statewide method or level of reimbursement for a service, if the
+19 proposed change is expected to increase or decrease payments for
+20 that service by 1% or more during the 12 months after the effective
+21 date of the change.
+22 (3) As used in this act:
+23 (a) "Title XVIII" means title XVIII of the social security
+24 act, 42 USC 1395 to 1395lll.
+25 (b) "Title XIX" means title XIX of the social security act, 42
+26 USC 1396 to 1396w-7.1396w-8.
+27 (c) "Title XX" means title XX of the social security act, 42
+28 USC 1397 to 1397n-13.
+Final Page
+OOI S00737'25 (S-1) peg9do
+
+[DELETED:   S p S m ( c n t o b t]
+[DELETED:   S p h c d i s 1 h a S ( s d o e r d t X ( m t e o S d i s h n s]
+[DELETED:   S p t g u d T s a S r n c h d () v f d c o c f () v f d c () v v]
+[DELETED:   S p e () v m a c s f d $ m () t e 3 u l r c f m () m a ( i d r r]
+[DELETED:   S p b ( d ( a e a ( i u l u g i ( o a u ( d M))]
+[DELETED:   S p))  ( t t a s p t d ( ( a5. ( U. ( U]

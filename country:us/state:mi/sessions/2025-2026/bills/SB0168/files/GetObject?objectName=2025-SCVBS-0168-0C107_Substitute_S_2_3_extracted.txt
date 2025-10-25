@@ -1,0 +1,2383 @@
+Title: SENATE BILL NO. 168
+Official Title: SENATE BILL NO. 168
+Number of Sections: 4
+Source: versions - Substitute (S-2) - 3
+Media Type: application/pdf
+Strikethrough Detection: 37 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1979 PA 94, entitled
+"The state school aid act of 1979,"
+by amending sections 201, 204, 206, 207a, 207b, 207c, 210, 210b,
+210d, 216e, 217a, 217b, 217c, 222, 229a, and 230 (MCL 388.1801,
+
+Section 2:
+388.1804, 388.1806, 388.1807a, 388.1807b, 388.1807c, 388.1810,
+
+Section 3:
+388.1810b, 388.1810d, 388.1816e, 388.1817a, 388.1817b, 388.1817c,
+
+Section 4:
+388.1822, 388.1829a, and 388.1830), sections 201, 206, 207a, 207b,
+207c, 217b, 222, 229a, and 230 as amended and sections 216e and
+217c as added by 2024 PA 120, section 204 as amended by 2012 PA
+201, section 210 as amended and section 210d as added by 2015 PA
+85, section 210b as amended by 2021 PA 86, and section 217a as
+added by 2023 PA 103, and by adding sections 216c, 217d, 217e, and
+217f; and to repeal acts and parts of acts.
+JHM S01519'25 (S-2) 48qn7z
+2
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 201. (1) Subject to the conditions set forth in this
+2 article, the amounts listed in this section are appropriated for
+3 community colleges for the fiscal year ending September 30, 2025,
+4 2026, from the funds indicated in this section. The following is a
+5 summary of the appropriations in this section: and section 201f:
+6 (a) The gross appropriation is $462,220,800.00.
+7 $506,504,600.00. After deducting total interdepartmental grants and
+8 intradepartmental transfers in the amount of $0.00, the adjusted
+9 gross appropriation is $462,220,800.00.$506,504,600.00.
+10 (b) The sources of the adjusted gross appropriation described
+11 in subdivision (a) are as follows:
+12 (i) Total federal revenues, $0.00.
+13 (ii) Total local revenues, $0.00.
+14 (iii) Total private revenues, $0.00.
+15 (iv) Total other state restricted revenues,
+16 $461,720,800.00.$506,504,600.00.
+17 (v) State general fund/general purpose money,
+18 $500,000.00.$0.00.
+19 (2) Subject to subsection (3), the amount appropriated for
+20 community college operations is $363,363,500.00, $374,543,100.00,
+21 allocated as follows:
+22 (a) The appropriation for Alpena Community College is
+23 $6,425,100.00, $6,300,600.00 for operations, $102,700.00 for
+24 performance funding, and $21,800.00 for costs incurred under the
+25 North American Indian tuition waiver.$6,688,000.00, $6,403,300.00
+26 for operations, $271,200.00 for performance funding, and $13,500.00
+27 for costs incurred under the North American Indian tuition waiver.
+28 (b) The appropriation for Bay de Noc Community College is
+JHM S01519'25 (S-2) 48qn7z
+3
+1 $6,398,000.00, $6,185,300.00 for operations, $112,700.00 for
+2 performance funding, and $100,000.00 for costs incurred under the
+3 North American Indian tuition waiver.$6,568,200.00, $6,298,000.00
+4 for operations, $178,200.00 for performance funding, and $92,000.00
+5 for costs incurred under the North American Indian tuition waiver.
+6 (c) The appropriation for Delta College is $16,907,200.00,
+7 $16,642,300.00 for operations, $240,100.00 for performance funding,
+8 and $24,800.00 for costs incurred under the North American Indian
+9 tuition waiver.$17,427,500.00, $16,882,400.00 for operations,
+10 $493,300.00 for performance funding, and $51,800.00 for costs
+11 incurred under the North American Indian tuition waiver.
+12 (d) The appropriation for Glen Oaks Community College is
+13 $2,985,900.00, $2,939,000.00 for operations, $45,100.00 for
+14 performance funding, and $1,800.00 for costs incurred under the
+15 North American Indian tuition waiver.$3,078,200.00, $2,984,100.00
+16 for operations, $91,200.00 for performance funding, and $2,900.00
+17 for costs incurred under the North American Indian tuition waiver.
+18 (e) The appropriation for Gogebic Community College is
+19 $5,447,400.00, $5,329,700.00 for operations, $69,300.00 for
+20 performance funding, and $48,400.00 for costs incurred under the
+21 North American Indian tuition waiver.$5,578,600.00, $5,399,000.00
+22 for operations, $139,500.00 for performance funding, and $40,100.00
+23 for costs incurred under the North American Indian tuition waiver.
+24 (f) The appropriation for Grand Rapids Community College is
+25 $21,295,300.00, $20,844,400.00 for operations, $339,800.00 for
+26 performance funding, and $111,100.00 for costs incurred under the
+27 North American Indian tuition waiver.$22,022,800.00, $21,184,200.00
+28 for operations, $685,500.00 for performance funding, and
+29 $153,100.00 for costs incurred under the North American Indian
+JHM S01519'25 (S-2) 48qn7z
+4
+1 tuition waiver.
+2 (g) The appropriation for Henry Ford College is
+3 $25,307,100.00, $24,929,800.00 for operations, $370,900.00 for
+4 performance funding, and $6,400.00 for costs incurred under the
+5 North American Indian tuition waiver.$26,056,100.00, $25,300,700.00
+6 for operations, $750,900.00 for performance funding, and $4,500.00
+7 for costs incurred under the North American Indian tuition waiver.
+8 (h) The appropriation for Jackson College is $14,074,900.00,
+9 $13,854,100.00 for operations, $178,500.00 for performance funding,
+10 and $42,300.00 for costs incurred under the North American Indian
+11 tuition waiver.$14,424,500.00, $14,032,600.00 for operations,
+12 $364,800.00 for performance funding, and $27,100.00 for costs
+13 incurred under the North American Indian tuition waiver.
+14 (i) The appropriation for Kalamazoo Valley Community College
+15 is $14,741,600.00, $14,481,900.00 for operations, $222,500.00 for
+16 performance funding, and $37,200.00 for costs incurred under the
+17 North American Indian tuition waiver.$15,185,000.00, $14,704,400.00
+18 for operations, $433,700.00 for performance funding, and $46,900.00
+19 for costs incurred under the North American Indian tuition waiver.
+20 (j) The appropriation for Kellogg Community College is
+21 $11,462,100.00, $11,269,200.00 for operations, $157,500.00 for
+22 performance funding, and $35,400.00 for costs incurred under the
+23 North American Indian tuition waiver.$11,777,800.00, $11,426,700.00
+24 for operations, $324,400.00 for performance funding, and $26,700.00
+25 for costs incurred under the North American Indian tuition waiver.
+26 (k) The appropriation for Kirtland Community College is
+27 $3,860,900.00, $3,773,100.00 for operations, $62,000.00 for
+28 performance funding, and $25,800.00 for costs incurred under the
+29 North American Indian tuition waiver.$4,027,800.00, $3,835,100.00
+JHM S01519'25 (S-2) 48qn7z
+5
+1 for operations, $146,400.00 for performance funding, and $46,300.00
+2 for costs incurred under the North American Indian tuition waiver.
+3 (l) The appropriation for Lake Michigan College is
+4 $6,414,200.00, $6,318,000.00 for operations, $90,200.00 for
+5 performance funding, and $6,000.00 for costs incurred under the
+6 North American Indian tuition waiver.$6,619,800.00, $6,408,200.00
+7 for operations, $192,200.00 for performance funding, and $19,400.00
+8 for costs incurred under the North American Indian tuition waiver.
+9 (m) The appropriation for Lansing Community College is
+10 $36,215,600.00, $35,689,200.00 for operations, $445,200.00 for
+11 performance funding, and $81,200.00 for costs incurred under the
+12 North American Indian tuition waiver.$37,141,200.00, $36,134,400.00
+13 for operations, $924,700.00 for performance funding, and $82,100.00
+14 for costs incurred under the North American Indian tuition waiver.
+15 (n) The appropriation for Macomb Community College is
+16 $38,184,300.00, $37,635,400.00 for operations, $525,200.00 for
+17 performance funding, and $23,700.00 for costs incurred under the
+18 North American Indian tuition waiver.$39,342,100.00, $38,160,600.00
+19 for operations, $1,090,600.00 for performance funding, and
+20 $90,900.00 for costs incurred under the North American Indian
+21 tuition waiver.
+22 (o) The appropriation for Mid Michigan Community College is
+23 $5,912,500.00, $5,742,900.00 for operations, $94,100.00 for
+24 performance funding, and $75,500.00 for costs incurred under the
+25 North American Indian tuition waiver.$6,113,400.00, $5,837,000.00
+26 for operations, $193,900.00 for performance funding, and $82,500.00
+27 for costs incurred under the North American Indian tuition waiver.
+28 (p) The appropriation for Monroe County Community College is
+29 $5,370,300.00, $5,284,700.00 for operations, $83,800.00 for
+JHM S01519'25 (S-2) 48qn7z
+6
+1 performance funding, and $1,800.00 for costs incurred under the
+2 North American Indian tuition waiver.$5,575,500.00, $5,368,500.00
+3 for operations, $206,600.00 for performance funding, and $400.00
+4 for costs incurred under the North American Indian tuition waiver.
+5 (q) The appropriation for Montcalm Community College is
+6 $4,035,200.00, $3,957,200.00 for operations, $76,100.00 for
+7 performance funding, and $1,900.00 for costs incurred under the
+8 North American Indian tuition waiver.$4,157,300.00, $4,033,300.00
+9 for operations, $122,300.00 for performance funding, and $1,700.00
+10 for costs incurred under the North American Indian tuition waiver.
+11 (r) The appropriation for C.S. Mott Community College is
+12 $18,023,600.00, $17,791,700.00 for operations, $226,100.00 for
+13 performance funding, and $5,800.00 for costs incurred under the
+14 North American Indian tuition waiver.$18,519,800.00, $18,017,800.00
+15 for operations, $491,700.00 for performance funding, and $10,300.00
+16 for costs incurred under the North American Indian tuition waiver.
+17 (s) The appropriation for Muskegon Community College is
+18 $10,381,200.00, $10,210,900.00 for operations, $149,000.00 for
+19 performance funding, and $21,300.00 for costs incurred under the
+20 North American Indian tuition waiver.$10,702,000.00, $10,359,900.00
+21 for operations, $298,600.00 for performance funding, and $43,500.00
+22 for costs incurred under the North American Indian tuition waiver.
+23 (t) The appropriation for North Central Michigan College is
+24 $4,110,200.00, $3,868,800.00 for operations, $78,900.00 for
+25 performance funding, and $162,500.00 for costs incurred under the
+26 North American Indian tuition waiver.$4,254,400.00, $3,947,700.00
+27 for operations, $144,300.00 for performance funding, and
+28 $162,400.00 for costs incurred under the North American Indian
+29 tuition waiver.
+JHM S01519'25 (S-2) 48qn7z
+7
+1 (u) The appropriation for Northwestern Michigan College is
+2 $10,816,600.00, $10,473,300.00 for operations, $146,500.00 for
+3 performance funding, and $196,800.00 for costs incurred under the
+4 North American Indian tuition waiver.$11,163,900.00, $10,619,800.00
+5 for operations, $289,400.00 for performance funding, and
+6 $254,700.00 for costs incurred under the North American Indian
+7 tuition waiver.
+8 (v) The appropriation for Oakland Community College is
+9 $25,163,800.00, $24,733,600.00 for operations, $396,400.00 for
+10 performance funding, and $33,800.00 for costs incurred under the
+11 North American Indian tuition waiver.$25,984,900.00, $25,130,000.00
+12 for operations, $816,500.00 for performance funding, and $38,400.00
+13 for costs incurred under the North American Indian tuition waiver.
+14 (w) The appropriation for Schoolcraft College is
+15 $14,993,000.00, $14,711,800.00 for operations, $260,200.00 for
+16 performance funding, and $21,000.00 for costs incurred under the
+17 North American Indian tuition waiver.$15,500,500.00, $14,972,000.00
+18 for operations, $503,200.00 for performance funding, and $25,300.00
+19 for costs incurred under the North American Indian tuition waiver.
+20 (x) The appropriation for Southwestern Michigan College is
+21 $7,816,100.00, $7,682,800.00 for operations, $103,800.00 for
+22 performance funding, and $29,500.00 for costs incurred under the
+23 North American Indian tuition waiver.$8,016,100.00, $7,786,600.00
+24 for operations, $210,400.00 for performance funding, and $19,100.00
+25 for costs incurred under the North American Indian tuition waiver.
+26 (y) The appropriation for St. Clair County Community College
+27 is $8,366,100.00, $8,210,400.00 for operations, $131,600.00 for
+28 performance funding, and $24,100.00 for costs incurred under the
+29 North American Indian tuition waiver.$8,613,500.00, $8,342,000.00
+JHM S01519'25 (S-2) 48qn7z
+8
+1 for operations, $258,200.00 for performance funding, and $13,300.00
+2 for costs incurred under the North American Indian tuition waiver.
+3 (z) The appropriation for Washtenaw Community College is
+4 $16,281,900.00, $15,925,500.00 for operations, $331,800.00 for
+5 performance funding, and $24,600.00 for costs incurred under the
+6 North American Indian tuition waiver.$16,941,200.00, $16,257,300.00
+7 for operations, $664,900.00 for performance funding, and $19,000.00
+8 for costs incurred under the North American Indian tuition waiver.
+9 (aa) The appropriation for Wayne County Community College is
+10 $19,464,700.00, $19,193,300.00 for operations, $267,000.00 for
+11 performance funding, and $4,400.00 for costs incurred under the
+12 North American Indian tuition waiver.$20,063,700.00, $19,460,300.00
+13 for operations, $600,900.00 for performance funding, and $2,500.00
+14 for costs incurred under the North American Indian tuition waiver.
+15 (bb) The appropriation for West Shore Community College is
+16 $2,908,700.00, $2,851,200.00 for operations, $45,500.00 for
+17 performance funding, and $12,000.00 for costs incurred under the
+18 North American Indian tuition waiver.$2,999,300.00, $2,896,700.00
+19 for operations, $85,000.00 for performance funding, and $17,600.00
+20 for costs incurred under the North American Indian tuition waiver.
+21 (3) The amount appropriated in subsection (2) for community
+22 college operations is $363,363,500.00 $374,543,100.00 and is
+23 appropriated from the state school aid fund.
+24 (4) From the appropriations described in subsection (1), both
+25 of the following apply:
+26 (a) Subject to section 207a, the amount appropriated for
+27 fiscal year 2024-2025 2025-2026 to offset certain fiscal year 2024-
+28 2025 2025-2026 retirement contributions is $7,189,000.00,
+29 appropriated from the state school aid fund.
+JHM S01519'25 (S-2) 48qn7z
+9
+1 (b) For fiscal year 2024-2025, 2025-2026, there is allocated
+2 an amount not to exceed $21,800,000.00 $19,600,000.00 for payments
+3 to participating community colleges, appropriated from the state
+4 school aid fund. A community college that receives money under this
+5 subdivision shall use that money solely for the purpose of
+6 offsetting the normal cost contribution rate.
+7 (5) From the appropriations described in subsection (1),
+8 subject to section 207b, the amount appropriated for payments to
+9 community colleges that are participating entities of the
+10 retirement system is $62,100,000.00, $89,500,000.00, appropriated
+11 from the state school aid fund.
+12 (6) From the appropriations described in subsection (1),
+13 subject to section 207c, the amount appropriated for renaissance
+14 zone tax reimbursements is $2,200,000.00, appropriated from the
+15 state school aid fund. Each community college receiving funds in
+16 this subsection shall accrue these payments to its institutional
+17 fiscal year ending June 30, 2025.2026.
+18 (7) For Subject to section 216c, for fiscal year 2024-2025
+19 2025-2026 only, from the appropriations described in subsection
+20 (1), the amount appropriated for career and education navigators
+21 for adult learners infrastructure, technology, equipment,
+22 maintenance, housing, and safety is $1,150,000.00, $10,972,500.00,
+23 appropriated from the state school aid fund. Community colleges,
+24 partnering with 1 or more county governments, where practicable,
+25 may apply for grant funding through the department of lifelong
+26 education, advancement, and potential to supplement or create
+27 navigation efforts of adult learners. The department shall issue a
+28 report including, but not limited to, the number of grants awarded,
+29 a list of community colleges awarded grants and the amounts, and
+JHM S01519'25 (S-2) 48qn7z
+10
+1 the amount of unexpended funds remaining at the end of the fiscal
+2 year. The report must be issued to the house and senate
+3 appropriations subcommittees on community colleges, the house and
+4 senate fiscal agencies, and the state budget director by September
+5 30, 2025.
+6 (8) For fiscal year 2024-2025 2025-2026 only, from the
+7 appropriations described in subsection (1), $500,000.00
+8 $2,000,000.00 is appropriated from the state general fund/general
+9 purpose money to the Michigan Community Colleges Association school
+10 aid fund to St. Clair County Community College to support a program
+11 intended to encourage high school students and young adults to
+12 pursue public-service-focused careers, including those in public
+13 safety, education, and health care.the purchase of equipment for
+14 the Applied Technology Center.
+15 (9) For fiscal year 2024-2025 2025-2026 only, from the
+16 appropriations described in subsection (1), $350,000.00 $500,000.00
+17 is appropriated from the state school aid fund to Kalamazoo Valley
+18 Community College for internet accessibility improvements.to
+19 support the Circle Center.
+20 Sec. 204. Funds appropriated in section 201 shall must not be
+21 used for the purchase of foreign goods, or services, or both , if
+22 competitively priced and of comparable quality American goods, or
+23 services, or both , are available. Preference should must be given
+24 to goods, or services, or both , manufactured or provided by
+25 Michigan businesses, if they are competitively priced and of
+26 comparable quality. In addition, preference should be given to
+27 goods or services, or both, that are manufactured or provided by
+28 Michigan businesses that are owned and operated by veterans, if
+29 they are competitively priced and of comparable quality.for which
+JHM S01519'25 (S-2) 48qn7z
+11
+1 either or both of the following apply:
+2 (a) The goods, services, or both are manufactured or provided
+3 by Michigan businesses owned and operated by veterans if they are
+4 competitively priced and of comparable quality.
+5 (b) The goods, services, or both are manufactured in a
+6 facility that employs union members.
+7 Sec. 206. (1) Except for the funds appropriated in section
+8 201(4)(b), the funds appropriated in section 201 are appropriated
+9 for community colleges with fiscal years ending June 30, 2025 2026
+10 and must be paid out of the state treasury and distributed by the
+11 state treasurer to the respective community colleges in 11 monthly
+12 installments on the sixteenth of each month, or the next succeeding
+13 business day, beginning with October 16, 2024. 2025. Each community
+14 college shall accrue its July and August 2025 2026 payments to its
+15 institutional fiscal year ending June 30, 2025.2026.
+16 (2) The funds appropriated in section 201(4)(b) are
+17 appropriated for community colleges with fiscal years ending June
+18 30, 2025 2026 and must be distributed to the respective community
+19 colleges in quarterly installments on the sixteenth of each
+20 November, February, May, and August. Each community college shall
+21 accrue its August 2025 2026 payments to its institutional fiscal
+22 year ending June 30, 2025.2026.
+23 Sec. 207a. The following apply to the allocation of the fiscal
+24 year 2024-2025 appropriations described in section 201(4):
+25 (a) A community college that receives money under section
+26 201(4) shall use that money solely for the purpose of offsetting a
+27 portion of the retirement contributions owed by the college for
+28 that fiscal year.
+29 (b) The amount allocated to each participating community
+JHM S01519'25 (S-2) 48qn7z
+12
+1 college under section 201(4)(a) must be based on each college's
+2 percentage of the total covered payroll for all community colleges
+3 that are participating colleges in the immediately preceding fiscal
+4 year.
+5 (c) The amount allocated to each participating community
+6 college under section 201(4)(b) must be based on each college's
+7 reported quarterly payroll for members for the current fiscal year.
+8 Sec. 207b. All of the following apply to the allocation of the
+9 fiscal year 2024-2025 appropriations appropriation described in
+10 section 201(5) for payments to community colleges that are
+11 participating entities of the retirement system:
+12 (a) The amount of a payment under section 201(5) must be the
+13 difference between the unfunded actuarial accrued liability
+14 contribution rate as calculated under section 41 of the public
+15 school employees retirement act of 1979, 1980 PA 300, MCL 38.1341,
+16 as calculated without taking into account the maximum employer rate
+17 of 20.96% 15.21% included in section 41 of the public school
+18 employees retirement act of 1979, 1980 PA 300, MCL 38.1341, and the
+19 maximum employer rate of 20.96% 15.21% under section 41 of the
+20 public school employees retirement act of 1979, 1980 PA 300, MCL
+21 38.1341.
+22 (b) The amount allocated to each community college under
+23 section 201(5) must be based on each community college's percentage
+24 of the total covered payroll for all community colleges that are
+25 participating colleges in the immediately preceding fiscal year. A
+26 community college that receives funds under this subdivision shall
+27 use the funds solely for the purpose of retirement contributions
+28 under section 201(5).
+29 (c) Each participating college that receives funds under
+JHM S01519'25 (S-2) 48qn7z
+13
+1 section 201(5) shall forward an amount equal to the amount
+2 allocated under subdivision (b) to the retirement system in a form
+3 and manner determined by the retirement system.
+4 Sec. 207c. All of the following apply to the allocation of the
+5 appropriations described in section 201(6) to community colleges
+6 described in section 12(3) of the Michigan renaissance zone act,
+7 1996 PA 376, MCL 125.2692:
+8 (a) The amount allocated to each community college under
+9 section 201(6) for fiscal year 2024-2025 2025-2026 must be based on
+10 that community college's proportion of total revenue lost by
+11 community colleges as a result of the exemption of property taxes
+12 levied in 2024 2025 under the Michigan renaissance zone act, 1996
+13 PA 376, MCL 125.2681 to 125.2696.
+14 (b) The appropriations described in section 201(6) must be
+15 made to each eligible community college within 60 days after the
+16 department of treasury certifies to the state budget director that
+17 it has received all necessary information to properly determine the
+18 amounts payable to each eligible community college under section 12
+19 of the Michigan renaissance zone act, 1996 PA 376, MCL 125.2692.
+20 Sec. 210. (1) Recognizing the critical importance of education
+21 in strengthening Michigan's workforce, each community college is
+22 encouraged to shall explore ways of increasing collaboration and
+23 cooperation with 4-year universities, particularly in the areas
+24 related to training, instruction, and program articulation.
+25 (2) Recognizing the central role of community colleges in
+26 responding to local employment needs and challenges, community
+27 colleges shall develop and continue efforts to collaborate with
+28 local employers and students to identify local employment needs and
+29 strategies to meet them.
+JHM S01519'25 (S-2) 48qn7z
+14
+1 (3) Community colleges are encouraged to shall collaborate
+2 with each other on innovations to identify and meet local
+3 employment needs.
+4 (4) Community colleges are encouraged to shall work with
+5 universities to develop equivalency standards of core college
+6 courses and identify equivalent courses offered by postsecondary
+7 institutions.
+8 Sec. 210b. By March 1 of each year, the Michigan Community
+9 College Association and the Michigan Association of State
+10 Universities shall submit a report to the senate and house
+11 appropriations subcommittees on community colleges, the senate and
+12 house fiscal agencies, the department of lifelong education,
+13 advancement, and potential, and the state budget director on the
+14 activities and programs focused on improving transfer student
+15 outcomes since March 1 of the previous year, including all of the
+16 following:
+17 (a) The direct transferability of mathematics gateway courses
+18 between and among community colleges and universities.
+19 (b) The implementation of MiTransfer pathways.
+20 (c) The progress on increasing participation in MiTransfer
+21 pathways among community colleges and public universities.
+22 (d) The implementation of the Michigan Transfer Network at
+23 mitransfer.org.
+24 (e) A progress report on the implementation of the Michigan
+25 transfer agreement.
+26 Sec. 210d. (1) Community colleges are encouraged to shall work
+27 with public universities in the this state to implement statewide
+28 reverse transfer agreements to increase the number of students that
+29 are awarded credentials of value upon completion of the necessary
+JHM S01519'25 (S-2) 48qn7z
+15
+1 credits. These statewide agreements shall must enable students who
+2 have earned a significant number of credits at a community college
+3 and transferred to a baccalaureate-granting institution before
+4 completing a degree to transfer the credits earned at the
+5 baccalaureate institution back to the community college in order to
+6 be awarded a credential of value.
+7 (2) Each community college receiving an appropriation under
+8 section 201 shall consult with the department of lifelong
+9 education, advancement, and potential at least once an academic
+10 year on the policies and services the institution implements
+11 regarding transfer credits and transfer students.
+12 Sec. 216c. (1) Funds appropriated in section 201(7) for
+13 infrastructure, technology, equipment, maintenance, housing, and
+14 safety are intended to be used for necessary improvements and
+15 deferred maintenance of community college buildings, facilities,
+16 and other physical infrastructure; necessary improvements and
+17 deferred maintenance of information technology, other technology
+18 infrastructure, and other equipment; and other purposes related to
+19 infrastructure, technology, equipment, and maintenance. A community
+20 college may also use these funds to construct, renovate, or
+21 purchase student housing or to upgrade safety and security
+22 infrastructure. These funds are not intended to be used for any
+23 other purpose than what is specified in this section.
+24 (2) Subject to subsection (3), the payment for each community
+25 college under subsection (1) must be calculated as follows:
+26 (a) One third of the appropriation in section 201(7) must be
+27 allocated to each community college using the formula described in
+28 section 230(1).
+29 (b) Two thirds of the appropriation in section 201(7) must be
+JHM S01519'25 (S-2) 48qn7z
+16
+1 allocated only to community colleges that certify that the
+2 community college did not receive a capital outlay planning or
+3 construction authorization under subsection (3). Funds described in
+4 this subdivision must be allocated as follows:
+5 (i) 50% must be allocated equally to each community college
+6 receiving an allocation under this subdivision.
+7 (ii) 50% must be allocated proportionally to each community
+8 college's respective share of the total amount of operations
+9 payments described in section 201(2), for all community colleges
+10 that receive an allocation under this subdivision.
+11 (3) To receive an allocation under subsection (2)(b), a
+12 community college must certify by November 15, 2025 that it did not
+13 receive an appropriation for a planning or construction
+14 authorization for a capital outlay project between January 1, 2023
+15 and October 1, 2025. For the purpose of providing certification
+16 under this subsection, a capital outlay appropriation or
+17 authorization that adjusts only the authorized cost or scope of a
+18 previously-authorized capital outlay project does not count as a
+19 planning or construction authorization.
+20 (4) Payments to community colleges under this section must be
+21 distributed in 1 lump sum to each institution with the December 16,
+22 2025 payment described in section 206.
+23 Sec. 216e. (1) Payments under section 201 for performance
+24 funding and under section 201f for 1-time performance funding
+25 payments 216c must be made only to a community college that
+26 certifies to the state budget director by the last business day of
+27 August each year that it complies with the following:
+28 (a) The institutional best practice described in subdivision
+29 (c).
+JHM S01519'25 (S-2) 48qn7z
+17
+1 (b) One or more of the institutional best practices described
+2 in subdivisions (d) to (g).
+3 (a) (c) The community college accepts the Michigan Transfer
+4 Agreement, partners with the Michigan Transfer Network, and
+5 promotes clear transfer pathways for interested students by doing
+6 all of the following:
+7 (i) Has a policy to help transfer or accept associate degrees
+8 from other accredited Michigan postsecondary education
+9 institutions.
+10 (ii) Publishes the policy described in subparagraph (i) on the
+11 institution's website in an easily accessible way and in admissions
+12 materials.
+13 (iii) Provides publicly available information on the Michigan
+14 Transfer Network, applicable transfer pathways, and financial aid
+15 available to transfer students, at no cost to the student.
+16 (iv) Begins negotiations to increase the number of reverse
+17 transfer agreements or articulation agreements and reports on the
+18 progress toward completing the agreements to the state budget
+19 director by the last business day in February.
+20 (b) (d) The community college requires all students to receive
+21 an academic degree or certificate map that outlines required course
+22 sequencing, program and institution requirements, declared minor
+23 program academic requirements, and a recommended timeline within
+24 which courses should be taken and in which specific semester or
+25 term in order to satisfy all program requirements to allow the
+26 student to graduate on time.
+27 (c) (e) The community college provides non-credit-bearing
+28 developmental or remedial courses at a reduced cost to students.
+29 (d) (f) The community college provides each degree- or
+JHM S01519'25 (S-2) 48qn7z
+18
+1 certificate-seeking student with a designated, trained academic
+2 advisor to support student retention, persistence, and completion.
+3 The community college shall require students to meet with their
+4 academic advisor at least once per semester or term.
+5 (e) (g) The community college provides employees during
+6 business hours to assist prospective and current students in
+7 completing the Free Application for Federal Student Aid.
+8 (f) The community college has adopted a corequisite model of
+9 academic support for gateway English and mathematics courses in
+10 which a student concurrently enrolls in a developmental education
+11 course and a gateway-level course in a subject area where the
+12 student requires remediation. The community college shall ensure
+13 that not more than 10% of students assessed as being in need of
+14 developmental or remedial learning participate in a non-corequisite
+15 developmental or remedial course.
+16 (g) The community college has a policy and process for
+17 assessing prior learning and knowledge that aligns with a student's
+18 academic program and other required coursework. The policy must
+19 include the opportunity for a student to earn credit toward a
+20 degree or certificate, must be available to all students at no cost
+21 to the student, and must be easily accessible on the community
+22 college's website and in admissions materials.
+23 (2) The state budget director or designee of the director of
+24 the department of lifelong education, advancement, and potential
+25 shall implement uniform reporting requirements to ensure that a
+26 community college receiving a payment under section 201 for
+27 performance funding and under section 201f for 1-time performance
+28 funding payments 216c has satisfied the institutional best
+29 practices requirements of this section. The state budget director
+JHM S01519'25 (S-2) 48qn7z
+19
+1 or designee of the director of the department of lifelong
+2 education, advancement, and potential has the sole authority to
+3 determine if a community college has met the requirements of this
+4 section. Information reported by a community college to the state
+5 budget director or designee of the director of the department of
+6 lifelong education, advancement, and potential under this
+7 subsection must also be reported to the house and senate
+8 appropriations subcommittees on higher education and the house and
+9 senate fiscal agencies.
+10 (3) If a community college fails to comply with the
+11 certification requirements of this section, the state treasurer may
+12 withhold the monthly installments under section 206 to the
+13 community college until the certification is completed. If a
+14 community college does not comply with the certification
+15 requirements described in this section by the end of the fiscal
+16 year, the community college forfeits the amount withheld. Forfeited
+17 funds must lapse to the state school aid fund. The state budget
+18 director or designee of the director of the department of lifelong
+19 education, advancement, and potential shall notify the chairs of
+20 the house and senate appropriations subcommittees on higher
+21 education at least 10 days before withholding funds from any
+22 community college.
+23 Sec. 217a. (1) Each community college that receives an
+24 appropriation in section 201 shall submit all of the following
+25 information in the form and manner specified by the center:
+26 (a) The Michigan community colleges verified data inventory
+27 data for the preceding academic year to the center by the first
+28 business day of November of each year as specified in section 217.
+29 (b) Tuition and mandatory fees information as specified in
+JHM S01519'25 (S-2) 48qn7z
+20
+1 section 217b.
+2 (c) The longitudinal data set to the center as specified in
+3 section 219.
+4 (d) The number and type of associate degrees, baccalaureate
+5 degrees, and other certificates awarded as specified in section
+6 219.
+7 (e) The annual independent audit as specified in section 222.
+8 (2) If the state budget director determines that a community
+9 college failed to submit any of the information described in
+10 subsection (1) in the form and manner specified by the center, the
+11 state treasurer may withhold the monthly state operations
+12 installments described in section 206 201 from that community
+13 college until those data are submitted. If a community college does
+14 not submit any of the information described in subsection (1) by
+15 the end of the fiscal year, the community college forfeits any
+16 withheld amount. The state budget director shall notify the chairs
+17 of the house and senate appropriations subcommittees on community
+18 colleges at least 10 days before withholding funds from any
+19 community college.
+20 (3) It is intended that accountability reporting for community
+21 colleges will be streamlined through the center. The state budget
+22 director and the center shall work to combine the reporting
+23 requirements outlined in this subsection with the existing Michigan
+24 community colleges verified data inventory collection cycle. All of
+25 the following must be reported to the house and senate fiscal
+26 agencies and the state budget director:
+27 (a) Each community college's certification of its compliance
+28 with the requirements described in subsections (4) and (5).
+29 (b) The reporting and certification requirements of
+JHM S01519'25 (S-2) 48qn7z
+21
+1 subsections (6) and (7) and section 217b.
+2 (4) No later than the first business day of November of each
+3 year, each community college that receives an appropriation in
+4 section 201 shall make all of the information described in
+5 subdivisions (a) to (g) available through a link on its website
+6 homepage, subject to subdivision (h), as follows:
+7 (a) The annual operating budget and subsequent budget
+8 revisions.
+9 (b) A link to the most recent "Michigan Community College Data
+10 Inventory Report".
+11 (c) General fund revenue and expenditure projections for the
+12 current fiscal year and the next fiscal year.
+13 (d) A listing of all debt service obligations, detailed by
+14 project, anticipated payment of each project, and total outstanding
+15 debt for the current fiscal year.
+16 (e) Links to all of the following for the community college:
+17 (i) The current collective bargaining agreement for each
+18 bargaining unit.
+19 (ii) Each health care benefits plan, including, but not limited
+20 to, medical, dental, vision, disability, long-term care, or any
+21 other type of benefits that would constitute health care services,
+22 offered to any bargaining unit or employee of the community
+23 college.
+24 (iii) Audits and financial reports for the most recent fiscal
+25 year for which they are available.
+26 (iv) A copy of the board of trustees resolution regarding
+27 compliance with best practices for the local strategic value
+28 component described in section 230(2).
+29 (f) A map that includes the boundaries of the community
+JHM S01519'25 (S-2) 48qn7z
+22
+1 college district.
+2 (g) A prominent link to the financial aid website created
+3 under section 260.
+4 (h) For statewide consistency and public visibility, community
+5 colleges shall use the icon badge provided by the department of
+6 technology, management, and budget consistent with the icon badge
+7 developed by the department of education for K-12 school districts.
+8 It must appear on the front of each community college's homepage.
+9 The size of the icon may be reduced to 150 x 150 pixels.
+10 (5) No later than the first business day of November of each
+11 year, each community college that receives an appropriation in
+12 section 201 shall develop, maintain, and update a "campus safety
+13 information and resources" link, prominently displayed on the
+14 homepage of its website, that links to a section of the community
+15 college's website containing, at a minimum, all of the following
+16 information:
+17 (a) Emergency contact numbers for police, fire, health, and
+18 other services.
+19 (b) Hours, locations, telephone numbers, and email contacts
+20 for campus public safety offices and title IX offices.
+21 (c) A list of safety and security services provided by the
+22 community college, including transportation, escort services,
+23 building surveillance, anonymous tip lines, and other available
+24 security services.
+25 (d) The community college's policies applicable to minors on
+26 community college property.
+27 (e) A directory of resources available at the community
+28 college or in the surrounding community for students or employees
+29 who are survivors of sexual assault or sexual abuse.
+JHM S01519'25 (S-2) 48qn7z
+23
+1 (f) An electronic copy of "A Resource Handbook for Campus
+2 Sexual Assault Survivors, Friends and Family", published in 2018.
+3 (g) Campus security policies and crime statistics pursuant to
+4 the student right-to-know and campus security act, Public Law 101-
+5 542, 104 Stat 2381. Information must include all material prepared
+6 pursuant to the public information reporting requirements under the
+7 crime awareness and campus security act of 1990, title II of the
+8 student right-to-know and campus security act, Public Law 101-542,
+9 104 Stat 2381.
+10 (6) No later than the first business day of November of each
+11 year, each community college that receives an appropriation in
+12 section 201 shall report to the house and senate appropriations
+13 subcommittees on community colleges, the house and senate fiscal
+14 agencies, and the state budget director its annual title IX report,
+15 also known as the student sexual misconduct report, issued by the
+16 title IX coordinator, as required under the federal campus SaVE act
+17 of 2013, Public Law 113-4, section 304, 127 Stat 54, 89-92 (2013).
+18 (7) No later than the first business day of November of each
+19 year, each community college that receives an appropriation in
+20 section 201 shall certify that the community college complies with
+21 federal regulations under title IX, as required by the United
+22 States Department of Education, including, but not limited to, the
+23 following:
+24 (a) Use of medical experts that do not have an actual or
+25 apparent conflict of interest.
+26 (b) Issuance of title IX reports to complainants and
+27 respondents that are not divergent.
+28 (c) Notification of resources to each individual who reports
+29 having experienced sexual assault by a member of the community
+JHM S01519'25 (S-2) 48qn7z
+24
+1 college.
+2 Sec. 217b. (1) Each community college that receives an
+3 appropriation in section 201 shall report to the center by the last
+4 business day of August of each year the tuition and mandatory fees
+5 paid by a full-time in-district student and a full-time out-of-
+6 district student as established by the community college governing
+7 board for the current academic year. This report should also
+8 include the annual cost of tuition and fees based on a full-time
+9 course load of 30 credits. This report must also specify the amount
+10 that tuition and fees have increased for the community college from
+11 the prior academic year. Each community college shall also report
+12 any revisions to the reported current academic year tuition and
+13 mandatory fees adopted by the community college governing board to
+14 the center within 15 days of being adopted. The center shall
+15 provide this information and any revisions to the house and senate
+16 fiscal agencies and the state budget director.
+17 (2) Each community college that receives an appropriation in
+18 section 201 shall certify to the state budget director by the last
+19 business day of August of each year that its board will not adopt
+20 an increase in tuition and fee rates for in-district students for
+21 the academic year that is greater than the tuition restraint
+22 described in this subsection. For the academic year 2024-2025,
+23 2025-2026, the tuition restraint level is equal to the greater of
+24 4.5% or $217.00. $227.00. For the academic year 2025-2026, 2026-
+25 2027, the tuition restraint level is equal to the greater of 4.5%
+26 3.5% or $227.00. $174.00. It is intended that in the next fiscal
+27 year, the tuition restraint rate will be adjusted only for the
+28 subsequent academic year. As used in this subsection:
+29 (a) "Fee" means any board-authorized fee that will be paid by
+JHM S01519'25 (S-2) 48qn7z
+25
+1 more than 1/2 of all in-district students at least once during
+2 their enrollment at a community college. A community college
+3 increasing a fee that applies to a specific subset of students or
+4 courses shall provide sufficient information to prove that the
+5 increase applied to that subset will not cause the increase in the
+6 average amount of board-authorized total tuition and fees paid by
+7 in-district students in the 2024-2025 academic year to exceed the
+8 limit established in this section.
+9 (b) "Tuition and fee rate" means the average of full-time
+10 rates paid by a majority of students in each class, based on an
+11 unweighted average of the rates authorized by the community college
+12 board and actually charged to students, deducting any uniformly
+13 rebated or refunded amounts, for the 2 semesters with the highest
+14 levels of full-time equated in-district enrollment during the
+15 academic year.
+16 (3) Community colleges that exceed the tuition and fee rate
+17 cap described in subsection (2) are not eligible to receive
+18 payments under section 201 for performance funding or payments
+19 under section 201f for 1-time performance funding payments 216c for
+20 fiscal year 2024-2025.2025-2026. The state budget director shall
+21 implement uniform reporting requirements to ensure that a community
+22 college receiving a payment under section 201 for performance
+23 funding has satisfied the tuition restraint requirements of this
+24 section. The state budget director has the sole authority to
+25 determine if a community college has met the requirements of this
+26 section. Information reported by a community college to the state
+27 budget director under this subsection must also be reported to the
+28 house and senate appropriations subcommittees on community colleges
+29 and the house and senate fiscal agencies.
+JHM S01519'25 (S-2) 48qn7z
+26
+1 (4) Notwithstanding any other provision of this act, the
+2 legislature may at any time adjust appropriations for a community
+3 college that adopts an increase in tuition and fee rates for in-
+4 district students that exceeds the rate cap established in
+5 subsection (2).
+6 Sec. 217c. (1) Not later than December 1 of each year, each
+7 community college or federally recognized tribal college that, in
+8 the current or previous academic year, serves or has served as an
+9 authorizing body shall submit a report to the house and senate
+10 appropriations subcommittees on higher education, the house and
+11 senate fiscal agencies, the state budget director, and the
+12 department of education containing, at a minimum, all of the
+13 following information, as applicable:
+14 (a) A list of all of the schools currently authorized, and the
+15 following information for each school:
+16 (i) The year in which the school was authorized.
+17 (ii) The location of each school.
+18 (iii) The owner of the property at which each school is located
+19 and the physical buildings utilized by the school, as applicable.
+20 (b) A list identifying any schools that were closed or lost
+21 their authorization in the current or previous academic year.
+22 (c) A description of any new contracts for the operation of a
+23 public school academy that will operate as the successor to a
+24 public school academy that is currently being operated under a
+25 contract issued by another authorizing body that is currently
+26 performing in the bottom 5% of schools.
+27 (d) The academic performance of each school currently
+28 authorized, including whether a school is identified by the
+29 department of education as a partnership school. If a school is
+JHM S01519'25 (S-2) 48qn7z
+27
+1 identified as a partnership school under this subdivision, the
+2 authorizing body must shall include a description of corrective
+3 actions in the school's partnership agreement, the duration of the
+4 partnership agreement, and an assessment of progress toward
+5 improvement.
+6 (e) The total enrollment of each school at the time of
+7 submission, the grades served, and student turnover rate compared
+8 to the previous academic year, as applicable.
+9 (f) Aggregated student enrollment data for students with an
+10 individualized education program as well as the total amount of
+11 special education cost reimbursements received by each school
+12 during the school's most recently completed fiscal year.
+13 (g) The total number of fees, reimbursements, contributions,
+14 or charges permitted under section 502(6) of the revised school
+15 code, 1976 PA 451, MCL 380.502, that are assigned to each school
+16 currently authorized in a single academic year.
+17 (h) The names of the members of the board of directors of each
+18 school currently authorized, the date that each member of each
+19 board was appointed, and a description of the methodology used by
+20 the authorizing body to select members for the boards of directors
+21 for each school currently authorized by the authorizing body.
+22 (i) The name of the applicant who applied and received
+23 approval to organize each currently authorized school.
+24 (j) The list of contracts and length of their terms, with
+25 education service providers associated with each school currently
+26 authorized pursuant to section 502 of the revised school code, 1976
+27 PA 451, MCL 380.502, as applicable. The contracts described in this
+28 subdivision include, but are not limited to, those described in
+29 section 502(2)(d) of the revised school code, 1 1976 PA 451, MCL
+JHM S01519'25 (S-2) 48qn7z
+28
+1 380.502.
+2 (k) Activities undertaken by each authorizing body to ensure
+3 that the board of directors of each school complies with the open
+4 meetings act, 1976 PA 267, MCL 15.261 to 15.275, the freedom of
+5 information act, 1976 PA 442, MCL 15.231 to 15.246, and laws
+6 prohibiting conflicts of interest.
+7 (l) A description of the activities undertaken by the
+8 authorizing body to meet the functions of an authorizing body under
+9 section 502 of the revised school code, 1976 PA 451, MCL 380.502,
+10 as applicable.
+11 (m) A financial report of the authorizing body's use of fees,
+12 reimbursements, contributions, or charges collected or retained
+13 under section 502(6) of the revised school code, 1976 PA 451, MCL
+14 380.502. This report must include all of the following, at a
+15 minimum:
+16 (i) The total amount of fees collected or retained under
+17 section 502(6) of the revised school code, 1976 PA 451, MCL
+18 380.502, by the authorizing body for the authorizing body's most
+19 recent fiscal year.
+20 (ii) The amount of funds reported under subparagraph (i) that
+21 were spent on compensation for faculty and staff employed primarily
+22 to meet the functions of an authorizing body. For the purpose of
+23 this subparagraph, an employee is presumed to be primarily employed
+24 to meet the functions of an authorizing body if that employee
+25 spends more than 50% of the employee's time on those activities.
+26 (iii) The number of positions, organized by job title,
+27 associated with expenditures reported under subparagraph (ii).
+28 (iv) The amount of funds reported under subparagraph (i) that
+29 were spent on contractual services to meet the functions of an
+JHM S01519'25 (S-2) 48qn7z
+29
+1 authorizing body.
+2 (v) The amount of funds reported under subparagraph (i) that
+3 were spent on other overhead costs to meet the functions of an
+4 authorizing body.
+5 (vi) The amount of funds reported under subparagraph (i) that
+6 were transferred to another operating unit within the community
+7 college or federally recognized tribal college.
+8 (vii) The amount of funds reported under subparagraph (i) that
+9 were spent on activities other than functioning as an authorizing
+10 body, including a list of those activities and the amount
+11 associated with each activity.
+12 (n) An executive summary section that provides relevant
+13 summary data for reporting requirements under subdivisions (a) to
+14 (m).
+15 (2) A report submitted under this section must be in a format
+16 that meets accessibility standards for viewing on the internet
+17 under the Americans with disabilities act of 1990, Public Law 101-
+18 336.
+19 (3) A report submitted under this section must be published
+20 and updated through a link on the homepage of the institution's
+21 website.
+22 (4) In addition to the reporting requirements under this
+23 section, each authorizing body that receives an appropriation under
+24 section 201 shall adopt a facilities policy ensuring that any
+25 structures or other property vacated by a public school academy
+26 that ceases operation not contribute to blight in the surrounding
+27 neighborhood or community in which the school had previously
+28 operated.
+29 (5) (4) As used in this section, "authorizing body" means that
+JHM S01519'25 (S-2) 48qn7z
+30
+1 term as defined in section 501 of the revised school code, 1976 PA
+2 451, MCL 380.501.
+3 Sec. 217d. (1) By December 31, 2025, each community college
+4 that receives an appropriation under section 201 must produce a
+5 report detailing any increases, decreases, or other substantive
+6 changes to diversity, equity, and inclusion programs made after
+7 January 1, 2025.
+8 (2) If the report described in subsection (1) documents a
+9 change that could reduce access to a diversity, equity, or
+10 inclusion program for that university's students or employees, the
+11 community college shall also report other efforts, programs, or
+12 resources that the community college provides that would serve to
+13 mitigate any negative consequences associated with the documented
+14 program reduction.
+15 Sec. 217e. Not later than December 1 of each year, each
+16 community college that receives an appropriation in section 201
+17 shall provide a report to the house and senate appropriations
+18 subcommittees on higher education, the house and senate fiscal
+19 agencies, and the state budget director providing an itemized cost
+20 of attendance for full-time students attending that community
+21 college for the current and previous 2 academic years.
+22 Sec. 217f. (1) Subject to subsection (2), the state treasurer
+23 shall reduce payments made under section 254 for any community
+24 college that is an authorizing body by an amount equal to the
+25 difference between the amount reported in section 217c(1)(m)(i)
+26 during the previous fiscal year and 1% times the total state school
+27 aid received by all public school academies authorized by the
+28 authorizing body during that fiscal year. The state treasurer may
+29 coordinate with the state budget office or any other state
+JHM S01519'25 (S-2) 48qn7z
+31
+1 department or agency to administer this section.
+2 (2) If the calculation in subsection (1) would result in a net
+3 payment under section 254 that is a negative number, the payment
+4 under section 254 must be $0.00.
+5 (3) As used in this section:
+6 (a) "Authorizing body" means that term as defined in section
+7 501 of the revised school code, 1976 PA 451, MCL 380.501.
+8 (b) "Total state school aid" means that term as used in
+9 section 502 of the revised school code, 1976 PA 451, MCL 380.502.
+10 Sec. 222. Each community college shall have an annual audit of
+11 all income and expenditures performed by an independent auditor and
+12 shall furnish the independent auditor's management letter and an
+13 annual audited accounting of all general and current funds income
+14 and expenditures including audits of college foundations to the
+15 center before November 15 of each year. The center shall provide
+16 this information to members of the senate and house appropriations
+17 subcommittees on community colleges, the senate and house fiscal
+18 agencies, the auditor general, the department of labor and economic
+19 opportunity, the department of lifelong education, advancement, and
+20 potential, and the state budget director. If a community college
+21 fails to furnish the audit materials, the monthly state aid
+22 operations installments must be withheld from that college until
+23 the information is submitted. All reporting must conform to the
+24 requirements set forth in the "2001 Manual for Uniform Financial
+25 Reporting, Michigan Public Community Colleges". A community college
+26 shall make the information the community college is required to
+27 provide under this section available to the public on its website.
+28 Sec. 229a. Included in the fiscal year 2024-2025 2025-2026
+29 appropriations for the department of technology, management, and
+JHM S01519'25 (S-2) 48qn7z
+32
+1 budget are appropriations totaling $33,481,600.00 $38,032,600.00 to
+2 provide funding for the state share of costs for previously
+3 constructed capital projects for community colleges. Those
+4 appropriations for state building authority rent represent
+5 additional state general fund support for community colleges, and
+6 the following is an estimate of the amount of that support to each
+7 community college:
+8 (a) Alpena Community College, $858,200.00.$855,000.00.
+9 (b) Bay de Noc Community College, $516,900.00.$515,000.00.
+10 (c) Delta College, $2,696,900.00.$2,881,100.00.
+11 (d) Glen Oaks Community College, $381,400.00.$380,000.00.
+12 (e) Gogebic Community College, $56,200.00.$56,000.00.
+13 (f) Grand Rapids Community College,
+14 $1,090,000.00.$2,346,000.00.
+15 (g) Henry Ford College, $1,570,600.00.$1,505,000.00.
+16 (h) Jackson College, $2,051,500.00.$2,044,000.00.
+17 (i) Kalamazoo Valley Community College,
+18 $1,949,100.00.$1,942,000.00.
+19 (j) Kellogg Community College, $681,500.00.$679,000.00.
+20 (k) Kirtland Community College, $225,800.00.$225,000.00.
+21 (l) Lake Michigan College, $969,600.00.$966,000.00.
+22 (m) Lansing Community College, $759,800.00.$757,000.00.
+23 (n) Macomb Community College, $2,847,000.00.$4,682,200.00.
+24 (o) Mid Michigan Community College,
+25 $1,620,900.00.$1,615,000.00.
+26 (p) Monroe County Community College,
+27 $1,545,700.00.$1,540,000.00.
+28 (q) Montcalm Community College, $447,600.00.$446,000.00.
+29 (r) C.S. Mott Community College, $2,110,700.00.$3,103,000.00.
+JHM S01519'25 (S-2) 48qn7z
+33
+1 (s) Muskegon Community College, $985,600.00.$982,000.00.
+2 (t) North Central Michigan College, $648,400.00.$646,000.00.
+3 (u) Northwestern Michigan College,
+4 $1,793,600.00.$1,787,000.00.
+5 (v) Oakland Community College, $0.00.
+6 (w) Schoolcraft College, $2,240,200.00.$2,232,000.00.
+7 (x) Southwestern Michigan College, $825,500.00.$822,500.00.
+8 (y) St. Clair County Community College,
+9 $720,600.00.$718,000.00.
+10 (z) Washtenaw Community College, $1,682,300.00.$1,676,000.00.
+11 (aa) Wayne County Community College,
+12 $1,467,500.00.$1,895,800.00.
+13 (bb) West Shore Community College, $738,500.00.$736,000.00.
+14 Sec. 230. (1) Subject to subsection (4), money included in the
+15 appropriations for community college operations under section
+16 201(2) for performance funding and allocated under section 201f for
+17 1-time performance funding payments 216(2)(a) is distributed based
+18 on the following formula:
+19 (a) Allocated proportionate to fiscal year 2023-2024 2024-2025
+20 base appropriations, 30%.
+21 (b) Based on a weighted student contact hour formula as
+22 provided for in the 2016 recommendations of the performance
+23 indicators task force, 30%.
+24 (c) Based on the performance improvement as provided for in
+25 the 2016 recommendations of the performance indicators task force
+26 and based on data provided by the center, 10%.
+27 (d) Based on the performance completion number as provided for
+28 in the 2016 recommendations of the performance indicators task
+29 force, 10%.
+JHM S01519'25 (S-2) 48qn7z
+34
+1 (e) Based on the performance completion rate as provided for
+2 in the 2016 recommendations of the performance indicators task
+3 force and based on data provided by the center, 10%.
+4 (f) Based on administrative costs, 5%.
+5 (g) Based on the local strategic value component, as developed
+6 in cooperation with the Michigan Community College Association and
+7 described in subsection (2), 5%.
+8 (2) Money included in the appropriations for community college
+9 operations under section 201(2) for local strategic value is
+10 allocated only to each community college that certifies to the
+11 state budget director, through a board of trustees resolution on or
+12 before October 15, 2024, 2025, that the college has met 4 out of 5
+13 best practices listed in each category described in subsection (3).
+14 The resolution must provide specifics as to how the community
+15 college meets each best practice measure within each category. One-
+16 third of funding available under the strategic value component is
+17 allocated to each category described in subsection (3). Amounts
+18 distributed under local strategic value must be on a proportionate
+19 basis to each college's fiscal year 2023-2024 2024-2025 operations
+20 funding. Payments to community colleges that qualify for local
+21 strategic value funding must be distributed with the November
+22 installment payment described in section 206.
+23 (3) For purposes of subsection (2), the following categories
+24 of best practices reflect functional activities of community
+25 colleges that have strategic value to the local communities and
+26 regional economies:
+27 (a) For Category A, economic development and business or
+28 industry partnerships, the following:
+29 (i) The community college has active partnerships with local
+JHM S01519'25 (S-2) 48qn7z
+35
+1 employers including hospitals and health care providers.
+2 (ii) The community college provides customized on-site training
+3 for area companies, employees, or both.
+4 (iii) The community college supports entrepreneurship through a
+5 small business assistance center or other training or consulting
+6 activities targeted toward small businesses.
+7 (iv) The community college supports technological advancement
+8 through industry partnerships, incubation activities, or operation
+9 of a Michigan technical education center or other advanced
+10 technology center.
+11 (v) The community college has active partnerships with local
+12 or regional workforce and economic development agencies.
+13 (b) For Category B, educational partnerships, the following:
+14 (i) The community college has active partnerships with regional
+15 high schools, intermediate school districts, and career-tech
+16 centers to provide instruction through dual enrollment, concurrent
+17 enrollment, direct credit, middle college, or academy programs.
+18 (ii) The community college hosts, sponsors, or participates in
+19 enrichment programs for area K-12 students, such as college days,
+20 summer or after-school programming, or Science Olympiad.
+21 (iii) The community college provides, supports, or participates
+22 in programming to promote successful transitions to college for
+23 traditional age students, including grant programs such as talent
+24 search, upward bound, or other activities to promote college
+25 readiness in area high schools and community centers.
+26 (iv) The community college provides, supports, or participates
+27 in programming to promote successful transitions to college for new
+28 or reentering adult students, such as adult basic education, a high
+29 school equivalency test preparation program and testing, or
+JHM S01519'25 (S-2) 48qn7z
+36
+1 recruiting, advising, or orientation activities specific to adults.
+2 As used in this subparagraph, "high school equivalency test
+3 preparation program" means that term as defined in section 4.
+4 (v) The community college has active partnerships with
+5 regional 4-year colleges and universities to promote successful
+6 transfer, such as articulation, 2+2, or reverse transfer agreements
+7 or operation of a university center.
+8 (c) For Category C, community services, the following:
+9 (i) The community college provides continuing education
+10 programming for leisure, wellness, personal enrichment, or
+11 professional development.
+12 (ii) The community college operates or sponsors opportunities
+13 for community members to engage in activities that promote leisure,
+14 wellness, cultural or personal enrichment such as community sports
+15 teams, theater or musical ensembles, or artist guilds.
+16 (iii) The community college operates public facilities to
+17 promote cultural, educational, or personal enrichment for community
+18 members, such as libraries, computer labs, performing arts centers,
+19 museums, art galleries, or television or radio stations.
+20 (iv) The community college operates public facilities to
+21 promote leisure or wellness activities for community members,
+22 including gymnasiums, athletic fields, tennis courts, fitness
+23 centers, hiking or biking trails, or natural areas.
+24 (v) The community college promotes, sponsors, or hosts
+25 community service activities for students, staff, or community
+26 members.
+27 (4) Payments for performance funding under section 201(2) and
+28 for 1-time performance funding payments under section 201f 216c
+29 must be made to a community college only if that community college
+JHM S01519'25 (S-2) 48qn7z
+37
+1 actively participates in the Michigan Transfer Network sponsored by
+2 the Michigan Association of Collegiate Registrars and Admissions
+3 Officers and submits timely updates, including updated course
+4 equivalencies at least every 6 months, to the Michigan Transfer
+5 Network. The state budget director shall determine if a community
+6 college has not satisfied this requirement. The state budget
+7 director may withhold payments for performance funding and 1-time
+8 performance funding payments under section 216c until a community
+9 college is in compliance with this subsection.
+10 Enacting section 1. In accordance with section 30 of article
+11 IX of the state constitution of 1963, total state spending from
+12 state sources for community colleges for fiscal year 2025-2026
+13 under article II of the state school aid act of 1979, 1979 PA 94,
+14 MCL 388.1801 to 388.1830, as amended by this amendatory act, is
+15 estimated at $506,504,600.00 and the amount of that state spending
+16 from state sources to be paid to local units of government for
+17 fiscal year 2025-2026 is estimated at $506,504,600.00.
+18 Enacting section 2. Sections 201f and 201h of the state school
+19 aid act of 1979, 1979 PA 94, MCL 388.1801f and 388.1801h, are
+20 repealed effective October 1, 2025.
+21 Enacting section 3. This amendatory act takes effect October
+22 1, 2025.
+Final Page
+JHM S01519'25 (S-2) 48qn7z
+[DELETED:   S 4]
+[DELETED:   S 4 S a c f sn  ( A i g. ( i () () () () $. () $. ( c a ( $ p N  (]
+[DELETED:   S 4 $ p N  ( $ a t  ( $ p N  ( $ p N  ( $ p N]
+[DELETED:   S 4  ( $ p N  ( $ a t  ( i p N  ( $ p N  ( $ p N]
+[DELETED:   S 4  () $ p N  ( $ p N  ( $ p N  ( $ p N  ( $]
+[DELETED:   S 4 p N  ( $ p N  ( $ p N  ( $ p N  ( $ p N ]
+[DELETED:   S 4 ( $ p N  ( $ p N  ( $ p N  ( $ p N  ( i p N]
+[DELETED:   S 4  ( $ p N  ( $ p N  ( $ p N  ( c a a ( o ( f t 2 r a]
+[DELETED:   S 4 ( t a f t s s o ( s c r a f ( s z s t f. ( f o ( f $ i a p m e n r a]
+[DELETED:   S 4 t y a s 3 ( o a t i s p t i p s  ( o a i C  S n us h, cs  sh, bm ts h, M c g M t]
+[DELETED:   S 4  S 2 f a s i b E c p i. ( a 3 a c N a p y. S y ( 2 p t (]
+[DELETED:   S 4 c p t y ( c r S f d s p ( d c s a o i e m u p 3 ( s o p c u u (]
+[DELETED:   S 4 s a a S a d 1 ( s m t c l u P ( m d i a o S i e e c r ( r c l s]
+[DELETED:   S 4 ( c w e ( w u c i S C U a h a a o f ( b ( ( p ( m ( t S C w s w s r a]
+[DELETED:   S 4 c e h a c b b]
+[DELETED:   S 4))  S f p m c A ( (]
+[DELETED:   S 4 ( i ( A p a () f i ()()i i m () T a () t p d ( a s p w t s ( d (]
+[DELETED:   S 4 c a T a ( b c  ( s c p f h p]
+[DELETED:   S 4 h d s b u s a s ( c w c c r y f d s t e c S a i ( d b (]
+[DELETED:   S 4 s ( s ( d 2 ( ( c s s i f c n t w o c c ( c d r c t a ( w (]
+[DELETED:   S 4 s ( y s s h ( r ( I ( c ( p d ( () b () t o o c () y () c c (]
+[DELETED:   S 4 c ( u ( c t d I T ( y s i h c i ( o ( f ( c b s ( c ( c w]
+[DELETED:   S 4 ( S ( t 5 p c s 1 ( y s s a a t o ( y s f S f ( a ( r ( h]
+[DELETED:   S 4 c S a b p d b i c t t a m t p f ( s b a t d t 4 F 2 t $ o I y s (]
+[DELETED:   S 4 m t i c i a i l ( r u b r l a ( c p u f f ]
+[DELETED:   S 4 ( l c d s S c t a a s d f ( f () () () a ( t ( p p c p ( a d]
+[DELETED:   S 4 i a i a p i ( s t ( i s d ( o c c ( s b t f ( a ( e a P s s]
+[DELETED:   S 4 3 ( t m i p () a s a ( r u 3 m () s 3 r ()()i w t t t s () a() ()()v w]
+[DELETED:   S 4 a ()() w a ()()i w c ()()i w b a ( s ( ( t u 3 ( a w  (]
+[DELETED:   S 4 t 4()]
+[DELETED:   S 4  S a s a a c t s a o p f i t r R s p S a]
+[DELETED:   S 4 b t p c a a t c (. (. (. (. (. ( $. (. (. ( $. (. (. (). (. (. ( $. ( $. (. (.]
+[DELETED:   S 4 (. (. ( $. ( (. (. ( $. (. ( $. (. S a 2 u 1 i o ( b ( p i ( t a ( i f]
+[DELETED:   S 4 ( i f ( ( i d ( o a s b t b T c t a d b o f s i ( o c r ( i ()]
+[DELETED:   S 4 e () f () s a () t o t () o ( () h c e () e s () i t s r () i o s]
+[DELETED:   S 4 r A p () r t o ( () p p () f w t () p m m () p i c () c m ( f m]
+[DELETED:   S 4 a t O e N c d p u c E I s u M e f f E a r E 1]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 168
+A bill to amend 1979 PA 94, entitled
+"The state school aid act of 1979,"
+by amending sections 201, 204, 206, 207a, 207b, 207c, 210, 210b,
+210d, 216e, 217a, 217b, 217c, 222, 229a, and 230 (MCL 388.1801,
+388.1804, 388.1806, 388.1807a, 388.1807b, 388.1807c, 388.1810,
+388.1810b, 388.1810d, 388.1816e, 388.1817a, 388.1817b, 388.1817c,
+388.1822, 388.1829a, and 388.1830), sections 201, 206, 207a, 207b,
+207c, 217b, 222, 229a, and 230 as amended and sections 216e and
+217c as added by 2024 PA 120, section 204 as amended by 2012 PA
+201, section 210 as amended and section 210d as added by 2015 PA
+85, section 210b as amended by 2021 PA 86, and section 217a as
+added by 2023 PA 103, and by adding sections 216c, 217d, 217e, and
+217f; and to repeal acts and parts of acts.
+JHM S01519'25 (S-2) 48qn7z
+
+2
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 201. (1) Subject to the conditions set forth in this
+2 article, the amounts listed in this section are appropriated for
+3 community colleges for the fiscal year ending September 30, 2025,
+4 2026, from the funds indicated in this section. The following is a
+5 summary of the appropriations in this section: and section 201f:
+6 (a) The gross appropriation is $462,220,800.00.
+7 $506,504,600.00. After deducting total interdepartmental grants and
+8 intradepartmental transfers in the amount of $0.00, the adjusted
+9 gross appropriation is $462,220,800.00.$506,504,600.00.
+10 (b) The sources of the adjusted gross appropriation described
+11 in subdivision (a) are as follows:
+12 (i) Total federal revenues, $0.00.
+13 (ii) Total local revenues, $0.00.
+14 (iii) Total private revenues, $0.00.
+15 (iv) Total other state restricted revenues,
+16 $461,720,800.00.$506,504,600.00.
+17 (v) State general fund/general purpose money,
+18 $500,000.00.$0.00.
+19 (2) Subject to subsection (3), the amount appropriated for
+20 community college operations is $363,363,500.00, $374,543,100.00,
+21 allocated as follows:
+22 (a) The appropriation for Alpena Community College is
+23 $6,425,100.00, $6,300,600.00 for operations, $102,700.00 for
+24 performance funding, and $21,800.00 for costs incurred under the
+25 North American Indian tuition waiver.$6,688,000.00, $6,403,300.00
+26 for operations, $271,200.00 for performance funding, and $13,500.00
+27 for costs incurred under the North American Indian tuition waiver.
+28 (b) The appropriation for Bay de Noc Community College is
+JHM S01519'25 (S-2) 48qn7z
+
+3
+1 $6,398,000.00, $6,185,300.00 for operations, $112,700.00 for
+2 performance funding, and $100,000.00 for costs incurred under the
+3 North American Indian tuition waiver.$6,568,200.00, $6,298,000.00
+4 for operations, $178,200.00 for performance funding, and $92,000.00
+5 for costs incurred under the North American Indian tuition waiver.
+6 (c) The appropriation for Delta College is $16,907,200.00,
+7 $16,642,300.00 for operations, $240,100.00 for performance funding,
+8 and $24,800.00 for costs incurred under the North American Indian
+9 tuition waiver.$17,427,500.00, $16,882,400.00 for operations,
+10 $493,300.00 for performance funding, and $51,800.00 for costs
+11 incurred under the North American Indian tuition waiver.
+12 (d) The appropriation for Glen Oaks Community College is
+13 $2,985,900.00, $2,939,000.00 for operations, $45,100.00 for
+14 performance funding, and $1,800.00 for costs incurred under the
+15 North American Indian tuition waiver.$3,078,200.00, $2,984,100.00
+16 for operations, $91,200.00 for performance funding, and $2,900.00
+17 for costs incurred under the North American Indian tuition waiver.
+18 (e) The appropriation for Gogebic Community College is
+19 $5,447,400.00, $5,329,700.00 for operations, $69,300.00 for
+20 performance funding, and $48,400.00 for costs incurred under the
+21 North American Indian tuition waiver.$5,578,600.00, $5,399,000.00
+22 for operations, $139,500.00 for performance funding, and $40,100.00
+23 for costs incurred under the North American Indian tuition waiver.
+24 (f) The appropriation for Grand Rapids Community College is
+25 $21,295,300.00, $20,844,400.00 for operations, $339,800.00 for
+26 performance funding, and $111,100.00 for costs incurred under the
+27 North American Indian tuition waiver.$22,022,800.00, $21,184,200.00
+28 for operations, $685,500.00 for performance funding, and
+29 $153,100.00 for costs incurred under the North American Indian
+JHM S01519'25 (S-2) 48qn7z
+
+4
+1 tuition waiver.
+2 (g) The appropriation for Henry Ford College is
+3 $25,307,100.00, $24,929,800.00 for operations, $370,900.00 for
+4 performance funding, and $6,400.00 for costs incurred under the
+5 North American Indian tuition waiver.$26,056,100.00, $25,300,700.00
+6 for operations, $750,900.00 for performance funding, and $4,500.00
+7 for costs incurred under the North American Indian tuition waiver.
+8 (h) The appropriation for Jackson College is $14,074,900.00,
+9 $13,854,100.00 for operations, $178,500.00 for performance funding,
+10 and $42,300.00 for costs incurred under the North American Indian
+11 tuition waiver.$14,424,500.00, $14,032,600.00 for operations,
+12 $364,800.00 for performance funding, and $27,100.00 for costs
+13 incurred under the North American Indian tuition waiver.
+14 (i) The appropriation for Kalamazoo Valley Community College
+15 is $14,741,600.00, $14,481,900.00 for operations, $222,500.00 for
+16 performance funding, and $37,200.00 for costs incurred under the
+17 North American Indian tuition waiver.$15,185,000.00, $14,704,400.00
+18 for operations, $433,700.00 for performance funding, and $46,900.00
+19 for costs incurred under the North American Indian tuition waiver.
+20 (j) The appropriation for Kellogg Community College is
+21 $11,462,100.00, $11,269,200.00 for operations, $157,500.00 for
+22 performance funding, and $35,400.00 for costs incurred under the
+23 North American Indian tuition waiver.$11,777,800.00, $11,426,700.00
+24 for operations, $324,400.00 for performance funding, and $26,700.00
+25 for costs incurred under the North American Indian tuition waiver.
+26 (k) The appropriation for Kirtland Community College is
+27 $3,860,900.00, $3,773,100.00 for operations, $62,000.00 for
+28 performance funding, and $25,800.00 for costs incurred under the
+29 North American Indian tuition waiver.$4,027,800.00, $3,835,100.00
+JHM S01519'25 (S-2) 48qn7z
+
+5
+1 for operations, $146,400.00 for performance funding, and $46,300.00
+2 for costs incurred under the North American Indian tuition waiver.
+3 (l) The appropriation for Lake Michigan College is
+4 $6,414,200.00, $6,318,000.00 for operations, $90,200.00 for
+5 performance funding, and $6,000.00 for costs incurred under the
+6 North American Indian tuition waiver.$6,619,800.00, $6,408,200.00
+7 for operations, $192,200.00 for performance funding, and $19,400.00
+8 for costs incurred under the North American Indian tuition waiver.
+9 (m) The appropriation for Lansing Community College is
+10 $36,215,600.00, $35,689,200.00 for operations, $445,200.00 for
+11 performance funding, and $81,200.00 for costs incurred under the
+12 North American Indian tuition waiver.$37,141,200.00, $36,134,400.00
+13 for operations, $924,700.00 for performance funding, and $82,100.00
+14 for costs incurred under the North American Indian tuition waiver.
+15 (n) The appropriation for Macomb Community College is
+16 $38,184,300.00, $37,635,400.00 for operations, $525,200.00 for
+17 performance funding, and $23,700.00 for costs incurred under the
+18 North American Indian tuition waiver.$39,342,100.00, $38,160,600.00
+19 for operations, $1,090,600.00 for performance funding, and
+20 $90,900.00 for costs incurred under the North American Indian
+21 tuition waiver.
+22 (o) The appropriation for Mid Michigan Community College is
+23 $5,912,500.00, $5,742,900.00 for operations, $94,100.00 for
+24 performance funding, and $75,500.00 for costs incurred under the
+25 North American Indian tuition waiver.$6,113,400.00, $5,837,000.00
+26 for operations, $193,900.00 for performance funding, and $82,500.00
+27 for costs incurred under the North American Indian tuition waiver.
+28 (p) The appropriation for Monroe County Community College is
+29 $5,370,300.00, $5,284,700.00 for operations, $83,800.00 for
+JHM S01519'25 (S-2) 48qn7z
+
+6
+1 performance funding, and $1,800.00 for costs incurred under the
+2 North American Indian tuition waiver.$5,575,500.00, $5,368,500.00
+3 for operations, $206,600.00 for performance funding, and $400.00
+4 for costs incurred under the North American Indian tuition waiver.
+5 (q) The appropriation for Montcalm Community College is
+6 $4,035,200.00, $3,957,200.00 for operations, $76,100.00 for
+7 performance funding, and $1,900.00 for costs incurred under the
+8 North American Indian tuition waiver.$4,157,300.00, $4,033,300.00
+9 for operations, $122,300.00 for performance funding, and $1,700.00
+10 for costs incurred under the North American Indian tuition waiver.
+11 (r) The appropriation for C.S. Mott Community College is
+12 $18,023,600.00, $17,791,700.00 for operations, $226,100.00 for
+13 performance funding, and $5,800.00 for costs incurred under the
+14 North American Indian tuition waiver.$18,519,800.00, $18,017,800.00
+15 for operations, $491,700.00 for performance funding, and $10,300.00
+16 for costs incurred under the North American Indian tuition waiver.
+17 (s) The appropriation for Muskegon Community College is
+18 $10,381,200.00, $10,210,900.00 for operations, $149,000.00 for
+19 performance funding, and $21,300.00 for costs incurred under the
+20 North American Indian tuition waiver.$10,702,000.00, $10,359,900.00
+21 for operations, $298,600.00 for performance funding, and $43,500.00
+22 for costs incurred under the North American Indian tuition waiver.
+23 (t) The appropriation for North Central Michigan College is
+24 $4,110,200.00, $3,868,800.00 for operations, $78,900.00 for
+25 performance funding, and $162,500.00 for costs incurred under the
+26 North American Indian tuition waiver.$4,254,400.00, $3,947,700.00
+27 for operations, $144,300.00 for performance funding, and
+28 $162,400.00 for costs incurred under the North American Indian
+29 tuition waiver.
+JHM S01519'25 (S-2) 48qn7z
+
+7
+1 (u) The appropriation for Northwestern Michigan College is
+2 $10,816,600.00, $10,473,300.00 for operations, $146,500.00 for
+3 performance funding, and $196,800.00 for costs incurred under the
+4 North American Indian tuition waiver.$11,163,900.00, $10,619,800.00
+5 for operations, $289,400.00 for performance funding, and
+6 $254,700.00 for costs incurred under the North American Indian
+7 tuition waiver.
+8 (v) The appropriation for Oakland Community College is
+9 $25,163,800.00, $24,733,600.00 for operations, $396,400.00 for
+10 performance funding, and $33,800.00 for costs incurred under the
+11 North American Indian tuition waiver.$25,984,900.00, $25,130,000.00
+12 for operations, $816,500.00 for performance funding, and $38,400.00
+13 for costs incurred under the North American Indian tuition waiver.
+14 (w) The appropriation for Schoolcraft College is
+15 $14,993,000.00, $14,711,800.00 for operations, $260,200.00 for
+16 performance funding, and $21,000.00 for costs incurred under the
+17 North American Indian tuition waiver.$15,500,500.00, $14,972,000.00
+18 for operations, $503,200.00 for performance funding, and $25,300.00
+19 for costs incurred under the North American Indian tuition waiver.
+20 (x) The appropriation for Southwestern Michigan College is
+21 $7,816,100.00, $7,682,800.00 for operations, $103,800.00 for
+22 performance funding, and $29,500.00 for costs incurred under the
+23 North American Indian tuition waiver.$8,016,100.00, $7,786,600.00
+24 for operations, $210,400.00 for performance funding, and $19,100.00
+25 for costs incurred under the North American Indian tuition waiver.
+26 (y) The appropriation for St. Clair County Community College
+27 is $8,366,100.00, $8,210,400.00 for operations, $131,600.00 for
+28 performance funding, and $24,100.00 for costs incurred under the
+29 North American Indian tuition waiver.$8,613,500.00, $8,342,000.00
+JHM S01519'25 (S-2) 48qn7z
+
+8
+1 for operations, $258,200.00 for performance funding, and $13,300.00
+2 for costs incurred under the North American Indian tuition waiver.
+3 (z) The appropriation for Washtenaw Community College is
+4 $16,281,900.00, $15,925,500.00 for operations, $331,800.00 for
+5 performance funding, and $24,600.00 for costs incurred under the
+6 North American Indian tuition waiver.$16,941,200.00, $16,257,300.00
+7 for operations, $664,900.00 for performance funding, and $19,000.00
+8 for costs incurred under the North American Indian tuition waiver.
+9 (aa) The appropriation for Wayne County Community College is
+10 $19,464,700.00, $19,193,300.00 for operations, $267,000.00 for
+11 performance funding, and $4,400.00 for costs incurred under the
+12 North American Indian tuition waiver.$20,063,700.00, $19,460,300.00
+13 for operations, $600,900.00 for performance funding, and $2,500.00
+14 for costs incurred under the North American Indian tuition waiver.
+15 (bb) The appropriation for West Shore Community College is
+16 $2,908,700.00, $2,851,200.00 for operations, $45,500.00 for
+17 performance funding, and $12,000.00 for costs incurred under the
+18 North American Indian tuition waiver.$2,999,300.00, $2,896,700.00
+19 for operations, $85,000.00 for performance funding, and $17,600.00
+20 for costs incurred under the North American Indian tuition waiver.
+21 (3) The amount appropriated in subsection (2) for community
+22 college operations is $363,363,500.00 $374,543,100.00 and is
+23 appropriated from the state school aid fund.
+24 (4) From the appropriations described in subsection (1), both
+25 of the following apply:
+26 (a) Subject to section 207a, the amount appropriated for
+27 fiscal year 2024-2025 2025-2026 to offset certain fiscal year 2024-
+28 2025 2025-2026 retirement contributions is $7,189,000.00,
+29 appropriated from the state school aid fund.
+JHM S01519'25 (S-2) 48qn7z
+
+9
+1 (b) For fiscal year 2024-2025, 2025-2026, there is allocated
+2 an amount not to exceed $21,800,000.00 $19,600,000.00 for payments
+3 to participating community colleges, appropriated from the state
+4 school aid fund. A community college that receives money under this
+5 subdivision shall use that money solely for the purpose of
+6 offsetting the normal cost contribution rate.
+7 (5) From the appropriations described in subsection (1),
+8 subject to section 207b, the amount appropriated for payments to
+9 community colleges that are participating entities of the
+10 retirement system is $62,100,000.00, $89,500,000.00, appropriated
+11 from the state school aid fund.
+12 (6) From the appropriations described in subsection (1),
+13 subject to section 207c, the amount appropriated for renaissance
+14 zone tax reimbursements is $2,200,000.00, appropriated from the
+15 state school aid fund. Each community college receiving funds in
+16 this subsection shall accrue these payments to its institutional
+17 fiscal year ending June 30, 2025.2026.
+18 (7) For Subject to section 216c, for fiscal year 2024-2025
+19 2025-2026 only, from the appropriations described in subsection
+20 (1), the amount appropriated for career and education navigators
+21 for adult learners infrastructure, technology, equipment,
+22 maintenance, housing, and safety is $1,150,000.00, $10,972,500.00,
+23 appropriated from the state school aid fund. Community colleges,
+24 partnering with 1 or more county governments, where practicable,
+25 may apply for grant funding through the department of lifelong
+26 education, advancement, and potential to supplement or create
+27 navigation efforts of adult learners. The department shall issue a
+28 report including, but not limited to, the number of grants awarded,
+29 a list of community colleges awarded grants and the amounts, and
+JHM S01519'25 (S-2) 48qn7z
+
+10
+1 the amount of unexpended funds remaining at the end of the fiscal
+2 year. The report must be issued to the house and senate
+3 appropriations subcommittees on community colleges, the house and
+4 senate fiscal agencies, and the state budget director by September
+5 30, 2025.
+6 (8) For fiscal year 2024-2025 2025-2026 only, from the
+7 appropriations described in subsection (1), $500,000.00
+8 $2,000,000.00 is appropriated from the state general fund/general
+9 purpose money to the Michigan Community Colleges Association school
+10 aid fund to St. Clair County Community College to support a program
+11 intended to encourage high school students and young adults to
+12 pursue public-service-focused careers, including those in public
+13 safety, education, and health care.the purchase of equipment for
+14 the Applied Technology Center.
+15 (9) For fiscal year 2024-2025 2025-2026 only, from the
+16 appropriations described in subsection (1), $350,000.00 $500,000.00
+17 is appropriated from the state school aid fund to Kalamazoo Valley
+18 Community College for internet accessibility improvements.to
+19 support the Circle Center.
+20 Sec. 204. Funds appropriated in section 201 shall must not be
+21 used for the purchase of foreign goods, or services, or both , if
+22 competitively priced and of comparable quality American goods, or
+23 services, or both , are available. Preference should must be given
+24 to goods, or services, or both , manufactured or provided by
+25 Michigan businesses, if they are competitively priced and of
+26 comparable quality. In addition, preference should be given to
+27 goods or services, or both, that are manufactured or provided by
+28 Michigan businesses that are owned and operated by veterans, if
+29 they are competitively priced and of comparable quality.for which
+JHM S01519'25 (S-2) 48qn7z
+
+11
+1 either or both of the following apply:
+2 (a) The goods, services, or both are manufactured or provided
+3 by Michigan businesses owned and operated by veterans if they are
+4 competitively priced and of comparable quality.
+5 (b) The goods, services, or both are manufactured in a
+6 facility that employs union members.
+7 Sec. 206. (1) Except for the funds appropriated in section
+8 201(4)(b), the funds appropriated in section 201 are appropriated
+9 for community colleges with fiscal years ending June 30, 2025 2026
+10 and must be paid out of the state treasury and distributed by the
+11 state treasurer to the respective community colleges in 11 monthly
+12 installments on the sixteenth of each month, or the next succeeding
+13 business day, beginning with October 16, 2024. 2025. Each community
+14 college shall accrue its July and August 2025 2026 payments to its
+15 institutional fiscal year ending June 30, 2025.2026.
+16 (2) The funds appropriated in section 201(4)(b) are
+17 appropriated for community colleges with fiscal years ending June
+18 30, 2025 2026 and must be distributed to the respective community
+19 colleges in quarterly installments on the sixteenth of each
+20 November, February, May, and August. Each community college shall
+21 accrue its August 2025 2026 payments to its institutional fiscal
+22 year ending June 30, 2025.2026.
+23 Sec. 207a. The following apply to the allocation of the fiscal
+24 year 2024-2025 appropriations described in section 201(4):
+25 (a) A community college that receives money under section
+26 201(4) shall use that money solely for the purpose of offsetting a
+27 portion of the retirement contributions owed by the college for
+28 that fiscal year.
+29 (b) The amount allocated to each participating community
+JHM S01519'25 (S-2) 48qn7z
+
+12
+1 college under section 201(4)(a) must be based on each college's
+2 percentage of the total covered payroll for all community colleges
+3 that are participating colleges in the immediately preceding fiscal
+4 year.
+5 (c) The amount allocated to each participating community
+6 college under section 201(4)(b) must be based on each college's
+7 reported quarterly payroll for members for the current fiscal year.
+8 Sec. 207b. All of the following apply to the allocation of the
+9 fiscal year 2024-2025 appropriations appropriation described in
+10 section 201(5) for payments to community colleges that are
+11 participating entities of the retirement system:
+12 (a) The amount of a payment under section 201(5) must be the
+13 difference between the unfunded actuarial accrued liability
+14 contribution rate as calculated under section 41 of the public
+15 school employees retirement act of 1979, 1980 PA 300, MCL 38.1341,
+16 as calculated without taking into account the maximum employer rate
+17 of 20.96% 15.21% included in section 41 of the public school
+18 employees retirement act of 1979, 1980 PA 300, MCL 38.1341, and the
+19 maximum employer rate of 20.96% 15.21% under section 41 of the
+20 public school employees retirement act of 1979, 1980 PA 300, MCL
+21 38.1341.
+22 (b) The amount allocated to each community college under
+23 section 201(5) must be based on each community college's percentage
+24 of the total covered payroll for all community colleges that are
+25 participating colleges in the immediately preceding fiscal year. A
+26 community college that receives funds under this subdivision shall
+27 use the funds solely for the purpose of retirement contributions
+28 under section 201(5).
+29 (c) Each participating college that receives funds under
+JHM S01519'25 (S-2) 48qn7z
+
+13
+1 section 201(5) shall forward an amount equal to the amount
+2 allocated under subdivision (b) to the retirement system in a form
+3 and manner determined by the retirement system.
+4 Sec. 207c. All of the following apply to the allocation of the
+5 appropriations described in section 201(6) to community colleges
+6 described in section 12(3) of the Michigan renaissance zone act,
+7 1996 PA 376, MCL 125.2692:
+8 (a) The amount allocated to each community college under
+9 section 201(6) for fiscal year 2024-2025 2025-2026 must be based on
+10 that community college's proportion of total revenue lost by
+11 community colleges as a result of the exemption of property taxes
+12 levied in 2024 2025 under the Michigan renaissance zone act, 1996
+13 PA 376, MCL 125.2681 to 125.2696.
+14 (b) The appropriations described in section 201(6) must be
+15 made to each eligible community college within 60 days after the
+16 department of treasury certifies to the state budget director that
+17 it has received all necessary information to properly determine the
+18 amounts payable to each eligible community college under section 12
+19 of the Michigan renaissance zone act, 1996 PA 376, MCL 125.2692.
+20 Sec. 210. (1) Recognizing the critical importance of education
+21 in strengthening Michigan's workforce, each community college is
+22 encouraged to shall explore ways of increasing collaboration and
+23 cooperation with 4-year universities, particularly in the areas
+24 related to training, instruction, and program articulation.
+25 (2) Recognizing the central role of community colleges in
+26 responding to local employment needs and challenges, community
+27 colleges shall develop and continue efforts to collaborate with
+28 local employers and students to identify local employment needs and
+29 strategies to meet them.
+JHM S01519'25 (S-2) 48qn7z
+
+14
+1 (3) Community colleges are encouraged to shall collaborate
+2 with each other on innovations to identify and meet local
+3 employment needs.
+4 (4) Community colleges are encouraged to shall work with
+5 universities to develop equivalency standards of core college
+6 courses and identify equivalent courses offered by postsecondary
+7 institutions.
+8 Sec. 210b. By March 1 of each year, the Michigan Community
+9 College Association and the Michigan Association of State
+10 Universities shall submit a report to the senate and house
+11 appropriations subcommittees on community colleges, the senate and
+12 house fiscal agencies, the department of lifelong education,
+13 advancement, and potential, and the state budget director on the
+14 activities and programs focused on improving transfer student
+15 outcomes since March 1 of the previous year, including all of the
+16 following:
+17 (a) The direct transferability of mathematics gateway courses
+18 between and among community colleges and universities.
+19 (b) The implementation of MiTransfer pathways.
+20 (c) The progress on increasing participation in MiTransfer
+21 pathways among community colleges and public universities.
+22 (d) The implementation of the Michigan Transfer Network at
+23 mitransfer.org.
+24 (e) A progress report on the implementation of the Michigan
+25 transfer agreement.
+26 Sec. 210d. (1) Community colleges are encouraged to shall work
+27 with public universities in the this state to implement statewide
+28 reverse transfer agreements to increase the number of students that
+29 are awarded credentials of value upon completion of the necessary
+JHM S01519'25 (S-2) 48qn7z
+
+15
+1 credits. These statewide agreements shall must enable students who
+2 have earned a significant number of credits at a community college
+3 and transferred to a baccalaureate-granting institution before
+4 completing a degree to transfer the credits earned at the
+5 baccalaureate institution back to the community college in order to
+6 be awarded a credential of value.
+7 (2) Each community college receiving an appropriation under
+8 section 201 shall consult with the department of lifelong
+9 education, advancement, and potential at least once an academic
+10 year on the policies and services the institution implements
+11 regarding transfer credits and transfer students.
+12 Sec. 216c. (1) Funds appropriated in section 201(7) for
+13 infrastructure, technology, equipment, maintenance, housing, and
+14 safety are intended to be used for necessary improvements and
+15 deferred maintenance of community college buildings, facilities,
+16 and other physical infrastructure; necessary improvements and
+17 deferred maintenance of information technology, other technology
+18 infrastructure, and other equipment; and other purposes related to
+19 infrastructure, technology, equipment, and maintenance. A community
+20 college may also use these funds to construct, renovate, or
+21 purchase student housing or to upgrade safety and security
+22 infrastructure. These funds are not intended to be used for any
+23 other purpose than what is specified in this section.
+24 (2) Subject to subsection (3), the payment for each community
+25 college under subsection (1) must be calculated as follows:
+26 (a) One third of the appropriation in section 201(7) must be
+27 allocated to each community college using the formula described in
+28 section 230(1).
+29 (b) Two thirds of the appropriation in section 201(7) must be
+JHM S01519'25 (S-2) 48qn7z
+
+16
+1 allocated only to community colleges that certify that the
+2 community college did not receive a capital outlay planning or
+3 construction authorization under subsection (3). Funds described in
+4 this subdivision must be allocated as follows:
+5 (i) 50% must be allocated equally to each community college
+6 receiving an allocation under this subdivision.
+7 (ii) 50% must be allocated proportionally to each community
+8 college's respective share of the total amount of operations
+9 payments described in section 201(2), for all community colleges
+10 that receive an allocation under this subdivision.
+11 (3) To receive an allocation under subsection (2)(b), a
+12 community college must certify by November 15, 2025 that it did not
+13 receive an appropriation for a planning or construction
+14 authorization for a capital outlay project between January 1, 2023
+15 and October 1, 2025. For the purpose of providing certification
+16 under this subsection, a capital outlay appropriation or
+17 authorization that adjusts only the authorized cost or scope of a
+18 previously-authorized capital outlay project does not count as a
+19 planning or construction authorization.
+20 (4) Payments to community colleges under this section must be
+21 distributed in 1 lump sum to each institution with the December 16,
+22 2025 payment described in section 206.
+23 Sec. 216e. (1) Payments under section 201 for performance
+24 funding and under section 201f for 1-time performance funding
+25 payments 216c must be made only to a community college that
+26 certifies to the state budget director by the last business day of
+27 August each year that it complies with the following:
+28 (a) The institutional best practice described in subdivision
+29 (c).
+JHM S01519'25 (S-2) 48qn7z
+
+17
+1 (b) One or more of the institutional best practices described
+2 in subdivisions (d) to (g).
+3 (a) (c) The community college accepts the Michigan Transfer
+4 Agreement, partners with the Michigan Transfer Network, and
+5 promotes clear transfer pathways for interested students by doing
+6 all of the following:
+7 (i) Has a policy to help transfer or accept associate degrees
+8 from other accredited Michigan postsecondary education
+9 institutions.
+10 (ii) Publishes the policy described in subparagraph (i) on the
+11 institution's website in an easily accessible way and in admissions
+12 materials.
+13 (iii) Provides publicly available information on the Michigan
+14 Transfer Network, applicable transfer pathways, and financial aid
+15 available to transfer students, at no cost to the student.
+16 (iv) Begins negotiations to increase the number of reverse
+17 transfer agreements or articulation agreements and reports on the
+18 progress toward completing the agreements to the state budget
+19 director by the last business day in February.
+20 (b) (d) The community college requires all students to receive
+21 an academic degree or certificate map that outlines required course
+22 sequencing, program and institution requirements, declared minor
+23 program academic requirements, and a recommended timeline within
+24 which courses should be taken and in which specific semester or
+25 term in order to satisfy all program requirements to allow the
+26 student to graduate on time.
+27 (c) (e) The community college provides non-credit-bearing
+28 developmental or remedial courses at a reduced cost to students.
+29 (d) (f) The community college provides each degree- or
+JHM S01519'25 (S-2) 48qn7z
+
+18
+1 certificate-seeking student with a designated, trained academic
+2 advisor to support student retention, persistence, and completion.
+3 The community college shall require students to meet with their
+4 academic advisor at least once per semester or term.
+5 (e) (g) The community college provides employees during
+6 business hours to assist prospective and current students in
+7 completing the Free Application for Federal Student Aid.
+8 (f) The community college has adopted a corequisite model of
+9 academic support for gateway English and mathematics courses in
+10 which a student concurrently enrolls in a developmental education
+11 course and a gateway-level course in a subject area where the
+12 student requires remediation. The community college shall ensure
+13 that not more than 10% of students assessed as being in need of
+14 developmental or remedial learning participate in a non-corequisite
+15 developmental or remedial course.
+16 (g) The community college has a policy and process for
+17 assessing prior learning and knowledge that aligns with a student's
+18 academic program and other required coursework. The policy must
+19 include the opportunity for a student to earn credit toward a
+20 degree or certificate, must be available to all students at no cost
+21 to the student, and must be easily accessible on the community
+22 college's website and in admissions materials.
+23 (2) The state budget director or designee of the director of
+24 the department of lifelong education, advancement, and potential
+25 shall implement uniform reporting requirements to ensure that a
+26 community college receiving a payment under section 201 for
+27 performance funding and under section 201f for 1-time performance
+28 funding payments 216c has satisfied the institutional best
+29 practices requirements of this section. The state budget director
+JHM S01519'25 (S-2) 48qn7z
+
+19
+1 or designee of the director of the department of lifelong
+2 education, advancement, and potential has the sole authority to
+3 determine if a community college has met the requirements of this
+4 section. Information reported by a community college to the state
+5 budget director or designee of the director of the department of
+6 lifelong education, advancement, and potential under this
+7 subsection must also be reported to the house and senate
+8 appropriations subcommittees on higher education and the house and
+9 senate fiscal agencies.
+10 (3) If a community college fails to comply with the
+11 certification requirements of this section, the state treasurer may
+12 withhold the monthly installments under section 206 to the
+13 community college until the certification is completed. If a
+14 community college does not comply with the certification
+15 requirements described in this section by the end of the fiscal
+16 year, the community college forfeits the amount withheld. Forfeited
+17 funds must lapse to the state school aid fund. The state budget
+18 director or designee of the director of the department of lifelong
+19 education, advancement, and potential shall notify the chairs of
+20 the house and senate appropriations subcommittees on higher
+21 education at least 10 days before withholding funds from any
+22 community college.
+23 Sec. 217a. (1) Each community college that receives an
+24 appropriation in section 201 shall submit all of the following
+25 information in the form and manner specified by the center:
+26 (a) The Michigan community colleges verified data inventory
+27 data for the preceding academic year to the center by the first
+28 business day of November of each year as specified in section 217.
+29 (b) Tuition and mandatory fees information as specified in
+JHM S01519'25 (S-2) 48qn7z
+
+20
+1 section 217b.
+2 (c) The longitudinal data set to the center as specified in
+3 section 219.
+4 (d) The number and type of associate degrees, baccalaureate
+5 degrees, and other certificates awarded as specified in section
+6 219.
+7 (e) The annual independent audit as specified in section 222.
+8 (2) If the state budget director determines that a community
+9 college failed to submit any of the information described in
+10 subsection (1) in the form and manner specified by the center, the
+11 state treasurer may withhold the monthly state operations
+12 installments described in section 206 201 from that community
+13 college until those data are submitted. If a community college does
+14 not submit any of the information described in subsection (1) by
+15 the end of the fiscal year, the community college forfeits any
+16 withheld amount. The state budget director shall notify the chairs
+17 of the house and senate appropriations subcommittees on community
+18 colleges at least 10 days before withholding funds from any
+19 community college.
+20 (3) It is intended that accountability reporting for community
+21 colleges will be streamlined through the center. The state budget
+22 director and the center shall work to combine the reporting
+23 requirements outlined in this subsection with the existing Michigan
+24 community colleges verified data inventory collection cycle. All of
+25 the following must be reported to the house and senate fiscal
+26 agencies and the state budget director:
+27 (a) Each community college's certification of its compliance
+28 with the requirements described in subsections (4) and (5).
+29 (b) The reporting and certification requirements of
+JHM S01519'25 (S-2) 48qn7z
+
+21
+1 subsections (6) and (7) and section 217b.
+2 (4) No later than the first business day of November of each
+3 year, each community college that receives an appropriation in
+4 section 201 shall make all of the information described in
+5 subdivisions (a) to (g) available through a link on its website
+6 homepage, subject to subdivision (h), as follows:
+7 (a) The annual operating budget and subsequent budget
+8 revisions.
+9 (b) A link to the most recent "Michigan Community College Data
+10 Inventory Report".
+11 (c) General fund revenue and expenditure projections for the
+12 current fiscal year and the next fiscal year.
+13 (d) A listing of all debt service obligations, detailed by
+14 project, anticipated payment of each project, and total outstanding
+15 debt for the current fiscal year.
+16 (e) Links to all of the following for the community college:
+17 (i) The current collective bargaining agreement for each
+18 bargaining unit.
+19 (ii) Each health care benefits plan, including, but not limited
+20 to, medical, dental, vision, disability, long-term care, or any
+21 other type of benefits that would constitute health care services,
+22 offered to any bargaining unit or employee of the community
+23 college.
+24 (iii) Audits and financial reports for the most recent fiscal
+25 year for which they are available.
+26 (iv) A copy of the board of trustees resolution regarding
+27 compliance with best practices for the local strategic value
+28 component described in section 230(2).
+29 (f) A map that includes the boundaries of the community
+JHM S01519'25 (S-2) 48qn7z
+
+22
+1 college district.
+2 (g) A prominent link to the financial aid website created
+3 under section 260.
+4 (h) For statewide consistency and public visibility, community
+5 colleges shall use the icon badge provided by the department of
+6 technology, management, and budget consistent with the icon badge
+7 developed by the department of education for K-12 school districts.
+8 It must appear on the front of each community college's homepage.
+9 The size of the icon may be reduced to 150 x 150 pixels.
+10 (5) No later than the first business day of November of each
+11 year, each community college that receives an appropriation in
+12 section 201 shall develop, maintain, and update a "campus safety
+13 information and resources" link, prominently displayed on the
+14 homepage of its website, that links to a section of the community
+15 college's website containing, at a minimum, all of the following
+16 information:
+17 (a) Emergency contact numbers for police, fire, health, and
+18 other services.
+19 (b) Hours, locations, telephone numbers, and email contacts
+20 for campus public safety offices and title IX offices.
+21 (c) A list of safety and security services provided by the
+22 community college, including transportation, escort services,
+23 building surveillance, anonymous tip lines, and other available
+24 security services.
+25 (d) The community college's policies applicable to minors on
+26 community college property.
+27 (e) A directory of resources available at the community
+28 college or in the surrounding community for students or employees
+29 who are survivors of sexual assault or sexual abuse.
+JHM S01519'25 (S-2) 48qn7z
+
+23
+1 (f) An electronic copy of "A Resource Handbook for Campus
+2 Sexual Assault Survivors, Friends and Family", published in 2018.
+3 (g) Campus security policies and crime statistics pursuant to
+4 the student right-to-know and campus security act, Public Law 101-
+5 542, 104 Stat 2381. Information must include all material prepared
+6 pursuant to the public information reporting requirements under the
+7 crime awareness and campus security act of 1990, title II of the
+8 student right-to-know and campus security act, Public Law 101-542,
+9 104 Stat 2381.
+10 (6) No later than the first business day of November of each
+11 year, each community college that receives an appropriation in
+12 section 201 shall report to the house and senate appropriations
+13 subcommittees on community colleges, the house and senate fiscal
+14 agencies, and the state budget director its annual title IX report,
+15 also known as the student sexual misconduct report, issued by the
+16 title IX coordinator, as required under the federal campus SaVE act
+17 of 2013, Public Law 113-4, section 304, 127 Stat 54, 89-92 (2013).
+18 (7) No later than the first business day of November of each
+19 year, each community college that receives an appropriation in
+20 section 201 shall certify that the community college complies with
+21 federal regulations under title IX, as required by the United
+22 States Department of Education, including, but not limited to, the
+23 following:
+24 (a) Use of medical experts that do not have an actual or
+25 apparent conflict of interest.
+26 (b) Issuance of title IX reports to complainants and
+27 respondents that are not divergent.
+28 (c) Notification of resources to each individual who reports
+29 having experienced sexual assault by a member of the community
+JHM S01519'25 (S-2) 48qn7z
+
+24
+1 college.
+2 Sec. 217b. (1) Each community college that receives an
+3 appropriation in section 201 shall report to the center by the last
+4 business day of August of each year the tuition and mandatory fees
+5 paid by a full-time in-district student and a full-time out-of-
+6 district student as established by the community college governing
+7 board for the current academic year. This report should also
+8 include the annual cost of tuition and fees based on a full-time
+9 course load of 30 credits. This report must also specify the amount
+10 that tuition and fees have increased for the community college from
+11 the prior academic year. Each community college shall also report
+12 any revisions to the reported current academic year tuition and
+13 mandatory fees adopted by the community college governing board to
+14 the center within 15 days of being adopted. The center shall
+15 provide this information and any revisions to the house and senate
+16 fiscal agencies and the state budget director.
+17 (2) Each community college that receives an appropriation in
+18 section 201 shall certify to the state budget director by the last
+19 business day of August of each year that its board will not adopt
+20 an increase in tuition and fee rates for in-district students for
+21 the academic year that is greater than the tuition restraint
+22 described in this subsection. For the academic year 2024-2025,
+23 2025-2026, the tuition restraint level is equal to the greater of
+24 4.5% or $217.00. $227.00. For the academic year 2025-2026, 2026-
+25 2027, the tuition restraint level is equal to the greater of 4.5%
+26 3.5% or $227.00. $174.00. It is intended that in the next fiscal
+27 year, the tuition restraint rate will be adjusted only for the
+28 subsequent academic year. As used in this subsection:
+29 (a) "Fee" means any board-authorized fee that will be paid by
+JHM S01519'25 (S-2) 48qn7z
+
+25
+1 more than 1/2 of all in-district students at least once during
+2 their enrollment at a community college. A community college
+3 increasing a fee that applies to a specific subset of students or
+4 courses shall provide sufficient information to prove that the
+5 increase applied to that subset will not cause the increase in the
+6 average amount of board-authorized total tuition and fees paid by
+7 in-district students in the 2024-2025 academic year to exceed the
+8 limit established in this section.
+9 (b) "Tuition and fee rate" means the average of full-time
+10 rates paid by a majority of students in each class, based on an
+11 unweighted average of the rates authorized by the community college
+12 board and actually charged to students, deducting any uniformly
+13 rebated or refunded amounts, for the 2 semesters with the highest
+14 levels of full-time equated in-district enrollment during the
+15 academic year.
+16 (3) Community colleges that exceed the tuition and fee rate
+17 cap described in subsection (2) are not eligible to receive
+18 payments under section 201 for performance funding or payments
+19 under section 201f for 1-time performance funding payments 216c for
+20 fiscal year 2024-2025.2025-2026. The state budget director shall
+21 implement uniform reporting requirements to ensure that a community
+22 college receiving a payment under section 201 for performance
+23 funding has satisfied the tuition restraint requirements of this
+24 section. The state budget director has the sole authority to
+25 determine if a community college has met the requirements of this
+26 section. Information reported by a community college to the state
+27 budget director under this subsection must also be reported to the
+28 house and senate appropriations subcommittees on community colleges
+29 and the house and senate fiscal agencies.
+JHM S01519'25 (S-2) 48qn7z
+
+26
+1 (4) Notwithstanding any other provision of this act, the
+2 legislature may at any time adjust appropriations for a community
+3 college that adopts an increase in tuition and fee rates for in-
+4 district students that exceeds the rate cap established in
+5 subsection (2).
+6 Sec. 217c. (1) Not later than December 1 of each year, each
+7 community college or federally recognized tribal college that, in
+8 the current or previous academic year, serves or has served as an
+9 authorizing body shall submit a report to the house and senate
+10 appropriations subcommittees on higher education, the house and
+11 senate fiscal agencies, the state budget director, and the
+12 department of education containing, at a minimum, all of the
+13 following information, as applicable:
+14 (a) A list of all of the schools currently authorized, and the
+15 following information for each school:
+16 (i) The year in which the school was authorized.
+17 (ii) The location of each school.
+18 (iii) The owner of the property at which each school is located
+19 and the physical buildings utilized by the school, as applicable.
+20 (b) A list identifying any schools that were closed or lost
+21 their authorization in the current or previous academic year.
+22 (c) A description of any new contracts for the operation of a
+23 public school academy that will operate as the successor to a
+24 public school academy that is currently being operated under a
+25 contract issued by another authorizing body that is currently
+26 performing in the bottom 5% of schools.
+27 (d) The academic performance of each school currently
+28 authorized, including whether a school is identified by the
+29 department of education as a partnership school. If a school is
+JHM S01519'25 (S-2) 48qn7z
+
+27
+1 identified as a partnership school under this subdivision, the
+2 authorizing body must shall include a description of corrective
+3 actions in the school's partnership agreement, the duration of the
+4 partnership agreement, and an assessment of progress toward
+5 improvement.
+6 (e) The total enrollment of each school at the time of
+7 submission, the grades served, and student turnover rate compared
+8 to the previous academic year, as applicable.
+9 (f) Aggregated student enrollment data for students with an
+10 individualized education program as well as the total amount of
+11 special education cost reimbursements received by each school
+12 during the school's most recently completed fiscal year.
+13 (g) The total number of fees, reimbursements, contributions,
+14 or charges permitted under section 502(6) of the revised school
+15 code, 1976 PA 451, MCL 380.502, that are assigned to each school
+16 currently authorized in a single academic year.
+17 (h) The names of the members of the board of directors of each
+18 school currently authorized, the date that each member of each
+19 board was appointed, and a description of the methodology used by
+20 the authorizing body to select members for the boards of directors
+21 for each school currently authorized by the authorizing body.
+22 (i) The name of the applicant who applied and received
+23 approval to organize each currently authorized school.
+24 (j) The list of contracts and length of their terms, with
+25 education service providers associated with each school currently
+26 authorized pursuant to section 502 of the revised school code, 1976
+27 PA 451, MCL 380.502, as applicable. The contracts described in this
+28 subdivision include, but are not limited to, those described in
+29 section 502(2)(d) of the revised school code, 1 1976 PA 451, MCL
+JHM S01519'25 (S-2) 48qn7z
+
+28
+1 380.502.
+2 (k) Activities undertaken by each authorizing body to ensure
+3 that the board of directors of each school complies with the open
+4 meetings act, 1976 PA 267, MCL 15.261 to 15.275, the freedom of
+5 information act, 1976 PA 442, MCL 15.231 to 15.246, and laws
+6 prohibiting conflicts of interest.
+7 (l) A description of the activities undertaken by the
+8 authorizing body to meet the functions of an authorizing body under
+9 section 502 of the revised school code, 1976 PA 451, MCL 380.502,
+10 as applicable.
+11 (m) A financial report of the authorizing body's use of fees,
+12 reimbursements, contributions, or charges collected or retained
+13 under section 502(6) of the revised school code, 1976 PA 451, MCL
+14 380.502. This report must include all of the following, at a
+15 minimum:
+16 (i) The total amount of fees collected or retained under
+17 section 502(6) of the revised school code, 1976 PA 451, MCL
+18 380.502, by the authorizing body for the authorizing body's most
+19 recent fiscal year.
+20 (ii) The amount of funds reported under subparagraph (i) that
+21 were spent on compensation for faculty and staff employed primarily
+22 to meet the functions of an authorizing body. For the purpose of
+23 this subparagraph, an employee is presumed to be primarily employed
+24 to meet the functions of an authorizing body if that employee
+25 spends more than 50% of the employee's time on those activities.
+26 (iii) The number of positions, organized by job title,
+27 associated with expenditures reported under subparagraph (ii).
+28 (iv) The amount of funds reported under subparagraph (i) that
+29 were spent on contractual services to meet the functions of an
+JHM S01519'25 (S-2) 48qn7z
+
+29
+1 authorizing body.
+2 (v) The amount of funds reported under subparagraph (i) that
+3 were spent on other overhead costs to meet the functions of an
+4 authorizing body.
+5 (vi) The amount of funds reported under subparagraph (i) that
+6 were transferred to another operating unit within the community
+7 college or federally recognized tribal college.
+8 (vii) The amount of funds reported under subparagraph (i) that
+9 were spent on activities other than functioning as an authorizing
+10 body, including a list of those activities and the amount
+11 associated with each activity.
+12 (n) An executive summary section that provides relevant
+13 summary data for reporting requirements under subdivisions (a) to
+14 (m).
+15 (2) A report submitted under this section must be in a format
+16 that meets accessibility standards for viewing on the internet
+17 under the Americans with disabilities act of 1990, Public Law 101-
+18 336.
+19 (3) A report submitted under this section must be published
+20 and updated through a link on the homepage of the institution's
+21 website.
+22 (4) In addition to the reporting requirements under this
+23 section, each authorizing body that receives an appropriation under
+24 section 201 shall adopt a facilities policy ensuring that any
+25 structures or other property vacated by a public school academy
+26 that ceases operation not contribute to blight in the surrounding
+27 neighborhood or community in which the school had previously
+28 operated.
+29 (5) (4) As used in this section, "authorizing body" means that
+JHM S01519'25 (S-2) 48qn7z
+
+30
+1 term as defined in section 501 of the revised school code, 1976 PA
+2 451, MCL 380.501.
+3 Sec. 217d. (1) By December 31, 2025, each community college
+4 that receives an appropriation under section 201 must produce a
+5 report detailing any increases, decreases, or other substantive
+6 changes to diversity, equity, and inclusion programs made after
+7 January 1, 2025.
+8 (2) If the report described in subsection (1) documents a
+9 change that could reduce access to a diversity, equity, or
+10 inclusion program for that university's students or employees, the
+11 community college shall also report other efforts, programs, or
+12 resources that the community college provides that would serve to
+13 mitigate any negative consequences associated with the documented
+14 program reduction.
+15 Sec. 217e. Not later than December 1 of each year, each
+16 community college that receives an appropriation in section 201
+17 shall provide a report to the house and senate appropriations
+18 subcommittees on higher education, the house and senate fiscal
+19 agencies, and the state budget director providing an itemized cost
+20 of attendance for full-time students attending that community
+21 college for the current and previous 2 academic years.
+22 Sec. 217f. (1) Subject to subsection (2), the state treasurer
+23 shall reduce payments made under section 254 for any community
+24 college that is an authorizing body by an amount equal to the
+25 difference between the amount reported in section 217c(1)(m)(i)
+26 during the previous fiscal year and 1% times the total state school
+27 aid received by all public school academies authorized by the
+28 authorizing body during that fiscal year. The state treasurer may
+29 coordinate with the state budget office or any other state
+JHM S01519'25 (S-2) 48qn7z
+
+31
+1 department or agency to administer this section.
+2 (2) If the calculation in subsection (1) would result in a net
+3 payment under section 254 that is a negative number, the payment
+4 under section 254 must be $0.00.
+5 (3) As used in this section:
+6 (a) "Authorizing body" means that term as defined in section
+7 501 of the revised school code, 1976 PA 451, MCL 380.501.
+8 (b) "Total state school aid" means that term as used in
+9 section 502 of the revised school code, 1976 PA 451, MCL 380.502.
+10 Sec. 222. Each community college shall have an annual audit of
+11 all income and expenditures performed by an independent auditor and
+12 shall furnish the independent auditor's management letter and an
+13 annual audited accounting of all general and current funds income
+14 and expenditures including audits of college foundations to the
+15 center before November 15 of each year. The center shall provide
+16 this information to members of the senate and house appropriations
+17 subcommittees on community colleges, the senate and house fiscal
+18 agencies, the auditor general, the department of labor and economic
+19 opportunity, the department of lifelong education, advancement, and
+20 potential, and the state budget director. If a community college
+21 fails to furnish the audit materials, the monthly state aid
+22 operations installments must be withheld from that college until
+23 the information is submitted. All reporting must conform to the
+24 requirements set forth in the "2001 Manual for Uniform Financial
+25 Reporting, Michigan Public Community Colleges". A community college
+26 shall make the information the community college is required to
+27 provide under this section available to the public on its website.
+28 Sec. 229a. Included in the fiscal year 2024-2025 2025-2026
+29 appropriations for the department of technology, management, and
+JHM S01519'25 (S-2) 48qn7z
+
+32
+1 budget are appropriations totaling $33,481,600.00 $38,032,600.00 to
+2 provide funding for the state share of costs for previously
+3 constructed capital projects for community colleges. Those
+4 appropriations for state building authority rent represent
+5 additional state general fund support for community colleges, and
+6 the following is an estimate of the amount of that support to each
+7 community college:
+8 (a) Alpena Community College, $858,200.00.$855,000.00.
+9 (b) Bay de Noc Community College, $516,900.00.$515,000.00.
+10 (c) Delta College, $2,696,900.00.$2,881,100.00.
+11 (d) Glen Oaks Community College, $381,400.00.$380,000.00.
+12 (e) Gogebic Community College, $56,200.00.$56,000.00.
+13 (f) Grand Rapids Community College,
+14 $1,090,000.00.$2,346,000.00.
+15 (g) Henry Ford College, $1,570,600.00.$1,505,000.00.
+16 (h) Jackson College, $2,051,500.00.$2,044,000.00.
+17 (i) Kalamazoo Valley Community College,
+18 $1,949,100.00.$1,942,000.00.
+19 (j) Kellogg Community College, $681,500.00.$679,000.00.
+20 (k) Kirtland Community College, $225,800.00.$225,000.00.
+21 (l) Lake Michigan College, $969,600.00.$966,000.00.
+22 (m) Lansing Community College, $759,800.00.$757,000.00.
+23 (n) Macomb Community College, $2,847,000.00.$4,682,200.00.
+24 (o) Mid Michigan Community College,
+25 $1,620,900.00.$1,615,000.00.
+26 (p) Monroe County Community College,
+27 $1,545,700.00.$1,540,000.00.
+28 (q) Montcalm Community College, $447,600.00.$446,000.00.
+29 (r) C.S. Mott Community College, $2,110,700.00.$3,103,000.00.
+JHM S01519'25 (S-2) 48qn7z
+
+33
+1 (s) Muskegon Community College, $985,600.00.$982,000.00.
+2 (t) North Central Michigan College, $648,400.00.$646,000.00.
+3 (u) Northwestern Michigan College,
+4 $1,793,600.00.$1,787,000.00.
+5 (v) Oakland Community College, $0.00.
+6 (w) Schoolcraft College, $2,240,200.00.$2,232,000.00.
+7 (x) Southwestern Michigan College, $825,500.00.$822,500.00.
+8 (y) St. Clair County Community College,
+9 $720,600.00.$718,000.00.
+10 (z) Washtenaw Community College, $1,682,300.00.$1,676,000.00.
+11 (aa) Wayne County Community College,
+12 $1,467,500.00.$1,895,800.00.
+13 (bb) West Shore Community College, $738,500.00.$736,000.00.
+14 Sec. 230. (1) Subject to subsection (4), money included in the
+15 appropriations for community college operations under section
+16 201(2) for performance funding and allocated under section 201f for
+17 1-time performance funding payments 216(2)(a) is distributed based
+18 on the following formula:
+19 (a) Allocated proportionate to fiscal year 2023-2024 2024-2025
+20 base appropriations, 30%.
+21 (b) Based on a weighted student contact hour formula as
+22 provided for in the 2016 recommendations of the performance
+23 indicators task force, 30%.
+24 (c) Based on the performance improvement as provided for in
+25 the 2016 recommendations of the performance indicators task force
+26 and based on data provided by the center, 10%.
+27 (d) Based on the performance completion number as provided for
+28 in the 2016 recommendations of the performance indicators task
+29 force, 10%.
+JHM S01519'25 (S-2) 48qn7z
+
+34
+1 (e) Based on the performance completion rate as provided for
+2 in the 2016 recommendations of the performance indicators task
+3 force and based on data provided by the center, 10%.
+4 (f) Based on administrative costs, 5%.
+5 (g) Based on the local strategic value component, as developed
+6 in cooperation with the Michigan Community College Association and
+7 described in subsection (2), 5%.
+8 (2) Money included in the appropriations for community college
+9 operations under section 201(2) for local strategic value is
+10 allocated only to each community college that certifies to the
+11 state budget director, through a board of trustees resolution on or
+12 before October 15, 2024, 2025, that the college has met 4 out of 5
+13 best practices listed in each category described in subsection (3).
+14 The resolution must provide specifics as to how the community
+15 college meets each best practice measure within each category. One-
+16 third of funding available under the strategic value component is
+17 allocated to each category described in subsection (3). Amounts
+18 distributed under local strategic value must be on a proportionate
+19 basis to each college's fiscal year 2023-2024 2024-2025 operations
+20 funding. Payments to community colleges that qualify for local
+21 strategic value funding must be distributed with the November
+22 installment payment described in section 206.
+23 (3) For purposes of subsection (2), the following categories
+24 of best practices reflect functional activities of community
+25 colleges that have strategic value to the local communities and
+26 regional economies:
+27 (a) For Category A, economic development and business or
+28 industry partnerships, the following:
+29 (i) The community college has active partnerships with local
+JHM S01519'25 (S-2) 48qn7z
+
+35
+1 employers including hospitals and health care providers.
+2 (ii) The community college provides customized on-site training
+3 for area companies, employees, or both.
+4 (iii) The community college supports entrepreneurship through a
+5 small business assistance center or other training or consulting
+6 activities targeted toward small businesses.
+7 (iv) The community college supports technological advancement
+8 through industry partnerships, incubation activities, or operation
+9 of a Michigan technical education center or other advanced
+10 technology center.
+11 (v) The community college has active partnerships with local
+12 or regional workforce and economic development agencies.
+13 (b) For Category B, educational partnerships, the following:
+14 (i) The community college has active partnerships with regional
+15 high schools, intermediate school districts, and career-tech
+16 centers to provide instruction through dual enrollment, concurrent
+17 enrollment, direct credit, middle college, or academy programs.
+18 (ii) The community college hosts, sponsors, or participates in
+19 enrichment programs for area K-12 students, such as college days,
+20 summer or after-school programming, or Science Olympiad.
+21 (iii) The community college provides, supports, or participates
+22 in programming to promote successful transitions to college for
+23 traditional age students, including grant programs such as talent
+24 search, upward bound, or other activities to promote college
+25 readiness in area high schools and community centers.
+26 (iv) The community college provides, supports, or participates
+27 in programming to promote successful transitions to college for new
+28 or reentering adult students, such as adult basic education, a high
+29 school equivalency test preparation program and testing, or
+JHM S01519'25 (S-2) 48qn7z
+
+36
+1 recruiting, advising, or orientation activities specific to adults.
+2 As used in this subparagraph, "high school equivalency test
+3 preparation program" means that term as defined in section 4.
+4 (v) The community college has active partnerships with
+5 regional 4-year colleges and universities to promote successful
+6 transfer, such as articulation, 2+2, or reverse transfer agreements
+7 or operation of a university center.
+8 (c) For Category C, community services, the following:
+9 (i) The community college provides continuing education
+10 programming for leisure, wellness, personal enrichment, or
+11 professional development.
+12 (ii) The community college operates or sponsors opportunities
+13 for community members to engage in activities that promote leisure,
+14 wellness, cultural or personal enrichment such as community sports
+15 teams, theater or musical ensembles, or artist guilds.
+16 (iii) The community college operates public facilities to
+17 promote cultural, educational, or personal enrichment for community
+18 members, such as libraries, computer labs, performing arts centers,
+19 museums, art galleries, or television or radio stations.
+20 (iv) The community college operates public facilities to
+21 promote leisure or wellness activities for community members,
+22 including gymnasiums, athletic fields, tennis courts, fitness
+23 centers, hiking or biking trails, or natural areas.
+24 (v) The community college promotes, sponsors, or hosts
+25 community service activities for students, staff, or community
+26 members.
+27 (4) Payments for performance funding under section 201(2) and
+28 for 1-time performance funding payments under section 201f 216c
+29 must be made to a community college only if that community college
+JHM S01519'25 (S-2) 48qn7z
+
+37
+1 actively participates in the Michigan Transfer Network sponsored by
+2 the Michigan Association of Collegiate Registrars and Admissions
+3 Officers and submits timely updates, including updated course
+4 equivalencies at least every 6 months, to the Michigan Transfer
+5 Network. The state budget director shall determine if a community
+6 college has not satisfied this requirement. The state budget
+7 director may withhold payments for performance funding and 1-time
+8 performance funding payments under section 216c until a community
+9 college is in compliance with this subsection.
+10 Enacting section 1. In accordance with section 30 of article
+11 IX of the state constitution of 1963, total state spending from
+12 state sources for community colleges for fiscal year 2025-2026
+13 under article II of the state school aid act of 1979, 1979 PA 94,
+14 MCL 388.1801 to 388.1830, as amended by this amendatory act, is
+15 estimated at $506,504,600.00 and the amount of that state spending
+16 from state sources to be paid to local units of government for
+17 fiscal year 2025-2026 is estimated at $506,504,600.00.
+18 Enacting section 2. Sections 201f and 201h of the state school
+19 aid act of 1979, 1979 PA 94, MCL 388.1801f and 388.1801h, are
+20 repealed effective October 1, 2025.
+21 Enacting section 3. This amendatory act takes effect October
+22 1, 2025.
+Final Page
+JHM S01519'25 (S-2) 48qn7z
+
+[DELETED:   S 4]
+[DELETED:   S 4 S a c f sn  ( A i g. ( i () () () () $. () $. ( c a ( $ p N  (]
+[DELETED:   S 4 $ p N  ( $ a t  ( $ p N  ( $ p N  ( $ p N]
+[DELETED:   S 4  ( $ p N  ( $ a t  ( i p N  ( $ p N  ( $ p N]
+[DELETED:   S 4  () $ p N  ( $ p N  ( $ p N  ( $ p N  ( $]
+[DELETED:   S 4 p N  ( $ p N  ( $ p N  ( $ p N  ( $ p N ]
+[DELETED:   S 4 ( $ p N  ( $ p N  ( $ p N  ( $ p N  ( i p N]
+[DELETED:   S 4  ( $ p N  ( $ p N  ( $ p N  ( c a a ( o ( f t 2 r a]
+[DELETED:   S 4 ( t a f t s s o ( s c r a f ( s z s t f. ( f o ( f $ i a p m e n r a]
+[DELETED:   S 4 t y a s 3 ( o a t i s p t i p s  ( o a i C  S n us h, cs  sh, bm ts h, M c g M t]
+[DELETED:   S 4  S 2 f a s i b E c p i. ( a 3 a c N a p y. S y ( 2 p t (]
+[DELETED:   S 4 c p t y ( c r S f d s p ( d c s a o i e m u p 3 ( s o p c u u (]
+[DELETED:   S 4 s a a S a d 1 ( s m t c l u P ( m d i a o S i e e c r ( r c l s]
+[DELETED:   S 4 ( c w e ( w u c i S C U a h a a o f ( b ( ( p ( m ( t S C w s w s r a]
+[DELETED:   S 4 c e h a c b b]
+[DELETED:   S 4))  S f p m c A ( (]
+[DELETED:   S 4 ( i ( A p a () f i ()()i i m () T a () t p d ( a s p w t s ( d (]
+[DELETED:   S 4 c a T a ( b c  ( s c p f h p]
+[DELETED:   S 4 h d s b u s a s ( c w c c r y f d s t e c S a i ( d b (]
+[DELETED:   S 4 s ( s ( d 2 ( ( c s s i f c n t w o c c ( c d r c t a ( w (]
+[DELETED:   S 4 s ( y s s h ( r ( I ( c ( p d ( () b () t o o c () y () c c (]
+[DELETED:   S 4 c ( u ( c t d I T ( y s i h c i ( o ( f ( c b s ( c ( c w]
+[DELETED:   S 4 ( S ( t 5 p c s 1 ( y s s a a t o ( y s f S f ( a ( r ( h]
+[DELETED:   S 4 c S a b p d b i c t t a m t p f ( s b a t d t 4 F 2 t $ o I y s (]
+[DELETED:   S 4 m t i c i a i l ( r u b r l a ( c p u f f ]
+[DELETED:   S 4 ( l c d s S c t a a s d f ( f () () () a ( t ( p p c p ( a d]
+[DELETED:   S 4 i a i a p i ( s t ( i s d ( o c c ( s b t f ( a ( e a P s s]
+[DELETED:   S 4 3 ( t m i p () a s a ( r u 3 m () s 3 r ()()i w t t t s () a() ()()v w]
+[DELETED:   S 4 a ()() w a ()()i w c ()()i w b a ( s ( ( t u 3 ( a w  (]
+[DELETED:   S 4 t 4()]
+[DELETED:   S 4  S a s a a c t s a o p f i t r R s p S a]
+[DELETED:   S 4 b t p c a a t c (. (. (. (. (. ( $. (. (. ( $. (. (. (). (. (. ( $. ( $. (. (.]
+[DELETED:   S 4 (. (. ( $. ( (. (. ( $. (. ( $. (. S a 2 u 1 i o ( b ( p i ( t a ( i f]
+[DELETED:   S 4 ( i f ( ( i d ( o a s b t b T c t a d b o f s i ( o c r ( i ()]
+[DELETED:   S 4 e () f () s a () t o t () o ( () h c e () e s () i t s r () i o s]
+[DELETED:   S 4 r A p () r t o ( () p p () f w t () p m m () p i c () c m ( f m]
+[DELETED:   S 4 a t O e N c d p u c E I s u M e f f E a r E 1]

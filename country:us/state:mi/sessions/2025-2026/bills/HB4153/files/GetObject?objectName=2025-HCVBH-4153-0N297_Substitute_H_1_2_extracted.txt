@@ -1,0 +1,2253 @@
+Title: HOUSE BILL NO. 4153
+Official Title: HOUSE BILL NO. 4153
+Number of Sections: 3
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 35 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending sections 501, 521, 551, 1231, 1233, 1311b, 1526, 1535a,
+and 1809 (MCL 380.501, 380.521, 380.551, 380.1231, 380.1233,
+
+Section 2:
+380.1311b, 380.1526, 380.1535a, and 380.1809), sections 501 and 551
+as amended by 2016 PA 192, section 521 as added by 2003 PA 179,
+
+Section 3:
+section 1231 as amended by 2020 PA 23, section 1233 as amended by
+2023 PA 111, section 1311b as amended by 2012 PA 620, section 1526
+as amended by 2023 PA 110, section 1535a as amended by 2016 PA 532,
+and section 1809 as amended by 2020 PA 384, and by adding section
+1531l.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 501. (1) A public school academy is a public school under
+CRM H00019'25 (H-1) m0a49h
+2
+1 section 2 of article VIII of the state constitution of 1963, is a
+2 school district for the purposes of section 11 of article IX of the
+3 state constitution of 1963 and for the purposes of section 1225 and
+4 section 1351a, and is subject to the leadership and general
+5 supervision of the state board over all public education under
+6 section 3 of article VIII of the state constitution of 1963. A
+7 public school academy is a body corporate and is a governmental
+8 agency. The powers granted to a public school academy under this
+9 part constitute the performance of essential public purposes and
+10 governmental functions of this state.
+11 (2) As used in this part:
+12 (a) "Authorizing body" means any of the following that issues
+13 a contract as provided in this part:
+14 (i) The board of a school district.
+15 (ii) An intermediate school board.
+16 (iii) The board of a community college.
+17 (iv) The governing board of a state public university.
+18 (v) Two or more of the public agencies described in
+19 subparagraphs (i) to (iv) exercising power, privilege, or authority
+20 jointly pursuant to an interlocal agreement under the urban
+21 cooperation act of 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to
+22 124.512.
+23 (b) "Certificated teacher" means an individual who holds a
+24 valid either of the following:
+25 (i) A teaching certificate issued by the superintendent of
+26 public instruction under section 1531.
+27 (ii) A local teaching certificate under section 1531l.
+28 (c) "Community college" means a community college organized
+29 under the community college act of 1966, 1966 PA 331, MCL 389.1 to
+CRM H00019'25 (H-1) m0a49h
+3
+1 389.195, or a federal tribally controlled community college that is
+2 recognized under the tribally controlled colleges and universities
+3 assistance act of 1978, 25 USC 1801 to 1864, and is determined by
+4 the department to meet the requirements for accreditation by a
+5 recognized regional accrediting body.
+6 (d) "Contract" means the executive act taken by an authorizing
+7 body that evidences the authorization of a public school academy
+8 and that establishes, subject to the constitutional powers of the
+9 state board and applicable law, the written instrument executed by
+10 an authorizing body conferring certain rights, franchises,
+11 privileges, and obligations on a public school academy, as provided
+12 by this part, and confirming the status of a public school academy
+13 as a public school in this state.
+14 (e) "Entity" means a partnership, nonprofit or business
+15 corporation, labor organization, or any other association,
+16 corporation, trust, or other legal entity.
+17 (f) "State public university" means a state university
+18 described in section 4, 5, or 6 of article VIII of the state
+19 constitution of 1963.
+20 Sec. 521. (1) An urban high school academy is a public school
+21 under section 2 of article VIII of the state constitution of 1963,
+22 is a school district for the purposes of section 11 of article IX
+23 of the state constitution of 1963 and for the purposes of sections
+24 1225 and 1351a, and is subject to the leadership and general
+25 supervision of the state board over all public education under
+26 section 3 of article VIII of the state constitution of 1963. An
+27 urban high school academy is a body corporate and is a governmental
+28 agency. The powers granted to an urban high school academy under
+29 this part constitute the performance of essential public purposes
+CRM H00019'25 (H-1) m0a49h
+4
+1 and governmental functions of this state.
+2 (2) As used in this part:
+3 (a) "Authorizing body" means the governing board of a state
+4 public university that issues a contract as provided in this part.
+5 (b) "Certificated teacher" means an individual who holds a
+6 valid either of the following:
+7 (i) A teaching certificate issued by the superintendent of
+8 public instruction under section 1531.
+9 (ii) A local teaching certificate under section 1531l.
+10 (c) "Contract" means the executive act taken by an authorizing
+11 body that evidences the authorization of an urban high school
+12 academy and that establishes, subject to the constitutional powers
+13 of the state board and applicable law, the written instrument
+14 executed by an authorizing body conferring certain rights,
+15 franchises, privileges, and obligations on an urban high school
+16 academy, as provided by this part, and confirming the status of an
+17 urban high school academy as a public school in this state.
+18 (d) "Educational management company" means an entity that
+19 enters into an agreement with the governing board of a public
+20 school to provide comprehensive educational, administrative,
+21 management, or instructional services or staff to the public
+22 school.
+23 (e) "Entity" means a nonprofit corporation that is organized
+24 under the nonprofit corporation act, 1982 PA 162, MCL 450.2101 to
+25 450.3192, and that has been granted tax-exempt status under section
+26 509(a) of the internal revenue code of 1986, 26 USC 509.
+27 (f) "State public university" means a state university
+28 described in section 4, 5, or 6 of article VIII of the state
+29 constitution of 1963.
+CRM H00019'25 (H-1) m0a49h
+5
+1 Sec. 551. (1) A school of excellence is a public school under
+2 section 2 of article VIII of the state constitution of 1963, is a
+3 school district for the purposes of section 11 of article IX of the
+4 state constitution of 1963 and for the purposes of section 1225 and
+5 section 1351a, and is subject to the leadership and general
+6 supervision of the state board over all public education under
+7 section 3 of article VIII of the state constitution of 1963. A
+8 school of excellence is a body corporate and is a governmental
+9 agency. The powers granted to a school of excellence under this
+10 part constitute the performance of essential public purposes and
+11 governmental functions of this state.
+12 (2) As used in this part:
+13 (a) "Authorizing body" means any of the following that issues
+14 a contract as provided in this part:
+15 (i) The board of a school district.
+16 (ii) An The board of an intermediate school board.district.
+17 (iii) The board of a community college.
+18 (iv) The governing board of a state public university.
+19 (v) Two or more of the public agencies described in
+20 subparagraphs (i) to (iv) exercising power, privilege, or authority
+21 jointly pursuant to an interlocal agreement under the urban
+22 cooperation act of 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to
+23 124.512.
+24 (b) "Certificated teacher" means an individual who holds a
+25 valid either of the following:
+26 (i) A teaching certificate issued by the superintendent of
+27 public instruction under section 1531.
+28 (ii) A local teaching certificate under section 1531l.
+29 (c) "Community college" means a community college organized
+CRM H00019'25 (H-1) m0a49h
+6
+1 under the community college act of 1966, 1966 PA 331, MCL 389.1 to
+2 389.195, or a federal tribally controlled community college that is
+3 recognized under the tribally controlled colleges and universities
+4 assistance act of 1978, 25 USC 1801 to 1864, and is determined by
+5 the department to meet the requirements for accreditation by a
+6 recognized regional accrediting body.
+7 (d) "Contract" means the executive act taken by an authorizing
+8 body that evidences the authorization of a school of excellence and
+9 that establishes, subject to the constitutional powers of the state
+10 board and applicable law, the written instrument executed by an
+11 authorizing body conferring certain rights, franchises, privileges,
+12 and obligations on a school of excellence, as provided by this
+13 part, and confirming the status of a school of excellence as a
+14 public school in this state.
+15 (e) "Cyber school" means a school of excellence established
+16 under this part that has been issued a contract to be organized and
+17 operated as a cyber school under section 552(2) and that provides
+18 full-time instruction to pupils through online learning or
+19 otherwise on a computer or other technology, which instruction and
+20 learning may be remote from a school facility.
+21 (f) "Educational management organization" means an entity that
+22 enters into an agreement with the governing board of a public
+23 school to provide comprehensive educational, administrative,
+24 management, or instructional services or staff to the public
+25 school.
+26 (g) "Entity" means a partnership, nonprofit or business
+27 corporation, labor organization, or any other association,
+28 corporation, trust, or other legal entity.
+29 (h) "State public university" means a state university
+CRM H00019'25 (H-1) m0a49h
+7
+1 described in section 4, 5, or 6 of article VIII of the state
+2 constitution of 1963.
+3 Sec. 1231. (1) Except as otherwise provided in subsections (5)
+4 and (6), the board of a school district shall hire and contract
+5 with qualified teachers. Contracts with teachers must be in writing
+6 and signed on behalf of the school district by a majority of the
+7 board, by the president and secretary of the board, or by the
+8 superintendent of schools, or by an authorized representative of
+9 the board. The contracts must specify the wages agreed upon.
+10 (2) The board of a school district shall file a teacher's
+11 contract with the secretary of the board and shall furnish a
+12 duplicate copy of the contract to the teacher.
+13 (3) Except as otherwise provided under this act, a contract
+14 with a teacher is not valid unless the individual holds a valid
+15 teaching certificate or a local teaching certificate, or is engaged
+16 to teach under section 1233b at the time the contractual period
+17 begins or the individual is engaged to teach in a community
+18 district under section 1233c. A contract terminates if the
+19 certificate expires by limitation and is not renewed immediately or
+20 if it is suspended or revoked by proper legal authority.
+21 (4) The board of a school district, after a teacher has been
+22 employed at least 2 consecutive years by the board, may enter into
+23 a continuing contract with a certificated teacher, a teacher with a
+24 local teaching certificate, or a teacher engaged to teach under
+25 section 1233b or, for a community district, with an individual
+26 engaged to teach in a community district under section 1233c.
+27 (5) The board of a school district that is a community
+28 district may employ or contract for, or both, qualified teachers
+29 and other qualified instructional personnel at a public school that
+CRM H00019'25 (H-1) m0a49h
+8
+1 formerly operated as an achievement school as necessary to carry
+2 out the purposes of the community district.
+3 (6) If a school district partners with an education management
+4 organization for a dropout recovery program as described under
+5 section 23a of the state school aid act of 1979, MCL 388.1623a, the
+6 teacher of record for that program may be employed by or contracted
+7 through the education management organization.
+8 (7) As used in this section:
+9 (a) "Achievement school" means a public school formerly within
+10 the education achievement system that was operated, managed,
+11 authorized, established, or overseen by the achievement authority.
+12 (b) "Education management organization" means that term as
+13 defined in section 23a of the state school aid act of 1979, MCL
+14 388.1623a.
+15 (c) "Local teaching certificate" means that term as defined in
+16 section 1531l.
+17 (d) (c) "Teacher" does not include a substitute teacher.
+18 (e) (d) "Teacher of record" means that term as defined in
+19 section 23a of the state school aid act of 1979, MCL 388.1623a.
+20 Sec. 1233. (1) Except as otherwise provided by law, and
+21 subject to sections 1233b and 1233c, the board of a school district
+22 or intermediate school district shall not permit a teacher who does
+23 not hold a valid teaching certificate or a local teaching
+24 certificate to teach in a grade or department of the school.
+25 (2) The board of a school district or intermediate school
+26 district shall not allow an individual to serve in a counseling
+27 role in the school district or intermediate school district, as the
+28 role is defined by the superintendent of public instruction, unless
+29 the individual holds a valid school counselor credential. The
+CRM H00019'25 (H-1) m0a49h
+9
+1 superintendent of public instruction shall issue a school counselor
+2 license only to an individual who meets 1 or more of the following:
+3 (a) The individual meets both of the following:
+4 (i) Holds a master's degree awarded after completion of a
+5 school counselor education program that is approved by the
+6 superintendent of public instruction based on standards developed
+7 by the department in consultation with practicing school
+8 counselors, representatives from school counselor preparation
+9 programs, and state associations representing school counselors.
+10 (ii) Has successfully completed the department's school
+11 counselor examination.
+12 (b) Subject to subsection (15), (12), the individual is an
+13 individual who holds a school counselor license from another state,
+14 country, or federally recognized Indian tribe, holds a master's
+15 degree awarded after completion of a school counselor education
+16 program, and meets either of the following:
+17 (i) Has at least 3 years of successful experience serving in a
+18 school counseling role in another state or country or with a
+19 federally recognized Indian tribe.
+20 (ii) Has successfully completed the department's school
+21 counselor examination.
+22 (3) Except for teachers engaged to teach under section 1233b
+23 and teachers engaged to teach in a community district under section
+24 1233c, the intermediate superintendent shall notify the
+25 superintendent of public instruction immediately of the names of
+26 noncertificated teachers teaching in violation of subsection (1)
+27 and the names of individuals serving in counseling roles in
+28 violation of subsection (2), the employing district, and the amount
+29 of time the noncertificated teachers or unqualified individuals
+CRM H00019'25 (H-1) m0a49h
+10
+1 were employed.
+2 (4) A vocational teacher preparation institution shall utilize
+3 the employment experience of an annually authorized teacher for the
+4 purpose of waiving student teaching as a requirement for vocational
+5 certification if the annually authorized teacher is supervised by
+6 the teacher preparation institution.
+7 (5) Subject to subsection (10), the The board of a school
+8 district or intermediate school district may employ an individual
+9 without a teaching certificate or a local teaching certificate as a
+10 substitute teacher if either of the following requirements is met,
+11 if applicable:
+12 (a) The individual has at least 60 semester hours of college
+13 credit or an associate degree from a college, university, or
+14 community college. The 60 semester hours do not need to be from the
+15 same college, university, or community college.
+16 (b) For substitute teaching a course in an industrial
+17 technology education program or a career and technical education
+18 program, the individual is engaged to substitute teach in a subject
+19 matter or field in which the individual has achieved expertise, as
+20 determined by the board of a school district or intermediate school
+21 district and satisfies all of the following, if applicable:
+22 (i) Has a high school diploma or a high school equivalency
+23 certificate as that term is defined in section 4 of the state
+24 school aid act of 1979, MCL 388.1604.
+25 (ii) For substitute teaching in a subject matter or field in
+26 which a professional license or certification is required, at least
+27 1 of the following:
+28 (A) Holds a professional license or certification in that same
+29 subject matter or field.
+CRM H00019'25 (H-1) m0a49h
+11
+1 (B) Previously held a professional license or certification in
+2 that same subject matter or field that expired not more than 2
+3 years before the noncertificated substitute teacher's initial
+4 employment under this section and was in good standing immediately
+5 before the license or certification expired.
+6 (iii) Has at least 2 cumulative years of professional experience
+7 in that same subject matter or field in the immediately preceding
+8 10 years.
+9 (6) The department shall not renew an individual's school
+10 counselor credential unless the department determines that, within
+11 the time period since the individual's school counselor credential
+12 was issued or last renewed, whichever is most recent, the
+13 individual has completed at least 25 hours of professional
+14 development approved by the department under subsection (8)
+15 covering counseling about the college preparation and selection
+16 process and at least 25 hours of professional development approved
+17 by the department under subsection (8) covering career counseling.
+18 For the purposes of this subsection, career counseling includes,
+19 but is not limited to, exploration of military career options and
+20 the skilled trades as well as other careers and pathways that lead
+21 to industry credentials awarded in recognition of an individual's
+22 attainment of measurable technical or occupational skills necessary
+23 to obtain employment or advance within an occupation. The hours of
+24 professional development required under this subsection covering
+25 career counseling must include at least 5 hours covering military
+26 career options. The hours of professional development required
+27 under this subsection are a part of and not in addition to
+28 professional development requirements under department rule.
+29 (7) An individual may complete the professional development
+CRM H00019'25 (H-1) m0a49h
+12
+1 hours for the purposes of subsection (6) as part of the
+2 professional development provided by a school district,
+3 intermediate school district, public school academy, or nonpublic
+4 school under section 1527 if the content and curriculum of the
+5 professional development provided under section 1527 are approved
+6 by the department under subsection (8).
+7 (8) The department shall approve the professional development
+8 for the purposes of subsection (6). The department shall only
+9 approve a professional development program or course for the
+10 purposes of subsection (6) only if the department determines that
+11 the content and curriculum for the professional development meet
+12 standards that are developed by the department in consultation with
+13 the department of labor and economic opportunity and groups
+14 representing school counselors, college admissions professionals,
+15 financial aid officers, employers, and others as determined
+16 appropriate by the department. The department shall develop these
+17 standards by July 1, 2018 and shall facilitate the involvement in
+18 the development of the standards of the groups required under this
+19 subsection.
+20 (9) The superintendent of public instruction shall promulgate
+21 or modify rules as necessary to implement this section.
+22 (10) Subject to subsection (12), beginning on December 27,
+23 2021 through June 30, 2022, the board of a school district or
+24 intermediate school district may employ an individual without a
+25 certificate or permit who does not meet the requirements under
+26 subsection (5) as a substitute teacher if both of the following are
+27 met:
+28 (a) Both of the following apply to the individual:
+29 (i) The individual has a high school diploma or high school
+CRM H00019'25 (H-1) m0a49h
+13
+1 equivalency certificate as that term is defined in section 4 of the
+2 state school aid act of 1979, MCL 388.1604.
+3 (ii) The individual is employed by or works at the school
+4 district or intermediate school district.
+5 (b) The board ensures that both of the following are met, as
+6 applicable:
+7 (i) If the individual's existing salary as an employee of or
+8 worker at the school district or intermediate school district is
+9 higher than the salary of a substitute teacher who is employed at
+10 or works at the school district or intermediate school district,
+11 the individual's salary for the individual's employment or work as
+12 a substitute teacher under this subsection must not be lower than
+13 the individual's existing salary.
+14 (ii) If the individual's existing salary as an employee of or
+15 worker at the school district or intermediate school district is
+16 lower than the salary of a substitute teacher who is employed at or
+17 works at the school district or intermediate school district, the
+18 individual's salary for the individual's employment or work as a
+19 substitute teacher under this subsection must be in an amount that
+20 is equal to or greater than the salary of a substitute teacher who
+21 is employed at or works at the school district or intermediate
+22 school district.
+23 (11) An individual who declines employment or assignment as a
+24 substitute teacher under subsection (10) must not be terminated
+25 from the individual's existing employment or assignment and must
+26 not be subject to retaliation solely for declining the employment
+27 or assignment under subsection (10).
+28 (12) Notwithstanding any other provision of this act, sections
+29 1230(2) and 1230a(2) do not apply to an individual employed under
+CRM H00019'25 (H-1) m0a49h
+14
+1 subsection (10). However, all other requirements under sections
+2 1230 and 1230a apply to the employment of an individual under
+3 subsection (10).
+4 (10) (13) The superintendent of public instruction may issue a
+5 preliminary school counselor license to an individual enrolled in
+6 an approved school counselor preparation program if the individual
+7 meets both of the following:
+8 (a) The individual has completed at least 30 semester hours in
+9 an approved school counselor preparation program.
+10 (b) The individual has successfully completed the department's
+11 school counselor examination.
+12 (11) (14) Subject to subsection (15), (12), if an individual
+13 holding a school counselor license from another state, country, or
+14 federally recognized Indian tribe applies for a Michigan school
+15 counselor license and meets all requirements for the Michigan
+16 school counselor license except for passage of the appropriate
+17 examinations described in subsection (2)(b), the superintendent of
+18 public instruction shall issue a nonrenewable temporary school
+19 counselor license, good for 1 year, to the individual. The
+20 superintendent of public instruction shall not issue a Michigan
+21 school counselor license to the individual after the expiration of
+22 the temporary school counselor license unless the individual
+23 completes the licensing requirements described in this section.
+24 (12) (15) The superintendent of public instruction shall deny
+25 a Michigan school counselor credential to an individual described
+26 in subsection (2)(b) or (14) (11) for fraud, material
+27 misrepresentation, or concealment in the individual's application
+28 for a license or for a conviction for which an individual's state
+29 board approval may be suspended or revoked under section 1539b.
+CRM H00019'25 (H-1) m0a49h
+15
+1 (13) (16) Except as otherwise provided in this section, as
+2 used in this section:
+3 (a) "Individual holding a school counselor license from
+4 another state, country, or federally recognized Indian tribe" or
+5 "individual who holds a school counselor license from another
+6 state, country, or federally recognized Indian tribe" means an
+7 individual with a valid school counselor credential or an
+8 individual who is eligible for a school counselor credential in the
+9 state or country or with the federally recognized Indian tribe in
+10 which or with which the individual holds the credential or is
+11 eligible for the credential.
+12 (b) "Local teaching certificate" means that term as defined in
+13 section 1531l.
+14 (c) (b) "School counselor credential" means, except as used in
+15 subdivision (a), 1 of the following:
+16 (i) A school counselor endorsement on a valid Michigan teaching
+17 certificate.
+18 (ii) A preliminary school counselor license as described in
+19 this section.
+20 (iii) A temporary school counselor license as described in this
+21 section.
+22 (iv) A school counselor license.
+23 Sec. 1311b. (1) A strict discipline academy is a public school
+24 under section 2 of article VIII of the state constitution of 1963,
+25 is a school district for the purposes of section 11 of article IX
+26 of the state constitution of 1963 and for the purposes of section
+27 1225 and section 1351a, and is subject to the leadership and
+28 general supervision of the state board over all public education
+29 under section 3 of article VIII of the state constitution of 1963.
+CRM H00019'25 (H-1) m0a49h
+16
+1 A strict discipline academy is a body corporate and is a
+2 governmental agency. The powers granted to a strict discipline
+3 academy under sections 1311b to 1311l 1311m constitute the
+4 performance of essential public purposes and governmental functions
+5 of this state.
+6 (2) As used in sections 1311b to 1311l:1311m:
+7 (a) "Authorizing body" means any of the following that issues
+8 a contract as provided in sections 1311b to 1311l:1311m:
+9 (i) The board of a school district that operates grades K to
+10 12.
+11 (ii) An intermediate school board.
+12 (iii) The board of a community college.
+13 (iv) The governing board of a state public university.
+14 (b) "Certificated teacher" means an individual who holds a
+15 valid teaching certificate issued by the state board under section
+16 1531 or a local teaching certificate under section 1531l.
+17 (c) "Community college" means a community college organized
+18 under the community college act of 1966, 1966 PA 331, MCL 389.1 to
+19 389.195, or a federal tribally controlled community college that is
+20 recognized under the tribally controlled colleges and universities
+21 assistance act of 1978, 25 USC 1801 to 1852, and is determined by
+22 the department to meet the requirements for accreditation by a
+23 recognized regional accrediting body.
+24 (d) "Contract" means the executive act taken by an authorizing
+25 body that evidences the authorization of a strict discipline
+26 academy and that establishes, subject to the constitutional powers
+27 of the state board and applicable law, the written instrument
+28 executed by an authorizing body conferring certain rights,
+29 franchises, privileges, and obligations on a strict discipline
+CRM H00019'25 (H-1) m0a49h
+17
+1 academy, as provided by sections 1311b to 1311l, 1311m, and
+2 confirming the status of a strict discipline academy as a public
+3 school in this state.
+4 (e) "Entity" means a partnership, nonprofit or business
+5 corporation, labor organization, or any other association,
+6 corporation, trust, or other legal entity.
+7 (f) "State public university" means a university described in
+8 section 4, 5, or 6 of article VIII of the state constitution of
+9 1963.
+10 Sec. 1526. (1) For Except as otherwise provided in this
+11 section, for the first 3 years of his or her a teacher's employment
+12 in classroom teaching, a teacher must be assigned by the school in
+13 which he or she the teacher teaches to 1 or more master teachers,
+14 or college professors or retired master teachers, who shall act as
+15 a mentor or mentors to the teacher. During the 3-year period, the
+16 teacher must also receive intensive professional development
+17 induction into teaching, based on a professional development plan
+18 that is consistent with the requirements of section 3a of article
+19 II of 1937 (Ex Sess) PA 4, MCL 38.83a, including classroom
+20 management and instructional delivery. Subject to subsection (2),
+21 during the 3-year period, the intensive professional development
+22 induction into teaching must consist of at least 15 days of
+23 professional development, the experiencing of effective practices
+24 in university-linked professional development schools, and regional
+25 seminars conducted by master teachers and other mentors. This
+26 subsection does not apply to an individual who is employed as a
+27 teacher using a local teaching certificate under section 1531l.
+28 (2) Except as otherwise provided in this subsection, for
+29 teachers employed in classroom teaching on or after August 1, 2023,
+CRM H00019'25 (H-1) m0a49h
+18
+1 except for individuals who have physical limitations that make it
+2 impracticable for the individual to complete the course and
+3 instruction and obtain the required certification under this
+4 subsection, the 15 days of professional development described in
+5 subsection (1) must include a course approved by the department in
+6 first aid and cardiopulmonary resuscitation that includes a test
+7 demonstration on a mannequin and instruction in foreign body airway
+8 obstruction management that results in valid certification in these
+9 topics issued by the American Red Cross, American Heart
+10 Association, or a comparable organization or institution approved
+11 by the department. The course, instruction, and certification
+12 required under this subsection must be completed within the first
+13 year of the 3-year period described in subsection (1). This
+14 subsection does not apply to an individual who has successfully
+15 completed a course and instruction and holds the valid
+16 certification as described in this subsection.
+17 (3) An individual who is employed as a teacher using a local
+18 teaching certificate under section 1531l must, before beginning the
+19 individual's employment, complete a course approved by the
+20 department in first aid and cardiopulmonary resuscitation that
+21 includes a test demonstration on a mannequin and instruction in
+22 foreign body airway obstruction management that results in
+23 certification in these topics issued by the American Red Cross,
+24 American Heart Association, or a comparable organization or
+25 institution approved by the department.
+26 (4) (3) An individual who has completed the course and
+27 instruction and obtained the certification described in subsection
+28 (2) or (3) and who performs first aid, cardiopulmonary
+29 resuscitation, or foreign body airway obstruction management on
+CRM H00019'25 (H-1) m0a49h
+19
+1 another individual in the course of his or her the individual's
+2 employment as a teacher is not liable in a civil action for damages
+3 resulting from an act or omission occurring in that performance
+4 except for an act or omission constituting gross negligence or
+5 willful or wanton misconduct.
+6 Sec. 1535a. (1) Subject to subsection (2), if a person an
+7 individual who holds a teaching certificate or local teaching
+8 certificate that is valid in this state has been convicted of a
+9 crime described in this subsection, within 10 working days after
+10 receiving notice of the conviction the superintendent of public
+11 instruction shall notify the person individual in writing that his
+12 or her the individual's teaching certificate or local teaching
+13 certificate may be suspended because of the conviction and of his
+14 or her the individual's right to a hearing before the
+15 superintendent of public instruction. The hearing shall must be
+16 conducted as a contested case under the administrative procedures
+17 act of 1969, 1969 PA 306, MCL 24.201 to 24.328. If the person
+18 individual does not avail himself or herself themself of this right
+19 to a hearing within 15 working days after receipt of this written
+20 notification, the teaching certificate or local teaching
+21 certificate of that person shall individual must be suspended. If a
+22 hearing takes place, the superintendent of public instruction shall
+23 complete the proceedings and make a final decision and order within
+24 120 working days after receiving the request for a hearing. Subject
+25 to subsection (2), the superintendent of public instruction may
+26 suspend the person's individual's teaching certificate or local
+27 teaching certificate based upon on the issues and evidence
+28 presented at the hearing. This subsection applies to any of the
+29 following crimes:
+CRM H00019'25 (H-1) m0a49h
+20
+1 (a) Any felony.
+2 (b) Any of the following misdemeanors:
+3 (i) Criminal sexual conduct in the fourth degree or an attempt
+4 to commit criminal sexual conduct in the fourth degree.
+5 (ii) Child abuse in the third or fourth degree or an attempt to
+6 commit child abuse in the third or fourth degree.
+7 (iii) A misdemeanor involving cruelty, torture, or indecent
+8 exposure involving a child.
+9 (iv) A misdemeanor violation of section 7410 of the public
+10 health code, 1978 PA 368, MCL 333.7410.
+11 (v) A violation of section 115, 141a, 335a, or 359 of the
+12 Michigan penal code, 1931 PA 328, MCL 750.115, 750.141a, 750.335a,
+13 and 750.359, or a misdemeanor violation of section 81, 81a, or 145d
+14 of the Michigan penal code, 1931 PA 328, MCL 750.81, 750.81a, and
+15 750.145d.
+16 (vi) A misdemeanor violation of section 701 of the Michigan
+17 liquor control code of 1998, 1998 PA 58, MCL 436.1701.
+18 (vii) Any misdemeanor that is a listed offense.
+19 (viii) (c) A violation of a substantially similar law of another
+20 state, of a political subdivision of this state or another state,
+21 or of the United States.
+22 (2) If a person an individual who holds a teaching certificate
+23 or local teaching certificate that is valid in this state has been
+24 convicted of a crime described in this subsection, the
+25 superintendent of public instruction shall find that the public
+26 health, safety, or welfare requires emergency action and shall
+27 order summary suspension of the person's individual's teaching
+28 certificate or local teaching certificate under section 92 of the
+29 administrative procedures act of 1969, 1969 PA 306, MCL 24.292, and
+CRM H00019'25 (H-1) m0a49h
+21
+1 shall subsequently provide an opportunity for a hearing as provided
+2 under that section. This subsection does not limit the
+3 superintendent of public instruction's ability to order summary
+4 suspension of a person's teaching certificate or local teaching
+5 certificate for a reason other than described in this subsection.
+6 This subsection applies to conviction of any of the following
+7 crimes:
+8 (a) Criminal sexual conduct in any degree, assault with intent
+9 to commit criminal sexual conduct, or an attempt to commit criminal
+10 sexual conduct in any degree.
+11 (b) Felonious assault on a child, child abuse in the first
+12 degree, or an attempt to commit child abuse in the first degree.
+13 (c) Cruelty, torture, or indecent exposure involving a child.
+14 (d) A violation of section 7401(2)(a)(i), 7403(2)(a)(i), 7410,
+15 or 7416 of the public health code, 1978 PA 368, MCL 333.7401,
+16 333.7403, 333.7410, and 333.7416.
+17 (e) A violation of section 83, 89, 91, 145a, 145b, 145c, 316,
+18 317, 350, 448, 455, or 529 of the Michigan penal code, 1931 PA 328,
+19 MCL 750.83, 750.89, 750.91, 750.145a, 750.145b, 750.145c, 750.316,
+20 750.317, 750.350, 750.448, 750.455, and 750.529, or a felony
+21 violation of section 145d of the Michigan penal code, 1931 PA 328,
+22 MCL 750.145d.
+23 (f) A violation of section 158 of the Michigan penal code,
+24 1931 PA 328, MCL 750.158, if a victim is an individual less than 18
+25 years of age.
+26 (g) Except for a juvenile disposition or adjudication, a
+27 violation of section 338, 338a, or 338b of the Michigan penal code,
+28 1931 PA 328, MCL 750.338, 750.338a, and 750.338b, if a victim is an
+29 individual less than 18 years of age.
+CRM H00019'25 (H-1) m0a49h
+22
+1 (h) A violation of section 349 of the Michigan penal code,
+2 1931 PA 328, MCL 750.349, if a victim is an individual less than 18
+3 years of age.
+4 (i) An offense committed by a person who was, at the time of
+5 the offense, a sexually delinquent person as defined in section 10a
+6 of the Michigan penal code, 1931 PA 328, MCL 750.10a.
+7 (j) Any other crime that is a listed offense.
+8 (k) An attempt or conspiracy to commit an offense listed in
+9 subdivision (a), (e), (f), (g), (h), (i), or (j).
+10 (l) A violation of a substantially similar law of another
+11 state, of a political subdivision of this state or another state,
+12 or of the United States.
+13 (m) Any other crime listed in subsection (1), if the
+14 superintendent of public instruction determines the public health,
+15 safety, or welfare requires emergency action based on the
+16 circumstances underlying the conviction.
+17 (3) All of the following apply to any proceedings affecting a
+18 person's an individual's teaching certificate or local teaching
+19 certificate under this section:
+20 (a) The superintendent of public instruction shall appoint a
+21 designee to perform the investigatory and prosecutorial functions
+22 involved in the proceedings. However, the superintendent of public
+23 instruction must approve any settlement, conditional agreement, or
+24 other decision not to proceed with charges.
+25 (b) Any final action that affects the status of a person's an
+26 individual's teaching certificate shall or local teaching
+27 certificate must be taken by the superintendent of public
+28 instruction.
+29 (c) The superintendent of public instruction after a hearing
+CRM H00019'25 (H-1) m0a49h
+23
+1 shall not take action against a person's an individual's teaching
+2 certificate or local teaching certificate under subsection (1) or
+3 (2) unless the superintendent of public instruction finds that the
+4 conviction is reasonably and adversely related to the person's
+5 individual's present fitness to serve in an elementary or secondary
+6 school in this state or that the conviction demonstrates that the
+7 person individual is unfit to teach in an elementary or secondary
+8 school in this state. Further, the superintendent of public
+9 instruction may take action against a person's an individual's
+10 teaching certificate or local teaching certificate under subsection
+11 (1) or (2) based on a conviction that occurred before April 1, 2004
+12 if the superintendent of public instruction finds that the
+13 conviction is reasonably and adversely related to the person's
+14 individual's present fitness to serve in an elementary or secondary
+15 school in this state or that the conviction demonstrates that the
+16 person individual is unfit to teach in an elementary or secondary
+17 school in this state. For the purposes of this section, conviction
+18 of a listed offense is reasonably and adversely related to the
+19 person's individual's fitness to serve in an elementary or
+20 secondary school in this state and demonstrates that the person
+21 individual is unfit to teach in an elementary or secondary school
+22 in this state.
+23 (4) If a person an individual who has entered a plea of guilt
+24 or no contest to or who is the subject of a finding of guilt by a
+25 judge or jury of a crime listed in subsection (2) has been
+26 suspended from active performance of duty by a public school,
+27 school district, intermediate school district, or nonpublic school
+28 during the pendency of proceedings under this section, the public
+29 school, school district, intermediate school district, or nonpublic
+CRM H00019'25 (H-1) m0a49h
+24
+1 school employing the person individual shall discontinue the
+2 person's individual's compensation until the superintendent of
+3 public instruction has made a final determination of whether or not
+4 to suspend or revoke the person's individual's teaching certificate
+5 or local teaching certificate. If the superintendent of public
+6 instruction does not suspend or revoke the person's individual's
+7 teaching certificate or local teaching certificate, the public
+8 school, school district, intermediate school district, or nonpublic
+9 school shall make the person individual whole for lost
+10 compensation, without interest.
+11 (5) Except as otherwise provided in this subsection, after the
+12 completion of a person's an individual's sentence, the person
+13 individual may request a hearing on reinstatement of his or her the
+14 individual's teaching certificate or local teaching certificate.
+15 Based upon on the issues and evidence presented at the hearing, the
+16 superintendent of public instruction may reinstate, continue the
+17 suspension of, or permanently revoke the person's individual's
+18 teaching certificate or local teaching certificate. The
+19 superintendent of public instruction shall not reinstate a person's
+20 an individual's teaching certificate or local teaching certificate
+21 unless the superintendent of public instruction finds that the
+22 person individual is currently fit to serve in an elementary or
+23 secondary school in this state and that reinstatement of the
+24 person's individual's teaching certificate or local teaching
+25 certificate will not adversely affect the health, safety, and
+26 welfare of pupils. If a person's an individual's conviction was for
+27 a listed offense, the person individual is not entitled to request
+28 a hearing on reinstatement under this subsection, and the
+29 superintendent of public instruction shall not reinstate the
+CRM H00019'25 (H-1) m0a49h
+25
+1 person's individual's teaching certificate or local teaching
+2 certificate under this subsection.
+3 (6) All of the following apply to a person an individual
+4 described in this section whose conviction is reversed upon on
+5 final appeal:
+6 (a) The person's individual's teaching certificate shall or
+7 local teaching certificate must be reinstated upon his or her on
+8 the individual's notification to the superintendent of public
+9 instruction of the reversal.
+10 (b) If the suspension of the person's individual's teaching
+11 certificate or local teaching certificate under this section was
+12 the sole cause of his or her the individual's discharge from
+13 employment, the person shall individual must be reinstated, upon
+14 his or her on the individual's notification to the appropriate
+15 local or intermediate school board of the reversal, with full
+16 rights and benefits, to the position he or she the individual would
+17 have had if he or she the individual had been continuously
+18 employed.
+19 (c) If the person's individual's compensation was discontinued
+20 under subsection (4), the public school, school district,
+21 intermediate school district, or nonpublic school shall make the
+22 person individual whole for lost compensation.
+23 (7) If the prosecuting attorney in charge of a case receives a
+24 form as provided under section 1230d, the prosecuting attorney
+25 shall notify the superintendent of public instruction, and any
+26 public school, school district, intermediate school district, or
+27 nonpublic school in which the person individual is employed by
+28 forwarding a copy of the form to each of them not later than 7 days
+29 after receiving the form. If the court receives a form as provided
+CRM H00019'25 (H-1) m0a49h
+26
+1 under section 1230d, the court shall notify the superintendent of
+2 public instruction and any public school, school district,
+3 intermediate school district, or nonpublic school in which the
+4 person individual is employed by forwarding to each of them a copy
+5 of the form and information regarding the sentence imposed on the
+6 person individual not later than 7 days after the date of
+7 sentencing, even if the court is maintaining the file as a
+8 nonpublic record.
+9 (8) Not later than 7 days after receiving notification from
+10 the prosecuting attorney or the court under subsection (7) or
+11 learning through an authoritative source that a person an
+12 individual who holds a teaching certificate or local teaching
+13 certificate has been convicted of a crime listed in subsection (1),
+14 the superintendent of public instruction shall request the court to
+15 provide a certified copy of the judgment of conviction and sentence
+16 or other document regarding the disposition of the case to the
+17 superintendent of public instruction and shall pay any fees
+18 required by the court. The court shall provide this certified copy
+19 within 7 days after receiving the request and fees under this
+20 section or after entry of the judgment or other document, whichever
+21 is later, even if the court is maintaining the judgment or other
+22 document as a nonpublic record.
+23 (9) If the superintendent of a school district or intermediate
+24 school district, the chief administrative officer of a nonpublic
+25 school, the president of the board of a school district or
+26 intermediate school district, or the president of the governing
+27 board of a nonpublic school is notified or learns through an
+28 authoritative source that a person an individual who holds a
+29 teaching certificate or local teaching certificate and who is
+CRM H00019'25 (H-1) m0a49h
+27
+1 employed by the school district, intermediate school district, or
+2 nonpublic school has been convicted of a crime described in
+3 subsection (1) or (2), the superintendent, chief administrative
+4 officer, or board president shall notify the superintendent of
+5 public instruction of that conviction within 15 days after learning
+6 of the conviction.
+7 (10) For the purposes of this section, a certified copy of the
+8 judgment of conviction and sentence is conclusive evidence of
+9 conviction of a crime described in this section. For the purposes
+10 of this section, conviction of a crime described in this section is
+11 considered to be reasonably and adversely related to the ability of
+12 the person to serve in an elementary or secondary school and is
+13 sufficient grounds for suspension or revocation of the person's
+14 individual's teaching certificate or local teaching certificate.
+15 (11) For any hearing under subsection (1), if the
+16 superintendent of public instruction does not make a final decision
+17 and order within 120 working days after receiving the request for
+18 the hearing, as required under subsection (1), the superintendent
+19 of public instruction shall submit a report detailing the reasons
+20 for the delay to the standing committees and appropriations
+21 subcommittees of the senate and house of representatives that have
+22 jurisdiction over education and education appropriations. The
+23 failure of the superintendent of public instruction to make a final
+24 decision and order within this 120 working day time limit, or the
+25 failure of any other official or agency to meet a time limit
+26 prescribed in this section, does not affect the validity of an
+27 action taken under this section affecting a person's an
+28 individual's teaching certificate or local teaching certificate.
+29 (12) The superintendent of public instruction shall submit to
+CRM H00019'25 (H-1) m0a49h
+28
+1 the legislature an annual report of all final actions he or she the
+2 superintendent of public instruction has taken under this section
+3 affecting a person's an individual's teaching certificate or local
+4 teaching certificate during the preceding year. The report shall
+5 must contain at least all of the following with respect to each
+6 person whose teaching certificate or local teaching certificate has
+7 been affected:
+8 (a) The person's individual's name, as it appears on the
+9 teaching certificate or local teaching certificate.
+10 (b) The school district, intermediate school district, public
+11 school academy, or nonpublic school in which the person individual
+12 was employed at the time of the conviction, if any.
+13 (c) The offense for which the person individual was convicted
+14 and the date of the offense and date of the conviction.
+15 (d) Whether the action taken by the superintendent of public
+16 instruction was a summary suspension, suspension due to failure to
+17 request a hearing, suspension, revocation, or reinstatement of the
+18 teaching certificate or local teaching certificate.
+19 (13) This section does not do any of the following:
+20 (a) Prohibit a person an individual who holds a teaching
+21 certificate or local teaching certificate from seeking monetary
+22 compensation from a school board or intermediate school board if
+23 that right is available under a collective bargaining agreement or
+24 another statute.
+25 (b) Limit the rights and powers granted to a school district
+26 or intermediate school district under a collective bargaining
+27 agreement, this act, or another statute to discipline or discharge
+28 a person an individual who holds a teaching certificate or local
+29 teaching certificate.
+CRM H00019'25 (H-1) m0a49h
+29
+1 (14) The superintendent of public instruction may promulgate,
+2 as necessary, rules to implement this section pursuant to the
+3 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+4 24.328.
+5 (15) The department of technology, management, and budget
+6 shall work with the department and the department of state police
+7 to develop and implement an automated program that does a
+8 comparison of the department's list of individuals holding a
+9 teaching certificate or state board approval, and of any other list
+10 maintained by the department of individuals employed or regularly
+11 and continuously working under contract in a school, with the
+12 conviction information received by the department of state police.
+13 This comparison shall only include individuals who are actually
+14 school employees at the time of the comparison or who are regularly
+15 and continuously working under contract at the time of the
+16 comparison. Unless otherwise prohibited by law, this comparison
+17 shall include convictions contained in a nonpublic record. The
+18 department and the department of state police shall perform this
+19 comparison during January and June of each year until July 1, 2008.
+20 The department of state police shall take all reasonable and
+21 necessary measures using the available technology to ensure the
+22 accuracy of this comparison before transmitting the information
+23 under this subsection to the department. The department shall take
+24 all reasonable and necessary measures using the available
+25 technology to ensure the accuracy of this comparison before
+26 notifying a school district, intermediate school district, public
+27 school academy, or nonpublic school of a conviction. If a
+28 comparison discloses that a person on the department's list of
+29 individuals holding a teaching certificate or state board approval
+CRM H00019'25 (H-1) m0a49h
+30
+1 has been convicted of a crime, or if the department is otherwise
+2 notified by the department of state police that such a person has
+3 been convicted of a crime, the department shall notify the
+4 superintendent or chief administrator and the board or governing
+5 body of the school district, intermediate school district, public
+6 school academy, or nonpublic school in which the person is employed
+7 of that conviction.
+8 (15) (16) As used in this section:
+9 (a) "Conviction" means a judgment entered by a court upon a
+10 plea of guilty, guilty but mentally ill, or nolo contendere or upon
+11 a jury verdict or court finding that a defendant is guilty or
+12 guilty but mentally ill.
+13 (b) "Felony" means that term as defined in section 1 of
+14 chapter I of the code of criminal procedure, 1927 PA 175, MCL
+15 761.1.
+16 (c) "Listed offense" means that term as defined in section 2
+17 of the sex offenders registration act, 1994 PA 295, MCL 28.722.
+18 (d) "Local teaching certificate" means that term as defined in
+19 section 1531l.
+20 (e) (d) "Prosecuting attorney" means the prosecuting attorney
+21 for a county, an assistant prosecuting attorney for a county, the
+22 attorney general, the deputy attorney general, an assistant
+23 attorney general, a special prosecuting attorney, or, in connection
+24 with the prosecution of an ordinance violation, an attorney for the
+25 political subdivision that enacted the ordinance upon which the
+26 violation is based.
+27 (f) (e) "Regularly and continuously work under contract" means
+28 that term as defined in section 1230d.
+29 Sec. 1531l. (1) The board of a school district or intermediate
+CRM H00019'25 (H-1) m0a49h
+31
+1 school district or board of directors of a public school academy
+2 may issue a local teaching certificate to an individual under this
+3 section. If the board of a school district or intermediate school
+4 district or board of directors of a public school academy elects to
+5 issue local teaching certificates under this section, the board of
+6 the school district or intermediate school district or board of
+7 directors of a public school academy must establish requirements
+8 that an individual must meet to be issued a local teaching
+9 certificate.
+10 (2) Subject to federal law, the superintendent of public
+11 instruction shall establish a process for the board of a school
+12 district or intermediate school district or board of directors of a
+13 public school academy to grant an individual a local teaching
+14 certificate. The process must not allow for the granting of a local
+15 teaching certificate under this section for teaching special
+16 education.
+17 (3) The process established under subsection (2) must provide
+18 that if a board of a school district or intermediate school
+19 district or a board of directors of a public school academy elects
+20 to issue a local teaching certificate, the board of the school
+21 district or intermediate school district or board of directors of
+22 the public school academy will, subject to section 1809, grant a
+23 local teaching certificate to an individual who meets at least all
+24 of the following:
+25 (a) Holds a bachelor's, master's, doctorate, or professional
+26 degree in the subject area that the individual will teach from a
+27 regionally accredited college or university.
+28 (b) Received a grade point average of at least 3.0 on a 4.0
+29 scale or the equivalent on another scale, as determined by the
+CRM H00019'25 (H-1) m0a49h
+32
+1 board of the school district or board of directors of the public
+2 school academy, upon earning the degree required under subdivision
+3 (a). If the individual has earned more than 1 degree required under
+4 subdivision (a), the highest grade point average earned by the
+5 individual may be used in determining the grade point average under
+6 this subdivision.
+7 (c) Any requirements established by the board of the school
+8 district or intermediate school district or board of directors of
+9 the public school academy.
+10 (4) A local teaching certificate issued under this section is
+11 valid for not more than 5 years from the initial date of issuance.
+12 To continue serving as a teacher in a public school after the
+13 expiration of a local teaching certificate under this subsection,
+14 an individual must obtain a teaching certificate issued by the
+15 superintendent of public instruction under section 1531 or an
+16 interim teaching certificate under section 1531i. This subsection
+17 does not apply to an individual who is serving as a teacher for an
+18 industrial technology career program or a career and technical
+19 education program.
+20 (5) A local teaching certificate may not be issued under this
+21 section after July 1, 2035.
+22 (6) As used in this section, "local teaching certificate"
+23 means a teaching certificate issued by a school district,
+24 intermediate school district, or public school academy that
+25 authorizes an individual to teach a specific subject area only in a
+26 school that is operated by the school district, intermediate school
+27 district, or public school academy that issued the teaching
+28 certificate.
+29 Sec. 1809. (1) In addition to any other penalty provided by
+CRM H00019'25 (H-1) m0a49h
+33
+1 law, a person an individual who uses or attempts to use a teaching
+2 certificate or a local teaching certificate that he or she the
+3 individual knows is surrendered, suspended, revoked, nullified,
+4 fraudulently obtained, altered, or forged, or who uses or attempts
+5 to use as his or her the individual's own a valid teaching
+6 certificate or local teaching certificate that he or she the
+7 individual knows is issued to another person, individual, to obtain
+8 employment in a position requiring a valid teaching certificate or
+9 local teaching certificate or who remains employed in a position
+10 requiring a valid teaching certificate or local teaching
+11 certificate knowing that he or she the individual does not hold a
+12 valid teaching certificate or local teaching certificate is guilty
+13 of a misdemeanor, punishable as follows:
+14 (a) For the first offense, by imprisonment for not more than
+15 93 days or a fine of not more than $500.00, or both.
+16 (b) For a second or subsequent offense, by imprisonment for
+17 not more than 6 months or a fine of not less than $500.00 or more
+18 than $1,000.00, or both.
+19 (2) In addition to any other penalty provided by law, a person
+20 an individual who uses or attempts to use a school administrator's
+21 certificate that he or she the individual knows is surrendered,
+22 suspended, revoked, nullified, fraudulently obtained, altered, or
+23 forged, or who uses or attempts to use as his or her the
+24 individual's own a valid school administrator's certificate that he
+25 or she the individual knows is issued to another person,
+26 individual, to obtain employment as a school administrator or who
+27 remains employed in a position requiring a valid school
+28 administrator's certificate knowing that he or she the individual
+29 does not hold a valid school administrator's certificate is guilty
+CRM H00019'25 (H-1) m0a49h
+34
+1 of a misdemeanor, punishable as follows:
+2 (a) For the first offense, by imprisonment for not more than
+3 93 days or a fine of not more than $500.00, or both.
+4 (b) For a second or subsequent offense, by imprisonment for
+5 not more than 6 months or a fine of not less than $500.00 or more
+6 than $1,000.00, or both.
+7 (3) In addition to any other penalty provided by law, a person
+8 who uses or attempts to use a state board approval that he or she
+9 the individual knows is surrendered, suspended, revoked, nullified,
+10 fraudulently obtained, altered, or forged, or who uses or attempts
+11 to use as his or her the individual's own a valid state board
+12 approval that he or she the individual knows is issued to another
+13 person, individual, to obtain employment in a position requiring a
+14 valid state board approval or who remains employed in a position
+15 requiring a valid state board approval knowing that he or she the
+16 individual does not hold a valid state board approval is guilty of
+17 a misdemeanor, punishable as follows:
+18 (a) For the first offense, by imprisonment for not more than
+19 93 days or a fine of not more than $500.00, or both.
+20 (b) For a second or subsequent offense, by imprisonment for
+21 not more than 6 months or a fine of not less than $500.00 or more
+22 than $1,000.00, or both.
+23 (4) In addition to any other penalty provided by law, a person
+24 an individual who uses or attempts to use a college or university
+25 transcript or a certificate or other credential that he or she the
+26 individual knows is fraudulently obtained, altered, or forged, or
+27 who uses or attempts to use as his or her the individual's own a
+28 college or university transcript or a certificate or other
+29 credential that he or she the individual knows is that of another
+CRM H00019'25 (H-1) m0a49h
+35
+1 person, individual, to obtain a teaching certificate, local
+2 teaching certificate, school administrator's certificate, or state
+3 board approval in this state is guilty of a misdemeanor, punishable
+4 as follows:
+5 (a) For the first offense, by imprisonment for not more than
+6 93 days or a fine of not more than $500.00, or both.
+7 (b) For a second or subsequent offense, by imprisonment for
+8 not more than 6 months or a fine of not less than $500.00 or more
+9 than $1,000.00, or both.
+10 (5) The state board may refuse to issue or renew a teaching
+11 certificate, school administrator's certificate, or state board
+12 approval, or refuse to issue an endorsement for a teaching
+13 certificate or school administrator's certificate, to a person an
+14 individual convicted of a violation of this section.
+15 (6) The board of a school district or intermediate school
+16 district or board of directors of a public school academy may
+17 refuse to issue or renew a local teaching certificate to an
+18 individual convicted of a violation of this section.
+19 (7) (6) As used in this section: , "state
+20 (a) "Local teaching certificate" means that term as defined in
+21 section 1531l.
+22 (b) "State board approval" means that term as defined in
+23 section 1539b.
+Final Page
+CRM H00019'25 (H-1) m0a49h
+[DELETED:   H m1. S]
+[DELETED:   H m s s s s s s p a p g ( ( a () () () () () s()()i j c 1 ( v) t p)i . ( u]
+[DELETED:   H m 3 r a t r ( b a s a p b a ( c c ( d c S u i o 1 s s u a t]
+[DELETED:   H m a ( ( p ( v) t p)i . ( b a o e f a u ( e s m s ( u 4 56. ( d c]
+[DELETED:   H m S s s s s s s s a p g ( ( a () () i. d () () () s()()i j c 1 ( v) t p)i . (]
+[DELETED:   H m u 3 r a t r ( b t b a a p p ( u o f o l ( e s m s ( c c (]
+[DELETED:   H m d c S a w a b ss  ab t ( c d ( w te  t b d c i ( e ara o s e ( d a]
+[DELETED:   H m f o ( o s t t ( ( t a ( d 31  ( ( s S s o n t ( d r r t]
+[DELETED:   H m s l ( () s s b c p () c ( t i c d p () s f () c ( a 1 s n a v o]
+[DELETED:   H m w ( t p c t ( b d w a s i ( c c s ( t p m d d () c s () w 1 ( s]
+[DELETED:   H m ( t y e b () i 1 ( c t w i d c p b F b t t a t p c c u p (]
+[DELETED:   H m h p i s p b ( f a p i t s t r f a s t s ( o ( 2 i c s m ( ()]
+[DELETED:   H m e s () d ( a () w h o t a t () w l w i s i i s ( s f n o ( 1]
+[DELETED:   H m s 1 s ( p a m ( a ( s ( ( i h f c s e p c s s t c ( a i f m f b]
+[DELETED:   H m ( u ( a " s i i s w e1  ( s () c () t () s () S u i o 1 g u]
+[DELETED:   H m A g a1 c p o (1: ( a1: () 1 () () () ( v 11. ( u 3 r a t r ( b a o e f]
+[DELETED:   H m a1, a c s ( c c ( s 1 S a t e i w t o a t i t I m d i p i s  ( t]
+[DELETED:   H m e i i s s f d o t A b r y s c c1  ( i ( a r]
+[DELETED:   H m a e r e w S o w t c r i i o t o m o r s b c a t d o t n i o b h c 1 t s t o o b t p f]
+[DELETED:   H m ( ( () t () c () e () h () M a o 7 () l ()) ( s o ( w t c s h o t c u a]
+[DELETED:   H m s u s s f T c ( t s ( d ( (()() o 3 ( 3 M 7 v M ( 1 y ( v 1 i]
+[DELETED:   H m ( 1 y ( t o ( ( s () s o ( s s c ( p t o u ( d i i o ( o t b i (]
+[DELETED:   H m s t c u ( c p s p i s i t u ( i c p s p i s o p f s i i ( w o j s s d s]
+[DELETED:   H m s s p c p t t  . i te, s s w c ( c s t m   te. B t s s te. s o t u p i s p t o w w c a i a s]
+[DELETED:   H m p t o u ( d f ( t o o b n i ( t c u t d e b h n l r w h h e ( c u i p w ( f s p n i f a]
+[DELETED:   H m u p i p i o p n s n ( t l o w h t p o s r w s i d ( s s i b a w t a]
+[DELETED:   H m e n s o p o ( j c o c t s   te. ( s a t o f s j f d f p a   te. (]
+[DELETED:   H m t h a t o d c p h b ( n te. ( s w ( w a ( i r te. ( ( w c f c t a ( o a a w   .]
+[DELETED:   H m ( a a 2 ( s t c t m a c T s a c s d c T n a u a t n s c i]
+[DELETED:   H m h n b s b s o ( ( p a g ( c 7 ( o1  ( f a a w p v ( t1.]
+[DELETED:   H m]
+[DELETED:   H m  S]
+[DELETED:   H m l w c t t k f t o c t t i k t e o r t k d v i o ( 9 ( n t ( w c k s f o o k t r a d]
+[DELETED:   H m o ( 9 ( n t ( w k f t o a k p t v r d a ( 9 ( n t ( w t k w o c c k]
+[DELETED:   H m p t l s b a ( 9 ( n t ( c a c  c  :  (n,1. b s]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4153
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending sections 501, 521, 551, 1231, 1233, 1311b, 1526, 1535a,
+and 1809 (MCL 380.501, 380.521, 380.551, 380.1231, 380.1233,
+380.1311b, 380.1526, 380.1535a, and 380.1809), sections 501 and 551
+as amended by 2016 PA 192, section 521 as added by 2003 PA 179,
+section 1231 as amended by 2020 PA 23, section 1233 as amended by
+2023 PA 111, section 1311b as amended by 2012 PA 620, section 1526
+as amended by 2023 PA 110, section 1535a as amended by 2016 PA 532,
+and section 1809 as amended by 2020 PA 384, and by adding section
+1531l.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 501. (1) A public school academy is a public school under
+CRM H00019'25 (H-1) m0a49h
+
+2
+1 section 2 of article VIII of the state constitution of 1963, is a
+2 school district for the purposes of section 11 of article IX of the
+3 state constitution of 1963 and for the purposes of section 1225 and
+4 section 1351a, and is subject to the leadership and general
+5 supervision of the state board over all public education under
+6 section 3 of article VIII of the state constitution of 1963. A
+7 public school academy is a body corporate and is a governmental
+8 agency. The powers granted to a public school academy under this
+9 part constitute the performance of essential public purposes and
+10 governmental functions of this state.
+11 (2) As used in this part:
+12 (a) "Authorizing body" means any of the following that issues
+13 a contract as provided in this part:
+14 (i) The board of a school district.
+15 (ii) An intermediate school board.
+16 (iii) The board of a community college.
+17 (iv) The governing board of a state public university.
+18 (v) Two or more of the public agencies described in
+19 subparagraphs (i) to (iv) exercising power, privilege, or authority
+20 jointly pursuant to an interlocal agreement under the urban
+21 cooperation act of 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to
+22 124.512.
+23 (b) "Certificated teacher" means an individual who holds a
+24 valid either of the following:
+25 (i) A teaching certificate issued by the superintendent of
+26 public instruction under section 1531.
+27 (ii) A local teaching certificate under section 1531l.
+28 (c) "Community college" means a community college organized
+29 under the community college act of 1966, 1966 PA 331, MCL 389.1 to
+CRM H00019'25 (H-1) m0a49h
+
+3
+1 389.195, or a federal tribally controlled community college that is
+2 recognized under the tribally controlled colleges and universities
+3 assistance act of 1978, 25 USC 1801 to 1864, and is determined by
+4 the department to meet the requirements for accreditation by a
+5 recognized regional accrediting body.
+6 (d) "Contract" means the executive act taken by an authorizing
+7 body that evidences the authorization of a public school academy
+8 and that establishes, subject to the constitutional powers of the
+9 state board and applicable law, the written instrument executed by
+10 an authorizing body conferring certain rights, franchises,
+11 privileges, and obligations on a public school academy, as provided
+12 by this part, and confirming the status of a public school academy
+13 as a public school in this state.
+14 (e) "Entity" means a partnership, nonprofit or business
+15 corporation, labor organization, or any other association,
+16 corporation, trust, or other legal entity.
+17 (f) "State public university" means a state university
+18 described in section 4, 5, or 6 of article VIII of the state
+19 constitution of 1963.
+20 Sec. 521. (1) An urban high school academy is a public school
+21 under section 2 of article VIII of the state constitution of 1963,
+22 is a school district for the purposes of section 11 of article IX
+23 of the state constitution of 1963 and for the purposes of sections
+24 1225 and 1351a, and is subject to the leadership and general
+25 supervision of the state board over all public education under
+26 section 3 of article VIII of the state constitution of 1963. An
+27 urban high school academy is a body corporate and is a governmental
+28 agency. The powers granted to an urban high school academy under
+29 this part constitute the performance of essential public purposes
+CRM H00019'25 (H-1) m0a49h
+
+4
+1 and governmental functions of this state.
+2 (2) As used in this part:
+3 (a) "Authorizing body" means the governing board of a state
+4 public university that issues a contract as provided in this part.
+5 (b) "Certificated teacher" means an individual who holds a
+6 valid either of the following:
+7 (i) A teaching certificate issued by the superintendent of
+8 public instruction under section 1531.
+9 (ii) A local teaching certificate under section 1531l.
+10 (c) "Contract" means the executive act taken by an authorizing
+11 body that evidences the authorization of an urban high school
+12 academy and that establishes, subject to the constitutional powers
+13 of the state board and applicable law, the written instrument
+14 executed by an authorizing body conferring certain rights,
+15 franchises, privileges, and obligations on an urban high school
+16 academy, as provided by this part, and confirming the status of an
+17 urban high school academy as a public school in this state.
+18 (d) "Educational management company" means an entity that
+19 enters into an agreement with the governing board of a public
+20 school to provide comprehensive educational, administrative,
+21 management, or instructional services or staff to the public
+22 school.
+23 (e) "Entity" means a nonprofit corporation that is organized
+24 under the nonprofit corporation act, 1982 PA 162, MCL 450.2101 to
+25 450.3192, and that has been granted tax-exempt status under section
+26 509(a) of the internal revenue code of 1986, 26 USC 509.
+27 (f) "State public university" means a state university
+28 described in section 4, 5, or 6 of article VIII of the state
+29 constitution of 1963.
+CRM H00019'25 (H-1) m0a49h
+
+5
+1 Sec. 551. (1) A school of excellence is a public school under
+2 section 2 of article VIII of the state constitution of 1963, is a
+3 school district for the purposes of section 11 of article IX of the
+4 state constitution of 1963 and for the purposes of section 1225 and
+5 section 1351a, and is subject to the leadership and general
+6 supervision of the state board over all public education under
+7 section 3 of article VIII of the state constitution of 1963. A
+8 school of excellence is a body corporate and is a governmental
+9 agency. The powers granted to a school of excellence under this
+10 part constitute the performance of essential public purposes and
+11 governmental functions of this state.
+12 (2) As used in this part:
+13 (a) "Authorizing body" means any of the following that issues
+14 a contract as provided in this part:
+15 (i) The board of a school district.
+16 (ii) An The board of an intermediate school board.district.
+17 (iii) The board of a community college.
+18 (iv) The governing board of a state public university.
+19 (v) Two or more of the public agencies described in
+20 subparagraphs (i) to (iv) exercising power, privilege, or authority
+21 jointly pursuant to an interlocal agreement under the urban
+22 cooperation act of 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to
+23 124.512.
+24 (b) "Certificated teacher" means an individual who holds a
+25 valid either of the following:
+26 (i) A teaching certificate issued by the superintendent of
+27 public instruction under section 1531.
+28 (ii) A local teaching certificate under section 1531l.
+29 (c) "Community college" means a community college organized
+CRM H00019'25 (H-1) m0a49h
+
+6
+1 under the community college act of 1966, 1966 PA 331, MCL 389.1 to
+2 389.195, or a federal tribally controlled community college that is
+3 recognized under the tribally controlled colleges and universities
+4 assistance act of 1978, 25 USC 1801 to 1864, and is determined by
+5 the department to meet the requirements for accreditation by a
+6 recognized regional accrediting body.
+7 (d) "Contract" means the executive act taken by an authorizing
+8 body that evidences the authorization of a school of excellence and
+9 that establishes, subject to the constitutional powers of the state
+10 board and applicable law, the written instrument executed by an
+11 authorizing body conferring certain rights, franchises, privileges,
+12 and obligations on a school of excellence, as provided by this
+13 part, and confirming the status of a school of excellence as a
+14 public school in this state.
+15 (e) "Cyber school" means a school of excellence established
+16 under this part that has been issued a contract to be organized and
+17 operated as a cyber school under section 552(2) and that provides
+18 full-time instruction to pupils through online learning or
+19 otherwise on a computer or other technology, which instruction and
+20 learning may be remote from a school facility.
+21 (f) "Educational management organization" means an entity that
+22 enters into an agreement with the governing board of a public
+23 school to provide comprehensive educational, administrative,
+24 management, or instructional services or staff to the public
+25 school.
+26 (g) "Entity" means a partnership, nonprofit or business
+27 corporation, labor organization, or any other association,
+28 corporation, trust, or other legal entity.
+29 (h) "State public university" means a state university
+CRM H00019'25 (H-1) m0a49h
+
+7
+1 described in section 4, 5, or 6 of article VIII of the state
+2 constitution of 1963.
+3 Sec. 1231. (1) Except as otherwise provided in subsections (5)
+4 and (6), the board of a school district shall hire and contract
+5 with qualified teachers. Contracts with teachers must be in writing
+6 and signed on behalf of the school district by a majority of the
+7 board, by the president and secretary of the board, or by the
+8 superintendent of schools, or by an authorized representative of
+9 the board. The contracts must specify the wages agreed upon.
+10 (2) The board of a school district shall file a teacher's
+11 contract with the secretary of the board and shall furnish a
+12 duplicate copy of the contract to the teacher.
+13 (3) Except as otherwise provided under this act, a contract
+14 with a teacher is not valid unless the individual holds a valid
+15 teaching certificate or a local teaching certificate, or is engaged
+16 to teach under section 1233b at the time the contractual period
+17 begins or the individual is engaged to teach in a community
+18 district under section 1233c. A contract terminates if the
+19 certificate expires by limitation and is not renewed immediately or
+20 if it is suspended or revoked by proper legal authority.
+21 (4) The board of a school district, after a teacher has been
+22 employed at least 2 consecutive years by the board, may enter into
+23 a continuing contract with a certificated teacher, a teacher with a
+24 local teaching certificate, or a teacher engaged to teach under
+25 section 1233b or, for a community district, with an individual
+26 engaged to teach in a community district under section 1233c.
+27 (5) The board of a school district that is a community
+28 district may employ or contract for, or both, qualified teachers
+29 and other qualified instructional personnel at a public school that
+CRM H00019'25 (H-1) m0a49h
+
+8
+1 formerly operated as an achievement school as necessary to carry
+2 out the purposes of the community district.
+3 (6) If a school district partners with an education management
+4 organization for a dropout recovery program as described under
+5 section 23a of the state school aid act of 1979, MCL 388.1623a, the
+6 teacher of record for that program may be employed by or contracted
+7 through the education management organization.
+8 (7) As used in this section:
+9 (a) "Achievement school" means a public school formerly within
+10 the education achievement system that was operated, managed,
+11 authorized, established, or overseen by the achievement authority.
+12 (b) "Education management organization" means that term as
+13 defined in section 23a of the state school aid act of 1979, MCL
+14 388.1623a.
+15 (c) "Local teaching certificate" means that term as defined in
+16 section 1531l.
+17 (d) (c) "Teacher" does not include a substitute teacher.
+18 (e) (d) "Teacher of record" means that term as defined in
+19 section 23a of the state school aid act of 1979, MCL 388.1623a.
+20 Sec. 1233. (1) Except as otherwise provided by law, and
+21 subject to sections 1233b and 1233c, the board of a school district
+22 or intermediate school district shall not permit a teacher who does
+23 not hold a valid teaching certificate or a local teaching
+24 certificate to teach in a grade or department of the school.
+25 (2) The board of a school district or intermediate school
+26 district shall not allow an individual to serve in a counseling
+27 role in the school district or intermediate school district, as the
+28 role is defined by the superintendent of public instruction, unless
+29 the individual holds a valid school counselor credential. The
+CRM H00019'25 (H-1) m0a49h
+
+9
+1 superintendent of public instruction shall issue a school counselor
+2 license only to an individual who meets 1 or more of the following:
+3 (a) The individual meets both of the following:
+4 (i) Holds a master's degree awarded after completion of a
+5 school counselor education program that is approved by the
+6 superintendent of public instruction based on standards developed
+7 by the department in consultation with practicing school
+8 counselors, representatives from school counselor preparation
+9 programs, and state associations representing school counselors.
+10 (ii) Has successfully completed the department's school
+11 counselor examination.
+12 (b) Subject to subsection (15), (12), the individual is an
+13 individual who holds a school counselor license from another state,
+14 country, or federally recognized Indian tribe, holds a master's
+15 degree awarded after completion of a school counselor education
+16 program, and meets either of the following:
+17 (i) Has at least 3 years of successful experience serving in a
+18 school counseling role in another state or country or with a
+19 federally recognized Indian tribe.
+20 (ii) Has successfully completed the department's school
+21 counselor examination.
+22 (3) Except for teachers engaged to teach under section 1233b
+23 and teachers engaged to teach in a community district under section
+24 1233c, the intermediate superintendent shall notify the
+25 superintendent of public instruction immediately of the names of
+26 noncertificated teachers teaching in violation of subsection (1)
+27 and the names of individuals serving in counseling roles in
+28 violation of subsection (2), the employing district, and the amount
+29 of time the noncertificated teachers or unqualified individuals
+CRM H00019'25 (H-1) m0a49h
+
+10
+1 were employed.
+2 (4) A vocational teacher preparation institution shall utilize
+3 the employment experience of an annually authorized teacher for the
+4 purpose of waiving student teaching as a requirement for vocational
+5 certification if the annually authorized teacher is supervised by
+6 the teacher preparation institution.
+7 (5) Subject to subsection (10), the The board of a school
+8 district or intermediate school district may employ an individual
+9 without a teaching certificate or a local teaching certificate as a
+10 substitute teacher if either of the following requirements is met,
+11 if applicable:
+12 (a) The individual has at least 60 semester hours of college
+13 credit or an associate degree from a college, university, or
+14 community college. The 60 semester hours do not need to be from the
+15 same college, university, or community college.
+16 (b) For substitute teaching a course in an industrial
+17 technology education program or a career and technical education
+18 program, the individual is engaged to substitute teach in a subject
+19 matter or field in which the individual has achieved expertise, as
+20 determined by the board of a school district or intermediate school
+21 district and satisfies all of the following, if applicable:
+22 (i) Has a high school diploma or a high school equivalency
+23 certificate as that term is defined in section 4 of the state
+24 school aid act of 1979, MCL 388.1604.
+25 (ii) For substitute teaching in a subject matter or field in
+26 which a professional license or certification is required, at least
+27 1 of the following:
+28 (A) Holds a professional license or certification in that same
+29 subject matter or field.
+CRM H00019'25 (H-1) m0a49h
+
+11
+1 (B) Previously held a professional license or certification in
+2 that same subject matter or field that expired not more than 2
+3 years before the noncertificated substitute teacher's initial
+4 employment under this section and was in good standing immediately
+5 before the license or certification expired.
+6 (iii) Has at least 2 cumulative years of professional experience
+7 in that same subject matter or field in the immediately preceding
+8 10 years.
+9 (6) The department shall not renew an individual's school
+10 counselor credential unless the department determines that, within
+11 the time period since the individual's school counselor credential
+12 was issued or last renewed, whichever is most recent, the
+13 individual has completed at least 25 hours of professional
+14 development approved by the department under subsection (8)
+15 covering counseling about the college preparation and selection
+16 process and at least 25 hours of professional development approved
+17 by the department under subsection (8) covering career counseling.
+18 For the purposes of this subsection, career counseling includes,
+19 but is not limited to, exploration of military career options and
+20 the skilled trades as well as other careers and pathways that lead
+21 to industry credentials awarded in recognition of an individual's
+22 attainment of measurable technical or occupational skills necessary
+23 to obtain employment or advance within an occupation. The hours of
+24 professional development required under this subsection covering
+25 career counseling must include at least 5 hours covering military
+26 career options. The hours of professional development required
+27 under this subsection are a part of and not in addition to
+28 professional development requirements under department rule.
+29 (7) An individual may complete the professional development
+CRM H00019'25 (H-1) m0a49h
+
+12
+1 hours for the purposes of subsection (6) as part of the
+2 professional development provided by a school district,
+3 intermediate school district, public school academy, or nonpublic
+4 school under section 1527 if the content and curriculum of the
+5 professional development provided under section 1527 are approved
+6 by the department under subsection (8).
+7 (8) The department shall approve the professional development
+8 for the purposes of subsection (6). The department shall only
+9 approve a professional development program or course for the
+10 purposes of subsection (6) only if the department determines that
+11 the content and curriculum for the professional development meet
+12 standards that are developed by the department in consultation with
+13 the department of labor and economic opportunity and groups
+14 representing school counselors, college admissions professionals,
+15 financial aid officers, employers, and others as determined
+16 appropriate by the department. The department shall develop these
+17 standards by July 1, 2018 and shall facilitate the involvement in
+18 the development of the standards of the groups required under this
+19 subsection.
+20 (9) The superintendent of public instruction shall promulgate
+21 or modify rules as necessary to implement this section.
+22 (10) Subject to subsection (12), beginning on December 27,
+23 2021 through June 30, 2022, the board of a school district or
+24 intermediate school district may employ an individual without a
+25 certificate or permit who does not meet the requirements under
+26 subsection (5) as a substitute teacher if both of the following are
+27 met:
+28 (a) Both of the following apply to the individual:
+29 (i) The individual has a high school diploma or high school
+CRM H00019'25 (H-1) m0a49h
+
+13
+1 equivalency certificate as that term is defined in section 4 of the
+2 state school aid act of 1979, MCL 388.1604.
+3 (ii) The individual is employed by or works at the school
+4 district or intermediate school district.
+5 (b) The board ensures that both of the following are met, as
+6 applicable:
+7 (i) If the individual's existing salary as an employee of or
+8 worker at the school district or intermediate school district is
+9 higher than the salary of a substitute teacher who is employed at
+10 or works at the school district or intermediate school district,
+11 the individual's salary for the individual's employment or work as
+12 a substitute teacher under this subsection must not be lower than
+13 the individual's existing salary.
+14 (ii) If the individual's existing salary as an employee of or
+15 worker at the school district or intermediate school district is
+16 lower than the salary of a substitute teacher who is employed at or
+17 works at the school district or intermediate school district, the
+18 individual's salary for the individual's employment or work as a
+19 substitute teacher under this subsection must be in an amount that
+20 is equal to or greater than the salary of a substitute teacher who
+21 is employed at or works at the school district or intermediate
+22 school district.
+23 (11) An individual who declines employment or assignment as a
+24 substitute teacher under subsection (10) must not be terminated
+25 from the individual's existing employment or assignment and must
+26 not be subject to retaliation solely for declining the employment
+27 or assignment under subsection (10).
+28 (12) Notwithstanding any other provision of this act, sections
+29 1230(2) and 1230a(2) do not apply to an individual employed under
+CRM H00019'25 (H-1) m0a49h
+
+14
+1 subsection (10). However, all other requirements under sections
+2 1230 and 1230a apply to the employment of an individual under
+3 subsection (10).
+4 (10) (13) The superintendent of public instruction may issue a
+5 preliminary school counselor license to an individual enrolled in
+6 an approved school counselor preparation program if the individual
+7 meets both of the following:
+8 (a) The individual has completed at least 30 semester hours in
+9 an approved school counselor preparation program.
+10 (b) The individual has successfully completed the department's
+11 school counselor examination.
+12 (11) (14) Subject to subsection (15), (12), if an individual
+13 holding a school counselor license from another state, country, or
+14 federally recognized Indian tribe applies for a Michigan school
+15 counselor license and meets all requirements for the Michigan
+16 school counselor license except for passage of the appropriate
+17 examinations described in subsection (2)(b), the superintendent of
+18 public instruction shall issue a nonrenewable temporary school
+19 counselor license, good for 1 year, to the individual. The
+20 superintendent of public instruction shall not issue a Michigan
+21 school counselor license to the individual after the expiration of
+22 the temporary school counselor license unless the individual
+23 completes the licensing requirements described in this section.
+24 (12) (15) The superintendent of public instruction shall deny
+25 a Michigan school counselor credential to an individual described
+26 in subsection (2)(b) or (14) (11) for fraud, material
+27 misrepresentation, or concealment in the individual's application
+28 for a license or for a conviction for which an individual's state
+29 board approval may be suspended or revoked under section 1539b.
+CRM H00019'25 (H-1) m0a49h
+
+15
+1 (13) (16) Except as otherwise provided in this section, as
+2 used in this section:
+3 (a) "Individual holding a school counselor license from
+4 another state, country, or federally recognized Indian tribe" or
+5 "individual who holds a school counselor license from another
+6 state, country, or federally recognized Indian tribe" means an
+7 individual with a valid school counselor credential or an
+8 individual who is eligible for a school counselor credential in the
+9 state or country or with the federally recognized Indian tribe in
+10 which or with which the individual holds the credential or is
+11 eligible for the credential.
+12 (b) "Local teaching certificate" means that term as defined in
+13 section 1531l.
+14 (c) (b) "School counselor credential" means, except as used in
+15 subdivision (a), 1 of the following:
+16 (i) A school counselor endorsement on a valid Michigan teaching
+17 certificate.
+18 (ii) A preliminary school counselor license as described in
+19 this section.
+20 (iii) A temporary school counselor license as described in this
+21 section.
+22 (iv) A school counselor license.
+23 Sec. 1311b. (1) A strict discipline academy is a public school
+24 under section 2 of article VIII of the state constitution of 1963,
+25 is a school district for the purposes of section 11 of article IX
+26 of the state constitution of 1963 and for the purposes of section
+27 1225 and section 1351a, and is subject to the leadership and
+28 general supervision of the state board over all public education
+29 under section 3 of article VIII of the state constitution of 1963.
+CRM H00019'25 (H-1) m0a49h
+
+16
+1 A strict discipline academy is a body corporate and is a
+2 governmental agency. The powers granted to a strict discipline
+3 academy under sections 1311b to 1311l 1311m constitute the
+4 performance of essential public purposes and governmental functions
+5 of this state.
+6 (2) As used in sections 1311b to 1311l:1311m:
+7 (a) "Authorizing body" means any of the following that issues
+8 a contract as provided in sections 1311b to 1311l:1311m:
+9 (i) The board of a school district that operates grades K to
+10 12.
+11 (ii) An intermediate school board.
+12 (iii) The board of a community college.
+13 (iv) The governing board of a state public university.
+14 (b) "Certificated teacher" means an individual who holds a
+15 valid teaching certificate issued by the state board under section
+16 1531 or a local teaching certificate under section 1531l.
+17 (c) "Community college" means a community college organized
+18 under the community college act of 1966, 1966 PA 331, MCL 389.1 to
+19 389.195, or a federal tribally controlled community college that is
+20 recognized under the tribally controlled colleges and universities
+21 assistance act of 1978, 25 USC 1801 to 1852, and is determined by
+22 the department to meet the requirements for accreditation by a
+23 recognized regional accrediting body.
+24 (d) "Contract" means the executive act taken by an authorizing
+25 body that evidences the authorization of a strict discipline
+26 academy and that establishes, subject to the constitutional powers
+27 of the state board and applicable law, the written instrument
+28 executed by an authorizing body conferring certain rights,
+29 franchises, privileges, and obligations on a strict discipline
+CRM H00019'25 (H-1) m0a49h
+
+17
+1 academy, as provided by sections 1311b to 1311l, 1311m, and
+2 confirming the status of a strict discipline academy as a public
+3 school in this state.
+4 (e) "Entity" means a partnership, nonprofit or business
+5 corporation, labor organization, or any other association,
+6 corporation, trust, or other legal entity.
+7 (f) "State public university" means a university described in
+8 section 4, 5, or 6 of article VIII of the state constitution of
+9 1963.
+10 Sec. 1526. (1) For Except as otherwise provided in this
+11 section, for the first 3 years of his or her a teacher's employment
+12 in classroom teaching, a teacher must be assigned by the school in
+13 which he or she the teacher teaches to 1 or more master teachers,
+14 or college professors or retired master teachers, who shall act as
+15 a mentor or mentors to the teacher. During the 3-year period, the
+16 teacher must also receive intensive professional development
+17 induction into teaching, based on a professional development plan
+18 that is consistent with the requirements of section 3a of article
+19 II of 1937 (Ex Sess) PA 4, MCL 38.83a, including classroom
+20 management and instructional delivery. Subject to subsection (2),
+21 during the 3-year period, the intensive professional development
+22 induction into teaching must consist of at least 15 days of
+23 professional development, the experiencing of effective practices
+24 in university-linked professional development schools, and regional
+25 seminars conducted by master teachers and other mentors. This
+26 subsection does not apply to an individual who is employed as a
+27 teacher using a local teaching certificate under section 1531l.
+28 (2) Except as otherwise provided in this subsection, for
+29 teachers employed in classroom teaching on or after August 1, 2023,
+CRM H00019'25 (H-1) m0a49h
+
+18
+1 except for individuals who have physical limitations that make it
+2 impracticable for the individual to complete the course and
+3 instruction and obtain the required certification under this
+4 subsection, the 15 days of professional development described in
+5 subsection (1) must include a course approved by the department in
+6 first aid and cardiopulmonary resuscitation that includes a test
+7 demonstration on a mannequin and instruction in foreign body airway
+8 obstruction management that results in valid certification in these
+9 topics issued by the American Red Cross, American Heart
+10 Association, or a comparable organization or institution approved
+11 by the department. The course, instruction, and certification
+12 required under this subsection must be completed within the first
+13 year of the 3-year period described in subsection (1). This
+14 subsection does not apply to an individual who has successfully
+15 completed a course and instruction and holds the valid
+16 certification as described in this subsection.
+17 (3) An individual who is employed as a teacher using a local
+18 teaching certificate under section 1531l must, before beginning the
+19 individual's employment, complete a course approved by the
+20 department in first aid and cardiopulmonary resuscitation that
+21 includes a test demonstration on a mannequin and instruction in
+22 foreign body airway obstruction management that results in
+23 certification in these topics issued by the American Red Cross,
+24 American Heart Association, or a comparable organization or
+25 institution approved by the department.
+26 (4) (3) An individual who has completed the course and
+27 instruction and obtained the certification described in subsection
+28 (2) or (3) and who performs first aid, cardiopulmonary
+29 resuscitation, or foreign body airway obstruction management on
+CRM H00019'25 (H-1) m0a49h
+
+19
+1 another individual in the course of his or her the individual's
+2 employment as a teacher is not liable in a civil action for damages
+3 resulting from an act or omission occurring in that performance
+4 except for an act or omission constituting gross negligence or
+5 willful or wanton misconduct.
+6 Sec. 1535a. (1) Subject to subsection (2), if a person an
+7 individual who holds a teaching certificate or local teaching
+8 certificate that is valid in this state has been convicted of a
+9 crime described in this subsection, within 10 working days after
+10 receiving notice of the conviction the superintendent of public
+11 instruction shall notify the person individual in writing that his
+12 or her the individual's teaching certificate or local teaching
+13 certificate may be suspended because of the conviction and of his
+14 or her the individual's right to a hearing before the
+15 superintendent of public instruction. The hearing shall must be
+16 conducted as a contested case under the administrative procedures
+17 act of 1969, 1969 PA 306, MCL 24.201 to 24.328. If the person
+18 individual does not avail himself or herself themself of this right
+19 to a hearing within 15 working days after receipt of this written
+20 notification, the teaching certificate or local teaching
+21 certificate of that person shall individual must be suspended. If a
+22 hearing takes place, the superintendent of public instruction shall
+23 complete the proceedings and make a final decision and order within
+24 120 working days after receiving the request for a hearing. Subject
+25 to subsection (2), the superintendent of public instruction may
+26 suspend the person's individual's teaching certificate or local
+27 teaching certificate based upon on the issues and evidence
+28 presented at the hearing. This subsection applies to any of the
+29 following crimes:
+CRM H00019'25 (H-1) m0a49h
+
+20
+1 (a) Any felony.
+2 (b) Any of the following misdemeanors:
+3 (i) Criminal sexual conduct in the fourth degree or an attempt
+4 to commit criminal sexual conduct in the fourth degree.
+5 (ii) Child abuse in the third or fourth degree or an attempt to
+6 commit child abuse in the third or fourth degree.
+7 (iii) A misdemeanor involving cruelty, torture, or indecent
+8 exposure involving a child.
+9 (iv) A misdemeanor violation of section 7410 of the public
+10 health code, 1978 PA 368, MCL 333.7410.
+11 (v) A violation of section 115, 141a, 335a, or 359 of the
+12 Michigan penal code, 1931 PA 328, MCL 750.115, 750.141a, 750.335a,
+13 and 750.359, or a misdemeanor violation of section 81, 81a, or 145d
+14 of the Michigan penal code, 1931 PA 328, MCL 750.81, 750.81a, and
+15 750.145d.
+16 (vi) A misdemeanor violation of section 701 of the Michigan
+17 liquor control code of 1998, 1998 PA 58, MCL 436.1701.
+18 (vii) Any misdemeanor that is a listed offense.
+19 (viii) (c) A violation of a substantially similar law of another
+20 state, of a political subdivision of this state or another state,
+21 or of the United States.
+22 (2) If a person an individual who holds a teaching certificate
+23 or local teaching certificate that is valid in this state has been
+24 convicted of a crime described in this subsection, the
+25 superintendent of public instruction shall find that the public
+26 health, safety, or welfare requires emergency action and shall
+27 order summary suspension of the person's individual's teaching
+28 certificate or local teaching certificate under section 92 of the
+29 administrative procedures act of 1969, 1969 PA 306, MCL 24.292, and
+CRM H00019'25 (H-1) m0a49h
+
+21
+1 shall subsequently provide an opportunity for a hearing as provided
+2 under that section. This subsection does not limit the
+3 superintendent of public instruction's ability to order summary
+4 suspension of a person's teaching certificate or local teaching
+5 certificate for a reason other than described in this subsection.
+6 This subsection applies to conviction of any of the following
+7 crimes:
+8 (a) Criminal sexual conduct in any degree, assault with intent
+9 to commit criminal sexual conduct, or an attempt to commit criminal
+10 sexual conduct in any degree.
+11 (b) Felonious assault on a child, child abuse in the first
+12 degree, or an attempt to commit child abuse in the first degree.
+13 (c) Cruelty, torture, or indecent exposure involving a child.
+14 (d) A violation of section 7401(2)(a)(i), 7403(2)(a)(i), 7410,
+15 or 7416 of the public health code, 1978 PA 368, MCL 333.7401,
+16 333.7403, 333.7410, and 333.7416.
+17 (e) A violation of section 83, 89, 91, 145a, 145b, 145c, 316,
+18 317, 350, 448, 455, or 529 of the Michigan penal code, 1931 PA 328,
+19 MCL 750.83, 750.89, 750.91, 750.145a, 750.145b, 750.145c, 750.316,
+20 750.317, 750.350, 750.448, 750.455, and 750.529, or a felony
+21 violation of section 145d of the Michigan penal code, 1931 PA 328,
+22 MCL 750.145d.
+23 (f) A violation of section 158 of the Michigan penal code,
+24 1931 PA 328, MCL 750.158, if a victim is an individual less than 18
+25 years of age.
+26 (g) Except for a juvenile disposition or adjudication, a
+27 violation of section 338, 338a, or 338b of the Michigan penal code,
+28 1931 PA 328, MCL 750.338, 750.338a, and 750.338b, if a victim is an
+29 individual less than 18 years of age.
+CRM H00019'25 (H-1) m0a49h
+
+22
+1 (h) A violation of section 349 of the Michigan penal code,
+2 1931 PA 328, MCL 750.349, if a victim is an individual less than 18
+3 years of age.
+4 (i) An offense committed by a person who was, at the time of
+5 the offense, a sexually delinquent person as defined in section 10a
+6 of the Michigan penal code, 1931 PA 328, MCL 750.10a.
+7 (j) Any other crime that is a listed offense.
+8 (k) An attempt or conspiracy to commit an offense listed in
+9 subdivision (a), (e), (f), (g), (h), (i), or (j).
+10 (l) A violation of a substantially similar law of another
+11 state, of a political subdivision of this state or another state,
+12 or of the United States.
+13 (m) Any other crime listed in subsection (1), if the
+14 superintendent of public instruction determines the public health,
+15 safety, or welfare requires emergency action based on the
+16 circumstances underlying the conviction.
+17 (3) All of the following apply to any proceedings affecting a
+18 person's an individual's teaching certificate or local teaching
+19 certificate under this section:
+20 (a) The superintendent of public instruction shall appoint a
+21 designee to perform the investigatory and prosecutorial functions
+22 involved in the proceedings. However, the superintendent of public
+23 instruction must approve any settlement, conditional agreement, or
+24 other decision not to proceed with charges.
+25 (b) Any final action that affects the status of a person's an
+26 individual's teaching certificate shall or local teaching
+27 certificate must be taken by the superintendent of public
+28 instruction.
+29 (c) The superintendent of public instruction after a hearing
+CRM H00019'25 (H-1) m0a49h
+
+23
+1 shall not take action against a person's an individual's teaching
+2 certificate or local teaching certificate under subsection (1) or
+3 (2) unless the superintendent of public instruction finds that the
+4 conviction is reasonably and adversely related to the person's
+5 individual's present fitness to serve in an elementary or secondary
+6 school in this state or that the conviction demonstrates that the
+7 person individual is unfit to teach in an elementary or secondary
+8 school in this state. Further, the superintendent of public
+9 instruction may take action against a person's an individual's
+10 teaching certificate or local teaching certificate under subsection
+11 (1) or (2) based on a conviction that occurred before April 1, 2004
+12 if the superintendent of public instruction finds that the
+13 conviction is reasonably and adversely related to the person's
+14 individual's present fitness to serve in an elementary or secondary
+15 school in this state or that the conviction demonstrates that the
+16 person individual is unfit to teach in an elementary or secondary
+17 school in this state. For the purposes of this section, conviction
+18 of a listed offense is reasonably and adversely related to the
+19 person's individual's fitness to serve in an elementary or
+20 secondary school in this state and demonstrates that the person
+21 individual is unfit to teach in an elementary or secondary school
+22 in this state.
+23 (4) If a person an individual who has entered a plea of guilt
+24 or no contest to or who is the subject of a finding of guilt by a
+25 judge or jury of a crime listed in subsection (2) has been
+26 suspended from active performance of duty by a public school,
+27 school district, intermediate school district, or nonpublic school
+28 during the pendency of proceedings under this section, the public
+29 school, school district, intermediate school district, or nonpublic
+CRM H00019'25 (H-1) m0a49h
+
+24
+1 school employing the person individual shall discontinue the
+2 person's individual's compensation until the superintendent of
+3 public instruction has made a final determination of whether or not
+4 to suspend or revoke the person's individual's teaching certificate
+5 or local teaching certificate. If the superintendent of public
+6 instruction does not suspend or revoke the person's individual's
+7 teaching certificate or local teaching certificate, the public
+8 school, school district, intermediate school district, or nonpublic
+9 school shall make the person individual whole for lost
+10 compensation, without interest.
+11 (5) Except as otherwise provided in this subsection, after the
+12 completion of a person's an individual's sentence, the person
+13 individual may request a hearing on reinstatement of his or her the
+14 individual's teaching certificate or local teaching certificate.
+15 Based upon on the issues and evidence presented at the hearing, the
+16 superintendent of public instruction may reinstate, continue the
+17 suspension of, or permanently revoke the person's individual's
+18 teaching certificate or local teaching certificate. The
+19 superintendent of public instruction shall not reinstate a person's
+20 an individual's teaching certificate or local teaching certificate
+21 unless the superintendent of public instruction finds that the
+22 person individual is currently fit to serve in an elementary or
+23 secondary school in this state and that reinstatement of the
+24 person's individual's teaching certificate or local teaching
+25 certificate will not adversely affect the health, safety, and
+26 welfare of pupils. If a person's an individual's conviction was for
+27 a listed offense, the person individual is not entitled to request
+28 a hearing on reinstatement under this subsection, and the
+29 superintendent of public instruction shall not reinstate the
+CRM H00019'25 (H-1) m0a49h
+
+25
+1 person's individual's teaching certificate or local teaching
+2 certificate under this subsection.
+3 (6) All of the following apply to a person an individual
+4 described in this section whose conviction is reversed upon on
+5 final appeal:
+6 (a) The person's individual's teaching certificate shall or
+7 local teaching certificate must be reinstated upon his or her on
+8 the individual's notification to the superintendent of public
+9 instruction of the reversal.
+10 (b) If the suspension of the person's individual's teaching
+11 certificate or local teaching certificate under this section was
+12 the sole cause of his or her the individual's discharge from
+13 employment, the person shall individual must be reinstated, upon
+14 his or her on the individual's notification to the appropriate
+15 local or intermediate school board of the reversal, with full
+16 rights and benefits, to the position he or she the individual would
+17 have had if he or she the individual had been continuously
+18 employed.
+19 (c) If the person's individual's compensation was discontinued
+20 under subsection (4), the public school, school district,
+21 intermediate school district, or nonpublic school shall make the
+22 person individual whole for lost compensation.
+23 (7) If the prosecuting attorney in charge of a case receives a
+24 form as provided under section 1230d, the prosecuting attorney
+25 shall notify the superintendent of public instruction, and any
+26 public school, school district, intermediate school district, or
+27 nonpublic school in which the person individual is employed by
+28 forwarding a copy of the form to each of them not later than 7 days
+29 after receiving the form. If the court receives a form as provided
+CRM H00019'25 (H-1) m0a49h
+
+26
+1 under section 1230d, the court shall notify the superintendent of
+2 public instruction and any public school, school district,
+3 intermediate school district, or nonpublic school in which the
+4 person individual is employed by forwarding to each of them a copy
+5 of the form and information regarding the sentence imposed on the
+6 person individual not later than 7 days after the date of
+7 sentencing, even if the court is maintaining the file as a
+8 nonpublic record.
+9 (8) Not later than 7 days after receiving notification from
+10 the prosecuting attorney or the court under subsection (7) or
+11 learning through an authoritative source that a person an
+12 individual who holds a teaching certificate or local teaching
+13 certificate has been convicted of a crime listed in subsection (1),
+14 the superintendent of public instruction shall request the court to
+15 provide a certified copy of the judgment of conviction and sentence
+16 or other document regarding the disposition of the case to the
+17 superintendent of public instruction and shall pay any fees
+18 required by the court. The court shall provide this certified copy
+19 within 7 days after receiving the request and fees under this
+20 section or after entry of the judgment or other document, whichever
+21 is later, even if the court is maintaining the judgment or other
+22 document as a nonpublic record.
+23 (9) If the superintendent of a school district or intermediate
+24 school district, the chief administrative officer of a nonpublic
+25 school, the president of the board of a school district or
+26 intermediate school district, or the president of the governing
+27 board of a nonpublic school is notified or learns through an
+28 authoritative source that a person an individual who holds a
+29 teaching certificate or local teaching certificate and who is
+CRM H00019'25 (H-1) m0a49h
+
+27
+1 employed by the school district, intermediate school district, or
+2 nonpublic school has been convicted of a crime described in
+3 subsection (1) or (2), the superintendent, chief administrative
+4 officer, or board president shall notify the superintendent of
+5 public instruction of that conviction within 15 days after learning
+6 of the conviction.
+7 (10) For the purposes of this section, a certified copy of the
+8 judgment of conviction and sentence is conclusive evidence of
+9 conviction of a crime described in this section. For the purposes
+10 of this section, conviction of a crime described in this section is
+11 considered to be reasonably and adversely related to the ability of
+12 the person to serve in an elementary or secondary school and is
+13 sufficient grounds for suspension or revocation of the person's
+14 individual's teaching certificate or local teaching certificate.
+15 (11) For any hearing under subsection (1), if the
+16 superintendent of public instruction does not make a final decision
+17 and order within 120 working days after receiving the request for
+18 the hearing, as required under subsection (1), the superintendent
+19 of public instruction shall submit a report detailing the reasons
+20 for the delay to the standing committees and appropriations
+21 subcommittees of the senate and house of representatives that have
+22 jurisdiction over education and education appropriations. The
+23 failure of the superintendent of public instruction to make a final
+24 decision and order within this 120 working day time limit, or the
+25 failure of any other official or agency to meet a time limit
+26 prescribed in this section, does not affect the validity of an
+27 action taken under this section affecting a person's an
+28 individual's teaching certificate or local teaching certificate.
+29 (12) The superintendent of public instruction shall submit to
+CRM H00019'25 (H-1) m0a49h
+
+28
+1 the legislature an annual report of all final actions he or she the
+2 superintendent of public instruction has taken under this section
+3 affecting a person's an individual's teaching certificate or local
+4 teaching certificate during the preceding year. The report shall
+5 must contain at least all of the following with respect to each
+6 person whose teaching certificate or local teaching certificate has
+7 been affected:
+8 (a) The person's individual's name, as it appears on the
+9 teaching certificate or local teaching certificate.
+10 (b) The school district, intermediate school district, public
+11 school academy, or nonpublic school in which the person individual
+12 was employed at the time of the conviction, if any.
+13 (c) The offense for which the person individual was convicted
+14 and the date of the offense and date of the conviction.
+15 (d) Whether the action taken by the superintendent of public
+16 instruction was a summary suspension, suspension due to failure to
+17 request a hearing, suspension, revocation, or reinstatement of the
+18 teaching certificate or local teaching certificate.
+19 (13) This section does not do any of the following:
+20 (a) Prohibit a person an individual who holds a teaching
+21 certificate or local teaching certificate from seeking monetary
+22 compensation from a school board or intermediate school board if
+23 that right is available under a collective bargaining agreement or
+24 another statute.
+25 (b) Limit the rights and powers granted to a school district
+26 or intermediate school district under a collective bargaining
+27 agreement, this act, or another statute to discipline or discharge
+28 a person an individual who holds a teaching certificate or local
+29 teaching certificate.
+CRM H00019'25 (H-1) m0a49h
+
+29
+1 (14) The superintendent of public instruction may promulgate,
+2 as necessary, rules to implement this section pursuant to the
+3 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+4 24.328.
+5 (15) The department of technology, management, and budget
+6 shall work with the department and the department of state police
+7 to develop and implement an automated program that does a
+8 comparison of the department's list of individuals holding a
+9 teaching certificate or state board approval, and of any other list
+10 maintained by the department of individuals employed or regularly
+11 and continuously working under contract in a school, with the
+12 conviction information received by the department of state police.
+13 This comparison shall only include individuals who are actually
+14 school employees at the time of the comparison or who are regularly
+15 and continuously working under contract at the time of the
+16 comparison. Unless otherwise prohibited by law, this comparison
+17 shall include convictions contained in a nonpublic record. The
+18 department and the department of state police shall perform this
+19 comparison during January and June of each year until July 1, 2008.
+20 The department of state police shall take all reasonable and
+21 necessary measures using the available technology to ensure the
+22 accuracy of this comparison before transmitting the information
+23 under this subsection to the department. The department shall take
+24 all reasonable and necessary measures using the available
+25 technology to ensure the accuracy of this comparison before
+26 notifying a school district, intermediate school district, public
+27 school academy, or nonpublic school of a conviction. If a
+28 comparison discloses that a person on the department's list of
+29 individuals holding a teaching certificate or state board approval
+CRM H00019'25 (H-1) m0a49h
+
+30
+1 has been convicted of a crime, or if the department is otherwise
+2 notified by the department of state police that such a person has
+3 been convicted of a crime, the department shall notify the
+4 superintendent or chief administrator and the board or governing
+5 body of the school district, intermediate school district, public
+6 school academy, or nonpublic school in which the person is employed
+7 of that conviction.
+8 (15) (16) As used in this section:
+9 (a) "Conviction" means a judgment entered by a court upon a
+10 plea of guilty, guilty but mentally ill, or nolo contendere or upon
+11 a jury verdict or court finding that a defendant is guilty or
+12 guilty but mentally ill.
+13 (b) "Felony" means that term as defined in section 1 of
+14 chapter I of the code of criminal procedure, 1927 PA 175, MCL
+15 761.1.
+16 (c) "Listed offense" means that term as defined in section 2
+17 of the sex offenders registration act, 1994 PA 295, MCL 28.722.
+18 (d) "Local teaching certificate" means that term as defined in
+19 section 1531l.
+20 (e) (d) "Prosecuting attorney" means the prosecuting attorney
+21 for a county, an assistant prosecuting attorney for a county, the
+22 attorney general, the deputy attorney general, an assistant
+23 attorney general, a special prosecuting attorney, or, in connection
+24 with the prosecution of an ordinance violation, an attorney for the
+25 political subdivision that enacted the ordinance upon which the
+26 violation is based.
+27 (f) (e) "Regularly and continuously work under contract" means
+28 that term as defined in section 1230d.
+29 Sec. 1531l. (1) The board of a school district or intermediate
+CRM H00019'25 (H-1) m0a49h
+
+31
+1 school district or board of directors of a public school academy
+2 may issue a local teaching certificate to an individual under this
+3 section. If the board of a school district or intermediate school
+4 district or board of directors of a public school academy elects to
+5 issue local teaching certificates under this section, the board of
+6 the school district or intermediate school district or board of
+7 directors of a public school academy must establish requirements
+8 that an individual must meet to be issued a local teaching
+9 certificate.
+10 (2) Subject to federal law, the superintendent of public
+11 instruction shall establish a process for the board of a school
+12 district or intermediate school district or board of directors of a
+13 public school academy to grant an individual a local teaching
+14 certificate. The process must not allow for the granting of a local
+15 teaching certificate under this section for teaching special
+16 education.
+17 (3) The process established under subsection (2) must provide
+18 that if a board of a school district or intermediate school
+19 district or a board of directors of a public school academy elects
+20 to issue a local teaching certificate, the board of the school
+21 district or intermediate school district or board of directors of
+22 the public school academy will, subject to section 1809, grant a
+23 local teaching certificate to an individual who meets at least all
+24 of the following:
+25 (a) Holds a bachelor's, master's, doctorate, or professional
+26 degree in the subject area that the individual will teach from a
+27 regionally accredited college or university.
+28 (b) Received a grade point average of at least 3.0 on a 4.0
+29 scale or the equivalent on another scale, as determined by the
+CRM H00019'25 (H-1) m0a49h
+
+32
+1 board of the school district or board of directors of the public
+2 school academy, upon earning the degree required under subdivision
+3 (a). If the individual has earned more than 1 degree required under
+4 subdivision (a), the highest grade point average earned by the
+5 individual may be used in determining the grade point average under
+6 this subdivision.
+7 (c) Any requirements established by the board of the school
+8 district or intermediate school district or board of directors of
+9 the public school academy.
+10 (4) A local teaching certificate issued under this section is
+11 valid for not more than 5 years from the initial date of issuance.
+12 To continue serving as a teacher in a public school after the
+13 expiration of a local teaching certificate under this subsection,
+14 an individual must obtain a teaching certificate issued by the
+15 superintendent of public instruction under section 1531 or an
+16 interim teaching certificate under section 1531i. This subsection
+17 does not apply to an individual who is serving as a teacher for an
+18 industrial technology career program or a career and technical
+19 education program.
+20 (5) A local teaching certificate may not be issued under this
+21 section after July 1, 2035.
+22 (6) As used in this section, "local teaching certificate"
+23 means a teaching certificate issued by a school district,
+24 intermediate school district, or public school academy that
+25 authorizes an individual to teach a specific subject area only in a
+26 school that is operated by the school district, intermediate school
+27 district, or public school academy that issued the teaching
+28 certificate.
+29 Sec. 1809. (1) In addition to any other penalty provided by
+CRM H00019'25 (H-1) m0a49h
+
+33
+1 law, a person an individual who uses or attempts to use a teaching
+2 certificate or a local teaching certificate that he or she the
+3 individual knows is surrendered, suspended, revoked, nullified,
+4 fraudulently obtained, altered, or forged, or who uses or attempts
+5 to use as his or her the individual's own a valid teaching
+6 certificate or local teaching certificate that he or she the
+7 individual knows is issued to another person, individual, to obtain
+8 employment in a position requiring a valid teaching certificate or
+9 local teaching certificate or who remains employed in a position
+10 requiring a valid teaching certificate or local teaching
+11 certificate knowing that he or she the individual does not hold a
+12 valid teaching certificate or local teaching certificate is guilty
+13 of a misdemeanor, punishable as follows:
+14 (a) For the first offense, by imprisonment for not more than
+15 93 days or a fine of not more than $500.00, or both.
+16 (b) For a second or subsequent offense, by imprisonment for
+17 not more than 6 months or a fine of not less than $500.00 or more
+18 than $1,000.00, or both.
+19 (2) In addition to any other penalty provided by law, a person
+20 an individual who uses or attempts to use a school administrator's
+21 certificate that he or she the individual knows is surrendered,
+22 suspended, revoked, nullified, fraudulently obtained, altered, or
+23 forged, or who uses or attempts to use as his or her the
+24 individual's own a valid school administrator's certificate that he
+25 or she the individual knows is issued to another person,
+26 individual, to obtain employment as a school administrator or who
+27 remains employed in a position requiring a valid school
+28 administrator's certificate knowing that he or she the individual
+29 does not hold a valid school administrator's certificate is guilty
+CRM H00019'25 (H-1) m0a49h
+
+34
+1 of a misdemeanor, punishable as follows:
+2 (a) For the first offense, by imprisonment for not more than
+3 93 days or a fine of not more than $500.00, or both.
+4 (b) For a second or subsequent offense, by imprisonment for
+5 not more than 6 months or a fine of not less than $500.00 or more
+6 than $1,000.00, or both.
+7 (3) In addition to any other penalty provided by law, a person
+8 who uses or attempts to use a state board approval that he or she
+9 the individual knows is surrendered, suspended, revoked, nullified,
+10 fraudulently obtained, altered, or forged, or who uses or attempts
+11 to use as his or her the individual's own a valid state board
+12 approval that he or she the individual knows is issued to another
+13 person, individual, to obtain employment in a position requiring a
+14 valid state board approval or who remains employed in a position
+15 requiring a valid state board approval knowing that he or she the
+16 individual does not hold a valid state board approval is guilty of
+17 a misdemeanor, punishable as follows:
+18 (a) For the first offense, by imprisonment for not more than
+19 93 days or a fine of not more than $500.00, or both.
+20 (b) For a second or subsequent offense, by imprisonment for
+21 not more than 6 months or a fine of not less than $500.00 or more
+22 than $1,000.00, or both.
+23 (4) In addition to any other penalty provided by law, a person
+24 an individual who uses or attempts to use a college or university
+25 transcript or a certificate or other credential that he or she the
+26 individual knows is fraudulently obtained, altered, or forged, or
+27 who uses or attempts to use as his or her the individual's own a
+28 college or university transcript or a certificate or other
+29 credential that he or she the individual knows is that of another
+CRM H00019'25 (H-1) m0a49h
+
+35
+1 person, individual, to obtain a teaching certificate, local
+2 teaching certificate, school administrator's certificate, or state
+3 board approval in this state is guilty of a misdemeanor, punishable
+4 as follows:
+5 (a) For the first offense, by imprisonment for not more than
+6 93 days or a fine of not more than $500.00, or both.
+7 (b) For a second or subsequent offense, by imprisonment for
+8 not more than 6 months or a fine of not less than $500.00 or more
+9 than $1,000.00, or both.
+10 (5) The state board may refuse to issue or renew a teaching
+11 certificate, school administrator's certificate, or state board
+12 approval, or refuse to issue an endorsement for a teaching
+13 certificate or school administrator's certificate, to a person an
+14 individual convicted of a violation of this section.
+15 (6) The board of a school district or intermediate school
+16 district or board of directors of a public school academy may
+17 refuse to issue or renew a local teaching certificate to an
+18 individual convicted of a violation of this section.
+19 (7) (6) As used in this section: , "state
+20 (a) "Local teaching certificate" means that term as defined in
+21 section 1531l.
+22 (b) "State board approval" means that term as defined in
+23 section 1539b.
+Final Page
+CRM H00019'25 (H-1) m0a49h
+
+[DELETED:   H m1. S]
+[DELETED:   H m s s s s s s p a p g ( ( a () () () () () s()()i j c 1 ( v) t p)i . ( u]
+[DELETED:   H m 3 r a t r ( b a s a p b a ( c c ( d c S u i o 1 s s u a t]
+[DELETED:   H m a ( ( p ( v) t p)i . ( b a o e f a u ( e s m s ( u 4 56. ( d c]
+[DELETED:   H m S s s s s s s s a p g ( ( a () () i. d () () () s()()i j c 1 ( v) t p)i . (]
+[DELETED:   H m u 3 r a t r ( b t b a a p p ( u o f o l ( e s m s ( c c (]
+[DELETED:   H m d c S a w a b ss  ab t ( c d ( w te  t b d c i ( e ara o s e ( d a]
+[DELETED:   H m f o ( o s t t ( ( t a ( d 31  ( ( s S s o n t ( d r r t]
+[DELETED:   H m s l ( () s s b c p () c ( t i c d p () s f () c ( a 1 s n a v o]
+[DELETED:   H m w ( t p c t ( b d w a s i ( c c s ( t p m d d () c s () w 1 ( s]
+[DELETED:   H m ( t y e b () i 1 ( c t w i d c p b F b t t a t p c c u p (]
+[DELETED:   H m h p i s p b ( f a p i t s t r f a s t s ( o ( 2 i c s m ( ()]
+[DELETED:   H m e s () d ( a () w h o t a t () w l w i s i i s ( s f n o ( 1]
+[DELETED:   H m s 1 s ( p a m ( a ( s ( ( i h f c s e p c s s t c ( a i f m f b]
+[DELETED:   H m ( u ( a " s i i s w e1  ( s () c () t () s () S u i o 1 g u]
+[DELETED:   H m A g a1 c p o (1: ( a1: () 1 () () () ( v 11. ( u 3 r a t r ( b a o e f]
+[DELETED:   H m a1, a c s ( c c ( s 1 S a t e i w t o a t i t I m d i p i s  ( t]
+[DELETED:   H m e i i s s f d o t A b r y s c c1  ( i ( a r]
+[DELETED:   H m a e r e w S o w t c r i i o t o m o r s b c a t d o t n i o b h c 1 t s t o o b t p f]
+[DELETED:   H m ( ( () t () c () e () h () M a o 7 () l ()) ( s o ( w t c s h o t c u a]
+[DELETED:   H m s u s s f T c ( t s ( d ( (()() o 3 ( 3 M 7 v M ( 1 y ( v 1 i]
+[DELETED:   H m ( 1 y ( t o ( ( s () s o ( s s c ( p t o u ( d i i o ( o t b i (]
+[DELETED:   H m s t c u ( c p s p i s i t u ( i c p s p i s o p f s i i ( w o j s s d s]
+[DELETED:   H m s s p c p t t  . i te, s s w c ( c s t m   te. B t s s te. s o t u p i s p t o w w c a i a s]
+[DELETED:   H m p t o u ( d f ( t o o b n i ( t c u t d e b h n l r w h h e ( c u i p w ( f s p n i f a]
+[DELETED:   H m u p i p i o p n s n ( t l o w h t p o s r w s i d ( s s i b a w t a]
+[DELETED:   H m e n s o p o ( j c o c t s   te. ( s a t o f s j f d f p a   te. (]
+[DELETED:   H m t h a t o d c p h b ( n te. ( s w ( w a ( i r te. ( ( w c f c t a ( o a a w   .]
+[DELETED:   H m ( a a 2 ( s t c t m a c T s a c s d c T n a u a t n s c i]
+[DELETED:   H m h n b s b s o ( ( p a g ( c 7 ( o1  ( f a a w p v ( t1.]
+[DELETED:   H m]
+[DELETED:   H m  S]
+[DELETED:   H m l w c t t k f t o c t t i k t e o r t k d v i o ( 9 ( n t ( w c k s f o o k t r a d]
+[DELETED:   H m o ( 9 ( n t ( w k f t o a k p t v r d a ( 9 ( n t ( w t k w o c c k]
+[DELETED:   H m p t l s b a ( 9 ( n t ( c a c  c  :  (n,1. b s]

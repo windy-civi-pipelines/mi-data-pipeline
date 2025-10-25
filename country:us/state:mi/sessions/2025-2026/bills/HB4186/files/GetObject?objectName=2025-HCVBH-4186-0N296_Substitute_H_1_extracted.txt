@@ -1,0 +1,1102 @@
+Title: HOUSE BILL NO. 4186
+Official Title: HOUSE BILL NO. 4186
+Number of Sections: 2
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2007 PA 36, entitled
+"Michigan business tax act,"
+by amending sections 201 and 500 (MCL 208.1201 and 208.1500),
+
+Section 2:
+section 201 as amended by 2012 PA 605 and section 500 as amended by
+2019 PA 90.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 201. (1) Except as otherwise provided in this act, there
+2 is levied and imposed a business income tax on every taxpayer with
+3 business activity within this state unless prohibited by 15 USC 381
+4 to 384. The business income tax is imposed on the business income
+5 tax base, after allocation or apportionment to this state, at the
+6 rate of following rates in the following circumstances:
+7 (a) For all business activity occurring before January 1,
+KAS H01354'25 (H-1) 9sgvux
+2
+1 2025, 4.95%.
+2 (b) For all business activity occurring on and after January
+3 1, 2025, 30.0%.
+4 (2) The business income tax base means a taxpayer's business
+5 income subject to the following adjustments, before allocation or
+6 apportionment, and the adjustments in subsections (5), (6), and (7)
+7 after allocation or apportionment:
+8 (a) Add interest income and dividends derived from obligations
+9 or securities of states other than this state, in the same amount
+10 that was excluded from federal taxable income, less the related
+11 portion of expenses not deducted in computing federal taxable
+12 income because of sections 265 and 291 of the internal revenue
+13 code.
+14 (b) Add all taxes on or measured by net income and the tax
+15 imposed under this act to the extent the taxes were deducted in
+16 arriving at federal taxable income.
+17 (c) Add any carryback or carryover of a net operating loss to
+18 the extent deducted in arriving at federal taxable income.
+19 (d) To the extent included in federal taxable income, deduct
+20 dividends and royalties received from persons other than United
+21 States persons and foreign operating entities, including, but not
+22 limited to, amounts determined under section 78 of the internal
+23 revenue code or sections 951 to 964 of the internal revenue code.
+24 (e) To the extent included in federal taxable income, add the
+25 loss or subtract the income from the business income tax base that
+26 is attributable to another entity whose business activities are
+27 taxable under this section or would be subject to the tax under
+28 this section if the business activities were in this state.
+29 (f) Except as otherwise provided under this subdivision, to
+KAS H01354'25 (H-1) 9sgvux
+3
+1 the extent deducted in arriving at federal taxable income, add any
+2 royalty, interest, or other expense paid to a person related to the
+3 taxpayer by ownership or control for the use of an intangible asset
+4 if the person is not included in the taxpayer's unitary business
+5 group. The addition of any royalty, interest, or other expense
+6 described under this subdivision is not required to be added if the
+7 taxpayer can demonstrate that the transaction has a nontax business
+8 purpose other than avoidance of this tax, is conducted with arm's-
+9 length pricing and rates and terms as applied in accordance with
+10 sections 482 and 1274(d) of the internal revenue code, and
+11 satisfies 1 of the following:
+12 (i) Is a pass through of another transaction between a third
+13 party and the related person with comparable rates and terms.
+14 (ii) Results in double taxation. For purposes of this
+15 subparagraph, double taxation exists if the transaction is subject
+16 to tax in another jurisdiction.
+17 (iii) Is unreasonable as determined by the treasurer, and the
+18 taxpayer agrees that the addition would be unreasonable based on
+19 the taxpayer's facts and circumstances.
+20 (iv) The related person recipient of the transaction is
+21 organized under the laws of a foreign nation which has in force a
+22 comprehensive income tax treaty with the United States.
+23 (g) To the extent included in federal taxable income, deduct
+24 interest income derived from United States obligations.
+25 (h) To the extent included in federal taxable income, deduct
+26 any earnings that are net earnings from self-employment as defined
+27 under section 1402 of the internal revenue code of the taxpayer or
+28 a partner of the taxpayer and for purposes of a partner of a
+29 taxpayer, it shall be the amount properly reported on a schedule K-
+KAS H01354'25 (H-1) 9sgvux
+4
+1 1-form 1065 as self-employment earnings for federal income tax
+2 purposes for the tax year.
+3 (i) Subject to the limitation provided under this subdivision,
+4 if the book-tax differences for the first fiscal period ending
+5 after July 12, 2007 result in a deferred liability for a person
+6 subject to tax under this act, deduct the following percentages of
+7 the total book-tax difference for each qualifying asset, for each
+8 of the successive 15 tax years beginning with the 2015 tax year:
+9 (i) For the 2015 through 2019 tax years, 4%.
+10 (ii) For the 2020 through 2024 tax years, 6%.
+11 (iii) For the 2025 through 2029 tax years, 10%.
+12 (j) For tax years that begin after December 31, 2009, to the
+13 extent included in federal taxable income, deduct the amount of a
+14 charitable contribution made to the advance tuition payment fund
+15 created under section 9 of the Michigan education trust act, 1986
+16 PA 316, MCL 390.1429.
+17 (3) The deduction under subsection (2)(i) shall must not
+18 exceed the amount necessary to offset the net deferred tax
+19 liability of the taxpayer as computed in accordance with generally
+20 accepted accounting principles which would otherwise result from
+21 the imposition of the business income tax under this section and
+22 the modified gross receipts tax under section 203 if the deduction
+23 provided under this subdivision were not allowed. The deduction
+24 under subsection (2)(i) is intended to flow through and reduce the
+25 surcharge imposed and levied under section 281. For purposes of the
+26 calculation of the deduction under subsection (2)(i), a book-tax
+27 difference shall must only be used once in the calculation of the
+28 deduction arising from the taxpayer's business income tax base
+29 under this section and once in the calculation of the deduction
+KAS H01354'25 (H-1) 9sgvux
+5
+1 arising from the taxpayer's modified gross receipts tax base under
+2 section 203. The adjustment under subsection (2)(i) shall must be
+3 calculated without regard to the federal effect of the deduction.
+4 If the adjustment under subsection (2)(i) is greater than the
+5 taxpayer's business income tax base, any adjustment that is unused
+6 may be carried forward and applied as an adjustment to the
+7 taxpayer's business income tax base before apportionment in future
+8 years. In order to claim this deduction, the department may require
+9 the taxpayer to report the amount of this deduction on a form as
+10 prescribed by the department that is to be filed on or after the
+11 date that the first quarterly return and estimated payment are due
+12 under this act. As used in subsection (2)(i) and this subsection:
+13 (a) "Book-tax difference" means the difference, if any,
+14 between the person's qualifying asset's net book value shown on the
+15 person's books and records for the first fiscal period ending after
+16 July 12, 2007 and the qualifying asset's tax basis on that same
+17 date.
+18 (b) "Qualifying asset" means any asset shown on the person's
+19 books and records for the first fiscal period ending after July 12,
+20 2007, in accordance with generally accepted accounting principles.
+21 (4) For purposes of subsections (2) and (3), the business
+22 income of a unitary business group is the sum of the business
+23 income of each person, other than a foreign operating entity or a
+24 person subject to the tax imposed under chapter 2A or 2B, included
+25 in the unitary business group less any items of income and related
+26 deductions arising from transactions including dividends between
+27 persons included in the unitary business group.
+28 (5) Deduct any available business loss incurred after December
+29 31, 2007. As used in this subsection, "business loss" means a
+KAS H01354'25 (H-1) 9sgvux
+6
+1 negative business income taxable amount after allocation or
+2 apportionment. For purposes of this subsection, a taxpayer that
+3 acquires the assets of another corporation in a transaction
+4 described under section 381(a)(1) or (2) of the internal revenue
+5 code may deduct any business loss attributable to that distributor
+6 or transferor corporation. The business loss shall be carried
+7 forward to the year immediately succeeding the loss year as an
+8 offset to the allocated or apportioned business income tax base,
+9 then successively to the next 9 taxable years following the loss
+10 year or until the loss is used up, whichever occurs first, but for
+11 not more than 10 taxable years after the loss year.
+12 (6) Deduct any gain from the sale of any residential rental
+13 units in this state to a qualified affordable housing project that
+14 enters an agreement to operate the residential rental units as rent
+15 restricted units for a minimum of 15 years. If the qualified
+16 affordable housing project does not agree to operate all of the
+17 residential rental units as rent restricted units, the deduction
+18 under this subsection is limited to an amount equal to the gain
+19 from the sale multiplied by a fraction, the numerator of which is
+20 the number of those residential rental units purchased that are to
+21 be operated as a rent restricted unit and the denominator is the
+22 number of all residential rental units purchased. In order to claim
+23 this deduction, the department may require the taxpayer and the
+24 qualified affordable housing project to report the amount of this
+25 deduction on a form as prescribed by the department that is to be
+26 signed by both the taxpayer and the qualified affordable housing
+27 project and filed with the taxpayer's annual return. The department
+28 shall record a lien against the property subject to the operation
+29 agreement for the total amount of the deduction allowed under this
+KAS H01354'25 (H-1) 9sgvux
+7
+1 subsection. The department shall notify the qualified affordable
+2 housing project of the maximum amount of the lien that the
+3 qualified affordable housing project may be liable for if the
+4 qualified affordable housing project fails to qualify and operate
+5 as provided in the operation agreement within 15 years after the
+6 purchase. The lien shall become is payable in an amount as provided
+7 under this subsection to the state by the qualified affordable
+8 housing project if the qualified affordable housing project fails
+9 to qualify as a qualified affordable housing project and fails to
+10 operate all or some of the residential rental units as rent
+11 restricted units in accordance with the operation agreement entered
+12 upon the purchase of those units within 15 years after the
+13 deduction is claimed by a taxpayer under this subsection. An amount
+14 equal to the product of 100% of the amount of the deduction allowed
+15 under this subsection multiplied by a fraction, the numerator of
+16 which is the difference between 15 and the number of years the
+17 affordable housing project qualified and operated rent restricted
+18 units in accordance with the agreement and the denominator is 15,
+19 shall must be added back to the tax liability of the qualified
+20 affordable housing project for the tax year that the qualified
+21 affordable housing project fails to comply with the agreement.
+22 (7) Subject to the limitations provided in this subsection,
+23 for a person that is a qualified affordable housing project, deduct
+24 an amount equal to the product of that person's taxable income that
+25 is attributable to residential rental units in this state owned by
+26 the qualified affordable housing project multiplied by a fraction,
+27 the numerator of which is the number of rent restricted units in
+28 this state owned by that qualified affordable housing project and
+29 the denominator of which is the number of all residential rental
+KAS H01354'25 (H-1) 9sgvux
+8
+1 units in this state owned by the qualified affordable housing
+2 project. The amount of the deduction calculated under this
+3 subsection shall must be reduced by the amount of limited dividends
+4 or other distributions made to the partners, members, or
+5 shareholders of the qualified affordable housing project. Taxable
+6 income that is attributable to residential rental units does not
+7 include income received by the management, construction, or
+8 development company for completion and operation of the project and
+9 those rental units.
+10 (8) If a qualified affordable housing project no longer meets
+11 the requirements of subsection (9)(b) or fails to operate those
+12 residential rental units as rent restricted units in accordance
+13 with the operation agreement and the requirements of subsection
+14 (9)(c), the taxpayer is entitled to the deductions under
+15 subsections (6) and (7) as long as the qualified affordable housing
+16 project continues to offer some of the residential rental units
+17 purchased as rent restricted units in accordance with the operation
+18 agreement.
+19 (9) For purposes of subsections (6), (7), and (8) and this
+20 subsection:
+21 (a) "Limited dividend housing association" means a limited
+22 dividend housing association, corporation, or cooperative organized
+23 and qualified pursuant to chapter 7 of the state housing
+24 development authority act of 1966, 1966 PA 346, MCL 125.1491 to
+25 125.1496.
+26 (b) "Qualified affordable housing project" means a person that
+27 is organized, qualified, and operated as a limited dividend housing
+28 association that has a limitation on the amount of dividends or
+29 other distributions that may be distributed to its owners in any
+KAS H01354'25 (H-1) 9sgvux
+9
+1 given year and has received funding, subsidies, grants, operating
+2 support, or construction or permanent funding through 1 or more of
+3 the following sources and programs:
+4 (i) Mortgage or other financing provided by the Michigan state
+5 housing development authority created in section 21 of the state
+6 housing development authority act of 1966, 1966 PA 346, MCL
+7 125.1421, the United States department of housing and urban
+8 development, Department of Housing and Urban Development, the
+9 United States department of agriculture Department of Agriculture
+10 for rural housing service, the Michigan interfaith housing trust
+11 fund, Michigan housing and community development fund, federal home
+12 loan bank, housing commission loan, community development financial
+13 institution, or mortgage or other funding or guaranteed by Fannie,
+14 Ginnie, federal housing association, United States department of
+15 agriculture, Department of Agriculture, or federal home loan
+16 mortgage corporation.
+17 (ii) A tax-exempt bond issued by a nonprofit organization,
+18 local governmental unit, or other authority.
+19 (iii) A payment in lieu of tax agreement or other tax abatement.
+20 (iv) Funding from the state or a local governmental unit
+21 through a HOME investments partnership program authorized under 42
+22 USC 12741 to 12756.
+23 (v) A grant or other funding from a federal home loan bank's
+24 affordable housing program.
+25 (vi) Financing or funding under the new markets tax credit
+26 program under section 45D of the internal revenue code.
+27 (vii) Financed in whole or in part under the United States
+28 department of housing and urban development's Department of Housing
+29 and Urban Development's hope VI program as authorized by section
+KAS H01354'25 (H-1) 9sgvux
+10
+1 803 of the national affordable housing act, 42 USC 8012.
+2 (viii) Financed in whole or in part under the United States
+3 department of housing and urban development's Department of Housing
+4 and Urban Development's section 202 program authorized by section
+5 202 of the national housing act, 12 USC 1701q.
+6 (ix) Financing or funding under the low-income housing tax
+7 credit program under section 42 of the internal revenue code.
+8 (x) Financing or other subsidies from any new programs similar
+9 to any of the above.
+10 (c) "Rent restricted unit" means any residential rental unit's
+11 rental income is restricted in accordance with section 42(g)(1)
+12 42(g)(2) of the internal revenue code as if it was a qualified low-
+13 income housing project, or receives rental assistance in the form
+14 of HUD section 8 subsidies or HUD housing assistance program
+15 subsidies, or rental assistance from the United States department
+16 of agriculture Department of Agriculture rural housing programs, or
+17 from any of the other programs described under subdivision (b).
+18 Sec. 500. (1) Except as otherwise provided in this section, a
+19 taxpayer described under section 117(5)(a) or under section 680 of
+20 the income tax act of 1967, 1967 PA 281, MCL 206.680, that
+21 voluntarily elects for the taxpayer's first tax year ending after
+22 December 31, 2011 to file a return and pay the tax imposed by this
+23 act in order to claim a certificated credit or any unused
+24 carryforward for that tax year shall continue to file a return and
+25 pay the tax imposed under this act for each tax year thereafter
+26 until that certificated credit and any carryforward from that
+27 credit is used up. For a tax year that begins after December 31,
+28 2024, a taxpayer that had previously elected to file a return and
+29 pay the tax imposed under this act is not required to continue to
+KAS H01354'25 (H-1) 9sgvux
+11
+1 file a return and pay the tax imposed under this act and may elect
+2 to file a return and pay the tax imposed under part 2 of the income
+3 tax act of 1967, 1967 PA 281, MCL 206.601 to 206.699, and, upon
+4 that election, the taxpayer is no longer eligible to claim any
+5 remaining certificated credits or unused carryforward under this
+6 act. Except as otherwise provided under subsection (7), if a person
+7 awarded a certificated credit is a member of a unitary business
+8 group, the unitary business group, and not the member, shall file a
+9 return and pay the tax, if any, under this act and claim the
+10 certificated credit. Except as otherwise provided under subsection
+11 (7), if the taxpayer that elects to file a return and pay the tax
+12 imposed by this act in order to claim a certificated credit or any
+13 unused carryforward of that credit for that tax year is a unitary
+14 business group, the return filed by the unitary business group
+15 shall must include all persons included in the unitary business
+16 group regardless of whether that person is incorporated.
+17 Notwithstanding any other provision of this act or part 2 or 3 of
+18 the income tax act of 1967, 1967 PA 281, MCL 206.601 to 206.713,
+19 206.725, in the case of a flow-through entity that has made an
+20 election under this section, each member of the flow-through entity
+21 that does not file as a member of a unitary business group with the
+22 flow-through entity shall disregard all items attributable to that
+23 member's ownership interest in the electing flow-through entity for
+24 all purposes of part 2 of the income tax act of 1967, 1967 PA 281,
+25 MCL 206.601 to 206.699, and the electing flow-through entity shall
+26 not be subject to the tax withholding provisions of section 703(4)
+27 of the income tax act of 1967, 1967 PA 281, MCL 206.703, with
+28 respect to its members that are corporations.
+29 (2) A taxpayer with a certificated credit under section 435 or
+KAS H01354'25 (H-1) 9sgvux
+12
+1 437, which certificated credit or any unused carryforward may be
+2 claimed in a tax year ending after December 31, 2011 may elect to
+3 pay the tax imposed by this act in the tax year in which that
+4 certificated credit may be claimed in lieu of the tax imposed under
+5 part 2 of the income tax act of 1967, 1967 PA 281, MCL 206.601 to
+6 206.699. If a person with a certificated credit under section 435
+7 or 437 that elects under this subsection to pay the tax imposed by
+8 this act is a member of a unitary business group, the unitary
+9 business group, and not the member, shall file a return and pay the
+10 tax, if any, under this act and claim that certificated credit.
+11 (3) A taxpayer with a certificated credit under section 435 or
+12 437 that elects under subsection (2) after the taxpayer's first tax
+13 year ending after December 31, 2011 to pay the tax imposed by this
+14 act may claim any other certificated credit that taxpayer would be
+15 eligible for in the year in which the taxpayer claims a
+16 certificated credit under section 435 or 437, but not any
+17 certificated credit that would have accrued in any year before the
+18 election under subsection (2). A Except as otherwise provided under
+19 subsection (1), a taxpayer with a certificated credit under section
+20 437(10) that elects under subsection (2) after the taxpayer's first
+21 tax year after December 31, 2011 to pay the tax imposed by this act
+22 shall continue to file a return and pay the tax imposed under this
+23 act for each tax year thereafter until the certificated credit
+24 under section 437(10) is complete and that credit is used up. When
+25 the taxpayer's certificated credit under section 435 or 437 that
+26 was the basis for the taxpayer's election under subsection (2) is
+27 extinguished, the taxpayer is no longer eligible to pay the tax
+28 under this act and may no longer claim any other remaining
+29 certificated credits.
+KAS H01354'25 (H-1) 9sgvux
+13
+1 (4) For tax years that begin after December 31, 2011, a
+2 taxpayer's tax liability under this act, after application of all
+3 credits, deductions, and exemptions, shall be is the greater of the
+4 following:
+5 (a) The amount of the taxpayer's tax liability under this act,
+6 notwithstanding the calculation required under this section, after
+7 application of all credits, deductions, and exemptions and any
+8 carryforward of any unused credit as prescribed in this act.
+9 (b) An amount equal to the taxpayer's tax liability as
+10 computed pursuant to part 2 of the income tax act of 1967, 1967 PA
+11 281, MCL 206.601 to 206.699, after application of all credits,
+12 deductions, and exemptions under part 2 of the income tax act of
+13 1967, 1967 PA 281, MCL 206.601 to 206.699, as if the taxpayer were
+14 subject to the tax imposed under part 2 of the income tax act of
+15 1967, 1967 PA 281, MCL 206.601 to 206.699, less the amount of the
+16 taxpayer's certificated credits, including any unused carryforward
+17 of a certificated credit, that the taxpayer was allowed to claim
+18 for the tax year under this act. However, in calculating the amount
+19 under this subdivision, the following apply:
+20 (i) A taxpayer described under section 117(5)(a) shall not
+21 include a deduction for any business loss under section 623(4) of
+22 the income tax act of 1967, 1967 PA 281, MCL 206.623, for any prior
+23 year in which the taxpayer was not subject to the tax levied under
+24 this act.
+25 (ii) A taxpayer shall not include any nonrefundable
+26 certificated credit to the extent that credit exceeds the
+27 taxpayer's tax liability. Any nonrefundable credit remaining after
+28 application of the limitation in this subparagraph may be carried
+29 forward.
+KAS H01354'25 (H-1) 9sgvux
+14
+1 (iii) For a taxpayer that is a partnership or subchapter S
+2 corporation, business income includes payments and items of income
+3 and expense that are attributable to business activity of the
+4 partnership or S corporation and separately reported to the
+5 members.
+6 (5) If the result of the calculation under subsection (4) is
+7 negative, the taxpayer shall must be refunded that amount.
+8 (6) A taxpayer with a certificated credit under subsection (7)
+9 or section 435 or 437 that elects to pay the tax under this act may
+10 elect to claim a refundable credit as provided under section 510.
+11 If a refundable credit is claimed under section 510, that credit
+12 shall not be used to calculate a taxpayer's tax liability under
+13 subsection (4).
+14 (7) Subject to the limitations provided under this subsection,
+15 a taxpayer that is a member of a unitary business group and that
+16 has a certificated credit under sections 431 and 434(2) and (5) is
+17 not required to file a combined return as a unitary business group
+18 and may elect to file a separate return and pay the tax, if any,
+19 under this act and claim the certificated credit under section
+20 434(5) as provided under this subsection. A taxpayer that elects to
+21 file a separate return as provided under this subsection and redeem
+22 a voucher certificate under a voucher agreement entered pursuant to
+23 this subsection and proceeding from an agreement entered pursuant
+24 to section 434(5) for an amount equal to the employment expenses
+25 and related engineering product development and administrative
+26 costs for the support of integrated battery cells, anodes and
+27 cathodes, and cell assembly shall create an additional 100 new jobs
+28 in this state, for a total of 400 new jobs, and the maximum
+29 allowable amount redeemed under this subsection or under section
+KAS H01354'25 (H-1) 9sgvux
+15
+1 510 shall not exceed $25,000,000.00 per year for no more than 3
+2 years. A taxpayer that elects to file as provided under this
+3 subsection and redeem a voucher certificate under a voucher
+4 agreement entered pursuant to this subsection and proceeding from
+5 an agreement entered pursuant to section 434(5) shall not claim a
+6 credit for any agreement entered pursuant to section 431 or 434(2).
+7 (8) A taxpayer with a certificated credit granted under
+8 section 36109 of the natural resources and environmental protection
+9 act, 1994 PA 451, MCL 324.36109, which certificated credit had been
+10 claimed in a previous tax year under part 1 of the income tax act
+11 of 1967, 1967 PA 281, MCL 206.1 to 206.532, but that certificated
+12 credit is no longer eligible to be claimed under part 1 of the
+13 income tax act of 1967, 1967 PA 281, MCL 206.1 to 206.532, as a
+14 result of the death occurring after December 31, 2011 of an
+15 individual farmland owner, or an individual considered the farmland
+16 owner under section 36109(1)(d) of the natural resources and
+17 environmental protection act, 1994 PA 451, MCL 324.36109, and the
+18 transfer of the ownership of the farmland property subject to the
+19 farmland development rights agreement upon which that certificated
+20 credit is based into an estate or trust, may elect to pay the tax
+21 imposed by this act in the first tax year in which that
+22 certificated credit may be claimed under this act. A Except as
+23 otherwise provided under subsection (1), a taxpayer that elects
+24 under this subsection to pay the tax imposed by this act shall
+25 continue to file a return and pay the tax imposed under this act
+26 for each tax year thereafter until the certificated credit granted
+27 under section 36109 of the natural resources and environmental
+28 protection act, 1994 PA 451, MCL 324.36109, is complete and that
+29 credit is used up, or the taxpayer no longer owns the property
+KAS H01354'25 (H-1) 9sgvux
+16
+1 subject to the agreement, whichever occurs first. When the
+2 taxpayer's certificated credit under section 36109 of the natural
+3 resources and environmental protection act, 1994 PA 451, MCL
+4 324.36109, that was the basis for the taxpayer's election under
+5 this subsection is extinguished, or the taxpayer no longer owns
+6 that property under the agreement, whichever occurs first, the
+7 taxpayer is no longer eligible to pay the tax under this act and
+8 may no longer claim any other remaining certificated credits.
+9 (9) A taxpayer described under section 117(5)(c) may, for the
+10 first tax year ending after October 1, 2018 only, elect to file the
+11 return and pay the tax imposed by this act in lieu of the tax
+12 imposed under part 2 of the income tax act of 1967, 1967 PA 281,
+13 MCL 206.601 to 206.699. However, if the first tax year ending after
+14 October 1, 2018 ends before the effective date of the amendatory
+15 act that added this subsection October 10, 2019 and the taxpayer
+16 has already filed a return for that tax year under part 2 of the
+17 income tax act of 1967, 1967 PA 281, MCL 206.601 to 206.699, then
+18 the taxpayer may, if within the statute of limitations period
+19 prescribed under section 27a of 1941 PA 122, MCL 205.27a, elect to
+20 file the return and pay the tax imposed by this act in lieu of the
+21 tax imposed under part 2 of the income tax act of 1967, 1967 PA
+22 281, MCL 206.601 to 206.699, for that tax year by filing an
+23 original return as provided under section 505 and filing the
+24 necessary amended return under part 2 of the income tax act of
+25 1967, 1967 PA 281, MCL 206.601 to 206.699. The department may
+26 require documentation from the taxpayer that elects to file a
+27 return under this subsection to support the acquisition of the
+28 certificated credit that is the basis for the election. The terms,
+29 conditions, and amount of the certificated credit that is the basis
+KAS H01354'25 (H-1) 9sgvux
+17
+1 for the election shall continue and shall not be expanded in any
+2 manner that would increase the total amount of that certificated
+3 credit as a result of an election made under this subsection. A
+4 taxpayer that elects pursuant to this subsection to pay the tax
+5 imposed by this act may claim any other certificated credit that
+6 the person from whom the certificated credit that was the basis for
+7 the election was transferred would have been eligible to claim in
+8 the same tax year in which the taxpayer claims the certificated
+9 credit under section 431 that was the basis for the election, but
+10 shall not claim any certificated credit that the acquiring taxpayer
+11 would have accrued in any tax year before the election under this
+12 subsection or any other certificated credit for which an election
+13 could have been made by the acquiring taxpayer under subsection (1)
+14 for the acquiring taxpayer's first tax year ending after December
+15 31, 2011. When the taxpayer's certificated credit under section 431
+16 that was the basis for the taxpayer's election under this
+17 subsection is extinguished, the taxpayer is no longer eligible to
+18 pay the tax under this act and may no longer claim any other
+19 remaining certificated credits.
+20 Enacting section 1. This amendatory act does not take effect
+21 unless all of the following bills of the 103rd Legislature are
+22 enacted into law:
+23 (a) House Bill No. 4180.
+24 (b) House Bill No. 4181.
+25 (c) House Bill No. 4182.
+26 (d) House Bill No. 4183.
+27 (e) House Bill No. 4184.
+28 (f) House Bill No. 4185.
+29 (g) House Bill No. 4187.
+KAS H01354'25 (H-1) 9sgvux
+18
+1 (h) House Bill No. 4230.
+Final Page
+KAS H01354'25 (H-1) 9sgvux
+[DELETED:   H 9 S i b t t r]
+[DELETED:   H 9  4  ( i a a ( o t p i c ( i a ( t ( d S l r ( l i t t (]
+[DELETED:   H 9 t r t i g d t p l s s () p () s t () t t () o c ( i ( a u a t]
+[DELETED:   H 9 1 p ( i a s t o () () () ( e c c P ( n e l a t t p u s c d o d u]
+[DELETED:   H 9 a s b c I t m t y t p d u ( b p J d ( b 2 ( i i p i d p ( 3]
+[DELETED:   H 9 n a a d c o f o t y n ( u e r a r u f t b n t q d s p s a]
+[DELETED:   H 9 s h q q a p p u h t o r u d e u w a u s b a a ( f a i t t t t]
+[DELETED:   H 9 u p s b o s i i d t ( t r w ( s p p a ( s ( d a d 1 ( i a o]
+[DELETED:   H 9 g s t () h h 1 d t U f f l i G a o m () l () () t U () a () p () d h]
+[DELETED:   H 9 8 () d s 2 () c () t ( r o i o s o r f S t t v D a c p u c]
+[DELETED:   H 9 E a g r c ( i u b s i g N t i e t f m a M n o r (]
+[DELETED:   H 9 4 c p c p 2 o t b t ( 4 y a e c c e t 4 t s a u t w e u c]
+[DELETED:   H 9 ( t c t f ( n a c ( c 2 d 1 s 1 t o f u () i t y t () c t a f]
+[DELETED:   H 9 () c a p m ( n b ( o e I s s ( a h n a u 4 f a t t a c c i a]
+[DELETED:   H 9 5 y s a a c ( s a c o c i r i o e t f c i c t u c f u p c]
+[DELETED:   H 9 s t r 3 t t t m ( f r i M O a a h i t p f t 2 o n 1 r r c c]
+[DELETED:   H 9 f m c t i t t t c s w s c f 3 t s p r E u e ( ( ( ( ( ( (]
+[DELETED:   H 9 (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4186
+A bill to amend 2007 PA 36, entitled
+"Michigan business tax act,"
+by amending sections 201 and 500 (MCL 208.1201 and 208.1500),
+section 201 as amended by 2012 PA 605 and section 500 as amended by
+2019 PA 90.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 201. (1) Except as otherwise provided in this act, there
+2 is levied and imposed a business income tax on every taxpayer with
+3 business activity within this state unless prohibited by 15 USC 381
+4 to 384. The business income tax is imposed on the business income
+5 tax base, after allocation or apportionment to this state, at the
+6 rate of following rates in the following circumstances:
+7 (a) For all business activity occurring before January 1,
+KAS H01354'25 (H-1) 9sgvux
+
+2
+1 2025, 4.95%.
+2 (b) For all business activity occurring on and after January
+3 1, 2025, 30.0%.
+4 (2) The business income tax base means a taxpayer's business
+5 income subject to the following adjustments, before allocation or
+6 apportionment, and the adjustments in subsections (5), (6), and (7)
+7 after allocation or apportionment:
+8 (a) Add interest income and dividends derived from obligations
+9 or securities of states other than this state, in the same amount
+10 that was excluded from federal taxable income, less the related
+11 portion of expenses not deducted in computing federal taxable
+12 income because of sections 265 and 291 of the internal revenue
+13 code.
+14 (b) Add all taxes on or measured by net income and the tax
+15 imposed under this act to the extent the taxes were deducted in
+16 arriving at federal taxable income.
+17 (c) Add any carryback or carryover of a net operating loss to
+18 the extent deducted in arriving at federal taxable income.
+19 (d) To the extent included in federal taxable income, deduct
+20 dividends and royalties received from persons other than United
+21 States persons and foreign operating entities, including, but not
+22 limited to, amounts determined under section 78 of the internal
+23 revenue code or sections 951 to 964 of the internal revenue code.
+24 (e) To the extent included in federal taxable income, add the
+25 loss or subtract the income from the business income tax base that
+26 is attributable to another entity whose business activities are
+27 taxable under this section or would be subject to the tax under
+28 this section if the business activities were in this state.
+29 (f) Except as otherwise provided under this subdivision, to
+KAS H01354'25 (H-1) 9sgvux
+
+3
+1 the extent deducted in arriving at federal taxable income, add any
+2 royalty, interest, or other expense paid to a person related to the
+3 taxpayer by ownership or control for the use of an intangible asset
+4 if the person is not included in the taxpayer's unitary business
+5 group. The addition of any royalty, interest, or other expense
+6 described under this subdivision is not required to be added if the
+7 taxpayer can demonstrate that the transaction has a nontax business
+8 purpose other than avoidance of this tax, is conducted with arm's-
+9 length pricing and rates and terms as applied in accordance with
+10 sections 482 and 1274(d) of the internal revenue code, and
+11 satisfies 1 of the following:
+12 (i) Is a pass through of another transaction between a third
+13 party and the related person with comparable rates and terms.
+14 (ii) Results in double taxation. For purposes of this
+15 subparagraph, double taxation exists if the transaction is subject
+16 to tax in another jurisdiction.
+17 (iii) Is unreasonable as determined by the treasurer, and the
+18 taxpayer agrees that the addition would be unreasonable based on
+19 the taxpayer's facts and circumstances.
+20 (iv) The related person recipient of the transaction is
+21 organized under the laws of a foreign nation which has in force a
+22 comprehensive income tax treaty with the United States.
+23 (g) To the extent included in federal taxable income, deduct
+24 interest income derived from United States obligations.
+25 (h) To the extent included in federal taxable income, deduct
+26 any earnings that are net earnings from self-employment as defined
+27 under section 1402 of the internal revenue code of the taxpayer or
+28 a partner of the taxpayer and for purposes of a partner of a
+29 taxpayer, it shall be the amount properly reported on a schedule K-
+KAS H01354'25 (H-1) 9sgvux
+
+4
+1 1-form 1065 as self-employment earnings for federal income tax
+2 purposes for the tax year.
+3 (i) Subject to the limitation provided under this subdivision,
+4 if the book-tax differences for the first fiscal period ending
+5 after July 12, 2007 result in a deferred liability for a person
+6 subject to tax under this act, deduct the following percentages of
+7 the total book-tax difference for each qualifying asset, for each
+8 of the successive 15 tax years beginning with the 2015 tax year:
+9 (i) For the 2015 through 2019 tax years, 4%.
+10 (ii) For the 2020 through 2024 tax years, 6%.
+11 (iii) For the 2025 through 2029 tax years, 10%.
+12 (j) For tax years that begin after December 31, 2009, to the
+13 extent included in federal taxable income, deduct the amount of a
+14 charitable contribution made to the advance tuition payment fund
+15 created under section 9 of the Michigan education trust act, 1986
+16 PA 316, MCL 390.1429.
+17 (3) The deduction under subsection (2)(i) shall must not
+18 exceed the amount necessary to offset the net deferred tax
+19 liability of the taxpayer as computed in accordance with generally
+20 accepted accounting principles which would otherwise result from
+21 the imposition of the business income tax under this section and
+22 the modified gross receipts tax under section 203 if the deduction
+23 provided under this subdivision were not allowed. The deduction
+24 under subsection (2)(i) is intended to flow through and reduce the
+25 surcharge imposed and levied under section 281. For purposes of the
+26 calculation of the deduction under subsection (2)(i), a book-tax
+27 difference shall must only be used once in the calculation of the
+28 deduction arising from the taxpayer's business income tax base
+29 under this section and once in the calculation of the deduction
+KAS H01354'25 (H-1) 9sgvux
+
+5
+1 arising from the taxpayer's modified gross receipts tax base under
+2 section 203. The adjustment under subsection (2)(i) shall must be
+3 calculated without regard to the federal effect of the deduction.
+4 If the adjustment under subsection (2)(i) is greater than the
+5 taxpayer's business income tax base, any adjustment that is unused
+6 may be carried forward and applied as an adjustment to the
+7 taxpayer's business income tax base before apportionment in future
+8 years. In order to claim this deduction, the department may require
+9 the taxpayer to report the amount of this deduction on a form as
+10 prescribed by the department that is to be filed on or after the
+11 date that the first quarterly return and estimated payment are due
+12 under this act. As used in subsection (2)(i) and this subsection:
+13 (a) "Book-tax difference" means the difference, if any,
+14 between the person's qualifying asset's net book value shown on the
+15 person's books and records for the first fiscal period ending after
+16 July 12, 2007 and the qualifying asset's tax basis on that same
+17 date.
+18 (b) "Qualifying asset" means any asset shown on the person's
+19 books and records for the first fiscal period ending after July 12,
+20 2007, in accordance with generally accepted accounting principles.
+21 (4) For purposes of subsections (2) and (3), the business
+22 income of a unitary business group is the sum of the business
+23 income of each person, other than a foreign operating entity or a
+24 person subject to the tax imposed under chapter 2A or 2B, included
+25 in the unitary business group less any items of income and related
+26 deductions arising from transactions including dividends between
+27 persons included in the unitary business group.
+28 (5) Deduct any available business loss incurred after December
+29 31, 2007. As used in this subsection, "business loss" means a
+KAS H01354'25 (H-1) 9sgvux
+
+6
+1 negative business income taxable amount after allocation or
+2 apportionment. For purposes of this subsection, a taxpayer that
+3 acquires the assets of another corporation in a transaction
+4 described under section 381(a)(1) or (2) of the internal revenue
+5 code may deduct any business loss attributable to that distributor
+6 or transferor corporation. The business loss shall be carried
+7 forward to the year immediately succeeding the loss year as an
+8 offset to the allocated or apportioned business income tax base,
+9 then successively to the next 9 taxable years following the loss
+10 year or until the loss is used up, whichever occurs first, but for
+11 not more than 10 taxable years after the loss year.
+12 (6) Deduct any gain from the sale of any residential rental
+13 units in this state to a qualified affordable housing project that
+14 enters an agreement to operate the residential rental units as rent
+15 restricted units for a minimum of 15 years. If the qualified
+16 affordable housing project does not agree to operate all of the
+17 residential rental units as rent restricted units, the deduction
+18 under this subsection is limited to an amount equal to the gain
+19 from the sale multiplied by a fraction, the numerator of which is
+20 the number of those residential rental units purchased that are to
+21 be operated as a rent restricted unit and the denominator is the
+22 number of all residential rental units purchased. In order to claim
+23 this deduction, the department may require the taxpayer and the
+24 qualified affordable housing project to report the amount of this
+25 deduction on a form as prescribed by the department that is to be
+26 signed by both the taxpayer and the qualified affordable housing
+27 project and filed with the taxpayer's annual return. The department
+28 shall record a lien against the property subject to the operation
+29 agreement for the total amount of the deduction allowed under this
+KAS H01354'25 (H-1) 9sgvux
+
+7
+1 subsection. The department shall notify the qualified affordable
+2 housing project of the maximum amount of the lien that the
+3 qualified affordable housing project may be liable for if the
+4 qualified affordable housing project fails to qualify and operate
+5 as provided in the operation agreement within 15 years after the
+6 purchase. The lien shall become is payable in an amount as provided
+7 under this subsection to the state by the qualified affordable
+8 housing project if the qualified affordable housing project fails
+9 to qualify as a qualified affordable housing project and fails to
+10 operate all or some of the residential rental units as rent
+11 restricted units in accordance with the operation agreement entered
+12 upon the purchase of those units within 15 years after the
+13 deduction is claimed by a taxpayer under this subsection. An amount
+14 equal to the product of 100% of the amount of the deduction allowed
+15 under this subsection multiplied by a fraction, the numerator of
+16 which is the difference between 15 and the number of years the
+17 affordable housing project qualified and operated rent restricted
+18 units in accordance with the agreement and the denominator is 15,
+19 shall must be added back to the tax liability of the qualified
+20 affordable housing project for the tax year that the qualified
+21 affordable housing project fails to comply with the agreement.
+22 (7) Subject to the limitations provided in this subsection,
+23 for a person that is a qualified affordable housing project, deduct
+24 an amount equal to the product of that person's taxable income that
+25 is attributable to residential rental units in this state owned by
+26 the qualified affordable housing project multiplied by a fraction,
+27 the numerator of which is the number of rent restricted units in
+28 this state owned by that qualified affordable housing project and
+29 the denominator of which is the number of all residential rental
+KAS H01354'25 (H-1) 9sgvux
+
+8
+1 units in this state owned by the qualified affordable housing
+2 project. The amount of the deduction calculated under this
+3 subsection shall must be reduced by the amount of limited dividends
+4 or other distributions made to the partners, members, or
+5 shareholders of the qualified affordable housing project. Taxable
+6 income that is attributable to residential rental units does not
+7 include income received by the management, construction, or
+8 development company for completion and operation of the project and
+9 those rental units.
+10 (8) If a qualified affordable housing project no longer meets
+11 the requirements of subsection (9)(b) or fails to operate those
+12 residential rental units as rent restricted units in accordance
+13 with the operation agreement and the requirements of subsection
+14 (9)(c), the taxpayer is entitled to the deductions under
+15 subsections (6) and (7) as long as the qualified affordable housing
+16 project continues to offer some of the residential rental units
+17 purchased as rent restricted units in accordance with the operation
+18 agreement.
+19 (9) For purposes of subsections (6), (7), and (8) and this
+20 subsection:
+21 (a) "Limited dividend housing association" means a limited
+22 dividend housing association, corporation, or cooperative organized
+23 and qualified pursuant to chapter 7 of the state housing
+24 development authority act of 1966, 1966 PA 346, MCL 125.1491 to
+25 125.1496.
+26 (b) "Qualified affordable housing project" means a person that
+27 is organized, qualified, and operated as a limited dividend housing
+28 association that has a limitation on the amount of dividends or
+29 other distributions that may be distributed to its owners in any
+KAS H01354'25 (H-1) 9sgvux
+
+9
+1 given year and has received funding, subsidies, grants, operating
+2 support, or construction or permanent funding through 1 or more of
+3 the following sources and programs:
+4 (i) Mortgage or other financing provided by the Michigan state
+5 housing development authority created in section 21 of the state
+6 housing development authority act of 1966, 1966 PA 346, MCL
+7 125.1421, the United States department of housing and urban
+8 development, Department of Housing and Urban Development, the
+9 United States department of agriculture Department of Agriculture
+10 for rural housing service, the Michigan interfaith housing trust
+11 fund, Michigan housing and community development fund, federal home
+12 loan bank, housing commission loan, community development financial
+13 institution, or mortgage or other funding or guaranteed by Fannie,
+14 Ginnie, federal housing association, United States department of
+15 agriculture, Department of Agriculture, or federal home loan
+16 mortgage corporation.
+17 (ii) A tax-exempt bond issued by a nonprofit organization,
+18 local governmental unit, or other authority.
+19 (iii) A payment in lieu of tax agreement or other tax abatement.
+20 (iv) Funding from the state or a local governmental unit
+21 through a HOME investments partnership program authorized under 42
+22 USC 12741 to 12756.
+23 (v) A grant or other funding from a federal home loan bank's
+24 affordable housing program.
+25 (vi) Financing or funding under the new markets tax credit
+26 program under section 45D of the internal revenue code.
+27 (vii) Financed in whole or in part under the United States
+28 department of housing and urban development's Department of Housing
+29 and Urban Development's hope VI program as authorized by section
+KAS H01354'25 (H-1) 9sgvux
+
+10
+1 803 of the national affordable housing act, 42 USC 8012.
+2 (viii) Financed in whole or in part under the United States
+3 department of housing and urban development's Department of Housing
+4 and Urban Development's section 202 program authorized by section
+5 202 of the national housing act, 12 USC 1701q.
+6 (ix) Financing or funding under the low-income housing tax
+7 credit program under section 42 of the internal revenue code.
+8 (x) Financing or other subsidies from any new programs similar
+9 to any of the above.
+10 (c) "Rent restricted unit" means any residential rental unit's
+11 rental income is restricted in accordance with section 42(g)(1)
+12 42(g)(2) of the internal revenue code as if it was a qualified low-
+13 income housing project, or receives rental assistance in the form
+14 of HUD section 8 subsidies or HUD housing assistance program
+15 subsidies, or rental assistance from the United States department
+16 of agriculture Department of Agriculture rural housing programs, or
+17 from any of the other programs described under subdivision (b).
+18 Sec. 500. (1) Except as otherwise provided in this section, a
+19 taxpayer described under section 117(5)(a) or under section 680 of
+20 the income tax act of 1967, 1967 PA 281, MCL 206.680, that
+21 voluntarily elects for the taxpayer's first tax year ending after
+22 December 31, 2011 to file a return and pay the tax imposed by this
+23 act in order to claim a certificated credit or any unused
+24 carryforward for that tax year shall continue to file a return and
+25 pay the tax imposed under this act for each tax year thereafter
+26 until that certificated credit and any carryforward from that
+27 credit is used up. For a tax year that begins after December 31,
+28 2024, a taxpayer that had previously elected to file a return and
+29 pay the tax imposed under this act is not required to continue to
+KAS H01354'25 (H-1) 9sgvux
+
+11
+1 file a return and pay the tax imposed under this act and may elect
+2 to file a return and pay the tax imposed under part 2 of the income
+3 tax act of 1967, 1967 PA 281, MCL 206.601 to 206.699, and, upon
+4 that election, the taxpayer is no longer eligible to claim any
+5 remaining certificated credits or unused carryforward under this
+6 act. Except as otherwise provided under subsection (7), if a person
+7 awarded a certificated credit is a member of a unitary business
+8 group, the unitary business group, and not the member, shall file a
+9 return and pay the tax, if any, under this act and claim the
+10 certificated credit. Except as otherwise provided under subsection
+11 (7), if the taxpayer that elects to file a return and pay the tax
+12 imposed by this act in order to claim a certificated credit or any
+13 unused carryforward of that credit for that tax year is a unitary
+14 business group, the return filed by the unitary business group
+15 shall must include all persons included in the unitary business
+16 group regardless of whether that person is incorporated.
+17 Notwithstanding any other provision of this act or part 2 or 3 of
+18 the income tax act of 1967, 1967 PA 281, MCL 206.601 to 206.713,
+19 206.725, in the case of a flow-through entity that has made an
+20 election under this section, each member of the flow-through entity
+21 that does not file as a member of a unitary business group with the
+22 flow-through entity shall disregard all items attributable to that
+23 member's ownership interest in the electing flow-through entity for
+24 all purposes of part 2 of the income tax act of 1967, 1967 PA 281,
+25 MCL 206.601 to 206.699, and the electing flow-through entity shall
+26 not be subject to the tax withholding provisions of section 703(4)
+27 of the income tax act of 1967, 1967 PA 281, MCL 206.703, with
+28 respect to its members that are corporations.
+29 (2) A taxpayer with a certificated credit under section 435 or
+KAS H01354'25 (H-1) 9sgvux
+
+12
+1 437, which certificated credit or any unused carryforward may be
+2 claimed in a tax year ending after December 31, 2011 may elect to
+3 pay the tax imposed by this act in the tax year in which that
+4 certificated credit may be claimed in lieu of the tax imposed under
+5 part 2 of the income tax act of 1967, 1967 PA 281, MCL 206.601 to
+6 206.699. If a person with a certificated credit under section 435
+7 or 437 that elects under this subsection to pay the tax imposed by
+8 this act is a member of a unitary business group, the unitary
+9 business group, and not the member, shall file a return and pay the
+10 tax, if any, under this act and claim that certificated credit.
+11 (3) A taxpayer with a certificated credit under section 435 or
+12 437 that elects under subsection (2) after the taxpayer's first tax
+13 year ending after December 31, 2011 to pay the tax imposed by this
+14 act may claim any other certificated credit that taxpayer would be
+15 eligible for in the year in which the taxpayer claims a
+16 certificated credit under section 435 or 437, but not any
+17 certificated credit that would have accrued in any year before the
+18 election under subsection (2). A Except as otherwise provided under
+19 subsection (1), a taxpayer with a certificated credit under section
+20 437(10) that elects under subsection (2) after the taxpayer's first
+21 tax year after December 31, 2011 to pay the tax imposed by this act
+22 shall continue to file a return and pay the tax imposed under this
+23 act for each tax year thereafter until the certificated credit
+24 under section 437(10) is complete and that credit is used up. When
+25 the taxpayer's certificated credit under section 435 or 437 that
+26 was the basis for the taxpayer's election under subsection (2) is
+27 extinguished, the taxpayer is no longer eligible to pay the tax
+28 under this act and may no longer claim any other remaining
+29 certificated credits.
+KAS H01354'25 (H-1) 9sgvux
+
+13
+1 (4) For tax years that begin after December 31, 2011, a
+2 taxpayer's tax liability under this act, after application of all
+3 credits, deductions, and exemptions, shall be is the greater of the
+4 following:
+5 (a) The amount of the taxpayer's tax liability under this act,
+6 notwithstanding the calculation required under this section, after
+7 application of all credits, deductions, and exemptions and any
+8 carryforward of any unused credit as prescribed in this act.
+9 (b) An amount equal to the taxpayer's tax liability as
+10 computed pursuant to part 2 of the income tax act of 1967, 1967 PA
+11 281, MCL 206.601 to 206.699, after application of all credits,
+12 deductions, and exemptions under part 2 of the income tax act of
+13 1967, 1967 PA 281, MCL 206.601 to 206.699, as if the taxpayer were
+14 subject to the tax imposed under part 2 of the income tax act of
+15 1967, 1967 PA 281, MCL 206.601 to 206.699, less the amount of the
+16 taxpayer's certificated credits, including any unused carryforward
+17 of a certificated credit, that the taxpayer was allowed to claim
+18 for the tax year under this act. However, in calculating the amount
+19 under this subdivision, the following apply:
+20 (i) A taxpayer described under section 117(5)(a) shall not
+21 include a deduction for any business loss under section 623(4) of
+22 the income tax act of 1967, 1967 PA 281, MCL 206.623, for any prior
+23 year in which the taxpayer was not subject to the tax levied under
+24 this act.
+25 (ii) A taxpayer shall not include any nonrefundable
+26 certificated credit to the extent that credit exceeds the
+27 taxpayer's tax liability. Any nonrefundable credit remaining after
+28 application of the limitation in this subparagraph may be carried
+29 forward.
+KAS H01354'25 (H-1) 9sgvux
+
+14
+1 (iii) For a taxpayer that is a partnership or subchapter S
+2 corporation, business income includes payments and items of income
+3 and expense that are attributable to business activity of the
+4 partnership or S corporation and separately reported to the
+5 members.
+6 (5) If the result of the calculation under subsection (4) is
+7 negative, the taxpayer shall must be refunded that amount.
+8 (6) A taxpayer with a certificated credit under subsection (7)
+9 or section 435 or 437 that elects to pay the tax under this act may
+10 elect to claim a refundable credit as provided under section 510.
+11 If a refundable credit is claimed under section 510, that credit
+12 shall not be used to calculate a taxpayer's tax liability under
+13 subsection (4).
+14 (7) Subject to the limitations provided under this subsection,
+15 a taxpayer that is a member of a unitary business group and that
+16 has a certificated credit under sections 431 and 434(2) and (5) is
+17 not required to file a combined return as a unitary business group
+18 and may elect to file a separate return and pay the tax, if any,
+19 under this act and claim the certificated credit under section
+20 434(5) as provided under this subsection. A taxpayer that elects to
+21 file a separate return as provided under this subsection and redeem
+22 a voucher certificate under a voucher agreement entered pursuant to
+23 this subsection and proceeding from an agreement entered pursuant
+24 to section 434(5) for an amount equal to the employment expenses
+25 and related engineering product development and administrative
+26 costs for the support of integrated battery cells, anodes and
+27 cathodes, and cell assembly shall create an additional 100 new jobs
+28 in this state, for a total of 400 new jobs, and the maximum
+29 allowable amount redeemed under this subsection or under section
+KAS H01354'25 (H-1) 9sgvux
+
+15
+1 510 shall not exceed $25,000,000.00 per year for no more than 3
+2 years. A taxpayer that elects to file as provided under this
+3 subsection and redeem a voucher certificate under a voucher
+4 agreement entered pursuant to this subsection and proceeding from
+5 an agreement entered pursuant to section 434(5) shall not claim a
+6 credit for any agreement entered pursuant to section 431 or 434(2).
+7 (8) A taxpayer with a certificated credit granted under
+8 section 36109 of the natural resources and environmental protection
+9 act, 1994 PA 451, MCL 324.36109, which certificated credit had been
+10 claimed in a previous tax year under part 1 of the income tax act
+11 of 1967, 1967 PA 281, MCL 206.1 to 206.532, but that certificated
+12 credit is no longer eligible to be claimed under part 1 of the
+13 income tax act of 1967, 1967 PA 281, MCL 206.1 to 206.532, as a
+14 result of the death occurring after December 31, 2011 of an
+15 individual farmland owner, or an individual considered the farmland
+16 owner under section 36109(1)(d) of the natural resources and
+17 environmental protection act, 1994 PA 451, MCL 324.36109, and the
+18 transfer of the ownership of the farmland property subject to the
+19 farmland development rights agreement upon which that certificated
+20 credit is based into an estate or trust, may elect to pay the tax
+21 imposed by this act in the first tax year in which that
+22 certificated credit may be claimed under this act. A Except as
+23 otherwise provided under subsection (1), a taxpayer that elects
+24 under this subsection to pay the tax imposed by this act shall
+25 continue to file a return and pay the tax imposed under this act
+26 for each tax year thereafter until the certificated credit granted
+27 under section 36109 of the natural resources and environmental
+28 protection act, 1994 PA 451, MCL 324.36109, is complete and that
+29 credit is used up, or the taxpayer no longer owns the property
+KAS H01354'25 (H-1) 9sgvux
+
+16
+1 subject to the agreement, whichever occurs first. When the
+2 taxpayer's certificated credit under section 36109 of the natural
+3 resources and environmental protection act, 1994 PA 451, MCL
+4 324.36109, that was the basis for the taxpayer's election under
+5 this subsection is extinguished, or the taxpayer no longer owns
+6 that property under the agreement, whichever occurs first, the
+7 taxpayer is no longer eligible to pay the tax under this act and
+8 may no longer claim any other remaining certificated credits.
+9 (9) A taxpayer described under section 117(5)(c) may, for the
+10 first tax year ending after October 1, 2018 only, elect to file the
+11 return and pay the tax imposed by this act in lieu of the tax
+12 imposed under part 2 of the income tax act of 1967, 1967 PA 281,
+13 MCL 206.601 to 206.699. However, if the first tax year ending after
+14 October 1, 2018 ends before the effective date of the amendatory
+15 act that added this subsection October 10, 2019 and the taxpayer
+16 has already filed a return for that tax year under part 2 of the
+17 income tax act of 1967, 1967 PA 281, MCL 206.601 to 206.699, then
+18 the taxpayer may, if within the statute of limitations period
+19 prescribed under section 27a of 1941 PA 122, MCL 205.27a, elect to
+20 file the return and pay the tax imposed by this act in lieu of the
+21 tax imposed under part 2 of the income tax act of 1967, 1967 PA
+22 281, MCL 206.601 to 206.699, for that tax year by filing an
+23 original return as provided under section 505 and filing the
+24 necessary amended return under part 2 of the income tax act of
+25 1967, 1967 PA 281, MCL 206.601 to 206.699. The department may
+26 require documentation from the taxpayer that elects to file a
+27 return under this subsection to support the acquisition of the
+28 certificated credit that is the basis for the election. The terms,
+29 conditions, and amount of the certificated credit that is the basis
+KAS H01354'25 (H-1) 9sgvux
+
+17
+1 for the election shall continue and shall not be expanded in any
+2 manner that would increase the total amount of that certificated
+3 credit as a result of an election made under this subsection. A
+4 taxpayer that elects pursuant to this subsection to pay the tax
+5 imposed by this act may claim any other certificated credit that
+6 the person from whom the certificated credit that was the basis for
+7 the election was transferred would have been eligible to claim in
+8 the same tax year in which the taxpayer claims the certificated
+9 credit under section 431 that was the basis for the election, but
+10 shall not claim any certificated credit that the acquiring taxpayer
+11 would have accrued in any tax year before the election under this
+12 subsection or any other certificated credit for which an election
+13 could have been made by the acquiring taxpayer under subsection (1)
+14 for the acquiring taxpayer's first tax year ending after December
+15 31, 2011. When the taxpayer's certificated credit under section 431
+16 that was the basis for the taxpayer's election under this
+17 subsection is extinguished, the taxpayer is no longer eligible to
+18 pay the tax under this act and may no longer claim any other
+19 remaining certificated credits.
+20 Enacting section 1. This amendatory act does not take effect
+21 unless all of the following bills of the 103rd Legislature are
+22 enacted into law:
+23 (a) House Bill No. 4180.
+24 (b) House Bill No. 4181.
+25 (c) House Bill No. 4182.
+26 (d) House Bill No. 4183.
+27 (e) House Bill No. 4184.
+28 (f) House Bill No. 4185.
+29 (g) House Bill No. 4187.
+KAS H01354'25 (H-1) 9sgvux
+
+18
+1 (h) House Bill No. 4230.
+Final Page
+KAS H01354'25 (H-1) 9sgvux
+
+[DELETED:   H 9 S i b t t r]
+[DELETED:   H 9  4  ( i a a ( o t p i c ( i a ( t ( d S l r ( l i t t (]
+[DELETED:   H 9 t r t i g d t p l s s () p () s t () t t () o c ( i ( a u a t]
+[DELETED:   H 9 1 p ( i a s t o () () () ( e c c P ( n e l a t t p u s c d o d u]
+[DELETED:   H 9 a s b c I t m t y t p d u ( b p J d ( b 2 ( i i p i d p ( 3]
+[DELETED:   H 9 n a a d c o f o t y n ( u e r a r u f t b n t q d s p s a]
+[DELETED:   H 9 s h q q a p p u h t o r u d e u w a u s b a a ( f a i t t t t]
+[DELETED:   H 9 u p s b o s i i d t ( t r w ( s p p a ( s ( d a d 1 ( i a o]
+[DELETED:   H 9 g s t () h h 1 d t U f f l i G a o m () l () () t U () a () p () d h]
+[DELETED:   H 9 8 () d s 2 () c () t ( r o i o s o r f S t t v D a c p u c]
+[DELETED:   H 9 E a g r c ( i u b s i g N t i e t f m a M n o r (]
+[DELETED:   H 9 4 c p c p 2 o t b t ( 4 y a e c c e t 4 t s a u t w e u c]
+[DELETED:   H 9 ( t c t f ( n a c ( c 2 d 1 s 1 t o f u () i t y t () c t a f]
+[DELETED:   H 9 () c a p m ( n b ( o e I s s ( a h n a u 4 f a t t a c c i a]
+[DELETED:   H 9 5 y s a a c ( s a c o c i r i o e t f c i c t u c f u p c]
+[DELETED:   H 9 s t r 3 t t t m ( f r i M O a a h i t p f t 2 o n 1 r r c c]
+[DELETED:   H 9 f m c t i t t t c s w s c f 3 t s p r E u e ( ( ( ( ( ( (]
+[DELETED:   H 9 (]

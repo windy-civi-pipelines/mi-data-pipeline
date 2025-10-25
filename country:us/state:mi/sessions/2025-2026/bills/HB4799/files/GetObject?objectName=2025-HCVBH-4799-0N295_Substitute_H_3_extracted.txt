@@ -1,0 +1,106 @@
+Title: HOUSE BILL NO. 4799
+Official Title: HOUSE BILL NO. 4799
+Number of Sections: 1
+Source: versions - Substitute (H-3)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1893 PA 206, entitled
+"The general property tax act,"
+by amending section 44b (MCL 211.44b), as added by 1994 PA 297.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 44b. (1) For All of the following apply for purposes of
+2 determining the date payment of the tax is received under this act,
+3 the or the date that any communication or notification from or on
+4 behalf of a taxpayer is received under this act:
+5 (a) The date of a United States postal service Postal Service
+6 or other common carrier's postmark may must be considered the date
+7 of receipt . However, a tax payment shall not be considered
+8 received prior to 7 calendar days before the date of actual
+9 receipt. This section does not apply to the payment of the tax
+JHM H02871'25 * (H-3) grwc9q
+2
+1 prior to the sale provided under section 60.if the postmark date is
+2 not less than 5 days prior to an applicable due date and the
+3 taxpayer can provide adequate documentation of the validity of the
+4 postmark date.
+5 (b) If a postmark date is later than the postmark date
+6 described in subdivision (a) but not later than an applicable due
+7 date, the postmark date may be considered the date of receipt.
+8 (c) If authorized electronic payment or electronic
+9 communication or notification is accepted, the date of electronic
+10 submission must be considered the date of receipt. As used in this
+11 subdivision:
+12 (i) "Authorized electronic payment" means a payment made on an
+13 established electronic platform that is maintained or approved by
+14 the local tax collecting unit for the collection of taxes or
+15 assessments under this act, including payment by ACH, debit card,
+16 or credit card transaction. Authorized electronic payment does not
+17 include payment by external banking applications, peer-to-peer
+18 platforms, or unverified payment intermediaries.
+19 (ii) "ACH" means that term as defined in section 1 of 2002 PA
+20 738, MCL 124.301.
+21 (2) This section applies to the payment of nondelinquent
+22 property taxes, assessments, or other amounts shown as payable on a
+23 property tax statement, and all related penalties, interest, or
+24 fees.
+Final Page
+JHM H02871'25 * (H-3) grwc9q
+[DELETED:   H g S F p A d t P d m p b ot. r r]
+[DELETED:   H g p )) ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4799
+A bill to amend 1893 PA 206, entitled
+"The general property tax act,"
+by amending section 44b (MCL 211.44b), as added by 1994 PA 297.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 44b. (1) For All of the following apply for purposes of
+2 determining the date payment of the tax is received under this act,
+3 the or the date that any communication or notification from or on
+4 behalf of a taxpayer is received under this act:
+5 (a) The date of a United States postal service Postal Service
+6 or other common carrier's postmark may must be considered the date
+7 of receipt . However, a tax payment shall not be considered
+8 received prior to 7 calendar days before the date of actual
+9 receipt. This section does not apply to the payment of the tax
+JHM H02871'25 * (H-3) grwc9q
+
+2
+1 prior to the sale provided under section 60.if the postmark date is
+2 not less than 5 days prior to an applicable due date and the
+3 taxpayer can provide adequate documentation of the validity of the
+4 postmark date.
+5 (b) If a postmark date is later than the postmark date
+6 described in subdivision (a) but not later than an applicable due
+7 date, the postmark date may be considered the date of receipt.
+8 (c) If authorized electronic payment or electronic
+9 communication or notification is accepted, the date of electronic
+10 submission must be considered the date of receipt. As used in this
+11 subdivision:
+12 (i) "Authorized electronic payment" means a payment made on an
+13 established electronic platform that is maintained or approved by
+14 the local tax collecting unit for the collection of taxes or
+15 assessments under this act, including payment by ACH, debit card,
+16 or credit card transaction. Authorized electronic payment does not
+17 include payment by external banking applications, peer-to-peer
+18 platforms, or unverified payment intermediaries.
+19 (ii) "ACH" means that term as defined in section 1 of 2002 PA
+20 738, MCL 124.301.
+21 (2) This section applies to the payment of nondelinquent
+22 property taxes, assessments, or other amounts shown as payable on a
+23 property tax statement, and all related penalties, interest, or
+24 fees.
+Final Page
+JHM H02871'25 * (H-3) grwc9q
+
+[DELETED:   H g S F p A d t P d m p b ot. r r]
+[DELETED:   H g p )) ]

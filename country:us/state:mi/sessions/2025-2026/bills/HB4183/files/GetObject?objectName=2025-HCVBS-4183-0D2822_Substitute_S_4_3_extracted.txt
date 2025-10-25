@@ -1,0 +1,324 @@
+Title: HOUSE BILL NO. 4183
+Official Title: HOUSE BILL NO. 4183
+Number of Sections: 1
+Source: versions - Substitute (S-4) - 3
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 2000 PA 403, entitled
+"Motor fuel tax act,"
+by amending section 8 (MCL 207.1008), as amended by 2015 PA 176.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 8. (1) Except as otherwise provided in this act and
+2 subject to the exemptions provided for in this act, tax is imposed
+3 on motor fuel imported into or sold, delivered, removed, or used in
+4 this state at the following rates:
+5 (a) Except as otherwise provided in subdivision (c), as
+6 follows:
+7 (i) Through December 31, 2016, 19 cents per gallon on gasoline.
+8 (ii) Beginning January 1, 2017, 26.3 cents per gallon on
+9 gasoline.
+JJR H00173'25 (S-4) k0txzp
+2
+1 (b) Except as otherwise provided in subdivision (c), as
+2 follows:
+3 (i) Through December 31, 2016, 15 cents per gallon on diesel
+4 fuel.
+5 (ii) Beginning January 1, 2017, 26.3 cents per gallon on diesel
+6 fuel.
+7 (c) Beginning Except as otherwise provided in this
+8 subdivision, beginning with the rate effective on January 1, 2022
+9 and January 1 of each year thereafter, through the rate effective
+10 on January 1, 2025, the department shall determine a cents-per-
+11 gallon rate on motor fuel that shall be is derived by multiplying
+12 the cents-per-gallon rate in effect during the immediately
+13 preceding calendar year by 1 plus the lesser of 0.05 or the
+14 inflation rate and rounding up the product to the nearest 1/10 of a
+15 cent. Beginning January 1, 2026 through December 31, 2026, the
+16 cents-per-gallon rate on motor fuel is equal to the product of 51
+17 cents multiplied by 1 plus the lesser of 0.05 or the inflation rate
+18 and rounding up the product to the nearest 1/10 of a cent. For the
+19 rate effective on January 1, 2027 and on January 1 of each year
+20 thereafter, the department shall determine a cents-per-gallon rate
+21 on motor fuel that is derived by multiplying the cents-per-gallon
+22 rate in effect during the immediately preceding calendar year by 1
+23 plus the lesser of 0.05 or the inflation rate and rounding up the
+24 product to the nearest 1/10 of a cent.
+25 (2) Tax shall is not be imposed under this section on motor
+26 fuel that is in the bulk transfer/terminal system.
+27 (3) The collection, payment, and remittance of the tax imposed
+28 by this section shall must be accomplished in the manner and at the
+29 time provided for in this act.
+JJR H00173'25 (S-4) k0txzp
+3
+1 (4) Tax is also imposed at the rate described in subsection
+2 (1) on net gallons of motor fuel, including transmix, lost or
+3 unaccounted for , at each terminal in this state. The tax shall
+4 must be measured annually and shall apply applies to the net
+5 gallons of motor fuel lost or unaccounted for that are in excess of
+6 1/2 of 1% of all net gallons of fuel removed from the terminal
+7 across the rack or in bulk.
+8 (5) It is the intent of this act:
+9 (a) To require persons who operate a motor vehicle on the
+10 public roads or highways of this state to pay for the privilege of
+11 using those roads or highways.
+12 (b) To impose on suppliers a requirement to collect and remit
+13 the tax imposed by this act at the time of removal of motor fuel
+14 unless otherwise specifically provided in this act.
+15 (c) To allow persons who pay the tax imposed by this act and
+16 who use the fuel for a nontaxable purpose to seek a refund or claim
+17 a deduction as provided in this act.
+18 (d) That the tax imposed by this act be collected and paid at
+19 those times, in the manner, and by those persons specified in this
+20 act.
+21 (6) Bills of lading and invoices shall must identify the
+22 blended product and the correct fuel product code. The motor fuel
+23 tax rate for each product shall must be listed separately on each
+24 invoice. Licensees shall report the correct fuel product code for
+25 the blended product as required by the department. When fuel is
+26 blended below the terminal rack, new bills of lading and invoices
+27 shall must be generated and submitted to the department upon on
+28 request. All bills of lading and invoices shall must meet the
+29 requirements provided under of this act.
+JJR H00173'25 (S-4) k0txzp
+4
+1 (7) Notwithstanding any other provision of this act, a
+2 facility in this state that produces motor fuel and distributes the
+3 fuel from a rack for purposes of this act is a terminal, shall
+4 obtain a terminal operator license, and shall comply with all
+5 terminal operator reporting requirements under this act. A position
+6 holder in a facility shall be licensed as a supplier and shall
+7 comply with all supplier requirements under this act.
+8 (8) Beginning with the rate in effect on January 1, 2022 and
+9 January 1 of each year thereafter, the department shall publish
+10 notice of the tax rate under this section not later than 30 days
+11 before the effective date of the rate.
+12 (9) A determination by the department of the consumer price
+13 index, Consumer Price Index, the inflation rate, or the tax rate
+14 under this section is presumed correct and shall not be set aside
+15 unless an administrative tribunal or a court of competent
+16 jurisdiction finds the department's determination to be clearly
+17 erroneous.
+18 (10) Subject to subsections (11) to (13), the tax levied under
+19 this act, at a rate equal to the difference between the tax rate in
+20 effect on January 1, 2025, and the tax rate in effect on January 1,
+21 2026, is imposed on all of the following as provided in this
+22 subsection:
+23 (a) Motor fuel in excess of 3,000 gallons held in storage by
+24 an end user as of 11:59 p.m. on December 31, 2025, or held for sale
+25 at the close of business on December 31, 2025 that is in excess of
+26 dead storage, as to which the tax imposed by subsection (1), at the
+27 rate in effect on January 1, 2025, has been previously paid or has
+28 been accrued by either of the following:
+29 (i) A licensed supplier at the time of removal from a terminal.
+JJR H00173'25 (S-4) k0txzp
+5
+1 (ii) A licensed importer, if all of the conditions in sections
+2 76, 82, and 104, as applicable, concerning the lawful importation
+3 of motor fuel by the importer have been met.
+4 (b) All nonexempt motor fuel held by a person outside of the
+5 bulk transfer/terminal system in this state as of 11:59 p.m. on
+6 December 31, 2025, in excess of 3,000 gallons, as to which the tax
+7 imposed by subsection (1) at the rate in effect on January 1, 2025
+8 has not been previously paid or has not been accrued by either of
+9 the following:
+10 (i) A licensed supplier at the time of removal from a terminal.
+11 (ii) A licensed importer, if all of the conditions in sections
+12 76, 82, and 104, as applicable, concerning the lawful importation
+13 of motor fuel by the importer have been met.
+14 (11) A person in possession of motor fuel that is subject to
+15 the tax under subsection (10) must take an inventory to determine
+16 the number of gallons of motor fuel subject to the tax under
+17 subsection (10) and report those gallons of motor fuel to the
+18 department in the form and manner prescribed by the department.
+19 (12) The amount of the tax due under subsection (10) is equal
+20 to the tax rate described in subsection (10) multiplied by the
+21 number of gallons of motor fuel subject to the tax imposed under
+22 subsection (10).
+23 (13) By not later than February 20, 2026, the report required
+24 under subsection (11) must be filed with the department, together
+25 with payment of the applicable tax due under subsection (10).
+26 Enacting section 1. This amendatory act does not take effect
+27 unless all of the following bills of the 103rd Legislature are
+28 enacted into law:
+29 (a) Senate Bill No. 578.
+JJR H00173'25 (S-4) k0txzp
+6
+1 (b) House Bill No. 4180.
+2 (c) House Bill No. 4181.
+3 (d) House Bill No. 4182.
+Final Page
+JJR H00173'25 (S-4) k0txzp
+[DELETED:   H k S s o o t ( f () () g]
+[DELETED:   H k ( f () f () f ( w a t g d t p i c  ( n f ( b b t]
+[DELETED:   H k ( ( ur, a b t g 1 a ( ( p u ( t u ( w a ( t a ( i b t b i t b s b o r m r t]
+[DELETED:   H k ( f f o t h c ( J n b. ( i t u u j e)]
+[DELETED:   H k)))  E u e (]
+[DELETED:   H k ( ( (]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4183
+A bill to amend 2000 PA 403, entitled
+"Motor fuel tax act,"
+by amending section 8 (MCL 207.1008), as amended by 2015 PA 176.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 8. (1) Except as otherwise provided in this act and
+2 subject to the exemptions provided for in this act, tax is imposed
+3 on motor fuel imported into or sold, delivered, removed, or used in
+4 this state at the following rates:
+5 (a) Except as otherwise provided in subdivision (c), as
+6 follows:
+7 (i) Through December 31, 2016, 19 cents per gallon on gasoline.
+8 (ii) Beginning January 1, 2017, 26.3 cents per gallon on
+9 gasoline.
+JJR H00173'25 (S-4) k0txzp
+
+2
+1 (b) Except as otherwise provided in subdivision (c), as
+2 follows:
+3 (i) Through December 31, 2016, 15 cents per gallon on diesel
+4 fuel.
+5 (ii) Beginning January 1, 2017, 26.3 cents per gallon on diesel
+6 fuel.
+7 (c) Beginning Except as otherwise provided in this
+8 subdivision, beginning with the rate effective on January 1, 2022
+9 and January 1 of each year thereafter, through the rate effective
+10 on January 1, 2025, the department shall determine a cents-per-
+11 gallon rate on motor fuel that shall be is derived by multiplying
+12 the cents-per-gallon rate in effect during the immediately
+13 preceding calendar year by 1 plus the lesser of 0.05 or the
+14 inflation rate and rounding up the product to the nearest 1/10 of a
+15 cent. Beginning January 1, 2026 through December 31, 2026, the
+16 cents-per-gallon rate on motor fuel is equal to the product of 51
+17 cents multiplied by 1 plus the lesser of 0.05 or the inflation rate
+18 and rounding up the product to the nearest 1/10 of a cent. For the
+19 rate effective on January 1, 2027 and on January 1 of each year
+20 thereafter, the department shall determine a cents-per-gallon rate
+21 on motor fuel that is derived by multiplying the cents-per-gallon
+22 rate in effect during the immediately preceding calendar year by 1
+23 plus the lesser of 0.05 or the inflation rate and rounding up the
+24 product to the nearest 1/10 of a cent.
+25 (2) Tax shall is not be imposed under this section on motor
+26 fuel that is in the bulk transfer/terminal system.
+27 (3) The collection, payment, and remittance of the tax imposed
+28 by this section shall must be accomplished in the manner and at the
+29 time provided for in this act.
+JJR H00173'25 (S-4) k0txzp
+
+3
+1 (4) Tax is also imposed at the rate described in subsection
+2 (1) on net gallons of motor fuel, including transmix, lost or
+3 unaccounted for , at each terminal in this state. The tax shall
+4 must be measured annually and shall apply applies to the net
+5 gallons of motor fuel lost or unaccounted for that are in excess of
+6 1/2 of 1% of all net gallons of fuel removed from the terminal
+7 across the rack or in bulk.
+8 (5) It is the intent of this act:
+9 (a) To require persons who operate a motor vehicle on the
+10 public roads or highways of this state to pay for the privilege of
+11 using those roads or highways.
+12 (b) To impose on suppliers a requirement to collect and remit
+13 the tax imposed by this act at the time of removal of motor fuel
+14 unless otherwise specifically provided in this act.
+15 (c) To allow persons who pay the tax imposed by this act and
+16 who use the fuel for a nontaxable purpose to seek a refund or claim
+17 a deduction as provided in this act.
+18 (d) That the tax imposed by this act be collected and paid at
+19 those times, in the manner, and by those persons specified in this
+20 act.
+21 (6) Bills of lading and invoices shall must identify the
+22 blended product and the correct fuel product code. The motor fuel
+23 tax rate for each product shall must be listed separately on each
+24 invoice. Licensees shall report the correct fuel product code for
+25 the blended product as required by the department. When fuel is
+26 blended below the terminal rack, new bills of lading and invoices
+27 shall must be generated and submitted to the department upon on
+28 request. All bills of lading and invoices shall must meet the
+29 requirements provided under of this act.
+JJR H00173'25 (S-4) k0txzp
+
+4
+1 (7) Notwithstanding any other provision of this act, a
+2 facility in this state that produces motor fuel and distributes the
+3 fuel from a rack for purposes of this act is a terminal, shall
+4 obtain a terminal operator license, and shall comply with all
+5 terminal operator reporting requirements under this act. A position
+6 holder in a facility shall be licensed as a supplier and shall
+7 comply with all supplier requirements under this act.
+8 (8) Beginning with the rate in effect on January 1, 2022 and
+9 January 1 of each year thereafter, the department shall publish
+10 notice of the tax rate under this section not later than 30 days
+11 before the effective date of the rate.
+12 (9) A determination by the department of the consumer price
+13 index, Consumer Price Index, the inflation rate, or the tax rate
+14 under this section is presumed correct and shall not be set aside
+15 unless an administrative tribunal or a court of competent
+16 jurisdiction finds the department's determination to be clearly
+17 erroneous.
+18 (10) Subject to subsections (11) to (13), the tax levied under
+19 this act, at a rate equal to the difference between the tax rate in
+20 effect on January 1, 2025, and the tax rate in effect on January 1,
+21 2026, is imposed on all of the following as provided in this
+22 subsection:
+23 (a) Motor fuel in excess of 3,000 gallons held in storage by
+24 an end user as of 11:59 p.m. on December 31, 2025, or held for sale
+25 at the close of business on December 31, 2025 that is in excess of
+26 dead storage, as to which the tax imposed by subsection (1), at the
+27 rate in effect on January 1, 2025, has been previously paid or has
+28 been accrued by either of the following:
+29 (i) A licensed supplier at the time of removal from a terminal.
+JJR H00173'25 (S-4) k0txzp
+
+5
+1 (ii) A licensed importer, if all of the conditions in sections
+2 76, 82, and 104, as applicable, concerning the lawful importation
+3 of motor fuel by the importer have been met.
+4 (b) All nonexempt motor fuel held by a person outside of the
+5 bulk transfer/terminal system in this state as of 11:59 p.m. on
+6 December 31, 2025, in excess of 3,000 gallons, as to which the tax
+7 imposed by subsection (1) at the rate in effect on January 1, 2025
+8 has not been previously paid or has not been accrued by either of
+9 the following:
+10 (i) A licensed supplier at the time of removal from a terminal.
+11 (ii) A licensed importer, if all of the conditions in sections
+12 76, 82, and 104, as applicable, concerning the lawful importation
+13 of motor fuel by the importer have been met.
+14 (11) A person in possession of motor fuel that is subject to
+15 the tax under subsection (10) must take an inventory to determine
+16 the number of gallons of motor fuel subject to the tax under
+17 subsection (10) and report those gallons of motor fuel to the
+18 department in the form and manner prescribed by the department.
+19 (12) The amount of the tax due under subsection (10) is equal
+20 to the tax rate described in subsection (10) multiplied by the
+21 number of gallons of motor fuel subject to the tax imposed under
+22 subsection (10).
+23 (13) By not later than February 20, 2026, the report required
+24 under subsection (11) must be filed with the department, together
+25 with payment of the applicable tax due under subsection (10).
+26 Enacting section 1. This amendatory act does not take effect
+27 unless all of the following bills of the 103rd Legislature are
+28 enacted into law:
+29 (a) Senate Bill No. 578.
+JJR H00173'25 (S-4) k0txzp
+
+6
+1 (b) House Bill No. 4180.
+2 (c) House Bill No. 4181.
+3 (d) House Bill No. 4182.
+Final Page
+JJR H00173'25 (S-4) k0txzp
+
+[DELETED:   H k S s o o t ( f () () g]
+[DELETED:   H k ( f () f () f ( w a t g d t p i c  ( n f ( b b t]
+[DELETED:   H k ( ( ur, a b t g 1 a ( ( p u ( t u ( w a ( t a ( i b t b i t b s b o r m r t]
+[DELETED:   H k ( f f o t h c ( J n b. ( i t u u j e)]
+[DELETED:   H k)))  E u e (]
+[DELETED:   H k ( ( (]
