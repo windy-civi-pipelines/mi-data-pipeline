@@ -1,0 +1,596 @@
+Title: HOUSE BILL NO. 4283
+Official Title: HOUSE BILL NO. 4283
+Number of Sections: 2
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+by amending sections 28, 29, and 32 (MCL 460.1028, 460.1029, and
+
+Section 2:
+460.1032), sections 28 and 29 as amended and section 32 as added by
+2023 PA 235, and by adding section 34.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 28. (1) An electric provider shall achieve a renewable
+2 energy credit portfolio of at least the following:
+3 (a) Through 2029, 15%.
+4 (b) In 2030 through 2034, 50%.
+5 (c) In 2035 and each year thereafter, 60%.
+6 (2) An electric provider's renewable energy credit portfolio
+7 shall be calculated as follows:
+TMV H02140'25 (H-1) gx2hk3
+2
+1 (a) Determine the number of renewable energy credits used to
+2 comply with this subpart during the applicable year.
+3 (b) Divide by 1 of the following at the option of the electric
+4 provider as specified in its renewable energy plan:
+5 (i) The number of weather normalized megawatt hours of
+6 electricity sold by the electric provider during the previous year
+7 to retail customers in this state, less the amount of sales
+8 attributable to customers participating in an electric provider's
+9 voluntary green pricing program under section 61 and the outflow
+10 from customers participating in the distributed generation program
+11 under section 173 for that year.
+12 (ii) The average number of megawatt hours of electricity sold
+13 by the electric provider annually during the previous 3 years to
+14 retail customers in this state, less the amount of sales
+15 attributable to customers participating in an electric provider's
+16 voluntary green pricing program under section 61 and the outflow
+17 from customers participating in the distributed generation program
+18 under section 173 for that year.
+19 (c) Multiply the quotient under subdivision (b) by 100.
+20 (3) Notwithstanding subsection (1) and subject to subsection
+21 (4), in any year a cooperative electric provider or a multistate
+22 electric provider may calculate its maximum renewable energy credit
+23 portfolio requirement as follows:
+24 (a) Determine the number of megawatt hours of electricity sold
+25 by the electric provider to retail customers in this state using
+26 the option the electric provider selected under subsection (2)(b).
+27 (b) Subtract the number of megawatt hours of nuclear energy
+28 that the electric provider obtained from a system located in this
+29 state that the electric provider owned or from which the electric
+TMV H02140'25 (H-1) gx2hk3
+3
+1 provider had contracted to receive nuclear energy on or before
+2 January 1, 2024.
+3 (4) An electric provider described in subsection (3) is
+4 required to achieve a renewable energy credit portfolio equal only
+5 to the electric provider's maximum renewable energy credit
+6 portfolio requirement if the electric provider's maximum renewable
+7 energy credit portfolio requirement is less than the number of
+8 renewable energy credits required to comply with the applicable
+9 standard in subsection (1). If the electric provider is a
+10 multistate electric provider, and the electric provider's maximum
+11 renewable energy credit portfolio requirement is less than the
+12 number of renewable energy credits required to comply with the
+13 applicable standard in subsection (1), then the electric provider
+14 is required to achieve a renewable energy credit portfolio equal
+15 only to the electric provider's maximum renewable energy credit
+16 portfolio requirement if all of the following requirements are met:
+17 (a) The electric provider's electricity generation systems
+18 located within this state produce energy exceeding the electric
+19 provider's electricity sales in this state.
+20 (b) All of the electric provider's electricity generation
+21 systems located within this state are clean energy systems.
+22 (c) All of the renewable energy credits generated in this
+23 state are used by the electric provider toward compliance to comply
+24 with the renewable energy credit portfolio requirement, as
+25 calculated under subsection (2).
+26 (d) Renewable energy and clean energy generated in this state
+27 equal to or exceeding the provider's electricity sales in this
+28 state are not used by the provider or any other provider to comply
+29 with any similar standards.
+TMV H02140'25 (H-1) gx2hk3
+4
+1 (5) Each electric provider shall meet the renewable energy
+2 credit standard, subject to subsection (3), with renewable energy
+3 credits obtained by any of the following means:
+4 (a) Generating electricity from renewable energy systems for
+5 sale to retail customers.
+6 (b) Purchasing or otherwise acquiring renewable energy and
+7 capacity.
+8 (c) Purchasing or otherwise acquiring renewable energy credits
+9 without the associated renewable energy or capacity. Renewable
+10 energy credits acquired under this subdivision shall be produced
+11 within the territory of the regional transmission organization of
+12 which the electric provider is a member, and, except for a
+13 municipally owned electric utility, shall not exceed 5% of an
+14 electric provider's renewable energy credits annually used to
+15 comply with the renewable energy standard. Renewable energy credits
+16 acquired under this subdivision are not subject to the requirements
+17 of section 29 and shall not be used to comply with the renewable
+18 energy standard after 2035.
+19 (6) For an electric provider whose rates are regulated by the
+20 commission, the electric provider shall submit a contract entered
+21 into for the purposes of subsection (5) to the commission for
+22 review and approval. If the commission approves the contract, it is
+23 considered consistent with the electric provider's renewable energy
+24 plan. The commission shall not approve a contract based on an
+25 unsolicited proposal unless the commission determines that the
+26 unsolicited proposal provides opportunities that may not otherwise
+27 be available or commercially practical through a competitive bid
+28 process.
+29 (7) An electric provider that has achieved annual incremental
+TMV H02140'25 (H-1) gx2hk3
+5
+1 energy savings of greater than 2% under an energy waste reduction
+2 plan approved under section 73 may substitute energy waste
+3 reduction credits for renewable energy credits otherwise required
+4 to meet the renewable energy credit standard if the substitution is
+5 approved by the commission. Under this subsection, energy waste
+6 reduction credits shall not be used by a provider to meet more than
+7 10% of the renewable energy credit standard. One renewable energy
+8 credit shall be awarded per 1 energy waste reduction credit.
+9 (8) If an electric provider whose rates are regulated by the
+10 commission enters into a purchase power agreement for renewable
+11 energy resources or a third-party contract for an energy storage
+12 system or clean energy system with an entity that is not an
+13 affiliate, the commission shall authorize an annual financial
+14 incentive for the electric provider. The financial incentive shall
+15 be calculated as the product of contract payments in that year
+16 multiplied by the electric provider's pre-tax weighted average cost
+17 of permanent capital comprised of long-term debt obligations and
+18 equity of the electric provider's total capital structure as
+19 determined by the commission's final order in the electric
+20 provider's most recent general rate case. The pre-tax weighted
+21 average cost of permanent capital used to calculate the financial
+22 incentive shall not be fixed throughout the entire term of the
+23 contract at the pre-tax weighted average cost of capital applicable
+24 in the first year but shall be updated based on the commission's
+25 final order in each succeeding general rate case for the electric
+26 provider. The financial incentive shall apply to each contract
+27 described in this subsection from the date the contract is executed
+28 for the entire term of the contract. This subsection applies to any
+29 contract entered into after June 30, 2024.
+TMV H02140'25 (H-1) gx2hk3
+6
+1 (9) As used in this section, "cooperative electric provider"
+2 means an entity that is a member of or that purchases energy from
+3 an entity that is either of the following:
+4 (a) Organized as a cooperative corporation under sections 98
+5 to 109 of 1931 PA 327, MCL 450.98 to 450.109.
+6 (b) A cooperative corporation in the business of generating or
+7 transmitting electricity.
+8 Sec. 29. (1) Subject to subsections (2) to (4), a renewable
+9 energy system that is the source of renewable energy credits used
+10 to satisfy the renewable energy standards shall be located as
+11 described in either of the following:
+12 (a) Anywhere in this state.
+13 (b) Outside of this state, but only if the electric provider
+14 includes the capacity from the renewable energy system toward
+15 meeting its resource adequacy obligations to the applicable
+16 regional transmission organization.
+17 (2) Subsection (1) does not require an electric provider to
+18 procure firm transmission rights to ensure deliverability to the
+19 resource adequacy zone where the load is served.
+20 (3) Subsection (1) does not apply if electricity generated
+21 from the renewable energy system is sold by a not-for-profit entity
+22 located in Indiana, Ohio, or Wisconsin to a municipally owned
+23 electric utility in this state or cooperative electric utility in
+24 this state, and the electricity is not being used to meet another
+25 state's standard for renewable energy.
+26 (4) Renewable energy credits produced in the continental
+27 United States and owned by a customer of an electric provider may
+28 be utilized used by the electric provider to meet the renewable
+29 energy credit standard if the electric customer chooses to report
+TMV H02140'25 (H-1) gx2hk3
+7
+1 renewable energy credits to its electric provider as attributable
+2 to the customer's electric load. Any renewable energy credits
+3 reported by an electric customer for use by its electric provider
+4 shall be applied to the electric customer's proportional share of a
+5 renewable energy credit portfolio requirement for the year in which
+6 renewable energy credits are used to comply with the renewable
+7 energy credit standard. On an annual basis, not later than December
+8 1, the electric customer shall provide the electric provider with
+9 an update on its 5-year forecast and notify the electric provider
+10 of the expected amount of renewable energy credits to be used
+11 toward compliance in the coming year. If the projected amount of
+12 renewable energy credits available for compliance will be less than
+13 what the electric customer projected in its 5-year forecast, then
+14 the electric customer shall notify the electric provider at least 5
+15 years before the compliance year in which a projected reduction in
+16 renewable energy credits will occur. If the electric provider's
+17 rates are regulated by the commission and the electric provider
+18 uses the reported renewable energy credits to comply with the
+19 renewable energy credit portfolio standard, the electric provider
+20 shall grant the customer an appropriate cost-based rate credit
+21 against the cost of compliance under section 47. As used in this
+22 subsection, "customer of an electric provider" or "customer" means
+23 any of the following:
+24 (a) A customer taking service under a rate approved by the
+25 commission under section 10gg of 1939 PA 3, MCL 460.10gg.
+26 (b) A customer whose manufacturing complex is described in
+27 section 10a(4)(c) of 1939 PA 3, MCL 460.10a, and that takes service
+28 for a portion of its load from an alternative electric supplier
+29 licensed under section 10a of 1939 PA 3, MCL 460.10a, on the
+TMV H02140'25 (H-1) gx2hk3
+8
+1 effective date of the amendatory act that added section 51.
+2 (c) A customer of a municipally owned electric utility on the
+3 effective date of the amendatory act that added this subsection if
+4 the customer represents at least 25% of the municipally owned
+5 electric utility's peak load.
+6 (5) Renewable energy credits that qualify under subsection (1)
+7 and are owned by members of a public body corporate established
+8 under the urban cooperation act of 1967, 1967 (Ex Sess) PA 7, MCL
+9 124.501 to 124.512, on or before December 1, 2022, if those members
+10 are part of Michigan's educational community and take service from
+11 an alternative electric supplier licensed under section 10a of 1939
+12 PA 3, MCL 460.10a, may be utilized by the members' electric
+13 provider to meet the renewable energy credit standards if the
+14 members choose to report renewable energy credits to the electric
+15 provider as attributable to the electric load of members of the
+16 cooperative. Any renewable energy credits reported by a member of
+17 the cooperative for use by a provider to the members of the
+18 cooperative shall be applied to the member's proportional share of
+19 a renewable energy credit portfolio requirement for the year in
+20 which renewable energy credits are used to comply with the
+21 renewable energy credit standard.
+22 Sec. 32. (1) Upon petition by an electric provider, the
+23 commission may, upon a showing of good cause, grant an extension of
+24 a renewable energy credit portfolio deadline under section 28. Each
+25 extension shall not exceed 2 years. An extension of a deadline does
+26 not affect a subsequent deadline.
+27 (2) In a petition under subsection (1), an electric provider
+28 must include a plan for resolving the barrier to compliance and
+29 must make a showing of good cause by demonstrating any of the
+TMV H02140'25 (H-1) gx2hk3
+9
+1 following:
+2 (a) Despite all commercially reasonable efforts by the
+3 electric provider to comply with the deadline, compliance is not
+4 practically feasible for reasons that may include, but are not
+5 limited to, zoning, siting, permitting, supply chains, transmission
+6 interconnection, labor shortages, delays in project deliverability
+7 from developers, or unanticipated load growth. Issuing a request
+8 for proposals to purchase renewable energy and not receiving a
+9 commercially viable offer creates a rebuttable presumption that
+10 compliance with the deadline is not practically feasible.
+11 (b) Compliance would be excessively costly to customers
+12 despite commercially reasonable efforts by the electric provider to
+13 contain costs.
+14 (c) Compliance would result in a deficiency in meeting
+15 resource adequacy requirements in the electric provider's service
+16 territory.
+17 (d) Compliance would result in a local grid reliability issue.
+18 (3) Upon granting When the commission grants an additional
+19 extension for a particular renewable energy credit portfolio
+20 deadline beyond the first 2 extensions, the commission shall notify
+21 the speaker of the house, the majority leader of the senate, and
+22 the chairpersons of the committees of the legislature having
+23 jurisdiction over energy issues that it has granted an additional
+24 extension to the electric provider and the reasons for the
+25 extension.
+26 Sec. 34. (1) Subject to subsection (2), electric providers
+27 that generate electricity from reciprocating internal combustion
+28 engines placed in service to facilitate the retirement of coal-
+29 fired generation located in the Upper Peninsula before February 27,
+TMV H02140'25 (H-1) gx2hk3
+10
+1 2024, are not subject to the renewable energy credit portfolio
+2 standards or the clean energy standard.
+3 (2) An energy provider described in subsection (1) whose rates
+4 are regulated by the commission shall submit an amended renewable
+5 energy plan as required under section 22.
+6 (3) Subsection (1) does not apply after the end of the
+7 Midcontinent Independent System Operator planning year ending in
+8 2050.
+Final Page
+TMV H02140'25 (H-1) gx2hk3
+[DELETED:   H g S e ( ( ( ( s]
+[DELETED:   H g ( c ( p () e t a v f u () b r a v f u ( ( ( e p ( b t ( t s]
+[DELETED:   H g p J ( r t p e r s m r n a i o p ( l p ( s ( s w a c ( e s w]
+[DELETED:   H g ( c c ( s ( c ( w e w w m e c a o e ( c i r c p u u b p (]
+[DELETED:   H g e p r t a r 1 c ( c e s a i b m o e d p a i c i f p d f c]
+[DELETED:   H g ( m a ( t ( t S e t d ( ( i m r ( p r ( f l e t s ( U b b e]
+[DELETED:   H g r t r s r r e 1 a o t r w t y r r u r s a s a ( c ( s f l]
+[DELETED:   H g e ( e t e ( a u 1 a a P p m p c t c a w r S c a e n ( m m]
+[DELETED:   H g f ( e p l i f f c c ( d c ( r t ( ( a e d t t j e e]
+[DELETED:   H g ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4283
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+by amending sections 28, 29, and 32 (MCL 460.1028, 460.1029, and
+460.1032), sections 28 and 29 as amended and section 32 as added by
+2023 PA 235, and by adding section 34.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 28. (1) An electric provider shall achieve a renewable
+2 energy credit portfolio of at least the following:
+3 (a) Through 2029, 15%.
+4 (b) In 2030 through 2034, 50%.
+5 (c) In 2035 and each year thereafter, 60%.
+6 (2) An electric provider's renewable energy credit portfolio
+7 shall be calculated as follows:
+TMV H02140'25 (H-1) gx2hk3
+
+2
+1 (a) Determine the number of renewable energy credits used to
+2 comply with this subpart during the applicable year.
+3 (b) Divide by 1 of the following at the option of the electric
+4 provider as specified in its renewable energy plan:
+5 (i) The number of weather normalized megawatt hours of
+6 electricity sold by the electric provider during the previous year
+7 to retail customers in this state, less the amount of sales
+8 attributable to customers participating in an electric provider's
+9 voluntary green pricing program under section 61 and the outflow
+10 from customers participating in the distributed generation program
+11 under section 173 for that year.
+12 (ii) The average number of megawatt hours of electricity sold
+13 by the electric provider annually during the previous 3 years to
+14 retail customers in this state, less the amount of sales
+15 attributable to customers participating in an electric provider's
+16 voluntary green pricing program under section 61 and the outflow
+17 from customers participating in the distributed generation program
+18 under section 173 for that year.
+19 (c) Multiply the quotient under subdivision (b) by 100.
+20 (3) Notwithstanding subsection (1) and subject to subsection
+21 (4), in any year a cooperative electric provider or a multistate
+22 electric provider may calculate its maximum renewable energy credit
+23 portfolio requirement as follows:
+24 (a) Determine the number of megawatt hours of electricity sold
+25 by the electric provider to retail customers in this state using
+26 the option the electric provider selected under subsection (2)(b).
+27 (b) Subtract the number of megawatt hours of nuclear energy
+28 that the electric provider obtained from a system located in this
+29 state that the electric provider owned or from which the electric
+TMV H02140'25 (H-1) gx2hk3
+
+3
+1 provider had contracted to receive nuclear energy on or before
+2 January 1, 2024.
+3 (4) An electric provider described in subsection (3) is
+4 required to achieve a renewable energy credit portfolio equal only
+5 to the electric provider's maximum renewable energy credit
+6 portfolio requirement if the electric provider's maximum renewable
+7 energy credit portfolio requirement is less than the number of
+8 renewable energy credits required to comply with the applicable
+9 standard in subsection (1). If the electric provider is a
+10 multistate electric provider, and the electric provider's maximum
+11 renewable energy credit portfolio requirement is less than the
+12 number of renewable energy credits required to comply with the
+13 applicable standard in subsection (1), then the electric provider
+14 is required to achieve a renewable energy credit portfolio equal
+15 only to the electric provider's maximum renewable energy credit
+16 portfolio requirement if all of the following requirements are met:
+17 (a) The electric provider's electricity generation systems
+18 located within this state produce energy exceeding the electric
+19 provider's electricity sales in this state.
+20 (b) All of the electric provider's electricity generation
+21 systems located within this state are clean energy systems.
+22 (c) All of the renewable energy credits generated in this
+23 state are used by the electric provider toward compliance to comply
+24 with the renewable energy credit portfolio requirement, as
+25 calculated under subsection (2).
+26 (d) Renewable energy and clean energy generated in this state
+27 equal to or exceeding the provider's electricity sales in this
+28 state are not used by the provider or any other provider to comply
+29 with any similar standards.
+TMV H02140'25 (H-1) gx2hk3
+
+4
+1 (5) Each electric provider shall meet the renewable energy
+2 credit standard, subject to subsection (3), with renewable energy
+3 credits obtained by any of the following means:
+4 (a) Generating electricity from renewable energy systems for
+5 sale to retail customers.
+6 (b) Purchasing or otherwise acquiring renewable energy and
+7 capacity.
+8 (c) Purchasing or otherwise acquiring renewable energy credits
+9 without the associated renewable energy or capacity. Renewable
+10 energy credits acquired under this subdivision shall be produced
+11 within the territory of the regional transmission organization of
+12 which the electric provider is a member, and, except for a
+13 municipally owned electric utility, shall not exceed 5% of an
+14 electric provider's renewable energy credits annually used to
+15 comply with the renewable energy standard. Renewable energy credits
+16 acquired under this subdivision are not subject to the requirements
+17 of section 29 and shall not be used to comply with the renewable
+18 energy standard after 2035.
+19 (6) For an electric provider whose rates are regulated by the
+20 commission, the electric provider shall submit a contract entered
+21 into for the purposes of subsection (5) to the commission for
+22 review and approval. If the commission approves the contract, it is
+23 considered consistent with the electric provider's renewable energy
+24 plan. The commission shall not approve a contract based on an
+25 unsolicited proposal unless the commission determines that the
+26 unsolicited proposal provides opportunities that may not otherwise
+27 be available or commercially practical through a competitive bid
+28 process.
+29 (7) An electric provider that has achieved annual incremental
+TMV H02140'25 (H-1) gx2hk3
+
+5
+1 energy savings of greater than 2% under an energy waste reduction
+2 plan approved under section 73 may substitute energy waste
+3 reduction credits for renewable energy credits otherwise required
+4 to meet the renewable energy credit standard if the substitution is
+5 approved by the commission. Under this subsection, energy waste
+6 reduction credits shall not be used by a provider to meet more than
+7 10% of the renewable energy credit standard. One renewable energy
+8 credit shall be awarded per 1 energy waste reduction credit.
+9 (8) If an electric provider whose rates are regulated by the
+10 commission enters into a purchase power agreement for renewable
+11 energy resources or a third-party contract for an energy storage
+12 system or clean energy system with an entity that is not an
+13 affiliate, the commission shall authorize an annual financial
+14 incentive for the electric provider. The financial incentive shall
+15 be calculated as the product of contract payments in that year
+16 multiplied by the electric provider's pre-tax weighted average cost
+17 of permanent capital comprised of long-term debt obligations and
+18 equity of the electric provider's total capital structure as
+19 determined by the commission's final order in the electric
+20 provider's most recent general rate case. The pre-tax weighted
+21 average cost of permanent capital used to calculate the financial
+22 incentive shall not be fixed throughout the entire term of the
+23 contract at the pre-tax weighted average cost of capital applicable
+24 in the first year but shall be updated based on the commission's
+25 final order in each succeeding general rate case for the electric
+26 provider. The financial incentive shall apply to each contract
+27 described in this subsection from the date the contract is executed
+28 for the entire term of the contract. This subsection applies to any
+29 contract entered into after June 30, 2024.
+TMV H02140'25 (H-1) gx2hk3
+
+6
+1 (9) As used in this section, "cooperative electric provider"
+2 means an entity that is a member of or that purchases energy from
+3 an entity that is either of the following:
+4 (a) Organized as a cooperative corporation under sections 98
+5 to 109 of 1931 PA 327, MCL 450.98 to 450.109.
+6 (b) A cooperative corporation in the business of generating or
+7 transmitting electricity.
+8 Sec. 29. (1) Subject to subsections (2) to (4), a renewable
+9 energy system that is the source of renewable energy credits used
+10 to satisfy the renewable energy standards shall be located as
+11 described in either of the following:
+12 (a) Anywhere in this state.
+13 (b) Outside of this state, but only if the electric provider
+14 includes the capacity from the renewable energy system toward
+15 meeting its resource adequacy obligations to the applicable
+16 regional transmission organization.
+17 (2) Subsection (1) does not require an electric provider to
+18 procure firm transmission rights to ensure deliverability to the
+19 resource adequacy zone where the load is served.
+20 (3) Subsection (1) does not apply if electricity generated
+21 from the renewable energy system is sold by a not-for-profit entity
+22 located in Indiana, Ohio, or Wisconsin to a municipally owned
+23 electric utility in this state or cooperative electric utility in
+24 this state, and the electricity is not being used to meet another
+25 state's standard for renewable energy.
+26 (4) Renewable energy credits produced in the continental
+27 United States and owned by a customer of an electric provider may
+28 be utilized used by the electric provider to meet the renewable
+29 energy credit standard if the electric customer chooses to report
+TMV H02140'25 (H-1) gx2hk3
+
+7
+1 renewable energy credits to its electric provider as attributable
+2 to the customer's electric load. Any renewable energy credits
+3 reported by an electric customer for use by its electric provider
+4 shall be applied to the electric customer's proportional share of a
+5 renewable energy credit portfolio requirement for the year in which
+6 renewable energy credits are used to comply with the renewable
+7 energy credit standard. On an annual basis, not later than December
+8 1, the electric customer shall provide the electric provider with
+9 an update on its 5-year forecast and notify the electric provider
+10 of the expected amount of renewable energy credits to be used
+11 toward compliance in the coming year. If the projected amount of
+12 renewable energy credits available for compliance will be less than
+13 what the electric customer projected in its 5-year forecast, then
+14 the electric customer shall notify the electric provider at least 5
+15 years before the compliance year in which a projected reduction in
+16 renewable energy credits will occur. If the electric provider's
+17 rates are regulated by the commission and the electric provider
+18 uses the reported renewable energy credits to comply with the
+19 renewable energy credit portfolio standard, the electric provider
+20 shall grant the customer an appropriate cost-based rate credit
+21 against the cost of compliance under section 47. As used in this
+22 subsection, "customer of an electric provider" or "customer" means
+23 any of the following:
+24 (a) A customer taking service under a rate approved by the
+25 commission under section 10gg of 1939 PA 3, MCL 460.10gg.
+26 (b) A customer whose manufacturing complex is described in
+27 section 10a(4)(c) of 1939 PA 3, MCL 460.10a, and that takes service
+28 for a portion of its load from an alternative electric supplier
+29 licensed under section 10a of 1939 PA 3, MCL 460.10a, on the
+TMV H02140'25 (H-1) gx2hk3
+
+8
+1 effective date of the amendatory act that added section 51.
+2 (c) A customer of a municipally owned electric utility on the
+3 effective date of the amendatory act that added this subsection if
+4 the customer represents at least 25% of the municipally owned
+5 electric utility's peak load.
+6 (5) Renewable energy credits that qualify under subsection (1)
+7 and are owned by members of a public body corporate established
+8 under the urban cooperation act of 1967, 1967 (Ex Sess) PA 7, MCL
+9 124.501 to 124.512, on or before December 1, 2022, if those members
+10 are part of Michigan's educational community and take service from
+11 an alternative electric supplier licensed under section 10a of 1939
+12 PA 3, MCL 460.10a, may be utilized by the members' electric
+13 provider to meet the renewable energy credit standards if the
+14 members choose to report renewable energy credits to the electric
+15 provider as attributable to the electric load of members of the
+16 cooperative. Any renewable energy credits reported by a member of
+17 the cooperative for use by a provider to the members of the
+18 cooperative shall be applied to the member's proportional share of
+19 a renewable energy credit portfolio requirement for the year in
+20 which renewable energy credits are used to comply with the
+21 renewable energy credit standard.
+22 Sec. 32. (1) Upon petition by an electric provider, the
+23 commission may, upon a showing of good cause, grant an extension of
+24 a renewable energy credit portfolio deadline under section 28. Each
+25 extension shall not exceed 2 years. An extension of a deadline does
+26 not affect a subsequent deadline.
+27 (2) In a petition under subsection (1), an electric provider
+28 must include a plan for resolving the barrier to compliance and
+29 must make a showing of good cause by demonstrating any of the
+TMV H02140'25 (H-1) gx2hk3
+
+9
+1 following:
+2 (a) Despite all commercially reasonable efforts by the
+3 electric provider to comply with the deadline, compliance is not
+4 practically feasible for reasons that may include, but are not
+5 limited to, zoning, siting, permitting, supply chains, transmission
+6 interconnection, labor shortages, delays in project deliverability
+7 from developers, or unanticipated load growth. Issuing a request
+8 for proposals to purchase renewable energy and not receiving a
+9 commercially viable offer creates a rebuttable presumption that
+10 compliance with the deadline is not practically feasible.
+11 (b) Compliance would be excessively costly to customers
+12 despite commercially reasonable efforts by the electric provider to
+13 contain costs.
+14 (c) Compliance would result in a deficiency in meeting
+15 resource adequacy requirements in the electric provider's service
+16 territory.
+17 (d) Compliance would result in a local grid reliability issue.
+18 (3) Upon granting When the commission grants an additional
+19 extension for a particular renewable energy credit portfolio
+20 deadline beyond the first 2 extensions, the commission shall notify
+21 the speaker of the house, the majority leader of the senate, and
+22 the chairpersons of the committees of the legislature having
+23 jurisdiction over energy issues that it has granted an additional
+24 extension to the electric provider and the reasons for the
+25 extension.
+26 Sec. 34. (1) Subject to subsection (2), electric providers
+27 that generate electricity from reciprocating internal combustion
+28 engines placed in service to facilitate the retirement of coal-
+29 fired generation located in the Upper Peninsula before February 27,
+TMV H02140'25 (H-1) gx2hk3
+
+10
+1 2024, are not subject to the renewable energy credit portfolio
+2 standards or the clean energy standard.
+3 (2) An energy provider described in subsection (1) whose rates
+4 are regulated by the commission shall submit an amended renewable
+5 energy plan as required under section 22.
+6 (3) Subsection (1) does not apply after the end of the
+7 Midcontinent Independent System Operator planning year ending in
+8 2050.
+Final Page
+TMV H02140'25 (H-1) gx2hk3
+
+[DELETED:   H g S e ( ( ( ( s]
+[DELETED:   H g ( c ( p () e t a v f u () b r a v f u ( ( ( e p ( b t ( t s]
+[DELETED:   H g p J ( r t p e r s m r n a i o p ( l p ( s ( s w a c ( e s w]
+[DELETED:   H g ( c c ( s ( c ( w e w w m e c a o e ( c i r c p u u b p (]
+[DELETED:   H g e p r t a r 1 c ( c e s a i b m o e d p a i c i f p d f c]
+[DELETED:   H g ( m a ( t ( t S e t d ( ( i m r ( p r ( f l e t s ( U b b e]
+[DELETED:   H g r t r s r r e 1 a o t r w t y r r u r s a s a ( c ( s f l]
+[DELETED:   H g e ( e t e ( a u 1 a a P p m p c t c a w r S c a e n ( m m]
+[DELETED:   H g f ( e p l i f f c c ( d c ( r t ( ( a e d t t j e e]
+[DELETED:   H g ]

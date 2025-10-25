@@ -1,0 +1,3407 @@
+Title: SENATE BILL NO. 246
+Official Title: SENATE BILL NO. 246
+Number of Sections: 5
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 53 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 11102, 11103, 11104, 11108, 11109, 11110,
+11125, 11132, 11514b, 11525a, 62501, and 62509 (MCL 324.11102,
+
+Section 2:
+324.11103, 324.11104, 324.11108, 324.11109, 324.11110, 324.11125,
+
+Section 3:
+324.11132, 324.11514b, 324.11525a, 324.62501, and 324.62509),
+
+Section 4:
+sections 11102 and 11125 as amended by 2010 PA 357, section 11104
+as amended and section 11132 as added by 2018 PA 688, section 11108
+as amended by 2013 PA 73, section 11109 as added by 2018 PA 689,
+
+Section 5:
+section 11110 as amended by 1995 PA 61, section 11514b as amended
+by 2022 PA 245, section 11525a as amended by 2023 PA 140, section
+62501 as amended by 1998 PA 467, and section 62509 as amended by
+2004 PA 325, and by adding sections 11122, 62508b, and 62509d; and
+TMV S01207'25 (S-1) 5v24nd
+2
+to repeal acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 11102. (1) "Captive hazardous waste disposal well" means
+2 a class I well that is used by the owner or operator to inject
+3 hazardous waste generated exclusively by the owner or operator or
+4 its subsidiaries.
+5 (2) "Captive hazardous waste treatment, storage, or disposal
+6 facility" means a facility that is used by the owner or operator to
+7 treat, store, or dispose of hazardous waste generated exclusively
+8 by the owner or operator or its subsidiaries.
+9 (3) "Captive nonhazardous waste disposal well" means a class I
+10 well that is used by the owner or operator to inject only
+11 nonhazardous waste generated exclusively by the owner or operator
+12 or its subsidiaries.
+13 (4) "Class I well" means that term as defined in section
+14 62501.
+15 (5) "Class IV well" means that term as defined in section
+16 62501.
+17 (6) (1) "Contaminant" means any of the following:
+18 (a) Hazardous waste as defined in R 299.9203 of the Michigan
+19 administrative code.
+20 (b) Any hazardous waste or hazardous constituent listed in 40
+21 CFR part 261, appendix VIII or 40 CFR part 264, appendix IX.
+22 (7) (2) "Corrective action" means an action determined by the
+23 department to be necessary to protect the public health, safety, or
+24 welfare, or the environment, and includes, but is not limited to,
+25 investigation, evaluation, cleanup, removal, remediation,
+26 monitoring, containment, isolation, treatment, storage, management,
+27 temporary relocation of people, and provision of alternative water
+TMV S01207'25 (S-1) 5v24nd
+3
+1 supplies, or any corrective action allowed under the solid waste
+2 disposal act or regulations promulgated pursuant to that act.
+3 (8) (3) "Designated facility" means a hazardous waste
+4 treatment, storage, or disposal facility that has received a permit
+5 or has interim status under the solid waste disposal act or has a
+6 permit from a state authorized under section 3006 of subtitle C of
+7 the solid waste disposal act, 42 USC 6926, and which, if located in
+8 this state, has an operating license issued under this part, has a
+9 legally binding agreement with the department that authorizes
+10 operation, or is subject to the requirements of section 11123(8).
+11 (9) (4) "Disposal" means the discharge, deposit, injection,
+12 dumping, spilling, leaking, or placing of a hazardous waste into or
+13 on land or water in a manner that the hazardous waste or a
+14 constituent of the hazardous waste may enter the environment, be
+15 emitted into the air, or be discharged into water, including
+16 groundwater.
+17 (10) (5) "Disposal facility" means a facility or a part of a
+18 facility where managed hazardous waste, as defined by rule, is
+19 intentionally placed into or on any land or water and at which
+20 hazardous waste will remain after closure.
+21 (11) (6) "Failure mode assessment" means an analysis of the
+22 potential major methods by which safe handling of hazardous wastes
+23 may fail at a treatment, storage, or disposal facility.
+24 Sec. 11103. (1) "Generation" means the act or process of
+25 producing hazardous waste.
+26 (2) "Generator" means any person, by site, whose act or
+27 process produces hazardous waste as identified or listed pursuant
+28 to section 11128 or whose act first causes a hazardous waste to
+29 become subject to regulation under this part.
+TMV S01207'25 (S-1) 5v24nd
+4
+1 (3) "Hazardous waste" means waste or a combination of waste
+2 and other discarded material including solid, liquid, semisolid, or
+3 contained gaseous material that because of its quantity, quality,
+4 concentration, or physical, chemical, or infectious characteristics
+5 may cause or significantly contribute to an increase in mortality
+6 or an increase in serious irreversible illness or serious
+7 incapacitating but reversible illness, or may pose a substantial
+8 present or potential hazard to human health or the environment if
+9 improperly treated, stored, transported, disposed of, or otherwise
+10 managed. Hazardous waste does not include material that is solid or
+11 dissolved material in domestic sewage discharge, solid or dissolved
+12 material in an irrigation return flow discharge, industrial
+13 discharge that is a point source subject to permits under section
+14 402 of title IV of the federal water pollution control act, chapter
+15 758, 86 Stat . 880, 33 U.S.C. USC 1342, or is a source material,
+16 special nuclear material, or by-product byproduct material as
+17 defined by the atomic energy act of 1954, chapter 1073, 68 Stat.
+18 919.42 USC 2011 to 2297h-13.
+19 (4) "Hazardous waste management" means the systematic control
+20 of the collection, source separation, storage, transportation,
+21 processing, treatment, recovery, recycling, and disposal of
+22 hazardous waste.
+23 (5) "Landfill" means a disposal facility or part of a facility
+24 where hazardous waste is placed in or on land and which is not a
+25 pile, a land treatment facility, a surface impoundment, an
+26 injection well, a salt dome formation, a salt bed formation, or an
+27 underground mine or cave.
+28 (6) "Land treatment facility" means a treatment facility or
+29 part of a treatment facility at which hazardous waste is applied
+TMV S01207'25 (S-1) 5v24nd
+5
+1 onto or incorporated into the soil surface. If waste will remain
+2 after closure, a facility described in this subsection is a
+3 disposal facility.
+4 (7) "Limited-activity radioactive material" or "LARM" means
+5 material that contains radionuclides at concentrations that exceed
+6 natural background levels but that does not meet the definition of
+7 radioactive material under section 13501 of the public health code,
+8 1978 PA 368, MCL 333.13501. LARM includes technologically enhanced
+9 naturally occurring radioactive material and other materials with
+10 similar radiological characteristics, but does not include the
+11 following:
+12 (a) Source material, special nuclear material, or byproduct
+13 material as defined in the atomic energy act of 1954, 42 USC 2011
+14 to 2297h-13.
+15 (b) Low-level radioactive waste as defined in section 2 of the
+16 low-level radioactive waste authority act, 1987 PA 204, MCL
+17 333.26202.
+18 (c) Any other material regulated as radioactive waste under
+19 state or federal law.
+20 (8) (7) "Limited storage facility" means a storage facility
+21 that meets all of the following conditions:
+22 (a) Has a maximum storage capacity that does not exceed 25,000
+23 gallons of hazardous waste.
+24 (b) Storage occurs only in tanks or containers.
+25 (c) Has on site not more than 200 containers on site that have
+26 with a capacity of 55 gallons or less.
+27 (d) Does not store hazardous waste on site for more than 90
+28 days.
+29 (e) Does not receive hazardous waste from a treatment,
+TMV S01207'25 (S-1) 5v24nd
+6
+1 storage, or disposal facility.
+2 (9) (8) "Manifest" means a form approved by the department
+3 used for identifying the quantity, composition, origin, routing,
+4 and destination of hazardous waste during its transportation from
+5 the point of generation to the point of disposal, treatment, or
+6 storage.
+7 (10) (9) "Manifest system" means the system used for
+8 identifying the quantity, composition, origin, routing, and
+9 destination of hazardous waste during its transportation from the
+10 point of generation to the point of disposal, treatment, or
+11 storage.
+12 (11) (10) "Mechanism" means a letter of credit, a financial
+13 test that demonstrates the financial strength of the company owning
+14 a treatment, storage, or disposal facility or a parent company
+15 guaranteeing financial assurance for a subsidiary, or an insurance
+16 policy that will provide funds for closure or postclosure care of a
+17 treatment, storage, or disposal facility.
+18 (12) "Multisource commercial hazardous waste disposal well"
+19 means a class I well that receives hazardous waste generated by
+20 more than 1 person. However, multisource commercial hazardous waste
+21 disposal well does not include a disposal well that receives
+22 hazardous waste generated exclusively by the owner, its
+23 subsidiaries, the operator, its subsidiaries, or any combination
+24 thereof.
+25 (13) "Multisource commercial hazardous waste treatment,
+26 storage, or disposal facility" means a facility that receives
+27 hazardous waste generated by more than 1 person. However,
+28 multisource commercial hazardous waste treatment, storage, or
+29 disposal facility does not include a facility that receives
+TMV S01207'25 (S-1) 5v24nd
+7
+1 hazardous waste generated exclusively by the owner, its
+2 subsidiaries, the operator, or its subsidiaries.
+3 (14) "Multisource commercial nonhazardous waste disposal well"
+4 means a class I well that receives nonhazardous waste that is
+5 generated by more than 1 person. Multisource commercial
+6 nonhazardous waste disposal well does not include a disposal well
+7 that receives only nonhazardous waste generated exclusively by the
+8 owner, its subsidiaries, the operator, its subsidiaries, or any
+9 combination thereof.
+10 (15) (11) "Municipal solid waste incinerator" means an
+11 incinerator that is owned or operated by any person, and that meets
+12 all of the following requirements:
+13 (a) The incinerator receives solid waste from off site and
+14 burns only household waste from single and multiple dwellings,
+15 hotels, motels, and other residential sources, or burns this
+16 household waste together with solid waste from commercial,
+17 institutional, municipal, county, or industrial sources that, if
+18 disposed of, would not be required to be placed in a disposal
+19 facility licensed under this part.
+20 (b) The incinerator has established contractual requirements
+21 or other notification or inspection procedures sufficient to assure
+22 ensure that the incinerator receives and burns only waste referred
+23 to in subdivision (a).
+24 (c) The incinerator meets the requirements of this part and
+25 the rules promulgated under this part.
+26 (d) The incinerator is not an industrial furnace as defined in
+27 40 C.F.R. CFR 260.10.
+28 (16) (12) "Municipal solid waste incinerator ash" means the
+29 substances remaining after combustion in a municipal solid waste
+TMV S01207'25 (S-1) 5v24nd
+8
+1 incinerator.
+2 (17) (13) "Municipality" means a city, village, township, or
+3 Indian tribe.
+4 (18) "Newly regulated waste" means hazardous waste identified,
+5 listed, or characterized after the effective date of the amendatory
+6 act that added this subsection, including, but not limited to, the
+7 following:
+8 (a) Waste that becomes regulated as hazardous due to changes
+9 in state or federal law or regulations.
+10 (b) Emerging contaminants that are classified as hazardous
+11 waste.
+12 (c) New categories of pharmaceutical or other wastes that
+13 become subject to hazardous waste regulations.
+14 (19) (14) "On site" means on the same or geographically
+15 contiguous property that may be divided by a public or private
+16 right-of-way if the entrance and exit between the pieces of
+17 property are at a crossroads intersection and access is by crossing
+18 rather than going along the right-of-way. On site property includes
+19 noncontiguous pieces of property owned by the same person but
+20 connected by a right-of-way that the owner controls and to which
+21 the public does not have access.
+22 Sec. 11104. (1) "Operator" means the person responsible for
+23 the overall operation of a disposal, treatment, or storage facility
+24 with approval of the department either by contract or license.
+25 (2) "Site identification number" means a number that is
+26 assigned by the United States Environmental Protection Agency or
+27 the United States Environmental Protection Agency's designee to
+28 each generator, each transporter, and each treatment, storage, or
+29 disposal facility. If the generator or transporter or the
+TMV S01207'25 (S-1) 5v24nd
+9
+1 treatment, storage, or disposal facility manages wastes that are
+2 hazardous under this part and the rules promulgated under this part
+3 but are not hazardous under the solid waste disposal act, site
+4 identification number means an equivalent number that is assigned
+5 by the department.
+6 (3) "Solid waste" means that term as it is defined in part
+7 115.
+8 (4) "Storage" means the holding of hazardous waste for a
+9 temporary period at the end of which the hazardous waste is
+10 treated, disposed of, or stored elsewhere.
+11 (5) "Storage facility" means a facility or part of a facility
+12 where managed hazardous waste, as defined by rule, is subject to
+13 storage. A generator who accumulates managed hazardous waste, as
+14 defined by rule, on site in containers or tanks for less than 91
+15 days or a period of time prescribed by rule is not a storage
+16 facility.
+17 (6) "Surface impoundment" or "impoundment" means a treatment,
+18 storage, or disposal facility or part of a treatment, storage, or
+19 disposal facility that is a natural topographic depression, human-
+20 made excavation, or diked area formed primarily of earthen
+21 materials, although it may be lined with human-made materials, that
+22 is designed to hold an accumulation of liquid wastes or wastes
+23 containing free liquids, and that is not an injection well. Surface
+24 impoundments include, but are not limited to, holding, storage,
+25 settling, and aeration pits, ponds, and lagoons.
+26 (7) "Technologically enhanced naturally occurring radioactive
+27 material" or "TENORM" means naturally occurring radioactive
+28 material whose radionuclide concentrations have been increased as a
+29 result of human practices. TENORM does not include any of the
+TMV S01207'25 (S-1) 5v24nd
+10
+1 following:
+2 (a) Source material, as defined in section 11 of the atomic
+3 energy act of 1954, 42 USC 2014, and its progeny in equilibrium.
+4 (b) Material material with concentrations of radium-226,
+5 radium-228, and lead-210 each less than 5 picocuries per gram.
+6 (8) "The solid waste disposal act" means title II of Public
+7 Law 89-272.
+8 (9) "Transporter" means a person engaged in the off-site
+9 transportation of hazardous waste by air, rail, highway, or water.
+10 (10) "Treatment" means any method, technique, or process,
+11 including neutralization, designed to change the physical,
+12 chemical, or biological character or composition of any hazardous
+13 waste, to neutralize the waste, to recover energy or material
+14 resources from the waste, or to render the waste nonhazardous or
+15 less hazardous, safer to transport, store, or dispose of, amenable
+16 to recovery, amenable to storage, or reduced in volume. Treatment
+17 includes any activity or processing designed to change the physical
+18 form or chemical composition of hazardous waste so as to render it
+19 nonhazardous.
+20 (11) "Treatment facility" means a facility or part of a
+21 facility where managed hazardous waste, as defined by rule, is
+22 subject to treatment.
+23 (12) "Updated plan" means the updated state hazardous waste
+24 management plan prepared under section 11110.
+25 (13) "Vehicle" means a transport vehicle as defined in 49 CFR
+26 171.8.
+27 Sec. 11108. (1) Except as otherwise provided in this section,
+28 each the owner or operator of a landfill shall pay to the
+29 department a fee assessed on hazardous waste disposed of in the
+TMV S01207'25 (S-1) 5v24nd
+11
+1 landfill. The fee shall be based on the quantity of hazardous waste
+2 specified on the manifest or monthly operating report and, through
+3 December 31, 2025, shall be $10.00 per ton, $10.00 per cubic yard,
+4 or 1/2 cent per pound, depending on the unit of measure used by the
+5 owner or operator to calculate the fee. Subject to subsection (7),
+6 beginning January 1, 2026, the fee shall be $25.00 per ton, $25.00
+7 per cubic yard, or 1.25 cents per pound, depending on the unit of
+8 measure used by the owner or operator to calculate the fee. The fee
+9 for fractional quantities of hazardous waste shall be proportional.
+10 If the hazardous waste is required to be listed on a manifest and
+11 the owner or operator of the landfill determines that the hazardous
+12 waste quantity on the manifest is not accurate, the owner or
+13 operator shall correct the hazardous waste quantity on all manifest
+14 copies accompanying the shipment, note the reason for the change in
+15 the discrepancy indication space on the manifest, and assess the
+16 fee in accordance with the corrected hazardous waste quantity.
+17 Payment shall be made within 30 days after the close of each
+18 quarter. The landfill owner or operator shall assess off-site
+19 generators the fee. The fee for hazardous waste that is generated
+20 and disposed of on the site of a landfill owner or operator shall
+21 be paid by that owner or operator.
+22 (2) Except as otherwise provided in this section, each owner
+23 or operator of a solidification facility licensed pursuant to
+24 section 11123 shall pay to the department a fee assessed on
+25 hazardous waste received at the solidification facility. The fee
+26 shall be based on the quantity of hazardous waste specified on the
+27 manifest or monthly operating report and, through December 31,
+28 2025, shall be $10.00 per ton, $10.00 per cubic yard, 4 cents per
+29 gallon, or 1/2 cent per pound, depending on the unit of measure
+TMV S01207'25 (S-1) 5v24nd
+12
+1 used by the owner or operator to calculate the fee. Subject to
+2 subsection (7), beginning January 1, 2026, the fee shall be $25.00
+3 per ton, $25.00 per cubic yard, 10 cents per gallon, or 1.25 cents
+4 per pound, depending on the unit of measure used by the owner or
+5 operator to calculate the fee. The fee for fractional quantities of
+6 hazardous waste shall be proportional. If the hazardous waste is
+7 required to be listed on a manifest and the owner or operator of
+8 the solidification facility determines that the hazardous waste
+9 quantity on the manifest is not accurate, the owner or operator
+10 shall correct the hazardous waste quantity on all manifest copies
+11 accompanying the shipment, note the reason for the change in the
+12 discrepancy indication space on the manifest, and assess the fee in
+13 accordance with the corrected hazardous waste quantity. Payment
+14 shall be made within 30 days after the close of each quarter. The
+15 solidification facility owner or operator shall assess off-site
+16 generators the fee. The fee for hazardous waste that is generated
+17 and solidified on the site of a solidification owner or operator
+18 shall be paid by that owner or operator.
+19 (3) The following hazardous waste is exempt from the fees
+20 provided for in this section:
+21 (a) Ash that results from the incineration of hazardous waste
+22 or the incineration of solid waste as defined in part 115.
+23 (b) Hazardous waste exempted by rule because of its character
+24 or the treatment it has received.
+25 (c) Hazardous waste that is removed as part of a site cleanup
+26 activity at the expense of this state or the federal government.
+27 (d) Solidified hazardous waste produced by a solidification
+28 facility licensed pursuant to section 11123 and destined for land
+29 disposal.
+TMV S01207'25 (S-1) 5v24nd
+13
+1 (e) Hazardous waste generated pursuant to a 1-time closure or
+2 site cleanup activity in this state if the closure or cleanup
+3 activity has been authorized in writing by the department.
+4 Hazardous waste resulting from the cleanup of inadvertent releases
+5 which that occur after March 30, 1988 is not exempt from the fees.
+6 (f) Primary and secondary wastewater treatment solids from a
+7 wastewater treatment plant that includes an aggressive biological
+8 treatment facility as defined in 42 USC 6925.
+9 (g) Emission control dust or sludge from the primary
+10 production of steel in electric furnaces.
+11 (4) An owner or operator of a landfill or solidification
+12 facility shall assess or pay the fee described in this section
+13 unless the generator provides a signed written certification
+14 indicating that the hazardous waste is exempt from the fee. If the
+15 hazardous waste that is exempt from the fee is required to be
+16 listed on a manifest, the certification shall contain the manifest
+17 number of the shipment and the specific fee exemption for which the
+18 hazardous waste qualifies. If the hazardous waste that is exempt
+19 from the fee is not required to be listed on a manifest, the
+20 certification shall provide the volume quantity of exempt hazardous
+21 waste, the waste code or waste codes of the exempt waste, the date
+22 of disposal or solidification, and the specific fee exemption for
+23 which the hazardous waste qualifies. The owner or operator of the
+24 landfill or solidification facility shall retain this certification
+25 for 4 years from the date of receipt.
+26 (5) The department or a health department certified pursuant
+27 to section 11145 shall evaluate the accuracy of generator fee
+28 exemption certifications and shall take enforcement action against
+29 a generator who files a false certification. In addition, the
+TMV S01207'25 (S-1) 5v24nd
+14
+1 department shall take enforcement action to collect fees that are
+2 not paid as required by this section.
+3 (6) The landfill owner or operator and the A landfill or
+4 solidification facility owner or operator shall forward to the
+5 department the fee revenue due under this section with a completed
+6 form that is provided or approved by the department. The owner or
+7 operator shall certify that all information provided in the form is
+8 accurate. The form shall include the following information:
+9 (a) The volume quantity of hazardous waste subject to a fee.
+10 (b) The name of each generator who was assessed a fee, the
+11 generator's identification number, manifest numbers, hazardous
+12 waste volumes, quantities, and the amount of the fee assessed.
+13 (7) A generator is eligible for a refund from this state of
+14 fees paid under this section if the generator documents to the
+15 department, on a form provided by the department, a reduction in
+16 the amount of hazardous waste generated as a result of a process
+17 change, or a reduction in the amount of hazardous waste disposed of
+18 in a landfill, either directly or following solidification at a
+19 solidification facility, as a result of a process change or the
+20 generator's increased use of source separation, input substitution,
+21 process reformulation, recycling, treatment, or an exchange of
+22 hazardous waste that results in a utilization of that hazardous
+23 waste. The refund shall be in the amount of $10.00 per ton, $10.00
+24 per cubic yard, 4 cents per gallon, or 1/2 cent per pound of
+25 reduction in the amount of hazardous waste generated or disposed of
+26 in a landfill. A generator is not eligible to receive a refund for
+27 that portion of a reduction in the amount of hazardous waste
+28 generated that is attributable to a decrease in the generator's
+29 level of production of the products that resulted in the generation
+TMV S01207'25 (S-1) 5v24nd
+15
+1 of the hazardous waste.
+2 (8) A generator seeking a refund under subsection (7) shall
+3 calculate the refund due by comparing hazardous waste generation,
+4 treatment, and disposal activity in the calendar year immediately
+5 preceding the date of filing with hazardous waste generation,
+6 treatment, and disposal activity in the calendar year 2 years prior
+7 to the date of filing. To be eligible for a refund, a generator
+8 shall file a request with the department by June 30 of the year
+9 following the year for which the refund is being claimed. A refund
+10 shall not exceed the total fees paid by the generator to the
+11 landfill operator or owner and the solidification facility operator
+12 or owner. A form submitted by the generator as provided for in
+13 subsection (7) shall be certified by the generator or the
+14 generator's authorized agent.
+15 (7) Beginning January 1, 2031, and every fifth year
+16 thereafter, the state treasurer shall adjust each of the current
+17 fees under this section by an amount determined by the state
+18 treasurer to reflect the cumulative percentage change in the
+19 Consumer Price Index during the most recent 5-year period for which
+20 Consumer Price Index statistics are available. As used in this
+21 subsection, "Consumer Price Index" means the most comprehensive
+22 index of consumer prices available for this state from the Bureau
+23 of Labor Statistics of the United States Department of Labor, or a
+24 successor agency.
+25 (8) (9) The department shall maintain information regarding
+26 the landfill disposal fees received and refunds provided under this
+27 section.
+28 (9) (10) The fees collected under this section shall be
+29 forwarded to the state treasurer and deposited as follows:
+TMV S01207'25 (S-1) 5v24nd
+16
+1 (a) 55% in the cleanup and redevelopment fund created in
+2 section 20108.
+3 (b) 20% in the city and township fund created in section
+4 11525a(6).
+5 (c) 15% in the host communities grant fund created in section
+6 11525a(7).
+7 (d) 10% percent in the materials management planning fund
+8 created in section 11525a(8). in the environmental pollution
+9 prevention fund created in section 11130. Any balance in the waste
+10 reduction fund on October 1, 2013 shall not lapse to the general
+11 fund but shall be transferred to the environmental pollution
+12 prevention fund and the waste reduction fund shall be closed. Money
+13 from the environmental pollution prevention fund shall be expended,
+14 upon appropriation, only for 1 or more of the following purposes:
+15 (a) To pay refunds to generators under this section. (b) To
+16 fund programs created under this part, part 143, part 145, or the
+17 hazardous materials transportation act, 1998 PA 138, MCL 29.471 to
+18 29.480.
+19 (c) Not more than $500,000.00 to implement section 3103a.
+20 (d) To fund the permit to install program established under
+21 section 5505.
+22 Sec. 11109. (1) The owner or operator of a landfill shall pay
+23 to the department a fee assessed on TENORM disposed of in the
+24 landfill. The fee, through December 31, 2025, is $5.00 per ton. ,
+25 Beginning January 1, 2026, the fee is $12.50 per ton. Beginning
+26 January 1, 2031, and every fifth year thereafter, the state
+27 treasurer shall adjust the current fee under this subsection by an
+28 amount determined by the state treasurer to reflect the cumulative
+29 percentage change in the Consumer Price Index during the most
+TMV S01207'25 (S-1) 5v24nd
+17
+1 recent 5-year period for which Consumer Price Index statistics are
+2 available. As used in this subsection, "Consumer Price Index" means
+3 the most comprehensive index of consumer prices available for this
+4 state from the Bureau of Labor Statistics of the United States
+5 Department of Labor, or a successor agency. The fee shall be based
+6 on the quantity of TENORM specified on the monthly operating
+7 report. The fee for fractional tons of TENORM shall be
+8 proportional. The fee shall be paid within 30 days after the end of
+9 each calendar year quarter.
+10 (2) The department shall take enforcement action to collect
+11 fees that are not paid as required by this section.
+12 (3) The landfill owner or operator shall forward to the
+13 department the fee revenue due under this section with a completed
+14 form that is provided or approved by the department. The owner or
+15 operator shall certify that all information provided in the form is
+16 accurate. The form shall specify the volume weight of TENORM
+17 disposed of at the landfill during the preceding calendar quarter
+18 and the amount of fee revenue being forwarded to the department.
+19 (4) The department shall maintain information regarding the
+20 fees collected under this section.
+21 (5) The TENORM account is created within the environmental
+22 pollution prevention fund created in section 11130. The department
+23 shall forward fees collected under this section to the state
+24 treasurer for deposit as follows:
+25 (a) 55% in the cleanup and redevelopment fund created in
+26 section 20108.
+27 (b) 20% in the city and township fund created in section
+28 11525a(6).
+29 (c) 15% in the host communities grant fund created in section
+TMV S01207'25 (S-1) 5v24nd
+18
+1 11525a(7).
+2 (d) 10% in the materials management planning fund created in
+3 section 11525a(8). in the TENORM account. The state treasurer may
+4 receive money or other assets from any other source for deposit
+5 into the account. The state treasurer shall direct the investment
+6 of the account. The state treasurer shall credit to the account
+7 interest and earnings from account investments. Money remaining in
+8 the account at the close of the fiscal year shall not lapse to the
+9 general fund.
+10 (6) Money from the TENORM account shall be expended, upon
+11 appropriation, only for 1 or more of the following purposes:
+12 (a) To pay refunds to generators under this section.
+13 (b) To fund the department's regulation and oversight of the
+14 disposal of TENORM in this state.
+15 (c) To provide grants to local units of government and
+16 landfill operators to obtain equipment to monitor TENORM radiation.
+17 Sec. 11110. (1) Not later than January 1, 1990, By 5 years
+18 after the effective date of the amendatory act that added section
+19 11122 and every 5 years thereafter, the department shall prepare an
+20 updated and adopt a comprehensive, updated state hazardous and LARM
+21 waste management plan.
+22 (2) The updated plan shall meet all of the following
+23 requirements:
+24 (a) Update the state hazardous waste management plan adopted
+25 by the commission on January 15, 1982.
+26 (a) (b) Be based upon on the location of generators, health
+27 and safety, transportation economics, of transporting, type types
+28 of waste, and existing treatment, storage, or disposal facilities.
+29 (c) Include information generated by the department of
+TMV S01207'25 (S-1) 5v24nd
+19
+1 commerce and the department on hazardous waste capacity needs in
+2 the state.
+3 (d) Include information provided by the office of waste
+4 reduction created in part 143.
+5 (b) (e) Plan for the availability of hazardous waste treatment
+6 or disposal facilities that have adequate capacity for the
+7 destruction, treatment, or secure disposition of all hazardous
+8 wastes that are reasonably expected to Based on information
+9 included in the plan under subdivision (f), specify a maximum
+10 licensed capacity for hazardous and LARM waste treatment, storage,
+11 or disposal facilities. The maximum capacity shall equal the amount
+12 of hazardous and LARM waste that the department determines will be
+13 generated within the in this state during the 20-year succeeding 5-
+14 year period. after October 1, 1988, as is described in section
+15 104(c)(9)(A) of title I of the comprehensive environmental
+16 response, compensation, and liability act of 1980, Public Law 96-
+17 510, 42 U.S.C. 9604.The maximum capacity shall not be changed until
+18 the next 5-year update of the plan is adopted.
+19 (c) Do all of the following:
+20 (i) Identify areas of this state that would be eligible for
+21 siting hazardous waste treatment, storage, or disposal facilities
+22 in compliance with section 11125(9).
+23 (ii) Map the eligible areas in relation to all of the
+24 following:
+25 (A) Current and projected locations of hazardous waste
+26 generation.
+27 (B) Existing transportation infrastructure.
+28 (C) Emergency response capabilities.
+29 (D) Relevant environmental and geological conditions.
+TMV S01207'25 (S-1) 5v24nd
+20
+1 (iii) Propose specific siting criteria that establish minimum
+2 separation distances between treatment, storage, and disposal
+3 facilities and the following:
+4 (A) Schools, child care centers, and other educational
+5 institutions.
+6 (B) Hospitals, nursing homes, and other medical facilities.
+7 (C) Residential areas and places of public assembly.
+8 (D) Surface water bodies, wetlands, and groundwater recharge
+9 areas.
+10 (E) Parks, recreation areas, and protected natural areas.
+11 (F) Agricultural lands and food processing facilities.
+12 (G) Critical infrastructure, including public water supplies.
+13 (d) (f) Plan Provide for a reasonable geographic distribution
+14 of and propose siting criteria for treatment, storage, and disposal
+15 facilities to meet existing and future needs, including proposing
+16 criteria for determining acceptable locations for these facilities.
+17 comply with section 11125(9), and prevent the concentration of
+18 facilities in communities overburdened by pollution. The siting
+19 criteria shall include a consideration of a location's geology,
+20 geography, demography, and waste generation patterns, along with
+21 environmental factors, public health factors, and other relevant
+22 characteristics as determined by the department.
+23 (e) (g) Emphasize Provide for a shift away from the practice
+24 of landfilling hazardous waste and toward to the in-plant reduction
+25 of hazardous waste and the recycling and treatment of hazardous
+26 waste.
+27 (f) (h) Include necessary all of the following:
+28 (i) An analysis of all hazardous and LARM waste streams
+29 generated in this state, including waste volumes, classifications,
+TMV S01207'25 (S-1) 5v24nd
+21
+1 and locations of origin.
+2 (ii) An inventory and assessment of current in-state hazardous
+3 and LARM waste management capacity using information generated by
+4 the department of environment, Great Lakes, and energy and the
+5 department of labor and economic growth.
+6 (iii) Projections of future in-state hazardous and radioactive
+7 waste generation.
+8 (iv) Recommendations for state policies and programs to
+9 minimize hazardous and LARM waste generation.
+10 (v) An evaluation of hazardous and LARM waste reduction,
+11 recycling, and treatment technologies and best practices.
+12 (vi) A study and recommendation on whether this state should
+13 seek membership in an interstate low-level radioactive waste
+14 compact.
+15 (vii) Necessary legislative, administrative, and economic
+16 mechanisms, provisions, and a timetable to carry out the updated
+17 plan.
+18 (3) The department shall instruct the office of waste
+19 reduction created in part 143 to complete conduct studies as
+20 considered necessary for the completion of to complete the updated
+21 plan. The studies may include any of the following:
+22 (a) An inventory and evaluation of the sources of hazardous
+23 and LARM waste generation within this state or from other states,
+24 including the types, quantities, and chemical and physical
+25 characteristics of the hazardous waste.
+26 (b) An inventory and evaluation of current hazardous and LARM
+27 waste management, minimization, or reduction practices and costs,
+28 including treatment, disposal, on-site recycling, reclamation, and
+29 other forms of source reduction within this state.
+TMV S01207'25 (S-1) 5v24nd
+22
+1 (c) A projection or determination of future hazardous and LARM
+2 waste management needs based on section 11125(8) and an evaluation
+3 of existing capacities; , treatment or disposal capabilities; ,
+4 manufacturing activity, limitations, and constraints; . Projection
+5 of needs shall consider the types, and sizes, and general locations
+6 of treatment, storage, or disposal facilities , general locations
+7 within the in this state; , and management control systems. , and
+8 an identified need for a state owned treatment, storage, or
+9 disposal facility.
+10 (d) An investigation and analysis of methods, incentives, or
+11 technologies for source reduction, reuse, recycling, or recovery of
+12 potentially hazardous and LARM waste and a strategy for encouraging
+13 the utilization or reduction of hazardous and LARM waste.
+14 (e) An investigation and analysis of methods and incentives to
+15 encourage interstate and international cooperation in the
+16 management of hazardous and LARM waste.
+17 (f) An estimate of the public and private cost of treating,
+18 storing, or disposing of hazardous and LARM waste.
+19 (g) An investigation and analysis of alternate methods for
+20 treatment and disposal of hazardous and LARM waste.
+21 (4) If the department finds in preparing the updated plan that
+22 there is a need for additional treatment or disposal facilities in
+23 the state, then the department shall identify incentives the state
+24 could offer that would encourage the construction and operation of
+25 additional treatment or disposal facilities in the state that are
+26 consistent with the updated plan. The department shall propose
+27 criteria which could be used in evaluating applicants for the
+28 incentives.
+29 (4) (5) Upon completion of the proposed updated plan, the
+TMV S01207'25 (S-1) 5v24nd
+23
+1 department shall post the updated plan on its publicly accessible
+2 website, publish a notice in a number of 2 or more newspapers
+3 having major circulation within the this state as determined by the
+4 department, and shall issue a statewide news release announcing the
+5 availability of the updated plan for inspection or purchase at cost
+6 by interested persons. The announcement notice and news release
+7 shall indicate where and how the updated plan may be obtained or
+8 reviewed and shall indicate that not less than 6 public hearings
+9 shall be conducted at varying locations in the this state before
+10 formal adoption. the plan is adopted. The first public hearing
+11 shall not be held until not less than 60 days have elapsed from
+12 after the date of the notice and news release announcing the
+13 availability of the updated plan. The remaining public hearings
+14 shall be held within 120 days after the first public hearing at
+15 approximately equal time intervals.
+16 (5) (6) After the public hearings, the department shall
+17 prepare a written summary of the comments received, provide
+18 comments on responses to the major concerns raised, make amendments
+19 to the proposed updated plan that the department considers
+20 advisable, and determine whether the updated plan should be
+21 adopted.adopt the proposed updated plan.
+22 Sec. 11122. (1) Until 5 years after the effective date of the
+23 amendatory act that added this section, or until the first updated
+24 state hazardous and LARM waste management plan required under
+25 section 11110 after the effective date of the amendatory act that
+26 added this section is adopted and implemented, whichever is later,
+27 the department shall not do any of the following, except as
+28 provided in subsection (2) or (3):
+29 (a) Issue an operating license for a new multisource
+TMV S01207'25 (S-1) 5v24nd
+24
+1 commercial hazardous waste treatment, storage, or disposal facility
+2 under section 11125.
+3 (b) Amend an operating license for an existing multisource
+4 commercial hazardous waste treatment, storage, or disposal facility
+5 in a manner that authorizes the expansion of operations, overall
+6 capacity, or the facility.
+7 (2) Subsection (1)(b) does not prohibit any of the following
+8 amendments to existing operating licenses:
+9 (a) Amendments necessary to maintain compliance with this act
+10 or rules promulgated under this act.
+11 (b) Amendments made to incorporate new requirements imposed by
+12 this act or rules promulgated under this act.
+13 (c) Amendments limited to the capacity needed to manage the
+14 amount of newly regulated wastes to be generated in this state
+15 during the succeeding 5-year period, as determined by the
+16 department based on waste generation data and projections.
+17 (3) Any capacity authorized by an amendment described in
+18 subsection (2) shall be included in calculating the total licensed
+19 capacity under section 11125(8).
+20 Sec. 11125. (1) Upon receipt of an operating license
+21 application that complies with the requirements of section
+22 11123(2), the department shall do all of the following:
+23 (a) Notify the municipality and county in which the treatment,
+24 storage, or disposal facility is located or proposed to be located;
+25 a the local soil erosion and sedimentation control agency appointed
+26 pursuant to part 91; each division within the department that has
+27 responsibility in land, air, or water management; a the regional
+28 planning agency established by executive directive of the governor;
+29 and other appropriate agencies. The notice shall describe the
+TMV S01207'25 (S-1) 5v24nd
+25
+1 procedure by which the license may be approved or denied.
+2 (b) Review the plans of the proposed treatment, storage, or
+3 disposal facility to determine if the proposed operation complies
+4 with this part and the rules promulgated under this part. The
+5 review shall be made within the department. The review shall
+6 include, but need not be limited to, a review of air quality, water
+7 quality, waste management, hydrogeology, and the applicant's
+8 disclosure statement. A written and signed review by each person
+9 within the department reviewing the application and plans shall
+10 must be received and filed in the department's license application
+11 records before an operating license is issued or denied by the
+12 department.
+13 (c) Integrate the relevant provisions of all permits that the
+14 applicant is required to obtain from the department to construct
+15 the proposed treatment, storage, or disposal facility into the
+16 operating license required by this part.
+17 (d) Consider the mitigation measures proposed to be
+18 implemented as identified in section 11123(2)(m).
+19 (e) Hold a public hearing not more than within 60 days. after
+20 receipt of the application.
+21 (2) The department may establish operating license conditions
+22 specifically applicable to the treatment, storage, or disposal
+23 facility and operation at that site to mitigate adverse impacts.
+24 (3) The department shall provide notice and an opportunity for
+25 a public hearing before making a final decision on an operating
+26 license application.
+27 (4) The department shall make a final decision on an operating
+28 license application within 140 days after the department receives a
+29 complete application. However, if the this state's hazardous waste
+TMV S01207'25 (S-1) 5v24nd
+26
+1 management program is authorized by the United States environmental
+2 protection agency under section 3006 of subtitle C of the solid
+3 waste disposal act, 42 USC 6926, the department may extend the
+4 deadline beyond the limitation provided in this section in order to
+5 fulfill the public participation requirements of the solid waste
+6 disposal act. The operating license may contain stipulations
+7 specifically applicable to the site and operation.
+8 (5) A local ordinance, permit, or other requirement shall not
+9 prohibit the operation of a licensed treatment, storage, or
+10 disposal facility.
+11 (6) If any information required to be included in the
+12 disclosure statement required under section 11123 changes or is
+13 supplemented after the filing of the statement, the applicant or
+14 licensee shall provide that information to the department in
+15 writing within 30 days after the change or addition.
+16 (7) The department may deny an operating license application
+17 submitted pursuant to section 11123 if any information described in
+18 section 11123(2)(k)(ii) to (iv) was not disclosed as required in
+19 section 11123(2) or this section.
+20 (8) After the moratorium under section 11122 ends, the
+21 department shall not issue an operating license for a new
+22 multisource commercial hazardous waste treatment, storage, or
+23 disposal facility or the expansion of an existing facility if doing
+24 so would cause the total licensed capacity to exceed 1/5 of the
+25 limit established in the current state hazardous and LARM waste
+26 management plan under section 11110(2)(b). For the purposes of this
+27 subsection, "total licensed capacity" means the maximum amount of
+28 waste that all treatment, storage, or disposal facilities in this
+29 state are authorized to manage annually under their current
+TMV S01207'25 (S-1) 5v24nd
+27
+1 operating licenses.
+2 (9) Subject to subsection (10), the department shall not issue
+3 a license or approval to establish or expand a multisource
+4 commercial hazardous waste treatment, storage, or disposal
+5 facility, including, but not limited to, a class I well, if any of
+6 the following apply:
+7 (a) The new facility or expansion is proposed to be located in
+8 a city, village, township, or county where any of the following
+9 apply:
+10 (i) Another multisource hazardous waste treatment, storage, or
+11 disposal facility, class I well, or class IV well is currently
+12 operating.
+13 (ii) Another multisource hazardous waste treatment, storage, or
+14 disposal facility, class I well, or class IV well has operated
+15 within the past 25 years, unless all of the following requirements
+16 are met:
+17 (A) The owner or operator of the facility or well described in
+18 this subparagraph completes closure and postclosure care in
+19 accordance with all applicable state and federal requirements.
+20 (B) The department certifies completion of all corrective
+21 action requirements.
+22 (C) The department determines, after conducting a cumulative
+23 impact analysis, that siting a new facility or expanding an
+24 existing facility in the area would not disproportionately affect
+25 overburdened communities or populations.
+26 (b) The new facility or expansion is proposed to be located
+27 within 50 miles of a currently operating treatment, storage, or
+28 disposal facility, class I well, or class IV well that manages
+29 hazardous waste generated by a person other than the owner or
+TMV S01207'25 (S-1) 5v24nd
+28
+1 operator or its subsidiaries.
+2 (c) Any of the following apply to a census tract within a 3-
+3 mile radius of the facility's proposed location:
+4 (i) The population density exceeds the state average population
+5 density by 50% or more, based on the most recent census data.
+6 (ii) The percentage of population in households where the
+7 household income is less than or equal to twice the federal poverty
+8 level equals or exceeds the eightieth percentile for census tracts
+9 in this state.
+10 (iii) The overall score, as measured by MiEJScreen or its
+11 equivalent, for any census tract within a 3-mile radius meets or
+12 exceeds the eightieth percentile of census tracts in this state.
+13 (10) Subsection (9) does not apply to the establishment or
+14 expansion of a captive nonhazardous waste disposal well.
+15 (11) (8) The department shall provide notice of the final
+16 decision on an operating license application to persons on the
+17 organized mailing list for the facility.
+18 (12) (9) Following the construction of a new, expanded,
+19 enlarged, or altered treatment, storage, or disposal facility, the
+20 department shall review all information required to be submitted by
+21 the operating license to be submitted to the department. If the
+22 department finds that the owner or operator has deviated from the
+23 specific conditions established in the operating license, the
+24 department shall determine if cause exists for modification or
+25 revocation of the operating license, in accordance with provisions
+26 established by rule. At a minimum, the postconstruction
+27 documentation information shall include all of the following:
+28 (a) Updated disclosure information or a certification as
+29 described in section 11123(2)(n)(i).
+TMV S01207'25 (S-1) 5v24nd
+29
+1 (b) A certification of construction as described in section
+2 11123(2)(n)(ii). The department shall require additional
+3 certification periodically during the operation or in order to
+4 verify proper closure of the site.
+5 (c) A certification of capability signed and sealed by a
+6 licensed professional engineer as described in section
+7 11123(2)(n)(iii).
+8 (d) Information regarding any deviations from the specific
+9 conditions in the operating license.
+10 (e) Proof of financial responsibility for which this state is
+11 the sole beneficiary and that is any of the following:
+12 (i) A surety bond issued by an authorized insurer whose
+13 certificate of authority is in good standing.
+14 (ii) A cash account.
+15 (iii) An automatically annually renewing certificate of deposit.
+16 Sec. 11132. (1) Except as otherwise provided in this section,
+17 a A person shall not deliver to a landfill in this state for
+18 disposal and the owner or operator of a landfill shall not permit
+19 disposal in the landfill of any of the following:
+20 (a) TENORM with any of the following:
+21 (i) (a) A concentration of radium-226 more than 50 picocuries
+22 per gram.
+23 (ii) (b) A concentration of radium-228 more than 50 picocuries
+24 per gram.
+25 (iii) (c) A concentration of lead-210 more than 260 picocuries
+26 per gram.
+27 (b) Waste with concentrations greater than 260 picocuries per
+28 gram for potassium-40 or greater than 25 picocuries per gram for
+29 any other single radionuclide.
+TMV S01207'25 (S-1) 5v24nd
+30
+1 (2) Except as otherwise specified in the landfill operating
+2 license, the owner or operator of a landfill shall not permit a
+3 delivery of TENORM for disposal at the landfill unless the
+4 generator has provided the following information in writing to the
+5 owner or operator of the landfill:
+6 (a) The concentrations of radium-226, radium-228, lead-210,
+7 and any other radionuclide identified using gamma spectroscopy, or
+8 an equivalent analytical method, in the TENORM based on techniques
+9 for representative sampling and waste characterization approved by
+10 the department.
+11 (b) An estimate of the total mass of the TENORM.
+12 (c) An estimate of the total radium-226 activity, the total
+13 radium-228 activity, and the total lead-210 activity of the TENORM.
+14 (d) The proposed date of delivery.
+15 (3) The department may test TENORM proposed to be delivered to
+16 a landfill.
+17 (4) If requested by the owner or operator of a landfill in an
+18 application for the renewal of or a major modification to an
+19 operating license, If, before the effective date of the amendatory
+20 act that added section 11122, the department may authorize with
+21 conditions and limits authorized in the an operating license the
+22 disposal of TENORM with concentrations of radium-226 more than 50
+23 picocuries per gram, radium-228 more than 50 picocuries per gram,
+24 or lead-210 more than 260 picocuries per gram, or any combination
+25 thereof, but not more than 500 picocuries per gram for each
+26 radionuclide, . An the operating license under this part with such
+27 an authorization constitutes a license from the this state's
+28 radiation control authority under part 135 of the public health
+29 code, 1978 PA 368, MCL 333.13501 to 333.13537, to possess the
+TMV S01207'25 (S-1) 5v24nd
+31
+1 TENORM if the conditions and procedures for issuance of the
+2 operating license under this part are were sufficient to satisfy
+3 the licensing requirements of part 135 of the public health code,
+4 1978 PA 368, MCL 333.13501 to 333.13537. The disposal of TENORM
+5 described in this subsection after the effective date of the
+6 amendatory act that added section 11122 is prohibited.
+7 (5) A request under subsection (4) shall include all of the
+8 following:
+9 (a) A radiation safety program that addresses all of the
+10 following:
+11 (i) Personnel radiation protection.
+12 (ii) Worker training.
+13 (iii) Radiation surveys.
+14 (iv) Radiation instrument calibration.
+15 (v) Receipt and disposal of radioactive material.
+16 (vi) Emergency procedures.
+17 (vii) Record keeping.
+18 (b) A report evaluating the risks of exposure to residual
+19 radioactivity through all relevant pathways using a generally
+20 accepted industry model such as the Argonne National Laboratory
+21 RESRAD family of codes or, if approved by the department, another
+22 model. The report shall evaluate potential radiation doses to site
+23 workers and members of the public during site operation and after
+24 site closure. The report shall use reasonable scenarios to evaluate
+25 the dose to members of the public.
+26 (c) A description of any steps necessary to ensure the annual
+27 dose to members of the public during landfill operation and after
+28 site closure will be less than 25 millirem.
+29 (d) A description of an environmental monitoring program under
+TMV S01207'25 (S-1) 5v24nd
+32
+1 subsection (6).
+2 (5) (6) If TENORM is disposed at a landfill, the operator of
+3 the landfill shall conduct a monitoring program that complies with
+4 all of the following:
+5 (a) Radiological monitoring of site workers and at the
+6 landfill property boundary are conducted as specified in the
+7 license.
+8 (b) Radium-226, radium-228, and lead-210 are included among
+9 the parameters analyzed in leachate and groundwater at the
+10 frequency specified in the license.
+11 (c) Penetrating radiation, radioactivity in air, and radon in
+12 air are measured as specified in the operating license if the
+13 landfill is was used to dispose of TENORM with a concentration of
+14 radium-226 more than 50 picocuries per gram, radium-228 more than
+15 50 picocuries per gram, or lead-210 more than 260 picocuries per
+16 gram.
+17 (d) Results of all monitoring required under this subsection
+18 are included in the environmental monitoring reports required under
+19 rules promulgated under this part and the facility operating
+20 license.
+21 (6) (7) The owner or operator of a landfill shall submit to
+22 the department by March 15 each year a report that summarizes the
+23 information obtained under subsection (2) for all TENORM disposed
+24 at the landfill during the previous calendar year.
+25 (7) (8) The owner or operator of a landfill shall do both of
+26 the following:
+27 (a) Ensure that all TENORM is deposited at least 10 feet below
+28 the bottom of the future landfill cap.
+29 (b) Maintain records of the location and elevation of TENORM
+TMV S01207'25 (S-1) 5v24nd
+33
+1 disposed of at the landfill.
+2 (8) A person shall not mix TENORM with any material for the
+3 purposes of reducing the concentration of radium-226, radium-228,
+4 or lead-210, if the regulation of the resulting material under this
+5 part or part 115 is affected. A person shall not store or dispose
+6 of the resulting material except in compliance with the provisions
+7 of this part or part 115 applicable to the TENORM before the mixing
+8 occurred.
+9 (9) This part does not apply to materials or activities listed
+10 in section 1(2) of 1978 PA 113, MCL 325.491.
+11 Sec. 11514b. (1) A person shall not deliver to a type II
+12 landfill in this state for disposal and the owner or operator of a
+13 type II landfill shall not permit disposal in the landfill of
+14 technologically any of the following:
+15 (a) enhanced naturally occurring radioactive material TENORM
+16 with any of the following:
+17 (i) (a) A concentration of radium-226 more than 50 picocuries
+18 per gram.
+19 (ii) (b) A concentration of radium-228 more than 50 picocuries
+20 per gram.
+21 (iii) (c) A concentration of lead-210 more than 260 picocuries
+22 per gram.
+23 (b) Waste with concentrations greater than 260 picocuries per
+24 gram for potassium-40 or greater than 50 picocuries per gram for
+25 any other single radionuclide.
+26 (2) The owner or operator of a type II landfill shall not
+27 permit a delivery of TENORM for disposal at the landfill unless the
+28 generator has provided the following information in writing to the
+29 owner or operator of the landfill:
+TMV S01207'25 (S-1) 5v24nd
+34
+1 (a) The concentrations of radium-226, radium-228, lead-210,
+2 and any other radionuclide identified using gamma spectroscopy, or
+3 an equivalent analytical method, in the TENORM based on techniques
+4 for representative sampling and waste characterization approved by
+5 the department.
+6 (b) An estimate of the total mass of the TENORM.
+7 (c) An estimate of the total radium-226 activity, the total
+8 radium-228 activity, and the total lead-210 activity of the TENORM.
+9 (d) The proposed date of delivery.
+10 (3) The department may test TENORM proposed to be delivered to
+11 a landfill.
+12 (4) Within 45 days after the end of each state fiscal year,
+13 the owner or operator of a type II landfill shall submit to the
+14 department an annual a report that summarizes the information
+15 obtained under subsection (2) for all TENORM disposed at the
+16 landfill during the previous state fiscal year.
+17 (5) The owner or operator of a type II landfill that disposes
+18 of TENORM with a concentration of radium-226 more than 25
+19 picocuries per gram, a concentration of radium-228 more than 25
+20 picocuries per gram, or a concentration of lead-210 more than 25
+21 picocuries per gram shall do all of the following:
+22 (a) Ensure that all TENORM is deposited at least 10 feet below
+23 the bottom of the future landfill cap.
+24 (b) Maintain records of the location and elevation of TENORM
+25 disposed of at the landfill.
+26 (c) Conduct a monitoring program that complies with all of the
+27 following:
+28 (i) Radiological monitoring of site workers and at the landfill
+29 property boundary are conducted as specified in the license.
+TMV S01207'25 (S-1) 5v24nd
+35
+1 (ii) Radium-226, radium-228, and lead-210 are included among
+2 the parameters analyzed in leachate and groundwater at the
+3 frequency specified in the license.
+4 (iii) Results of all monitoring required under this subsection
+5 are included in the environmental monitoring reports required under
+6 rules promulgated under this part and the facility operating
+7 license.
+8 (6) This part does not apply to materials or activities listed
+9 in section 1(2) of 1978 PA 113, MCL 325.491.
+10 (7) (6) As used in this section, "technologically enhanced
+11 naturally occurring radioactive material" or "TENORM" means
+12 naturally occurring radioactive material whose radionuclide
+13 concentrations have been increased as a result of human practices.
+14 TENORM does not include any of the following:
+15 (a) Source material, as defined in section 11 of the atomic
+16 energy act of 1954, 42 USC 2014, and its progeny in equilibrium.
+17 (b) Material material with concentrations of radium-226,
+18 radium-228, and lead-210 each less than 5 picocuries per gram.
+19 Sec. 11525a. (1) The Subject to subsection (2), the owner or
+20 operator of a landfill or coal ash impoundment shall pay a
+21 surcharge as follows:
+22 (a) Except as provided in subdivision (b), for a landfill or
+23 coal ash impoundment that is not a captive facility, 36 cents $1.20
+24 for each ton or portion of a ton of solid waste or municipal solid
+25 waste incinerator ash that is disposed of in the landfill or coal
+26 ash impoundment. before October 1, 2027.
+27 (b) For a landfill or coal ash impoundment that is not a
+28 captive facility, 12 cents per for each ton or portion of a ton of
+29 foundry sand, slag from metal melting, baghouse dust, furnace
+TMV S01207'25 (S-1) 5v24nd
+36
+1 refractory brick, pulp and paper mill material, paper mill ash,
+2 wood ash, coal bottom ash, mixed wood ash, fly ash, flue gas
+3 desulfurization sludge, contaminated soil, cement kiln dust, lime
+4 kiln dust, and other industrial waste that weighs at least 1 ton
+5 per cubic yard, as determined by the generator.
+6 (c) For a type III landfill or coal ash impoundment that is a
+7 captive facility and annually receives the following amount of
+8 waste, the following annual corresponding surcharge for each state
+9 fiscal year, based on the amount of waste received during that
+10 fiscal year:
+11 (i) 100,000 or more tons of waste, $3,000.00.
+12 (ii) 75,000 or more but less than 100,000 tons of waste,
+13 $2,500.00.
+14 (iii) 50,000 or more but less than 75,000 tons of waste,
+15 $2,000.00.
+16 (iv) 25,000 or more but less than 50,000 tons of waste,
+17 $1,000.00.
+18 (v) Less than 25,000 tons of waste, $500.00.
+19 (2) Effective October 1, 2030, and every fifth year
+20 thereafter, the department may increase the surcharges specified in
+21 subsection (1) and the funding for the solid waste staff account
+22 specified in subsection (5)(a) by amounts determined by multiplying
+23 those amounts by the inflation adjustment factor. The department
+24 shall round the surcharges to the nearest whole cent and the
+25 funding to the nearest $100.00. The inflation adjustment factor
+26 equals the 3-year average July-June Consumer Price Index for the
+27 period ending during the immediately preceding state fiscal year
+28 divided by the 3-year average July-June Consumer Price Index for
+29 the period ending on June 30, 2030, as determined by the department
+TMV S01207'25 (S-1) 5v24nd
+37
+1 of treasury using the Detroit-Warren-Dearborn Consumer Price Index.
+2 However, the inflation adjustment factor must not be less than
+3 1.00.
+4 (3) (2) Within 30 days after the end of each quarter of a
+5 state fiscal year, the owner or operator of a landfill or coal ash
+6 impoundment that is not a captive facility shall pay the surcharge
+7 under subsection (1)(a) or (b) for waste received during that
+8 quarter of the state fiscal year. Within 30 days after the end of a
+9 state fiscal year, the owner or operator of a type III landfill or
+10 coal ash impoundment that is a captive facility shall pay the
+11 surcharge under subsection (1)(b) (1)(c) for waste received during
+12 that state fiscal year.
+13 (4) (3) If the owner or operator of a landfill or coal ash
+14 impoundment is required to pay the surcharge under subsection (1),
+15 the owner or operator shall pass through and collect the surcharge
+16 from any person that generated the solid waste or arranged for its
+17 delivery to the hauler or solid waste processing and transfer
+18 facility, notwithstanding the provisions of any agreement to the
+19 contrary or the absence of any agreement.
+20 (5) (4) Surcharges collected under this section before the
+21 effective date of the amendatory act that added subsection (6) must
+22 be forwarded to the state treasurer for deposit in the solid waste
+23 staff account of the solid waste management fund. Surcharges
+24 collected under this section on or after the effective date of the
+25 amendatory act that added subsection (6) must be forwarded to the
+26 state treasurer for deposit as follows:
+27 (a) The first $12,000,000.00 each state fiscal year in the
+28 solid waste staff account of the solid waste management fund.
+29 (b) The balance each state fiscal year as follows:
+TMV S01207'25 (S-1) 5v24nd
+38
+1 (i) 55% in the cleanup and redevelopment fund created in
+2 section 20108.
+3 (ii) 20% in the city and township fund created in subsection
+4 (6).
+5 (iii) 15% in the host communities grant fund created in
+6 subsection (7).
+7 (iv) 10% in the materials management planning fund created in
+8 subsection (8).
+9 (6) The city and township fund is created in the state
+10 treasury. The state treasurer shall deposit money and other assets
+11 received under subsection (5)(b)(ii), section 11108(9)(b), section
+12 11109(5)(b), or from any other lawful source in the fund. The state
+13 treasurer shall direct the investment of money in the fund and
+14 credit interest and earnings from the investments to the fund. The
+15 department is the administrator of the fund for audits of the fund.
+16 Money in the fund at the close of the fiscal year shall remain in
+17 the fund and not lapse to the general fund. At the end of each
+18 state fiscal year, the department shall promptly distribute the
+19 balance of the fund as grants to all the cities and townships in
+20 this state. The amount of each grant shall be proportional to the
+21 population of the city or township.
+22 (7) The host communities grant fund is created in the state
+23 treasury. The state treasurer shall deposit money and other assets
+24 received under subsection (5)(b)(iii), section 11108(9)(c), section
+25 11109(5)(c), or from any other lawful source in the fund. The state
+26 treasurer shall direct the investment of money in the fund and
+27 credit interest and earnings from the investments to the fund. The
+28 department is the administrator of the fund for audits of the fund.
+29 Money in the fund at the close of the fiscal year shall remain in
+TMV S01207'25 (S-1) 5v24nd
+39
+1 the fund and not lapse to the general fund. The department shall
+2 expend money from the fund, on appropriation, only for annual
+3 grants to cities and townships that are the sites of landfills and
+4 coal ash impoundments that pay surcharges under this section or
+5 fees under section 11108 or 11109. To obtain a grant, a city or
+6 township must file an application with the department during the
+7 period of November 1 through December 1. The application shall be
+8 filed on a form and in a medium provided or approved by the
+9 department. The department shall award grants by March 1 to cities
+10 and townships that timely submitted a complete application. Each
+11 grant shall be equal to the amount of surcharges deposited in the
+12 host communities grant fund during the prior state fiscal year from
+13 landfills and coal ash impoundments located in the geographical
+14 jurisdiction of the respective grant recipient and a proportionate
+15 share of money in the fund other than revenue deposited under
+16 subsection (5)(b)(iii), section 11108(9)(c), or section 11109(5)(c).
+17 (8) The materials management planning fund is created in the
+18 state treasury. The state treasurer shall deposit money and other
+19 assets received under subsection (5)(b)(iv), section 11108(9)(d),
+20 section 11109(5)(d) or from any other lawful source in the fund.
+21 The state treasurer shall direct the investment of money in the
+22 fund and credit interest and earnings from the investments to the
+23 fund. The department is the administrator of the fund for audits of
+24 the fund. Money in the fund at the close of the fiscal year shall
+25 remain in the fund and not lapse to the general fund. The
+26 department shall expend money from the fund, on appropriation, only
+27 for grants for materials management planning, including grants to
+28 counties, regional planning agencies, municipalities, and other
+29 entities responsible for preparing, implementing, and maintaining
+TMV S01207'25 (S-1) 5v24nd
+40
+1 materials management plans.
+2 (9) As used in this section, "Consumer Price Index" means the
+3 most comprehensive index of consumer prices available for the
+4 Detroit-Warren-Dearborn area from the Bureau of Labor Statistics of
+5 the United States Department of Labor.
+6 Sec. 62501. As used in this part:
+7 (a) "Artificial brine" means mineralized water formed by
+8 dissolving rock salt or other readily soluble rocks or minerals.
+9 (b) "Brine well" means a well drilled or converted for the
+10 purpose of producing natural or artificial brine.
+11 (c) "Class I hazardous waste well" means a class I well
+12 described in subdivision (e)(i).
+13 (d) "Class I nonhazardous well" means a class I well described
+14 in subdivision (e)(ii) or (iii).
+15 (e) "Class I well" means any of the following:
+16 (i) A well that is used by a generator of hazardous waste or
+17 the owner or operator of a hazardous waste management facility to
+18 inject hazardous waste beneath the lowermost formation that
+19 contains all or part of an underground source of drinking water
+20 within 1/4 mile of the well bore.
+21 (ii) An industrial and municipal disposal well that injects
+22 fluids beneath the lowermost formation that contains all or part of
+23 an underground source of drinking water within 1/4 mile of the well
+24 bore.
+25 (iii) A radioactive waste disposal well that injects fluids
+26 below the lowermost formation that contains all or part of an
+27 underground source of drinking water within 1/4 mile of the well
+28 bore.
+29 (f) "Class III well" means a well that is used for the
+TMV S01207'25 (S-1) 5v24nd
+41
+1 extraction of minerals including, but not limited to, the
+2 following:
+3 (i) Mining of sulfur by the Frasch process.
+4 (ii) In situ production of uranium or other metals, not
+5 including solution mining of conventional mines.
+6 (iii) Solution mining of salts or potash.
+7 (g) "Class IV well" means any of the following:
+8 (i) A well that is used by a generator of hazardous waste or
+9 radioactive waste, by the owner or operator of a hazardous waste
+10 management facility, or by the owner or operator of a radioactive
+11 waste disposal site to dispose of hazardous waste or radioactive
+12 waste into a formation that contains all or part of an underground
+13 source of drinking water within 1/4 mile of the well bore.
+14 (ii) A well that is used by a generator of hazardous waste or
+15 radioactive waste, by the owner or operator of a hazardous waste
+16 management facility, or by the owner or operator of a radioactive
+17 waste disposal site to dispose of hazardous waste or radioactive
+18 waste above a formation that contains all or part of an underground
+19 source of drinking water within 1/4 mile of the well bore.
+20 (iii) A well that is used by a generator of hazardous waste or
+21 the owner or operators of a hazardous waste management facility to
+22 dispose of hazardous waste and that is not described by 40 CFR
+23 146.5(a)(1) or 146.5(d)(1).
+24 (h) (c) "Department" means the department of environmental
+25 quality.environment, Great Lakes, and energy.
+26 (i) (d) "Disposal well" means a well drilled or converted for
+27 subsurface disposal of waste products or processed brine and its
+28 related surface facilities.
+29 (j) (e) "Exploratory purposes" means test well drilling for
+TMV S01207'25 (S-1) 5v24nd
+42
+1 the specific purpose of discovering or outlining an orebody or
+2 mineable mineral resource.
+3 (k) (f) "Fund" means the mineral well regulatory fund created
+4 in section 62509b.
+5 (l) (g) "Mineral well" means any well subject to this part.
+6 (m) (h) "Natural brine" means naturally occurring mineralized
+7 water other than potable or fresh water.
+8 (n) (i) "Operator" means the person , whether owner or not,
+9 supervising or responsible for the drilling, operating, repairing,
+10 abandoning, or plugging of wells a well subject to this part,
+11 whether or not that person is the owner.
+12 (o) (j) "Owner" means the person who has the right to drill,
+13 convert, or operate any well subject to this part.
+14 (p) (k) "Pollution" means damage or injury from the loss,
+15 escape, or unapproved disposal of any substance at any well subject
+16 to this part.
+17 (q) (l) "Storage well" means a well drilled into a subsurface
+18 formation to develop an underground storage cavity for subsequent
+19 use in storage operations. Storage well does not include a storage
+20 well drilled pursuant to part 615.
+21 (r) (m) "Supervisor of mineral wells" means the state
+22 geologist.
+23 (s) (n) "Surface waste" means damage to, injury to, or
+24 destruction of surface waters, soils, water, of soil, of animal,
+25 fish, and or aquatic life, or of surface property from unnecessary
+26 seepage or loss incidental to or resulting from drilling,
+27 equipping, or operating a well or wells subject to this part.
+28 (t) (o) "Test well" means a well, core hole, core test,
+29 observation well, or other well drilled from the surface to
+TMV S01207'25 (S-1) 5v24nd
+43
+1 determine the presence of a mineral, mineral resource, ore, or rock
+2 unit, or to obtain geological or geophysical information or other
+3 subsurface data related to mineral exploration and extraction. Test
+4 well does not include holes drilled in the operation of a quarry,
+5 open pit, or underground mine, or any wells not related to mineral
+6 exploration or extraction.
+7 (u) (p) "Underground storage cavity" means a cavity formed by
+8 dissolving rock salt or other readily soluble rock or mineral, by
+9 nuclear explosion, or by any other method for the purpose of
+10 storage or disposal.
+11 (v) (q) "Underground waste" means damage or injury to potable
+12 water, mineralized water, or other subsurface resources incidental
+13 to or resulting from drilling, equipping, or operating a well
+14 subject to this part.
+15 (w) (r) "Waste product" means waste or by-product resulting
+16 from municipal or industrial operations or waste from any trade,
+17 manufacture, business, or private pursuit that could cause
+18 pollution and for which underground disposal may be feasible or
+19 practical.
+20 Sec. 62508b. (1) Subject to subsection (2), the construction,
+21 expansion, or installation of either of the following is
+22 prohibited:
+23 (a) A new or converted multisource commercial hazardous waste
+24 disposal well.
+25 (b) A new or converted class IV well.
+26 (2) Subsection (1) does not apply to a class IV well that
+27 either 40 CFR 144.13(c) provides is not prohibited by 40 CFR 144.13
+28 or that 40 CFR 144.23(c) provides is authorized by rule.
+29 (3) Subsection (1) does not prohibit any of the following:
+TMV S01207'25 (S-1) 5v24nd
+44
+1 (a) Maintenance, repair, or like-for-like replacement of
+2 equipment necessary for the safe operation of an existing well,
+3 including, but not limited to, necessary workover and repairs of
+4 the well bore and injection equipment such as pumps, pressure
+5 monitoring equipment, and facility piping.
+6 (b) Subject to subsections (4) and (5), an equipment change at
+7 an existing well that demonstrably reduces the amount of hazardous
+8 or radioactive materials stored or emitted due to improved
+9 treatment methods or technologies, if the change does not increase
+10 the well's overall capacity or extend its operational lifespan.
+11 (c) Subject to subsections (4) and (5), an expansion of an
+12 existing well site.
+13 (4) A proposed change under subsection (3)(b) or (c) must be
+14 approved by the department. The well operator shall submit to the
+15 department documentation demonstrating how the proposed change will
+16 meet the requirements of subsection (3)(b) or (c). The department
+17 shall make the documentation publicly available and provide for a
+18 public comment period of not less than 60 days before deciding to
+19 approve or reject the proposed change.
+20 (5) In reviewing proposals under subsection (4), the
+21 department shall prioritize changes that provide the greatest
+22 reduction in risk to public health and the environment. The
+23 department shall not approve any changes that could result in
+24 increased exposure or risk to overburdened communities.
+25 Sec. 62509. (1) A person shall not drill or begin the drilling
+26 of any brine, storage, or waste disposal well, or convert any well
+27 for these uses, and except as authorized by a permit issued by the
+28 supervisor of mineral wells pursuant to part 13 and rules
+29 promulgated by the supervisor of mineral wells, and unless the
+TMV S01207'25 (S-1) 5v24nd
+45
+1 person files with the supervisor of mineral wells an approved
+2 surety or security bond. The application shall be accompanied by a
+3 survey of the well site. The department shall conduct an
+4 investigation and inspection before the supervisor of mineral wells
+5 issues a permit. A permit shall not be issued to any an owner or
+6 his or her the owner's authorized representative who if either
+7 person does not comply with the rules of the supervisor of mineral
+8 wells or who is in violation of this part or any rule of the
+9 supervisor of mineral wells. Upon submission to the supervisor of
+10 mineral wells of appropriate evidence of the completion of the
+11 drilling or converting conversion of a well for storage or waste
+12 disposal and after necessary of testing by the owner to determine
+13 that indicates the well can be used for these purposes and in a
+14 manner that will not cause surface or underground waste, the
+15 supervisor of mineral wells , upon receipt of appropriate evidence,
+16 shall approve and regulate the use of the well for storage or waste
+17 disposal. These operations shall be conducted pursuant to part 31.
+18 The supervisor of mineral wells may schedule a public hearing to
+19 consider the need or advisability of permitting the drilling or
+20 operating operation of a storage or waste disposal well, or
+21 converting the conversion of a well for these uses, if the public
+22 safety or other interests are involved.
+23 (2) A person shall not drill a test well 50 feet or greater in
+24 depth into the bedrock or below the deepest freshwater strata,
+25 except as provided in section 62508(c), except as unless the
+26 drilling is authorized by a permit issued by the supervisor of
+27 mineral wells pursuant to part 13 and rules promulgated by the
+28 supervisor of mineral wells , and unless the person files with the
+29 supervisor of mineral wells an approved surety or security bond.
+TMV S01207'25 (S-1) 5v24nd
+46
+1 The application shall be accompanied by the fee provided in
+2 subsection (6). The department shall conduct an investigation and
+3 inspection before the supervisor of mineral wells issues a permit.
+4 A permit shall not be issued to any an owner or his or her the
+5 owner's authorized representative who if either person does not
+6 comply with the rules of the supervisor of mineral wells or who is
+7 in violation of this part or any rule of the supervisor of mineral
+8 wells. A test well that penetrates below the deepest freshwater
+9 stratum or is greater than 250 feet in depth is subject to an
+10 individual test well permit. A test well that does not penetrate
+11 below the deepest freshwater stratum and is 250 feet or less in
+12 depth is subject to a blanket test well permit. The supervisor of
+13 mineral wells may allow a blanket test well permit for wells deeper
+14 than 250 feet if the applicant so requests and provides the
+15 supervisor of mineral wells with geological data demonstrating that
+16 the test well will remain within the freshwater stratum. This
+17 subsection does not apply to a test well regulated under part 111
+18 or part 115, or a water well regulated under part 127 of the public
+19 health code, 1978 PA 368, MCL 333.12701 to 333.12771.
+20 (3) A permit is not required to drill a test well in those
+21 areas of the this state where rocks of Precambrian age directly
+22 underlie unconsolidated surface deposits or in those areas that
+23 have been designated pursuant to section 62508(c). However, within
+24 at least 30 days before drilling the well, the owner shall provide
+25 notice to the supervisor of mineral wells on a form provided by the
+26 supervisor of mineral wells. The form shall be accompanied by a
+27 $500.00 fee and an approved surety or security bond. The form shall
+28 include the location of proposed test wells, including a map,
+29 measures to be taken to prevent soil erosion, a description of
+TMV S01207'25 (S-1) 5v24nd
+47
+1 casing, and sealing and plugging procedures. Within 2 years after
+2 completion of the drilling of the well, the owner shall advise the
+3 supervisor of mineral wells of the location of the well and file
+4 with the supervisor of mineral wells the log required under section
+5 62508(d). The provisions of this part pertaining to the prevention
+6 and correction of surface and underground waste have the same
+7 application from other wells regulated under this part apply to
+8 these test wells as to other wells defined in this part.as
+9 described in this subsection.
+10 (4) Upon request, the supervisor of mineral wells may issue to
+11 a qualified persons person a blanket permit to drill within a
+12 county test wells which that will not penetrate below the deepest
+13 freshwater stratum and are 250 feet or less in depth.
+14 (5) All information and records pertaining to the application
+15 for and issuance of permits for wells subject to this part shall be
+16 held confidential in the same manner as provided for logs and
+17 reports on these wells. However, the supervisor of mineral wells
+18 may share basic information such as the well type, location, and
+19 applicant name.
+20 (6) A permit application submitted under this section shall be
+21 accompanied by the following permit application fee:
+22 (a) Disposal well for disposal of waste
+23 products other than processed brine $ 2,500.00.
+24 (b) Disposal well for disposal of
+25 processed brine $ 500.00.
+26 (c) Storage well $ 500.00.
+27 (d) Natural brine production well $ 500.00.
+28 (e) Artificial brine production well $ 500.00.
+29 (f) Individual test well under
+TMV S01207'25 (S-1) 5v24nd
+48
+1 subsection (2) $ 500.00.
+2 (g) Blanket permit for test wells drilled pursuant to
+3 subsection (4):
+4 (i) 1 to 24 wells $ 75.00.
+5 (ii) 25 to 49 wells $ 150.00.
+6 (iii) 50 to 75 wells $ 300.00.
+7 (iv) 75 to 200 wells $ 600.00.
+8 (7) The supervisor of mineral wells shall deposit all permit
+9 application fees collected under this section into the fund.
+10 Sec. 62509d. (1) Within 2 years after the effective date of
+11 the amendatory act that added this section and annually thereafter,
+12 an operator of a class I well or a class III well shall, for each
+13 well, file proof of financial responsibility, as described in
+14 subsections (2) and (4), for which this state is the sole
+15 beneficiary.
+16 (2) The financial responsibility under subsection (1) shall be
+17 a surety bond issued by an authorized insurer whose certificate of
+18 authority is in good standing, a cash account, or an automatically
+19 annually renewing certificate of deposit. The surety bond, cash
+20 account, or certificate of deposit shall comply, and shall be
+21 interpreted to comply, with all of the following, as applicable:
+22 (a) The amount meets both of the following requirements:
+23 (i) Is at least the following:
+24 (A) For a class I multisource commercial hazardous waste well,
+25 $500,000.00 or the amount sufficient to cover the costs of well
+26 plugging and reclamation based on a third-party engineering
+27 estimate, whichever is greater.
+28 (B) For a class I multisource commercial nonhazardous well,
+29 $250,000.00 or the amount sufficient to cover the costs of well
+TMV S01207'25 (S-1) 5v24nd
+49
+1 plugging and reclamation based on a third-party engineering
+2 estimate, whichever is greater.
+3 (C) For a class I captive hazardous waste well, $300,000.00 or
+4 the amount sufficient to cover the costs of well plugging and
+5 reclamation based on a third-party engineering estimate, whichever
+6 is greater.
+7 (D) For a class I captive nonhazardous waste well, $150,000.00
+8 or the amount sufficient to cover the costs of well plugging and
+9 reclamation based on a third-party engineering estimate, whichever
+10 is greater.
+11 (E) For multiple class I nonhazardous wells, not to exceed 4
+12 wells, $500,000.00 for a blanket bond.
+13 (F) For a class III well, $100,000.00.
+14 (G) For multiple class III wells, not to exceed 20 wells,
+15 $1,000,000.00 for a blanket bond.
+16 (ii) Is sufficient to cover the costs of well plugging and
+17 reclamation, as determined by the department based on engineering,
+18 geotechnical, environmental, or location conditions.
+19 (b) The terms of the instrument cannot be altered without the
+20 approval of the department.
+21 (c) A cash account or deposit is held in trust by a federally
+22 insured financial institution that meets all of the following
+23 requirements:
+24 (i) Is regulated by banking authorities of this state or the
+25 federal government.
+26 (ii) Holds the deposit in a segregated trust account solely for
+27 the benefit of this state.
+28 (iii) Releases funds only upon written authorization from this
+29 state.
+TMV S01207'25 (S-1) 5v24nd
+50
+1 (iv) The deposit cannot be offset against or encumbered by any
+2 other obligation.
+3 (d) Cancellation of a bond requires at least 120 days' advance
+4 notice.
+5 (e) The instrument remains in effect until the department
+6 determines that all of the following apply:
+7 (i) The class I well or class III well has been permanently
+8 plugged and abandoned in compliance with law and in a manner that
+9 protects underground sources of drinking water.
+10 (ii) All contamination at the site has been remediated.
+11 (iii) The soil at the site has been stabilized and the site has
+12 been regraded to conditions approved by the department, with
+13 vegetation sufficiently established to prevent erosion or offsite
+14 runoff.
+15 (iv) All required well records and supporting documentation
+16 have been submitted to the department, no adverse environmental
+17 conditions caused by the drilling of the well remain at the surface
+18 or within an underground source of drinking water, and the
+19 department considers the site to meet plugging-approved status.
+20 (3) Payment under an instrument required by subsection (2)
+21 does not relieve the operator from any other legal requirements.
+22 Assets under the instrument revert to the operator's control, at
+23 the operator's request, only after the operator has adequately
+24 plugged the wells, reclaimed the well site, and complied with all
+25 orders of the supervisor or department under this act.
+26 (4) The financial responsibility under subsection (1) shall
+27 also include environmental pollution insurance coverage that
+28 complies with all of the following:
+29 (a) The amount of coverage meets both of the following
+TMV S01207'25 (S-1) 5v24nd
+51
+1 requirements:
+2 (i) Is at least $5,000,000.00 per occurrence for a multisource
+3 commercial hazardous waste disposal well or $2,500,000.00 per
+4 occurrence for a captive hazardous waste disposal well.
+5 (ii) Is considered by the department to be sufficient to cover
+6 the remediation of private property that could reasonably be
+7 affected by future environmental incidents caused by the drilling
+8 of the well and the replacement of drinking water supplies for
+9 properties with affected water wells.
+10 (b) After the well is plugged, the insurance remains in effect
+11 until the department determines the well meets plugging-approved
+12 status requirements and extends for an additional 10 years for a
+13 class I hazardous waste well or 5 years for a class I nonhazardous
+14 well.
+15 (c) The insurance is provided by an insurance carrier
+16 authorized, licensed, or permitted to conduct such insurance
+17 business in this state and that holds at least an A- rating by AM
+18 Best or any comparable rating service.
+19 (d) The insurance is not issued by a captive insurer, surplus
+20 line insurer, or risk retention group.
+21 (5) Within 2 years after the effective date of the amendatory
+22 act that added this section and annually thereafter, an operator of
+23 a test well shall, for each well, file proof of financial
+24 responsibility for which this state is the sole beneficiary. The
+25 financial responsibility shall be a surety bond issued by an
+26 authorized insurer whose certificate of authority is in good
+27 standing, a cash account, or an automatically annually renewing
+28 certificate of deposit. The financial responsibility shall comply,
+29 and shall be interpreted to comply, with the following, as
+TMV S01207'25 (S-1) 5v24nd
+52
+1 applicable:
+2 (a) The amount meets both of the following requirements:
+3 (i) Is at least $10,000.00.
+4 (ii) Is sufficient to cover the costs of well plugging and
+5 reclamation, as determined by the department based on engineering,
+6 geotechnical, environmental, or location conditions.
+7 (b) The terms of the instrument shall not be altered without
+8 the approval of the department.
+9 (c) A cash account or deposit is held in trust by a federally
+10 insured financial institution that meets all of the following
+11 requirements:
+12 (i) Is regulated by banking authorities of this state or the
+13 federal government.
+14 (ii) Holds the deposit in a segregated trust account solely for
+15 the benefit of this state.
+16 (iii) Releases funds only upon written authorization from this
+17 state.
+18 (iv) The deposit cannot be offset against or encumbered by any
+19 other obligation.
+20 (d) Cancellation of a bond requires at least 120 days' advance
+21 notice.
+22 (e) The instrument remains in effect until the department
+23 determines that all of the following apply:
+24 (i) The test well has been permanently plugged and abandoned in
+25 compliance with law and in a manner that protects underground
+26 sources of drinking water.
+27 (ii) All contamination at the site has been remediated.
+28 (iii) The soil at the site has been stabilized and
+29 rehabilitated.
+TMV S01207'25 (S-1) 5v24nd
+53
+1 (iv) The ecosystem has been restored.
+2 (6) Payment under an instrument required by subsection (5)
+3 does not relieve the operator from any other legal requirements.
+4 Assets under the instrument revert to the operator's control, at
+5 the operators request, only after the operator has adequately
+6 plugged the wells, reclaimed the well site, and complied with all
+7 orders of the supervisor or department under this act.
+8 Enacting section 1. Sections 11111 and 11112 of the natural
+9 resources and environmental protection act, 1994 PA 451, MCL
+10 324.11111 and 324.11112, are repealed.
+11 Enacting section 2. Section 11525a of the natural resources
+12 and environmental protection act, 1994 PA 451, MCL 324.11525a, as
+13 amended by this amendatory act, takes effect March 1, 2026.
+Final Page
+TMV S01207'25 (S-1) 5v24nd
+[DELETED:   S 5]
+[DELETED:   S 5 ( a h i ( f t b ( w n o ( 6 ( 6 ( (]
+[DELETED:   S 5 ( ( ( ( ]
+[DELETED:   S 5  U    lb 4 t. 1e,r, m.]
+[DELETED:   S 5  ( m n r 1 n s f ( m t ( l 3 ( s ( o w n]
+[DELETED:   S 5 ( ( (  ( m m d h s t ( s h m d]
+[DELETED:   S 5 h s ( m g n t o c ( e C ( 2]
+[DELETED:   S 5 (  ( l a f ( i ( w ( b ( ]
+[DELETED:   S 5]
+[DELETED:   S 5 m t w o]
+[DELETED:   S 5 , D  S b p m ,t 2 d dd ]
+[DELETED:   S 5 S s p p o]
+[DELETED:   S 5 t q o o]
+[DELETED:   S 5 A q q o a]
+[DELETED:   S 5  ( t f t C C s i o s ( ( a]
+[DELETED:   S 5 ( s ( 1 ( 1 ( c ,t . B J t a pe in,]
+[DELETED:   S 5 r a t s D w a ( s ( 1 ( o]
+[DELETED:   S 5 1 ( s B a 1 a a   r ( o t ,t s l es ]
+[DELETED:   S 5 ( B i l o o i s y . T t ( ( ( sda))]
+[DELETED:   S 5i() P f t s w P a t a)]
+[DELETED:   S 5 a t d()i0())))) a u s te:]
+[DELETED:   S 5 a s ; ; ; ,,  i ; a . a a   a a ( p as,s,s.s ss, se, ms, w wsw w w u]
+[DELETED:   S 5 p w 2 t  n t t n a a ( r p   a a S a s s a t p ( n st  s T 6 a t u.]
+[DELETED:   S 5 c u ( c i c ( a ( o ( t ( a d d ( s c t t l r]
+[DELETED:   S 5 m w  t 6s  s]
+[DELETED:   S 5 t  ( d m d s l m s w s s]
+[DELETED:   S 5 o ( a c f t ( a a d o w a ( i d h))]
+[DELETED:   S 5 o ( m d i))) te. s()]
+[DELETED:   S 5  2()4()i5.3(  ( g a()()) p)))]
+[DELETED:   S 5 I a a a , t t t i oe. o s ]
+[DELETED:   S 5 T w   d a s)))))))]
+[DELETED:   S 5 (  w (  ( ,t u5e]
+[DELETED:   S 5  ( p o p o o o ( i a ( T1()i))]
+[DELETED:   S 5  a r)]
+[DELETED:   S 5i)) w ot  t]
+[DELETED:   S 5  $.6()8() s p.).))..]
+[DELETED:   S 5 o H 1 ( o ( ( ( b e S c a s ( s ( f f]
+[DELETED:   S 5())))()()]
+[DELETED:   S 5 t e g c f t p f d a g h l j s ( s f f c e()()]
+[DELETED:   S 5 m ( m D t  ( (4i()()iii ( w1()i()))]
+[DELETED:   S 5 e f ( e ()))))).]
+[DELETED:   S 5 ( ( a , w ( ( () n, s) a a s o]
+[DELETED:   S 5 ( (   t s ( S e p ( d ( ( e o (]
+[DELETED:   S 5 ( e i t m ( a o t t ( e ( a d m s p a ( d r d i]
+[DELETED:   S 5 a t i p s m c o i  c o t u d  o a o t ts, p o as,]
+[DELETED:   S 5 a t o i T m t s t t a n s $ i m o d s]
+[DELETED:   S 5 c f a d a p t   m a t a w $ 2 $ 5 $ 5 $ 5 $ 5]
+[DELETED:   S 5$ 7 $ 5)) 1) 3) 6)]
+[DELETED:   S 5 p e ( t r i ( o r i ( w ( ( $ r g ( a r6()i8()i))]
+[DELETED:   S 5i()))))]
+[DELETED:   S 5 r o p ( ( a a a c a))]
+[DELETED:   S 5 a (  o c)))))))))]
+[DELETED:   S 5i()]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 246
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 11102, 11103, 11104, 11108, 11109, 11110,
+11125, 11132, 11514b, 11525a, 62501, and 62509 (MCL 324.11102,
+324.11103, 324.11104, 324.11108, 324.11109, 324.11110, 324.11125,
+324.11132, 324.11514b, 324.11525a, 324.62501, and 324.62509),
+sections 11102 and 11125 as amended by 2010 PA 357, section 11104
+as amended and section 11132 as added by 2018 PA 688, section 11108
+as amended by 2013 PA 73, section 11109 as added by 2018 PA 689,
+section 11110 as amended by 1995 PA 61, section 11514b as amended
+by 2022 PA 245, section 11525a as amended by 2023 PA 140, section
+62501 as amended by 1998 PA 467, and section 62509 as amended by
+2004 PA 325, and by adding sections 11122, 62508b, and 62509d; and
+TMV S01207'25 (S-1) 5v24nd
+
+2
+to repeal acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 11102. (1) "Captive hazardous waste disposal well" means
+2 a class I well that is used by the owner or operator to inject
+3 hazardous waste generated exclusively by the owner or operator or
+4 its subsidiaries.
+5 (2) "Captive hazardous waste treatment, storage, or disposal
+6 facility" means a facility that is used by the owner or operator to
+7 treat, store, or dispose of hazardous waste generated exclusively
+8 by the owner or operator or its subsidiaries.
+9 (3) "Captive nonhazardous waste disposal well" means a class I
+10 well that is used by the owner or operator to inject only
+11 nonhazardous waste generated exclusively by the owner or operator
+12 or its subsidiaries.
+13 (4) "Class I well" means that term as defined in section
+14 62501.
+15 (5) "Class IV well" means that term as defined in section
+16 62501.
+17 (6) (1) "Contaminant" means any of the following:
+18 (a) Hazardous waste as defined in R 299.9203 of the Michigan
+19 administrative code.
+20 (b) Any hazardous waste or hazardous constituent listed in 40
+21 CFR part 261, appendix VIII or 40 CFR part 264, appendix IX.
+22 (7) (2) "Corrective action" means an action determined by the
+23 department to be necessary to protect the public health, safety, or
+24 welfare, or the environment, and includes, but is not limited to,
+25 investigation, evaluation, cleanup, removal, remediation,
+26 monitoring, containment, isolation, treatment, storage, management,
+27 temporary relocation of people, and provision of alternative water
+TMV S01207'25 (S-1) 5v24nd
+
+3
+1 supplies, or any corrective action allowed under the solid waste
+2 disposal act or regulations promulgated pursuant to that act.
+3 (8) (3) "Designated facility" means a hazardous waste
+4 treatment, storage, or disposal facility that has received a permit
+5 or has interim status under the solid waste disposal act or has a
+6 permit from a state authorized under section 3006 of subtitle C of
+7 the solid waste disposal act, 42 USC 6926, and which, if located in
+8 this state, has an operating license issued under this part, has a
+9 legally binding agreement with the department that authorizes
+10 operation, or is subject to the requirements of section 11123(8).
+11 (9) (4) "Disposal" means the discharge, deposit, injection,
+12 dumping, spilling, leaking, or placing of a hazardous waste into or
+13 on land or water in a manner that the hazardous waste or a
+14 constituent of the hazardous waste may enter the environment, be
+15 emitted into the air, or be discharged into water, including
+16 groundwater.
+17 (10) (5) "Disposal facility" means a facility or a part of a
+18 facility where managed hazardous waste, as defined by rule, is
+19 intentionally placed into or on any land or water and at which
+20 hazardous waste will remain after closure.
+21 (11) (6) "Failure mode assessment" means an analysis of the
+22 potential major methods by which safe handling of hazardous wastes
+23 may fail at a treatment, storage, or disposal facility.
+24 Sec. 11103. (1) "Generation" means the act or process of
+25 producing hazardous waste.
+26 (2) "Generator" means any person, by site, whose act or
+27 process produces hazardous waste as identified or listed pursuant
+28 to section 11128 or whose act first causes a hazardous waste to
+29 become subject to regulation under this part.
+TMV S01207'25 (S-1) 5v24nd
+
+4
+1 (3) "Hazardous waste" means waste or a combination of waste
+2 and other discarded material including solid, liquid, semisolid, or
+3 contained gaseous material that because of its quantity, quality,
+4 concentration, or physical, chemical, or infectious characteristics
+5 may cause or significantly contribute to an increase in mortality
+6 or an increase in serious irreversible illness or serious
+7 incapacitating but reversible illness, or may pose a substantial
+8 present or potential hazard to human health or the environment if
+9 improperly treated, stored, transported, disposed of, or otherwise
+10 managed. Hazardous waste does not include material that is solid or
+11 dissolved material in domestic sewage discharge, solid or dissolved
+12 material in an irrigation return flow discharge, industrial
+13 discharge that is a point source subject to permits under section
+14 402 of title IV of the federal water pollution control act, chapter
+15 758, 86 Stat . 880, 33 U.S.C. USC 1342, or is a source material,
+16 special nuclear material, or by-product byproduct material as
+17 defined by the atomic energy act of 1954, chapter 1073, 68 Stat.
+18 919.42 USC 2011 to 2297h-13.
+19 (4) "Hazardous waste management" means the systematic control
+20 of the collection, source separation, storage, transportation,
+21 processing, treatment, recovery, recycling, and disposal of
+22 hazardous waste.
+23 (5) "Landfill" means a disposal facility or part of a facility
+24 where hazardous waste is placed in or on land and which is not a
+25 pile, a land treatment facility, a surface impoundment, an
+26 injection well, a salt dome formation, a salt bed formation, or an
+27 underground mine or cave.
+28 (6) "Land treatment facility" means a treatment facility or
+29 part of a treatment facility at which hazardous waste is applied
+TMV S01207'25 (S-1) 5v24nd
+
+5
+1 onto or incorporated into the soil surface. If waste will remain
+2 after closure, a facility described in this subsection is a
+3 disposal facility.
+4 (7) "Limited-activity radioactive material" or "LARM" means
+5 material that contains radionuclides at concentrations that exceed
+6 natural background levels but that does not meet the definition of
+7 radioactive material under section 13501 of the public health code,
+8 1978 PA 368, MCL 333.13501. LARM includes technologically enhanced
+9 naturally occurring radioactive material and other materials with
+10 similar radiological characteristics, but does not include the
+11 following:
+12 (a) Source material, special nuclear material, or byproduct
+13 material as defined in the atomic energy act of 1954, 42 USC 2011
+14 to 2297h-13.
+15 (b) Low-level radioactive waste as defined in section 2 of the
+16 low-level radioactive waste authority act, 1987 PA 204, MCL
+17 333.26202.
+18 (c) Any other material regulated as radioactive waste under
+19 state or federal law.
+20 (8) (7) "Limited storage facility" means a storage facility
+21 that meets all of the following conditions:
+22 (a) Has a maximum storage capacity that does not exceed 25,000
+23 gallons of hazardous waste.
+24 (b) Storage occurs only in tanks or containers.
+25 (c) Has on site not more than 200 containers on site that have
+26 with a capacity of 55 gallons or less.
+27 (d) Does not store hazardous waste on site for more than 90
+28 days.
+29 (e) Does not receive hazardous waste from a treatment,
+TMV S01207'25 (S-1) 5v24nd
+
+6
+1 storage, or disposal facility.
+2 (9) (8) "Manifest" means a form approved by the department
+3 used for identifying the quantity, composition, origin, routing,
+4 and destination of hazardous waste during its transportation from
+5 the point of generation to the point of disposal, treatment, or
+6 storage.
+7 (10) (9) "Manifest system" means the system used for
+8 identifying the quantity, composition, origin, routing, and
+9 destination of hazardous waste during its transportation from the
+10 point of generation to the point of disposal, treatment, or
+11 storage.
+12 (11) (10) "Mechanism" means a letter of credit, a financial
+13 test that demonstrates the financial strength of the company owning
+14 a treatment, storage, or disposal facility or a parent company
+15 guaranteeing financial assurance for a subsidiary, or an insurance
+16 policy that will provide funds for closure or postclosure care of a
+17 treatment, storage, or disposal facility.
+18 (12) "Multisource commercial hazardous waste disposal well"
+19 means a class I well that receives hazardous waste generated by
+20 more than 1 person. However, multisource commercial hazardous waste
+21 disposal well does not include a disposal well that receives
+22 hazardous waste generated exclusively by the owner, its
+23 subsidiaries, the operator, its subsidiaries, or any combination
+24 thereof.
+25 (13) "Multisource commercial hazardous waste treatment,
+26 storage, or disposal facility" means a facility that receives
+27 hazardous waste generated by more than 1 person. However,
+28 multisource commercial hazardous waste treatment, storage, or
+29 disposal facility does not include a facility that receives
+TMV S01207'25 (S-1) 5v24nd
+
+7
+1 hazardous waste generated exclusively by the owner, its
+2 subsidiaries, the operator, or its subsidiaries.
+3 (14) "Multisource commercial nonhazardous waste disposal well"
+4 means a class I well that receives nonhazardous waste that is
+5 generated by more than 1 person. Multisource commercial
+6 nonhazardous waste disposal well does not include a disposal well
+7 that receives only nonhazardous waste generated exclusively by the
+8 owner, its subsidiaries, the operator, its subsidiaries, or any
+9 combination thereof.
+10 (15) (11) "Municipal solid waste incinerator" means an
+11 incinerator that is owned or operated by any person, and that meets
+12 all of the following requirements:
+13 (a) The incinerator receives solid waste from off site and
+14 burns only household waste from single and multiple dwellings,
+15 hotels, motels, and other residential sources, or burns this
+16 household waste together with solid waste from commercial,
+17 institutional, municipal, county, or industrial sources that, if
+18 disposed of, would not be required to be placed in a disposal
+19 facility licensed under this part.
+20 (b) The incinerator has established contractual requirements
+21 or other notification or inspection procedures sufficient to assure
+22 ensure that the incinerator receives and burns only waste referred
+23 to in subdivision (a).
+24 (c) The incinerator meets the requirements of this part and
+25 the rules promulgated under this part.
+26 (d) The incinerator is not an industrial furnace as defined in
+27 40 C.F.R. CFR 260.10.
+28 (16) (12) "Municipal solid waste incinerator ash" means the
+29 substances remaining after combustion in a municipal solid waste
+TMV S01207'25 (S-1) 5v24nd
+
+8
+1 incinerator.
+2 (17) (13) "Municipality" means a city, village, township, or
+3 Indian tribe.
+4 (18) "Newly regulated waste" means hazardous waste identified,
+5 listed, or characterized after the effective date of the amendatory
+6 act that added this subsection, including, but not limited to, the
+7 following:
+8 (a) Waste that becomes regulated as hazardous due to changes
+9 in state or federal law or regulations.
+10 (b) Emerging contaminants that are classified as hazardous
+11 waste.
+12 (c) New categories of pharmaceutical or other wastes that
+13 become subject to hazardous waste regulations.
+14 (19) (14) "On site" means on the same or geographically
+15 contiguous property that may be divided by a public or private
+16 right-of-way if the entrance and exit between the pieces of
+17 property are at a crossroads intersection and access is by crossing
+18 rather than going along the right-of-way. On site property includes
+19 noncontiguous pieces of property owned by the same person but
+20 connected by a right-of-way that the owner controls and to which
+21 the public does not have access.
+22 Sec. 11104. (1) "Operator" means the person responsible for
+23 the overall operation of a disposal, treatment, or storage facility
+24 with approval of the department either by contract or license.
+25 (2) "Site identification number" means a number that is
+26 assigned by the United States Environmental Protection Agency or
+27 the United States Environmental Protection Agency's designee to
+28 each generator, each transporter, and each treatment, storage, or
+29 disposal facility. If the generator or transporter or the
+TMV S01207'25 (S-1) 5v24nd
+
+9
+1 treatment, storage, or disposal facility manages wastes that are
+2 hazardous under this part and the rules promulgated under this part
+3 but are not hazardous under the solid waste disposal act, site
+4 identification number means an equivalent number that is assigned
+5 by the department.
+6 (3) "Solid waste" means that term as it is defined in part
+7 115.
+8 (4) "Storage" means the holding of hazardous waste for a
+9 temporary period at the end of which the hazardous waste is
+10 treated, disposed of, or stored elsewhere.
+11 (5) "Storage facility" means a facility or part of a facility
+12 where managed hazardous waste, as defined by rule, is subject to
+13 storage. A generator who accumulates managed hazardous waste, as
+14 defined by rule, on site in containers or tanks for less than 91
+15 days or a period of time prescribed by rule is not a storage
+16 facility.
+17 (6) "Surface impoundment" or "impoundment" means a treatment,
+18 storage, or disposal facility or part of a treatment, storage, or
+19 disposal facility that is a natural topographic depression, human-
+20 made excavation, or diked area formed primarily of earthen
+21 materials, although it may be lined with human-made materials, that
+22 is designed to hold an accumulation of liquid wastes or wastes
+23 containing free liquids, and that is not an injection well. Surface
+24 impoundments include, but are not limited to, holding, storage,
+25 settling, and aeration pits, ponds, and lagoons.
+26 (7) "Technologically enhanced naturally occurring radioactive
+27 material" or "TENORM" means naturally occurring radioactive
+28 material whose radionuclide concentrations have been increased as a
+29 result of human practices. TENORM does not include any of the
+TMV S01207'25 (S-1) 5v24nd
+
+10
+1 following:
+2 (a) Source material, as defined in section 11 of the atomic
+3 energy act of 1954, 42 USC 2014, and its progeny in equilibrium.
+4 (b) Material material with concentrations of radium-226,
+5 radium-228, and lead-210 each less than 5 picocuries per gram.
+6 (8) "The solid waste disposal act" means title II of Public
+7 Law 89-272.
+8 (9) "Transporter" means a person engaged in the off-site
+9 transportation of hazardous waste by air, rail, highway, or water.
+10 (10) "Treatment" means any method, technique, or process,
+11 including neutralization, designed to change the physical,
+12 chemical, or biological character or composition of any hazardous
+13 waste, to neutralize the waste, to recover energy or material
+14 resources from the waste, or to render the waste nonhazardous or
+15 less hazardous, safer to transport, store, or dispose of, amenable
+16 to recovery, amenable to storage, or reduced in volume. Treatment
+17 includes any activity or processing designed to change the physical
+18 form or chemical composition of hazardous waste so as to render it
+19 nonhazardous.
+20 (11) "Treatment facility" means a facility or part of a
+21 facility where managed hazardous waste, as defined by rule, is
+22 subject to treatment.
+23 (12) "Updated plan" means the updated state hazardous waste
+24 management plan prepared under section 11110.
+25 (13) "Vehicle" means a transport vehicle as defined in 49 CFR
+26 171.8.
+27 Sec. 11108. (1) Except as otherwise provided in this section,
+28 each the owner or operator of a landfill shall pay to the
+29 department a fee assessed on hazardous waste disposed of in the
+TMV S01207'25 (S-1) 5v24nd
+
+11
+1 landfill. The fee shall be based on the quantity of hazardous waste
+2 specified on the manifest or monthly operating report and, through
+3 December 31, 2025, shall be $10.00 per ton, $10.00 per cubic yard,
+4 or 1/2 cent per pound, depending on the unit of measure used by the
+5 owner or operator to calculate the fee. Subject to subsection (7),
+6 beginning January 1, 2026, the fee shall be $25.00 per ton, $25.00
+7 per cubic yard, or 1.25 cents per pound, depending on the unit of
+8 measure used by the owner or operator to calculate the fee. The fee
+9 for fractional quantities of hazardous waste shall be proportional.
+10 If the hazardous waste is required to be listed on a manifest and
+11 the owner or operator of the landfill determines that the hazardous
+12 waste quantity on the manifest is not accurate, the owner or
+13 operator shall correct the hazardous waste quantity on all manifest
+14 copies accompanying the shipment, note the reason for the change in
+15 the discrepancy indication space on the manifest, and assess the
+16 fee in accordance with the corrected hazardous waste quantity.
+17 Payment shall be made within 30 days after the close of each
+18 quarter. The landfill owner or operator shall assess off-site
+19 generators the fee. The fee for hazardous waste that is generated
+20 and disposed of on the site of a landfill owner or operator shall
+21 be paid by that owner or operator.
+22 (2) Except as otherwise provided in this section, each owner
+23 or operator of a solidification facility licensed pursuant to
+24 section 11123 shall pay to the department a fee assessed on
+25 hazardous waste received at the solidification facility. The fee
+26 shall be based on the quantity of hazardous waste specified on the
+27 manifest or monthly operating report and, through December 31,
+28 2025, shall be $10.00 per ton, $10.00 per cubic yard, 4 cents per
+29 gallon, or 1/2 cent per pound, depending on the unit of measure
+TMV S01207'25 (S-1) 5v24nd
+
+12
+1 used by the owner or operator to calculate the fee. Subject to
+2 subsection (7), beginning January 1, 2026, the fee shall be $25.00
+3 per ton, $25.00 per cubic yard, 10 cents per gallon, or 1.25 cents
+4 per pound, depending on the unit of measure used by the owner or
+5 operator to calculate the fee. The fee for fractional quantities of
+6 hazardous waste shall be proportional. If the hazardous waste is
+7 required to be listed on a manifest and the owner or operator of
+8 the solidification facility determines that the hazardous waste
+9 quantity on the manifest is not accurate, the owner or operator
+10 shall correct the hazardous waste quantity on all manifest copies
+11 accompanying the shipment, note the reason for the change in the
+12 discrepancy indication space on the manifest, and assess the fee in
+13 accordance with the corrected hazardous waste quantity. Payment
+14 shall be made within 30 days after the close of each quarter. The
+15 solidification facility owner or operator shall assess off-site
+16 generators the fee. The fee for hazardous waste that is generated
+17 and solidified on the site of a solidification owner or operator
+18 shall be paid by that owner or operator.
+19 (3) The following hazardous waste is exempt from the fees
+20 provided for in this section:
+21 (a) Ash that results from the incineration of hazardous waste
+22 or the incineration of solid waste as defined in part 115.
+23 (b) Hazardous waste exempted by rule because of its character
+24 or the treatment it has received.
+25 (c) Hazardous waste that is removed as part of a site cleanup
+26 activity at the expense of this state or the federal government.
+27 (d) Solidified hazardous waste produced by a solidification
+28 facility licensed pursuant to section 11123 and destined for land
+29 disposal.
+TMV S01207'25 (S-1) 5v24nd
+
+13
+1 (e) Hazardous waste generated pursuant to a 1-time closure or
+2 site cleanup activity in this state if the closure or cleanup
+3 activity has been authorized in writing by the department.
+4 Hazardous waste resulting from the cleanup of inadvertent releases
+5 which that occur after March 30, 1988 is not exempt from the fees.
+6 (f) Primary and secondary wastewater treatment solids from a
+7 wastewater treatment plant that includes an aggressive biological
+8 treatment facility as defined in 42 USC 6925.
+9 (g) Emission control dust or sludge from the primary
+10 production of steel in electric furnaces.
+11 (4) An owner or operator of a landfill or solidification
+12 facility shall assess or pay the fee described in this section
+13 unless the generator provides a signed written certification
+14 indicating that the hazardous waste is exempt from the fee. If the
+15 hazardous waste that is exempt from the fee is required to be
+16 listed on a manifest, the certification shall contain the manifest
+17 number of the shipment and the specific fee exemption for which the
+18 hazardous waste qualifies. If the hazardous waste that is exempt
+19 from the fee is not required to be listed on a manifest, the
+20 certification shall provide the volume quantity of exempt hazardous
+21 waste, the waste code or waste codes of the exempt waste, the date
+22 of disposal or solidification, and the specific fee exemption for
+23 which the hazardous waste qualifies. The owner or operator of the
+24 landfill or solidification facility shall retain this certification
+25 for 4 years from the date of receipt.
+26 (5) The department or a health department certified pursuant
+27 to section 11145 shall evaluate the accuracy of generator fee
+28 exemption certifications and shall take enforcement action against
+29 a generator who files a false certification. In addition, the
+TMV S01207'25 (S-1) 5v24nd
+
+14
+1 department shall take enforcement action to collect fees that are
+2 not paid as required by this section.
+3 (6) The landfill owner or operator and the A landfill or
+4 solidification facility owner or operator shall forward to the
+5 department the fee revenue due under this section with a completed
+6 form that is provided or approved by the department. The owner or
+7 operator shall certify that all information provided in the form is
+8 accurate. The form shall include the following information:
+9 (a) The volume quantity of hazardous waste subject to a fee.
+10 (b) The name of each generator who was assessed a fee, the
+11 generator's identification number, manifest numbers, hazardous
+12 waste volumes, quantities, and the amount of the fee assessed.
+13 (7) A generator is eligible for a refund from this state of
+14 fees paid under this section if the generator documents to the
+15 department, on a form provided by the department, a reduction in
+16 the amount of hazardous waste generated as a result of a process
+17 change, or a reduction in the amount of hazardous waste disposed of
+18 in a landfill, either directly or following solidification at a
+19 solidification facility, as a result of a process change or the
+20 generator's increased use of source separation, input substitution,
+21 process reformulation, recycling, treatment, or an exchange of
+22 hazardous waste that results in a utilization of that hazardous
+23 waste. The refund shall be in the amount of $10.00 per ton, $10.00
+24 per cubic yard, 4 cents per gallon, or 1/2 cent per pound of
+25 reduction in the amount of hazardous waste generated or disposed of
+26 in a landfill. A generator is not eligible to receive a refund for
+27 that portion of a reduction in the amount of hazardous waste
+28 generated that is attributable to a decrease in the generator's
+29 level of production of the products that resulted in the generation
+TMV S01207'25 (S-1) 5v24nd
+
+15
+1 of the hazardous waste.
+2 (8) A generator seeking a refund under subsection (7) shall
+3 calculate the refund due by comparing hazardous waste generation,
+4 treatment, and disposal activity in the calendar year immediately
+5 preceding the date of filing with hazardous waste generation,
+6 treatment, and disposal activity in the calendar year 2 years prior
+7 to the date of filing. To be eligible for a refund, a generator
+8 shall file a request with the department by June 30 of the year
+9 following the year for which the refund is being claimed. A refund
+10 shall not exceed the total fees paid by the generator to the
+11 landfill operator or owner and the solidification facility operator
+12 or owner. A form submitted by the generator as provided for in
+13 subsection (7) shall be certified by the generator or the
+14 generator's authorized agent.
+15 (7) Beginning January 1, 2031, and every fifth year
+16 thereafter, the state treasurer shall adjust each of the current
+17 fees under this section by an amount determined by the state
+18 treasurer to reflect the cumulative percentage change in the
+19 Consumer Price Index during the most recent 5-year period for which
+20 Consumer Price Index statistics are available. As used in this
+21 subsection, "Consumer Price Index" means the most comprehensive
+22 index of consumer prices available for this state from the Bureau
+23 of Labor Statistics of the United States Department of Labor, or a
+24 successor agency.
+25 (8) (9) The department shall maintain information regarding
+26 the landfill disposal fees received and refunds provided under this
+27 section.
+28 (9) (10) The fees collected under this section shall be
+29 forwarded to the state treasurer and deposited as follows:
+TMV S01207'25 (S-1) 5v24nd
+
+16
+1 (a) 55% in the cleanup and redevelopment fund created in
+2 section 20108.
+3 (b) 20% in the city and township fund created in section
+4 11525a(6).
+5 (c) 15% in the host communities grant fund created in section
+6 11525a(7).
+7 (d) 10% percent in the materials management planning fund
+8 created in section 11525a(8). in the environmental pollution
+9 prevention fund created in section 11130. Any balance in the waste
+10 reduction fund on October 1, 2013 shall not lapse to the general
+11 fund but shall be transferred to the environmental pollution
+12 prevention fund and the waste reduction fund shall be closed. Money
+13 from the environmental pollution prevention fund shall be expended,
+14 upon appropriation, only for 1 or more of the following purposes:
+15 (a) To pay refunds to generators under this section. (b) To
+16 fund programs created under this part, part 143, part 145, or the
+17 hazardous materials transportation act, 1998 PA 138, MCL 29.471 to
+18 29.480.
+19 (c) Not more than $500,000.00 to implement section 3103a.
+20 (d) To fund the permit to install program established under
+21 section 5505.
+22 Sec. 11109. (1) The owner or operator of a landfill shall pay
+23 to the department a fee assessed on TENORM disposed of in the
+24 landfill. The fee, through December 31, 2025, is $5.00 per ton. ,
+25 Beginning January 1, 2026, the fee is $12.50 per ton. Beginning
+26 January 1, 2031, and every fifth year thereafter, the state
+27 treasurer shall adjust the current fee under this subsection by an
+28 amount determined by the state treasurer to reflect the cumulative
+29 percentage change in the Consumer Price Index during the most
+TMV S01207'25 (S-1) 5v24nd
+
+17
+1 recent 5-year period for which Consumer Price Index statistics are
+2 available. As used in this subsection, "Consumer Price Index" means
+3 the most comprehensive index of consumer prices available for this
+4 state from the Bureau of Labor Statistics of the United States
+5 Department of Labor, or a successor agency. The fee shall be based
+6 on the quantity of TENORM specified on the monthly operating
+7 report. The fee for fractional tons of TENORM shall be
+8 proportional. The fee shall be paid within 30 days after the end of
+9 each calendar year quarter.
+10 (2) The department shall take enforcement action to collect
+11 fees that are not paid as required by this section.
+12 (3) The landfill owner or operator shall forward to the
+13 department the fee revenue due under this section with a completed
+14 form that is provided or approved by the department. The owner or
+15 operator shall certify that all information provided in the form is
+16 accurate. The form shall specify the volume weight of TENORM
+17 disposed of at the landfill during the preceding calendar quarter
+18 and the amount of fee revenue being forwarded to the department.
+19 (4) The department shall maintain information regarding the
+20 fees collected under this section.
+21 (5) The TENORM account is created within the environmental
+22 pollution prevention fund created in section 11130. The department
+23 shall forward fees collected under this section to the state
+24 treasurer for deposit as follows:
+25 (a) 55% in the cleanup and redevelopment fund created in
+26 section 20108.
+27 (b) 20% in the city and township fund created in section
+28 11525a(6).
+29 (c) 15% in the host communities grant fund created in section
+TMV S01207'25 (S-1) 5v24nd
+
+18
+1 11525a(7).
+2 (d) 10% in the materials management planning fund created in
+3 section 11525a(8). in the TENORM account. The state treasurer may
+4 receive money or other assets from any other source for deposit
+5 into the account. The state treasurer shall direct the investment
+6 of the account. The state treasurer shall credit to the account
+7 interest and earnings from account investments. Money remaining in
+8 the account at the close of the fiscal year shall not lapse to the
+9 general fund.
+10 (6) Money from the TENORM account shall be expended, upon
+11 appropriation, only for 1 or more of the following purposes:
+12 (a) To pay refunds to generators under this section.
+13 (b) To fund the department's regulation and oversight of the
+14 disposal of TENORM in this state.
+15 (c) To provide grants to local units of government and
+16 landfill operators to obtain equipment to monitor TENORM radiation.
+17 Sec. 11110. (1) Not later than January 1, 1990, By 5 years
+18 after the effective date of the amendatory act that added section
+19 11122 and every 5 years thereafter, the department shall prepare an
+20 updated and adopt a comprehensive, updated state hazardous and LARM
+21 waste management plan.
+22 (2) The updated plan shall meet all of the following
+23 requirements:
+24 (a) Update the state hazardous waste management plan adopted
+25 by the commission on January 15, 1982.
+26 (a) (b) Be based upon on the location of generators, health
+27 and safety, transportation economics, of transporting, type types
+28 of waste, and existing treatment, storage, or disposal facilities.
+29 (c) Include information generated by the department of
+TMV S01207'25 (S-1) 5v24nd
+
+19
+1 commerce and the department on hazardous waste capacity needs in
+2 the state.
+3 (d) Include information provided by the office of waste
+4 reduction created in part 143.
+5 (b) (e) Plan for the availability of hazardous waste treatment
+6 or disposal facilities that have adequate capacity for the
+7 destruction, treatment, or secure disposition of all hazardous
+8 wastes that are reasonably expected to Based on information
+9 included in the plan under subdivision (f), specify a maximum
+10 licensed capacity for hazardous and LARM waste treatment, storage,
+11 or disposal facilities. The maximum capacity shall equal the amount
+12 of hazardous and LARM waste that the department determines will be
+13 generated within the in this state during the 20-year succeeding 5-
+14 year period. after October 1, 1988, as is described in section
+15 104(c)(9)(A) of title I of the comprehensive environmental
+16 response, compensation, and liability act of 1980, Public Law 96-
+17 510, 42 U.S.C. 9604.The maximum capacity shall not be changed until
+18 the next 5-year update of the plan is adopted.
+19 (c) Do all of the following:
+20 (i) Identify areas of this state that would be eligible for
+21 siting hazardous waste treatment, storage, or disposal facilities
+22 in compliance with section 11125(9).
+23 (ii) Map the eligible areas in relation to all of the
+24 following:
+25 (A) Current and projected locations of hazardous waste
+26 generation.
+27 (B) Existing transportation infrastructure.
+28 (C) Emergency response capabilities.
+29 (D) Relevant environmental and geological conditions.
+TMV S01207'25 (S-1) 5v24nd
+
+20
+1 (iii) Propose specific siting criteria that establish minimum
+2 separation distances between treatment, storage, and disposal
+3 facilities and the following:
+4 (A) Schools, child care centers, and other educational
+5 institutions.
+6 (B) Hospitals, nursing homes, and other medical facilities.
+7 (C) Residential areas and places of public assembly.
+8 (D) Surface water bodies, wetlands, and groundwater recharge
+9 areas.
+10 (E) Parks, recreation areas, and protected natural areas.
+11 (F) Agricultural lands and food processing facilities.
+12 (G) Critical infrastructure, including public water supplies.
+13 (d) (f) Plan Provide for a reasonable geographic distribution
+14 of and propose siting criteria for treatment, storage, and disposal
+15 facilities to meet existing and future needs, including proposing
+16 criteria for determining acceptable locations for these facilities.
+17 comply with section 11125(9), and prevent the concentration of
+18 facilities in communities overburdened by pollution. The siting
+19 criteria shall include a consideration of a location's geology,
+20 geography, demography, and waste generation patterns, along with
+21 environmental factors, public health factors, and other relevant
+22 characteristics as determined by the department.
+23 (e) (g) Emphasize Provide for a shift away from the practice
+24 of landfilling hazardous waste and toward to the in-plant reduction
+25 of hazardous waste and the recycling and treatment of hazardous
+26 waste.
+27 (f) (h) Include necessary all of the following:
+28 (i) An analysis of all hazardous and LARM waste streams
+29 generated in this state, including waste volumes, classifications,
+TMV S01207'25 (S-1) 5v24nd
+
+21
+1 and locations of origin.
+2 (ii) An inventory and assessment of current in-state hazardous
+3 and LARM waste management capacity using information generated by
+4 the department of environment, Great Lakes, and energy and the
+5 department of labor and economic growth.
+6 (iii) Projections of future in-state hazardous and radioactive
+7 waste generation.
+8 (iv) Recommendations for state policies and programs to
+9 minimize hazardous and LARM waste generation.
+10 (v) An evaluation of hazardous and LARM waste reduction,
+11 recycling, and treatment technologies and best practices.
+12 (vi) A study and recommendation on whether this state should
+13 seek membership in an interstate low-level radioactive waste
+14 compact.
+15 (vii) Necessary legislative, administrative, and economic
+16 mechanisms, provisions, and a timetable to carry out the updated
+17 plan.
+18 (3) The department shall instruct the office of waste
+19 reduction created in part 143 to complete conduct studies as
+20 considered necessary for the completion of to complete the updated
+21 plan. The studies may include any of the following:
+22 (a) An inventory and evaluation of the sources of hazardous
+23 and LARM waste generation within this state or from other states,
+24 including the types, quantities, and chemical and physical
+25 characteristics of the hazardous waste.
+26 (b) An inventory and evaluation of current hazardous and LARM
+27 waste management, minimization, or reduction practices and costs,
+28 including treatment, disposal, on-site recycling, reclamation, and
+29 other forms of source reduction within this state.
+TMV S01207'25 (S-1) 5v24nd
+
+22
+1 (c) A projection or determination of future hazardous and LARM
+2 waste management needs based on section 11125(8) and an evaluation
+3 of existing capacities; , treatment or disposal capabilities; ,
+4 manufacturing activity, limitations, and constraints; . Projection
+5 of needs shall consider the types, and sizes, and general locations
+6 of treatment, storage, or disposal facilities , general locations
+7 within the in this state; , and management control systems. , and
+8 an identified need for a state owned treatment, storage, or
+9 disposal facility.
+10 (d) An investigation and analysis of methods, incentives, or
+11 technologies for source reduction, reuse, recycling, or recovery of
+12 potentially hazardous and LARM waste and a strategy for encouraging
+13 the utilization or reduction of hazardous and LARM waste.
+14 (e) An investigation and analysis of methods and incentives to
+15 encourage interstate and international cooperation in the
+16 management of hazardous and LARM waste.
+17 (f) An estimate of the public and private cost of treating,
+18 storing, or disposing of hazardous and LARM waste.
+19 (g) An investigation and analysis of alternate methods for
+20 treatment and disposal of hazardous and LARM waste.
+21 (4) If the department finds in preparing the updated plan that
+22 there is a need for additional treatment or disposal facilities in
+23 the state, then the department shall identify incentives the state
+24 could offer that would encourage the construction and operation of
+25 additional treatment or disposal facilities in the state that are
+26 consistent with the updated plan. The department shall propose
+27 criteria which could be used in evaluating applicants for the
+28 incentives.
+29 (4) (5) Upon completion of the proposed updated plan, the
+TMV S01207'25 (S-1) 5v24nd
+
+23
+1 department shall post the updated plan on its publicly accessible
+2 website, publish a notice in a number of 2 or more newspapers
+3 having major circulation within the this state as determined by the
+4 department, and shall issue a statewide news release announcing the
+5 availability of the updated plan for inspection or purchase at cost
+6 by interested persons. The announcement notice and news release
+7 shall indicate where and how the updated plan may be obtained or
+8 reviewed and shall indicate that not less than 6 public hearings
+9 shall be conducted at varying locations in the this state before
+10 formal adoption. the plan is adopted. The first public hearing
+11 shall not be held until not less than 60 days have elapsed from
+12 after the date of the notice and news release announcing the
+13 availability of the updated plan. The remaining public hearings
+14 shall be held within 120 days after the first public hearing at
+15 approximately equal time intervals.
+16 (5) (6) After the public hearings, the department shall
+17 prepare a written summary of the comments received, provide
+18 comments on responses to the major concerns raised, make amendments
+19 to the proposed updated plan that the department considers
+20 advisable, and determine whether the updated plan should be
+21 adopted.adopt the proposed updated plan.
+22 Sec. 11122. (1) Until 5 years after the effective date of the
+23 amendatory act that added this section, or until the first updated
+24 state hazardous and LARM waste management plan required under
+25 section 11110 after the effective date of the amendatory act that
+26 added this section is adopted and implemented, whichever is later,
+27 the department shall not do any of the following, except as
+28 provided in subsection (2) or (3):
+29 (a) Issue an operating license for a new multisource
+TMV S01207'25 (S-1) 5v24nd
+
+24
+1 commercial hazardous waste treatment, storage, or disposal facility
+2 under section 11125.
+3 (b) Amend an operating license for an existing multisource
+4 commercial hazardous waste treatment, storage, or disposal facility
+5 in a manner that authorizes the expansion of operations, overall
+6 capacity, or the facility.
+7 (2) Subsection (1)(b) does not prohibit any of the following
+8 amendments to existing operating licenses:
+9 (a) Amendments necessary to maintain compliance with this act
+10 or rules promulgated under this act.
+11 (b) Amendments made to incorporate new requirements imposed by
+12 this act or rules promulgated under this act.
+13 (c) Amendments limited to the capacity needed to manage the
+14 amount of newly regulated wastes to be generated in this state
+15 during the succeeding 5-year period, as determined by the
+16 department based on waste generation data and projections.
+17 (3) Any capacity authorized by an amendment described in
+18 subsection (2) shall be included in calculating the total licensed
+19 capacity under section 11125(8).
+20 Sec. 11125. (1) Upon receipt of an operating license
+21 application that complies with the requirements of section
+22 11123(2), the department shall do all of the following:
+23 (a) Notify the municipality and county in which the treatment,
+24 storage, or disposal facility is located or proposed to be located;
+25 a the local soil erosion and sedimentation control agency appointed
+26 pursuant to part 91; each division within the department that has
+27 responsibility in land, air, or water management; a the regional
+28 planning agency established by executive directive of the governor;
+29 and other appropriate agencies. The notice shall describe the
+TMV S01207'25 (S-1) 5v24nd
+
+25
+1 procedure by which the license may be approved or denied.
+2 (b) Review the plans of the proposed treatment, storage, or
+3 disposal facility to determine if the proposed operation complies
+4 with this part and the rules promulgated under this part. The
+5 review shall be made within the department. The review shall
+6 include, but need not be limited to, a review of air quality, water
+7 quality, waste management, hydrogeology, and the applicant's
+8 disclosure statement. A written and signed review by each person
+9 within the department reviewing the application and plans shall
+10 must be received and filed in the department's license application
+11 records before an operating license is issued or denied by the
+12 department.
+13 (c) Integrate the relevant provisions of all permits that the
+14 applicant is required to obtain from the department to construct
+15 the proposed treatment, storage, or disposal facility into the
+16 operating license required by this part.
+17 (d) Consider the mitigation measures proposed to be
+18 implemented as identified in section 11123(2)(m).
+19 (e) Hold a public hearing not more than within 60 days. after
+20 receipt of the application.
+21 (2) The department may establish operating license conditions
+22 specifically applicable to the treatment, storage, or disposal
+23 facility and operation at that site to mitigate adverse impacts.
+24 (3) The department shall provide notice and an opportunity for
+25 a public hearing before making a final decision on an operating
+26 license application.
+27 (4) The department shall make a final decision on an operating
+28 license application within 140 days after the department receives a
+29 complete application. However, if the this state's hazardous waste
+TMV S01207'25 (S-1) 5v24nd
+
+26
+1 management program is authorized by the United States environmental
+2 protection agency under section 3006 of subtitle C of the solid
+3 waste disposal act, 42 USC 6926, the department may extend the
+4 deadline beyond the limitation provided in this section in order to
+5 fulfill the public participation requirements of the solid waste
+6 disposal act. The operating license may contain stipulations
+7 specifically applicable to the site and operation.
+8 (5) A local ordinance, permit, or other requirement shall not
+9 prohibit the operation of a licensed treatment, storage, or
+10 disposal facility.
+11 (6) If any information required to be included in the
+12 disclosure statement required under section 11123 changes or is
+13 supplemented after the filing of the statement, the applicant or
+14 licensee shall provide that information to the department in
+15 writing within 30 days after the change or addition.
+16 (7) The department may deny an operating license application
+17 submitted pursuant to section 11123 if any information described in
+18 section 11123(2)(k)(ii) to (iv) was not disclosed as required in
+19 section 11123(2) or this section.
+20 (8) After the moratorium under section 11122 ends, the
+21 department shall not issue an operating license for a new
+22 multisource commercial hazardous waste treatment, storage, or
+23 disposal facility or the expansion of an existing facility if doing
+24 so would cause the total licensed capacity to exceed 1/5 of the
+25 limit established in the current state hazardous and LARM waste
+26 management plan under section 11110(2)(b). For the purposes of this
+27 subsection, "total licensed capacity" means the maximum amount of
+28 waste that all treatment, storage, or disposal facilities in this
+29 state are authorized to manage annually under their current
+TMV S01207'25 (S-1) 5v24nd
+
+27
+1 operating licenses.
+2 (9) Subject to subsection (10), the department shall not issue
+3 a license or approval to establish or expand a multisource
+4 commercial hazardous waste treatment, storage, or disposal
+5 facility, including, but not limited to, a class I well, if any of
+6 the following apply:
+7 (a) The new facility or expansion is proposed to be located in
+8 a city, village, township, or county where any of the following
+9 apply:
+10 (i) Another multisource hazardous waste treatment, storage, or
+11 disposal facility, class I well, or class IV well is currently
+12 operating.
+13 (ii) Another multisource hazardous waste treatment, storage, or
+14 disposal facility, class I well, or class IV well has operated
+15 within the past 25 years, unless all of the following requirements
+16 are met:
+17 (A) The owner or operator of the facility or well described in
+18 this subparagraph completes closure and postclosure care in
+19 accordance with all applicable state and federal requirements.
+20 (B) The department certifies completion of all corrective
+21 action requirements.
+22 (C) The department determines, after conducting a cumulative
+23 impact analysis, that siting a new facility or expanding an
+24 existing facility in the area would not disproportionately affect
+25 overburdened communities or populations.
+26 (b) The new facility or expansion is proposed to be located
+27 within 50 miles of a currently operating treatment, storage, or
+28 disposal facility, class I well, or class IV well that manages
+29 hazardous waste generated by a person other than the owner or
+TMV S01207'25 (S-1) 5v24nd
+
+28
+1 operator or its subsidiaries.
+2 (c) Any of the following apply to a census tract within a 3-
+3 mile radius of the facility's proposed location:
+4 (i) The population density exceeds the state average population
+5 density by 50% or more, based on the most recent census data.
+6 (ii) The percentage of population in households where the
+7 household income is less than or equal to twice the federal poverty
+8 level equals or exceeds the eightieth percentile for census tracts
+9 in this state.
+10 (iii) The overall score, as measured by MiEJScreen or its
+11 equivalent, for any census tract within a 3-mile radius meets or
+12 exceeds the eightieth percentile of census tracts in this state.
+13 (10) Subsection (9) does not apply to the establishment or
+14 expansion of a captive nonhazardous waste disposal well.
+15 (11) (8) The department shall provide notice of the final
+16 decision on an operating license application to persons on the
+17 organized mailing list for the facility.
+18 (12) (9) Following the construction of a new, expanded,
+19 enlarged, or altered treatment, storage, or disposal facility, the
+20 department shall review all information required to be submitted by
+21 the operating license to be submitted to the department. If the
+22 department finds that the owner or operator has deviated from the
+23 specific conditions established in the operating license, the
+24 department shall determine if cause exists for modification or
+25 revocation of the operating license, in accordance with provisions
+26 established by rule. At a minimum, the postconstruction
+27 documentation information shall include all of the following:
+28 (a) Updated disclosure information or a certification as
+29 described in section 11123(2)(n)(i).
+TMV S01207'25 (S-1) 5v24nd
+
+29
+1 (b) A certification of construction as described in section
+2 11123(2)(n)(ii). The department shall require additional
+3 certification periodically during the operation or in order to
+4 verify proper closure of the site.
+5 (c) A certification of capability signed and sealed by a
+6 licensed professional engineer as described in section
+7 11123(2)(n)(iii).
+8 (d) Information regarding any deviations from the specific
+9 conditions in the operating license.
+10 (e) Proof of financial responsibility for which this state is
+11 the sole beneficiary and that is any of the following:
+12 (i) A surety bond issued by an authorized insurer whose
+13 certificate of authority is in good standing.
+14 (ii) A cash account.
+15 (iii) An automatically annually renewing certificate of deposit.
+16 Sec. 11132. (1) Except as otherwise provided in this section,
+17 a A person shall not deliver to a landfill in this state for
+18 disposal and the owner or operator of a landfill shall not permit
+19 disposal in the landfill of any of the following:
+20 (a) TENORM with any of the following:
+21 (i) (a) A concentration of radium-226 more than 50 picocuries
+22 per gram.
+23 (ii) (b) A concentration of radium-228 more than 50 picocuries
+24 per gram.
+25 (iii) (c) A concentration of lead-210 more than 260 picocuries
+26 per gram.
+27 (b) Waste with concentrations greater than 260 picocuries per
+28 gram for potassium-40 or greater than 25 picocuries per gram for
+29 any other single radionuclide.
+TMV S01207'25 (S-1) 5v24nd
+
+30
+1 (2) Except as otherwise specified in the landfill operating
+2 license, the owner or operator of a landfill shall not permit a
+3 delivery of TENORM for disposal at the landfill unless the
+4 generator has provided the following information in writing to the
+5 owner or operator of the landfill:
+6 (a) The concentrations of radium-226, radium-228, lead-210,
+7 and any other radionuclide identified using gamma spectroscopy, or
+8 an equivalent analytical method, in the TENORM based on techniques
+9 for representative sampling and waste characterization approved by
+10 the department.
+11 (b) An estimate of the total mass of the TENORM.
+12 (c) An estimate of the total radium-226 activity, the total
+13 radium-228 activity, and the total lead-210 activity of the TENORM.
+14 (d) The proposed date of delivery.
+15 (3) The department may test TENORM proposed to be delivered to
+16 a landfill.
+17 (4) If requested by the owner or operator of a landfill in an
+18 application for the renewal of or a major modification to an
+19 operating license, If, before the effective date of the amendatory
+20 act that added section 11122, the department may authorize with
+21 conditions and limits authorized in the an operating license the
+22 disposal of TENORM with concentrations of radium-226 more than 50
+23 picocuries per gram, radium-228 more than 50 picocuries per gram,
+24 or lead-210 more than 260 picocuries per gram, or any combination
+25 thereof, but not more than 500 picocuries per gram for each
+26 radionuclide, . An the operating license under this part with such
+27 an authorization constitutes a license from the this state's
+28 radiation control authority under part 135 of the public health
+29 code, 1978 PA 368, MCL 333.13501 to 333.13537, to possess the
+TMV S01207'25 (S-1) 5v24nd
+
+31
+1 TENORM if the conditions and procedures for issuance of the
+2 operating license under this part are were sufficient to satisfy
+3 the licensing requirements of part 135 of the public health code,
+4 1978 PA 368, MCL 333.13501 to 333.13537. The disposal of TENORM
+5 described in this subsection after the effective date of the
+6 amendatory act that added section 11122 is prohibited.
+7 (5) A request under subsection (4) shall include all of the
+8 following:
+9 (a) A radiation safety program that addresses all of the
+10 following:
+11 (i) Personnel radiation protection.
+12 (ii) Worker training.
+13 (iii) Radiation surveys.
+14 (iv) Radiation instrument calibration.
+15 (v) Receipt and disposal of radioactive material.
+16 (vi) Emergency procedures.
+17 (vii) Record keeping.
+18 (b) A report evaluating the risks of exposure to residual
+19 radioactivity through all relevant pathways using a generally
+20 accepted industry model such as the Argonne National Laboratory
+21 RESRAD family of codes or, if approved by the department, another
+22 model. The report shall evaluate potential radiation doses to site
+23 workers and members of the public during site operation and after
+24 site closure. The report shall use reasonable scenarios to evaluate
+25 the dose to members of the public.
+26 (c) A description of any steps necessary to ensure the annual
+27 dose to members of the public during landfill operation and after
+28 site closure will be less than 25 millirem.
+29 (d) A description of an environmental monitoring program under
+TMV S01207'25 (S-1) 5v24nd
+
+32
+1 subsection (6).
+2 (5) (6) If TENORM is disposed at a landfill, the operator of
+3 the landfill shall conduct a monitoring program that complies with
+4 all of the following:
+5 (a) Radiological monitoring of site workers and at the
+6 landfill property boundary are conducted as specified in the
+7 license.
+8 (b) Radium-226, radium-228, and lead-210 are included among
+9 the parameters analyzed in leachate and groundwater at the
+10 frequency specified in the license.
+11 (c) Penetrating radiation, radioactivity in air, and radon in
+12 air are measured as specified in the operating license if the
+13 landfill is was used to dispose of TENORM with a concentration of
+14 radium-226 more than 50 picocuries per gram, radium-228 more than
+15 50 picocuries per gram, or lead-210 more than 260 picocuries per
+16 gram.
+17 (d) Results of all monitoring required under this subsection
+18 are included in the environmental monitoring reports required under
+19 rules promulgated under this part and the facility operating
+20 license.
+21 (6) (7) The owner or operator of a landfill shall submit to
+22 the department by March 15 each year a report that summarizes the
+23 information obtained under subsection (2) for all TENORM disposed
+24 at the landfill during the previous calendar year.
+25 (7) (8) The owner or operator of a landfill shall do both of
+26 the following:
+27 (a) Ensure that all TENORM is deposited at least 10 feet below
+28 the bottom of the future landfill cap.
+29 (b) Maintain records of the location and elevation of TENORM
+TMV S01207'25 (S-1) 5v24nd
+
+33
+1 disposed of at the landfill.
+2 (8) A person shall not mix TENORM with any material for the
+3 purposes of reducing the concentration of radium-226, radium-228,
+4 or lead-210, if the regulation of the resulting material under this
+5 part or part 115 is affected. A person shall not store or dispose
+6 of the resulting material except in compliance with the provisions
+7 of this part or part 115 applicable to the TENORM before the mixing
+8 occurred.
+9 (9) This part does not apply to materials or activities listed
+10 in section 1(2) of 1978 PA 113, MCL 325.491.
+11 Sec. 11514b. (1) A person shall not deliver to a type II
+12 landfill in this state for disposal and the owner or operator of a
+13 type II landfill shall not permit disposal in the landfill of
+14 technologically any of the following:
+15 (a) enhanced naturally occurring radioactive material TENORM
+16 with any of the following:
+17 (i) (a) A concentration of radium-226 more than 50 picocuries
+18 per gram.
+19 (ii) (b) A concentration of radium-228 more than 50 picocuries
+20 per gram.
+21 (iii) (c) A concentration of lead-210 more than 260 picocuries
+22 per gram.
+23 (b) Waste with concentrations greater than 260 picocuries per
+24 gram for potassium-40 or greater than 50 picocuries per gram for
+25 any other single radionuclide.
+26 (2) The owner or operator of a type II landfill shall not
+27 permit a delivery of TENORM for disposal at the landfill unless the
+28 generator has provided the following information in writing to the
+29 owner or operator of the landfill:
+TMV S01207'25 (S-1) 5v24nd
+
+34
+1 (a) The concentrations of radium-226, radium-228, lead-210,
+2 and any other radionuclide identified using gamma spectroscopy, or
+3 an equivalent analytical method, in the TENORM based on techniques
+4 for representative sampling and waste characterization approved by
+5 the department.
+6 (b) An estimate of the total mass of the TENORM.
+7 (c) An estimate of the total radium-226 activity, the total
+8 radium-228 activity, and the total lead-210 activity of the TENORM.
+9 (d) The proposed date of delivery.
+10 (3) The department may test TENORM proposed to be delivered to
+11 a landfill.
+12 (4) Within 45 days after the end of each state fiscal year,
+13 the owner or operator of a type II landfill shall submit to the
+14 department an annual a report that summarizes the information
+15 obtained under subsection (2) for all TENORM disposed at the
+16 landfill during the previous state fiscal year.
+17 (5) The owner or operator of a type II landfill that disposes
+18 of TENORM with a concentration of radium-226 more than 25
+19 picocuries per gram, a concentration of radium-228 more than 25
+20 picocuries per gram, or a concentration of lead-210 more than 25
+21 picocuries per gram shall do all of the following:
+22 (a) Ensure that all TENORM is deposited at least 10 feet below
+23 the bottom of the future landfill cap.
+24 (b) Maintain records of the location and elevation of TENORM
+25 disposed of at the landfill.
+26 (c) Conduct a monitoring program that complies with all of the
+27 following:
+28 (i) Radiological monitoring of site workers and at the landfill
+29 property boundary are conducted as specified in the license.
+TMV S01207'25 (S-1) 5v24nd
+
+35
+1 (ii) Radium-226, radium-228, and lead-210 are included among
+2 the parameters analyzed in leachate and groundwater at the
+3 frequency specified in the license.
+4 (iii) Results of all monitoring required under this subsection
+5 are included in the environmental monitoring reports required under
+6 rules promulgated under this part and the facility operating
+7 license.
+8 (6) This part does not apply to materials or activities listed
+9 in section 1(2) of 1978 PA 113, MCL 325.491.
+10 (7) (6) As used in this section, "technologically enhanced
+11 naturally occurring radioactive material" or "TENORM" means
+12 naturally occurring radioactive material whose radionuclide
+13 concentrations have been increased as a result of human practices.
+14 TENORM does not include any of the following:
+15 (a) Source material, as defined in section 11 of the atomic
+16 energy act of 1954, 42 USC 2014, and its progeny in equilibrium.
+17 (b) Material material with concentrations of radium-226,
+18 radium-228, and lead-210 each less than 5 picocuries per gram.
+19 Sec. 11525a. (1) The Subject to subsection (2), the owner or
+20 operator of a landfill or coal ash impoundment shall pay a
+21 surcharge as follows:
+22 (a) Except as provided in subdivision (b), for a landfill or
+23 coal ash impoundment that is not a captive facility, 36 cents $1.20
+24 for each ton or portion of a ton of solid waste or municipal solid
+25 waste incinerator ash that is disposed of in the landfill or coal
+26 ash impoundment. before October 1, 2027.
+27 (b) For a landfill or coal ash impoundment that is not a
+28 captive facility, 12 cents per for each ton or portion of a ton of
+29 foundry sand, slag from metal melting, baghouse dust, furnace
+TMV S01207'25 (S-1) 5v24nd
+
+36
+1 refractory brick, pulp and paper mill material, paper mill ash,
+2 wood ash, coal bottom ash, mixed wood ash, fly ash, flue gas
+3 desulfurization sludge, contaminated soil, cement kiln dust, lime
+4 kiln dust, and other industrial waste that weighs at least 1 ton
+5 per cubic yard, as determined by the generator.
+6 (c) For a type III landfill or coal ash impoundment that is a
+7 captive facility and annually receives the following amount of
+8 waste, the following annual corresponding surcharge for each state
+9 fiscal year, based on the amount of waste received during that
+10 fiscal year:
+11 (i) 100,000 or more tons of waste, $3,000.00.
+12 (ii) 75,000 or more but less than 100,000 tons of waste,
+13 $2,500.00.
+14 (iii) 50,000 or more but less than 75,000 tons of waste,
+15 $2,000.00.
+16 (iv) 25,000 or more but less than 50,000 tons of waste,
+17 $1,000.00.
+18 (v) Less than 25,000 tons of waste, $500.00.
+19 (2) Effective October 1, 2030, and every fifth year
+20 thereafter, the department may increase the surcharges specified in
+21 subsection (1) and the funding for the solid waste staff account
+22 specified in subsection (5)(a) by amounts determined by multiplying
+23 those amounts by the inflation adjustment factor. The department
+24 shall round the surcharges to the nearest whole cent and the
+25 funding to the nearest $100.00. The inflation adjustment factor
+26 equals the 3-year average July-June Consumer Price Index for the
+27 period ending during the immediately preceding state fiscal year
+28 divided by the 3-year average July-June Consumer Price Index for
+29 the period ending on June 30, 2030, as determined by the department
+TMV S01207'25 (S-1) 5v24nd
+
+37
+1 of treasury using the Detroit-Warren-Dearborn Consumer Price Index.
+2 However, the inflation adjustment factor must not be less than
+3 1.00.
+4 (3) (2) Within 30 days after the end of each quarter of a
+5 state fiscal year, the owner or operator of a landfill or coal ash
+6 impoundment that is not a captive facility shall pay the surcharge
+7 under subsection (1)(a) or (b) for waste received during that
+8 quarter of the state fiscal year. Within 30 days after the end of a
+9 state fiscal year, the owner or operator of a type III landfill or
+10 coal ash impoundment that is a captive facility shall pay the
+11 surcharge under subsection (1)(b) (1)(c) for waste received during
+12 that state fiscal year.
+13 (4) (3) If the owner or operator of a landfill or coal ash
+14 impoundment is required to pay the surcharge under subsection (1),
+15 the owner or operator shall pass through and collect the surcharge
+16 from any person that generated the solid waste or arranged for its
+17 delivery to the hauler or solid waste processing and transfer
+18 facility, notwithstanding the provisions of any agreement to the
+19 contrary or the absence of any agreement.
+20 (5) (4) Surcharges collected under this section before the
+21 effective date of the amendatory act that added subsection (6) must
+22 be forwarded to the state treasurer for deposit in the solid waste
+23 staff account of the solid waste management fund. Surcharges
+24 collected under this section on or after the effective date of the
+25 amendatory act that added subsection (6) must be forwarded to the
+26 state treasurer for deposit as follows:
+27 (a) The first $12,000,000.00 each state fiscal year in the
+28 solid waste staff account of the solid waste management fund.
+29 (b) The balance each state fiscal year as follows:
+TMV S01207'25 (S-1) 5v24nd
+
+38
+1 (i) 55% in the cleanup and redevelopment fund created in
+2 section 20108.
+3 (ii) 20% in the city and township fund created in subsection
+4 (6).
+5 (iii) 15% in the host communities grant fund created in
+6 subsection (7).
+7 (iv) 10% in the materials management planning fund created in
+8 subsection (8).
+9 (6) The city and township fund is created in the state
+10 treasury. The state treasurer shall deposit money and other assets
+11 received under subsection (5)(b)(ii), section 11108(9)(b), section
+12 11109(5)(b), or from any other lawful source in the fund. The state
+13 treasurer shall direct the investment of money in the fund and
+14 credit interest and earnings from the investments to the fund. The
+15 department is the administrator of the fund for audits of the fund.
+16 Money in the fund at the close of the fiscal year shall remain in
+17 the fund and not lapse to the general fund. At the end of each
+18 state fiscal year, the department shall promptly distribute the
+19 balance of the fund as grants to all the cities and townships in
+20 this state. The amount of each grant shall be proportional to the
+21 population of the city or township.
+22 (7) The host communities grant fund is created in the state
+23 treasury. The state treasurer shall deposit money and other assets
+24 received under subsection (5)(b)(iii), section 11108(9)(c), section
+25 11109(5)(c), or from any other lawful source in the fund. The state
+26 treasurer shall direct the investment of money in the fund and
+27 credit interest and earnings from the investments to the fund. The
+28 department is the administrator of the fund for audits of the fund.
+29 Money in the fund at the close of the fiscal year shall remain in
+TMV S01207'25 (S-1) 5v24nd
+
+39
+1 the fund and not lapse to the general fund. The department shall
+2 expend money from the fund, on appropriation, only for annual
+3 grants to cities and townships that are the sites of landfills and
+4 coal ash impoundments that pay surcharges under this section or
+5 fees under section 11108 or 11109. To obtain a grant, a city or
+6 township must file an application with the department during the
+7 period of November 1 through December 1. The application shall be
+8 filed on a form and in a medium provided or approved by the
+9 department. The department shall award grants by March 1 to cities
+10 and townships that timely submitted a complete application. Each
+11 grant shall be equal to the amount of surcharges deposited in the
+12 host communities grant fund during the prior state fiscal year from
+13 landfills and coal ash impoundments located in the geographical
+14 jurisdiction of the respective grant recipient and a proportionate
+15 share of money in the fund other than revenue deposited under
+16 subsection (5)(b)(iii), section 11108(9)(c), or section 11109(5)(c).
+17 (8) The materials management planning fund is created in the
+18 state treasury. The state treasurer shall deposit money and other
+19 assets received under subsection (5)(b)(iv), section 11108(9)(d),
+20 section 11109(5)(d) or from any other lawful source in the fund.
+21 The state treasurer shall direct the investment of money in the
+22 fund and credit interest and earnings from the investments to the
+23 fund. The department is the administrator of the fund for audits of
+24 the fund. Money in the fund at the close of the fiscal year shall
+25 remain in the fund and not lapse to the general fund. The
+26 department shall expend money from the fund, on appropriation, only
+27 for grants for materials management planning, including grants to
+28 counties, regional planning agencies, municipalities, and other
+29 entities responsible for preparing, implementing, and maintaining
+TMV S01207'25 (S-1) 5v24nd
+
+40
+1 materials management plans.
+2 (9) As used in this section, "Consumer Price Index" means the
+3 most comprehensive index of consumer prices available for the
+4 Detroit-Warren-Dearborn area from the Bureau of Labor Statistics of
+5 the United States Department of Labor.
+6 Sec. 62501. As used in this part:
+7 (a) "Artificial brine" means mineralized water formed by
+8 dissolving rock salt or other readily soluble rocks or minerals.
+9 (b) "Brine well" means a well drilled or converted for the
+10 purpose of producing natural or artificial brine.
+11 (c) "Class I hazardous waste well" means a class I well
+12 described in subdivision (e)(i).
+13 (d) "Class I nonhazardous well" means a class I well described
+14 in subdivision (e)(ii) or (iii).
+15 (e) "Class I well" means any of the following:
+16 (i) A well that is used by a generator of hazardous waste or
+17 the owner or operator of a hazardous waste management facility to
+18 inject hazardous waste beneath the lowermost formation that
+19 contains all or part of an underground source of drinking water
+20 within 1/4 mile of the well bore.
+21 (ii) An industrial and municipal disposal well that injects
+22 fluids beneath the lowermost formation that contains all or part of
+23 an underground source of drinking water within 1/4 mile of the well
+24 bore.
+25 (iii) A radioactive waste disposal well that injects fluids
+26 below the lowermost formation that contains all or part of an
+27 underground source of drinking water within 1/4 mile of the well
+28 bore.
+29 (f) "Class III well" means a well that is used for the
+TMV S01207'25 (S-1) 5v24nd
+
+41
+1 extraction of minerals including, but not limited to, the
+2 following:
+3 (i) Mining of sulfur by the Frasch process.
+4 (ii) In situ production of uranium or other metals, not
+5 including solution mining of conventional mines.
+6 (iii) Solution mining of salts or potash.
+7 (g) "Class IV well" means any of the following:
+8 (i) A well that is used by a generator of hazardous waste or
+9 radioactive waste, by the owner or operator of a hazardous waste
+10 management facility, or by the owner or operator of a radioactive
+11 waste disposal site to dispose of hazardous waste or radioactive
+12 waste into a formation that contains all or part of an underground
+13 source of drinking water within 1/4 mile of the well bore.
+14 (ii) A well that is used by a generator of hazardous waste or
+15 radioactive waste, by the owner or operator of a hazardous waste
+16 management facility, or by the owner or operator of a radioactive
+17 waste disposal site to dispose of hazardous waste or radioactive
+18 waste above a formation that contains all or part of an underground
+19 source of drinking water within 1/4 mile of the well bore.
+20 (iii) A well that is used by a generator of hazardous waste or
+21 the owner or operators of a hazardous waste management facility to
+22 dispose of hazardous waste and that is not described by 40 CFR
+23 146.5(a)(1) or 146.5(d)(1).
+24 (h) (c) "Department" means the department of environmental
+25 quality.environment, Great Lakes, and energy.
+26 (i) (d) "Disposal well" means a well drilled or converted for
+27 subsurface disposal of waste products or processed brine and its
+28 related surface facilities.
+29 (j) (e) "Exploratory purposes" means test well drilling for
+TMV S01207'25 (S-1) 5v24nd
+
+42
+1 the specific purpose of discovering or outlining an orebody or
+2 mineable mineral resource.
+3 (k) (f) "Fund" means the mineral well regulatory fund created
+4 in section 62509b.
+5 (l) (g) "Mineral well" means any well subject to this part.
+6 (m) (h) "Natural brine" means naturally occurring mineralized
+7 water other than potable or fresh water.
+8 (n) (i) "Operator" means the person , whether owner or not,
+9 supervising or responsible for the drilling, operating, repairing,
+10 abandoning, or plugging of wells a well subject to this part,
+11 whether or not that person is the owner.
+12 (o) (j) "Owner" means the person who has the right to drill,
+13 convert, or operate any well subject to this part.
+14 (p) (k) "Pollution" means damage or injury from the loss,
+15 escape, or unapproved disposal of any substance at any well subject
+16 to this part.
+17 (q) (l) "Storage well" means a well drilled into a subsurface
+18 formation to develop an underground storage cavity for subsequent
+19 use in storage operations. Storage well does not include a storage
+20 well drilled pursuant to part 615.
+21 (r) (m) "Supervisor of mineral wells" means the state
+22 geologist.
+23 (s) (n) "Surface waste" means damage to, injury to, or
+24 destruction of surface waters, soils, water, of soil, of animal,
+25 fish, and or aquatic life, or of surface property from unnecessary
+26 seepage or loss incidental to or resulting from drilling,
+27 equipping, or operating a well or wells subject to this part.
+28 (t) (o) "Test well" means a well, core hole, core test,
+29 observation well, or other well drilled from the surface to
+TMV S01207'25 (S-1) 5v24nd
+
+43
+1 determine the presence of a mineral, mineral resource, ore, or rock
+2 unit, or to obtain geological or geophysical information or other
+3 subsurface data related to mineral exploration and extraction. Test
+4 well does not include holes drilled in the operation of a quarry,
+5 open pit, or underground mine, or any wells not related to mineral
+6 exploration or extraction.
+7 (u) (p) "Underground storage cavity" means a cavity formed by
+8 dissolving rock salt or other readily soluble rock or mineral, by
+9 nuclear explosion, or by any other method for the purpose of
+10 storage or disposal.
+11 (v) (q) "Underground waste" means damage or injury to potable
+12 water, mineralized water, or other subsurface resources incidental
+13 to or resulting from drilling, equipping, or operating a well
+14 subject to this part.
+15 (w) (r) "Waste product" means waste or by-product resulting
+16 from municipal or industrial operations or waste from any trade,
+17 manufacture, business, or private pursuit that could cause
+18 pollution and for which underground disposal may be feasible or
+19 practical.
+20 Sec. 62508b. (1) Subject to subsection (2), the construction,
+21 expansion, or installation of either of the following is
+22 prohibited:
+23 (a) A new or converted multisource commercial hazardous waste
+24 disposal well.
+25 (b) A new or converted class IV well.
+26 (2) Subsection (1) does not apply to a class IV well that
+27 either 40 CFR 144.13(c) provides is not prohibited by 40 CFR 144.13
+28 or that 40 CFR 144.23(c) provides is authorized by rule.
+29 (3) Subsection (1) does not prohibit any of the following:
+TMV S01207'25 (S-1) 5v24nd
+
+44
+1 (a) Maintenance, repair, or like-for-like replacement of
+2 equipment necessary for the safe operation of an existing well,
+3 including, but not limited to, necessary workover and repairs of
+4 the well bore and injection equipment such as pumps, pressure
+5 monitoring equipment, and facility piping.
+6 (b) Subject to subsections (4) and (5), an equipment change at
+7 an existing well that demonstrably reduces the amount of hazardous
+8 or radioactive materials stored or emitted due to improved
+9 treatment methods or technologies, if the change does not increase
+10 the well's overall capacity or extend its operational lifespan.
+11 (c) Subject to subsections (4) and (5), an expansion of an
+12 existing well site.
+13 (4) A proposed change under subsection (3)(b) or (c) must be
+14 approved by the department. The well operator shall submit to the
+15 department documentation demonstrating how the proposed change will
+16 meet the requirements of subsection (3)(b) or (c). The department
+17 shall make the documentation publicly available and provide for a
+18 public comment period of not less than 60 days before deciding to
+19 approve or reject the proposed change.
+20 (5) In reviewing proposals under subsection (4), the
+21 department shall prioritize changes that provide the greatest
+22 reduction in risk to public health and the environment. The
+23 department shall not approve any changes that could result in
+24 increased exposure or risk to overburdened communities.
+25 Sec. 62509. (1) A person shall not drill or begin the drilling
+26 of any brine, storage, or waste disposal well, or convert any well
+27 for these uses, and except as authorized by a permit issued by the
+28 supervisor of mineral wells pursuant to part 13 and rules
+29 promulgated by the supervisor of mineral wells, and unless the
+TMV S01207'25 (S-1) 5v24nd
+
+45
+1 person files with the supervisor of mineral wells an approved
+2 surety or security bond. The application shall be accompanied by a
+3 survey of the well site. The department shall conduct an
+4 investigation and inspection before the supervisor of mineral wells
+5 issues a permit. A permit shall not be issued to any an owner or
+6 his or her the owner's authorized representative who if either
+7 person does not comply with the rules of the supervisor of mineral
+8 wells or who is in violation of this part or any rule of the
+9 supervisor of mineral wells. Upon submission to the supervisor of
+10 mineral wells of appropriate evidence of the completion of the
+11 drilling or converting conversion of a well for storage or waste
+12 disposal and after necessary of testing by the owner to determine
+13 that indicates the well can be used for these purposes and in a
+14 manner that will not cause surface or underground waste, the
+15 supervisor of mineral wells , upon receipt of appropriate evidence,
+16 shall approve and regulate the use of the well for storage or waste
+17 disposal. These operations shall be conducted pursuant to part 31.
+18 The supervisor of mineral wells may schedule a public hearing to
+19 consider the need or advisability of permitting the drilling or
+20 operating operation of a storage or waste disposal well, or
+21 converting the conversion of a well for these uses, if the public
+22 safety or other interests are involved.
+23 (2) A person shall not drill a test well 50 feet or greater in
+24 depth into the bedrock or below the deepest freshwater strata,
+25 except as provided in section 62508(c), except as unless the
+26 drilling is authorized by a permit issued by the supervisor of
+27 mineral wells pursuant to part 13 and rules promulgated by the
+28 supervisor of mineral wells , and unless the person files with the
+29 supervisor of mineral wells an approved surety or security bond.
+TMV S01207'25 (S-1) 5v24nd
+
+46
+1 The application shall be accompanied by the fee provided in
+2 subsection (6). The department shall conduct an investigation and
+3 inspection before the supervisor of mineral wells issues a permit.
+4 A permit shall not be issued to any an owner or his or her the
+5 owner's authorized representative who if either person does not
+6 comply with the rules of the supervisor of mineral wells or who is
+7 in violation of this part or any rule of the supervisor of mineral
+8 wells. A test well that penetrates below the deepest freshwater
+9 stratum or is greater than 250 feet in depth is subject to an
+10 individual test well permit. A test well that does not penetrate
+11 below the deepest freshwater stratum and is 250 feet or less in
+12 depth is subject to a blanket test well permit. The supervisor of
+13 mineral wells may allow a blanket test well permit for wells deeper
+14 than 250 feet if the applicant so requests and provides the
+15 supervisor of mineral wells with geological data demonstrating that
+16 the test well will remain within the freshwater stratum. This
+17 subsection does not apply to a test well regulated under part 111
+18 or part 115, or a water well regulated under part 127 of the public
+19 health code, 1978 PA 368, MCL 333.12701 to 333.12771.
+20 (3) A permit is not required to drill a test well in those
+21 areas of the this state where rocks of Precambrian age directly
+22 underlie unconsolidated surface deposits or in those areas that
+23 have been designated pursuant to section 62508(c). However, within
+24 at least 30 days before drilling the well, the owner shall provide
+25 notice to the supervisor of mineral wells on a form provided by the
+26 supervisor of mineral wells. The form shall be accompanied by a
+27 $500.00 fee and an approved surety or security bond. The form shall
+28 include the location of proposed test wells, including a map,
+29 measures to be taken to prevent soil erosion, a description of
+TMV S01207'25 (S-1) 5v24nd
+
+47
+1 casing, and sealing and plugging procedures. Within 2 years after
+2 completion of the drilling of the well, the owner shall advise the
+3 supervisor of mineral wells of the location of the well and file
+4 with the supervisor of mineral wells the log required under section
+5 62508(d). The provisions of this part pertaining to the prevention
+6 and correction of surface and underground waste have the same
+7 application from other wells regulated under this part apply to
+8 these test wells as to other wells defined in this part.as
+9 described in this subsection.
+10 (4) Upon request, the supervisor of mineral wells may issue to
+11 a qualified persons person a blanket permit to drill within a
+12 county test wells which that will not penetrate below the deepest
+13 freshwater stratum and are 250 feet or less in depth.
+14 (5) All information and records pertaining to the application
+15 for and issuance of permits for wells subject to this part shall be
+16 held confidential in the same manner as provided for logs and
+17 reports on these wells. However, the supervisor of mineral wells
+18 may share basic information such as the well type, location, and
+19 applicant name.
+20 (6) A permit application submitted under this section shall be
+21 accompanied by the following permit application fee:
+22 (a) Disposal well for disposal of waste
+23 products other than processed brine $ 2,500.00.
+24 (b) Disposal well for disposal of
+25 processed brine $ 500.00.
+26 (c) Storage well $ 500.00.
+27 (d) Natural brine production well $ 500.00.
+28 (e) Artificial brine production well $ 500.00.
+29 (f) Individual test well under
+TMV S01207'25 (S-1) 5v24nd
+
+48
+1 subsection (2) $ 500.00.
+2 (g) Blanket permit for test wells drilled pursuant to
+3 subsection (4):
+4 (i) 1 to 24 wells $ 75.00.
+5 (ii) 25 to 49 wells $ 150.00.
+6 (iii) 50 to 75 wells $ 300.00.
+7 (iv) 75 to 200 wells $ 600.00.
+8 (7) The supervisor of mineral wells shall deposit all permit
+9 application fees collected under this section into the fund.
+10 Sec. 62509d. (1) Within 2 years after the effective date of
+11 the amendatory act that added this section and annually thereafter,
+12 an operator of a class I well or a class III well shall, for each
+13 well, file proof of financial responsibility, as described in
+14 subsections (2) and (4), for which this state is the sole
+15 beneficiary.
+16 (2) The financial responsibility under subsection (1) shall be
+17 a surety bond issued by an authorized insurer whose certificate of
+18 authority is in good standing, a cash account, or an automatically
+19 annually renewing certificate of deposit. The surety bond, cash
+20 account, or certificate of deposit shall comply, and shall be
+21 interpreted to comply, with all of the following, as applicable:
+22 (a) The amount meets both of the following requirements:
+23 (i) Is at least the following:
+24 (A) For a class I multisource commercial hazardous waste well,
+25 $500,000.00 or the amount sufficient to cover the costs of well
+26 plugging and reclamation based on a third-party engineering
+27 estimate, whichever is greater.
+28 (B) For a class I multisource commercial nonhazardous well,
+29 $250,000.00 or the amount sufficient to cover the costs of well
+TMV S01207'25 (S-1) 5v24nd
+
+49
+1 plugging and reclamation based on a third-party engineering
+2 estimate, whichever is greater.
+3 (C) For a class I captive hazardous waste well, $300,000.00 or
+4 the amount sufficient to cover the costs of well plugging and
+5 reclamation based on a third-party engineering estimate, whichever
+6 is greater.
+7 (D) For a class I captive nonhazardous waste well, $150,000.00
+8 or the amount sufficient to cover the costs of well plugging and
+9 reclamation based on a third-party engineering estimate, whichever
+10 is greater.
+11 (E) For multiple class I nonhazardous wells, not to exceed 4
+12 wells, $500,000.00 for a blanket bond.
+13 (F) For a class III well, $100,000.00.
+14 (G) For multiple class III wells, not to exceed 20 wells,
+15 $1,000,000.00 for a blanket bond.
+16 (ii) Is sufficient to cover the costs of well plugging and
+17 reclamation, as determined by the department based on engineering,
+18 geotechnical, environmental, or location conditions.
+19 (b) The terms of the instrument cannot be altered without the
+20 approval of the department.
+21 (c) A cash account or deposit is held in trust by a federally
+22 insured financial institution that meets all of the following
+23 requirements:
+24 (i) Is regulated by banking authorities of this state or the
+25 federal government.
+26 (ii) Holds the deposit in a segregated trust account solely for
+27 the benefit of this state.
+28 (iii) Releases funds only upon written authorization from this
+29 state.
+TMV S01207'25 (S-1) 5v24nd
+
+50
+1 (iv) The deposit cannot be offset against or encumbered by any
+2 other obligation.
+3 (d) Cancellation of a bond requires at least 120 days' advance
+4 notice.
+5 (e) The instrument remains in effect until the department
+6 determines that all of the following apply:
+7 (i) The class I well or class III well has been permanently
+8 plugged and abandoned in compliance with law and in a manner that
+9 protects underground sources of drinking water.
+10 (ii) All contamination at the site has been remediated.
+11 (iii) The soil at the site has been stabilized and the site has
+12 been regraded to conditions approved by the department, with
+13 vegetation sufficiently established to prevent erosion or offsite
+14 runoff.
+15 (iv) All required well records and supporting documentation
+16 have been submitted to the department, no adverse environmental
+17 conditions caused by the drilling of the well remain at the surface
+18 or within an underground source of drinking water, and the
+19 department considers the site to meet plugging-approved status.
+20 (3) Payment under an instrument required by subsection (2)
+21 does not relieve the operator from any other legal requirements.
+22 Assets under the instrument revert to the operator's control, at
+23 the operator's request, only after the operator has adequately
+24 plugged the wells, reclaimed the well site, and complied with all
+25 orders of the supervisor or department under this act.
+26 (4) The financial responsibility under subsection (1) shall
+27 also include environmental pollution insurance coverage that
+28 complies with all of the following:
+29 (a) The amount of coverage meets both of the following
+TMV S01207'25 (S-1) 5v24nd
+
+51
+1 requirements:
+2 (i) Is at least $5,000,000.00 per occurrence for a multisource
+3 commercial hazardous waste disposal well or $2,500,000.00 per
+4 occurrence for a captive hazardous waste disposal well.
+5 (ii) Is considered by the department to be sufficient to cover
+6 the remediation of private property that could reasonably be
+7 affected by future environmental incidents caused by the drilling
+8 of the well and the replacement of drinking water supplies for
+9 properties with affected water wells.
+10 (b) After the well is plugged, the insurance remains in effect
+11 until the department determines the well meets plugging-approved
+12 status requirements and extends for an additional 10 years for a
+13 class I hazardous waste well or 5 years for a class I nonhazardous
+14 well.
+15 (c) The insurance is provided by an insurance carrier
+16 authorized, licensed, or permitted to conduct such insurance
+17 business in this state and that holds at least an A- rating by AM
+18 Best or any comparable rating service.
+19 (d) The insurance is not issued by a captive insurer, surplus
+20 line insurer, or risk retention group.
+21 (5) Within 2 years after the effective date of the amendatory
+22 act that added this section and annually thereafter, an operator of
+23 a test well shall, for each well, file proof of financial
+24 responsibility for which this state is the sole beneficiary. The
+25 financial responsibility shall be a surety bond issued by an
+26 authorized insurer whose certificate of authority is in good
+27 standing, a cash account, or an automatically annually renewing
+28 certificate of deposit. The financial responsibility shall comply,
+29 and shall be interpreted to comply, with the following, as
+TMV S01207'25 (S-1) 5v24nd
+
+52
+1 applicable:
+2 (a) The amount meets both of the following requirements:
+3 (i) Is at least $10,000.00.
+4 (ii) Is sufficient to cover the costs of well plugging and
+5 reclamation, as determined by the department based on engineering,
+6 geotechnical, environmental, or location conditions.
+7 (b) The terms of the instrument shall not be altered without
+8 the approval of the department.
+9 (c) A cash account or deposit is held in trust by a federally
+10 insured financial institution that meets all of the following
+11 requirements:
+12 (i) Is regulated by banking authorities of this state or the
+13 federal government.
+14 (ii) Holds the deposit in a segregated trust account solely for
+15 the benefit of this state.
+16 (iii) Releases funds only upon written authorization from this
+17 state.
+18 (iv) The deposit cannot be offset against or encumbered by any
+19 other obligation.
+20 (d) Cancellation of a bond requires at least 120 days' advance
+21 notice.
+22 (e) The instrument remains in effect until the department
+23 determines that all of the following apply:
+24 (i) The test well has been permanently plugged and abandoned in
+25 compliance with law and in a manner that protects underground
+26 sources of drinking water.
+27 (ii) All contamination at the site has been remediated.
+28 (iii) The soil at the site has been stabilized and
+29 rehabilitated.
+TMV S01207'25 (S-1) 5v24nd
+
+53
+1 (iv) The ecosystem has been restored.
+2 (6) Payment under an instrument required by subsection (5)
+3 does not relieve the operator from any other legal requirements.
+4 Assets under the instrument revert to the operator's control, at
+5 the operators request, only after the operator has adequately
+6 plugged the wells, reclaimed the well site, and complied with all
+7 orders of the supervisor or department under this act.
+8 Enacting section 1. Sections 11111 and 11112 of the natural
+9 resources and environmental protection act, 1994 PA 451, MCL
+10 324.11111 and 324.11112, are repealed.
+11 Enacting section 2. Section 11525a of the natural resources
+12 and environmental protection act, 1994 PA 451, MCL 324.11525a, as
+13 amended by this amendatory act, takes effect March 1, 2026.
+Final Page
+TMV S01207'25 (S-1) 5v24nd
+
+[DELETED:   S 5]
+[DELETED:   S 5 ( a h i ( f t b ( w n o ( 6 ( 6 ( (]
+[DELETED:   S 5 ( ( ( ( ]
+[DELETED:   S 5  U    lb 4 t. 1e,r, m.]
+[DELETED:   S 5  ( m n r 1 n s f ( m t ( l 3 ( s ( o w n]
+[DELETED:   S 5 ( ( (  ( m m d h s t ( s h m d]
+[DELETED:   S 5 h s ( m g n t o c ( e C ( 2]
+[DELETED:   S 5 (  ( l a f ( i ( w ( b ( ]
+[DELETED:   S 5]
+[DELETED:   S 5 m t w o]
+[DELETED:   S 5 , D  S b p m ,t 2 d dd ]
+[DELETED:   S 5 S s p p o]
+[DELETED:   S 5 t q o o]
+[DELETED:   S 5 A q q o a]
+[DELETED:   S 5  ( t f t C C s i o s ( ( a]
+[DELETED:   S 5 ( s ( 1 ( 1 ( c ,t . B J t a pe in,]
+[DELETED:   S 5 r a t s D w a ( s ( 1 ( o]
+[DELETED:   S 5 1 ( s B a 1 a a   r ( o t ,t s l es ]
+[DELETED:   S 5 ( B i l o o i s y . T t ( ( ( sda))]
+[DELETED:   S 5i() P f t s w P a t a)]
+[DELETED:   S 5 a t d()i0())))) a u s te:]
+[DELETED:   S 5 a s ; ; ; ,,  i ; a . a a   a a ( p as,s,s.s ss, se, ms, w wsw w w u]
+[DELETED:   S 5 p w 2 t  n t t n a a ( r p   a a S a s s a t p ( n st  s T 6 a t u.]
+[DELETED:   S 5 c u ( c i c ( a ( o ( t ( a d d ( s c t t l r]
+[DELETED:   S 5 m w  t 6s  s]
+[DELETED:   S 5 t  ( d m d s l m s w s s]
+[DELETED:   S 5 o ( a c f t ( a a d o w a ( i d h))]
+[DELETED:   S 5 o ( m d i))) te. s()]
+[DELETED:   S 5  2()4()i5.3(  ( g a()()) p)))]
+[DELETED:   S 5 I a a a , t t t i oe. o s ]
+[DELETED:   S 5 T w   d a s)))))))]
+[DELETED:   S 5 (  w (  ( ,t u5e]
+[DELETED:   S 5  ( p o p o o o ( i a ( T1()i))]
+[DELETED:   S 5  a r)]
+[DELETED:   S 5i)) w ot  t]
+[DELETED:   S 5  $.6()8() s p.).))..]
+[DELETED:   S 5 o H 1 ( o ( ( ( b e S c a s ( s ( f f]
+[DELETED:   S 5())))()()]
+[DELETED:   S 5 t e g c f t p f d a g h l j s ( s f f c e()()]
+[DELETED:   S 5 m ( m D t  ( (4i()()iii ( w1()i()))]
+[DELETED:   S 5 e f ( e ()))))).]
+[DELETED:   S 5 ( ( a , w ( ( () n, s) a a s o]
+[DELETED:   S 5 ( (   t s ( S e p ( d ( ( e o (]
+[DELETED:   S 5 ( e i t m ( a o t t ( e ( a d m s p a ( d r d i]
+[DELETED:   S 5 a t i p s m c o i  c o t u d  o a o t ts, p o as,]
+[DELETED:   S 5 a t o i T m t s t t a n s $ i m o d s]
+[DELETED:   S 5 c f a d a p t   m a t a w $ 2 $ 5 $ 5 $ 5 $ 5]
+[DELETED:   S 5$ 7 $ 5)) 1) 3) 6)]
+[DELETED:   S 5 p e ( t r i ( o r i ( w ( ( $ r g ( a r6()i8()i))]
+[DELETED:   S 5i()))))]
+[DELETED:   S 5 r o p ( ( a a a c a))]
+[DELETED:   S 5 a (  o c)))))))))]
+[DELETED:   S 5i()]

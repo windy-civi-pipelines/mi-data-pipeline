@@ -1,0 +1,431 @@
+Title: HOUSE BILL NO. 4187
+Official Title: HOUSE BILL NO. 4187
+Number of Sections: 2
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 623 and 695 (MCL 206.623 and 206.695), section
+623 as amended by 2021 PA 135 and section 695 as amended by 2023 PA
+
+Section 2:
+4.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 623. (1) Except as otherwise provided in this part, there
+2 is levied and imposed a corporate income tax on every taxpayer with
+3 business activity within this state or ownership interest or
+4 beneficial interest in a flow-through entity that has business
+5 activity in this state unless prohibited by 15 USC 381 to 384. The
+6 corporate income tax is imposed on the corporate income tax base,
+7 after allocation or apportionment to this state, at the rate of
+KAS H02009'25 (H-1) a6e2kg
+2
+1 6.0%.
+2 (2) The corporate income tax base means a taxpayer's business
+3 income subject to the following adjustments, before allocation or
+4 apportionment, and the adjustment in subsection (4) after
+5 allocation or apportionment:
+6 (a) Add interest income and dividends derived from obligations
+7 or securities of states other than this state, in the same amount
+8 that was excluded from federal taxable income, less the related
+9 portion of expenses not deducted in computing federal taxable
+10 income because of sections 265 and 291 of the internal revenue
+11 code.
+12 (b) Add all taxes on or measured by net income including the
+13 tax imposed under this part to the extent that the taxes were
+14 deducted in arriving at federal taxable income including any direct
+15 or indirect allocated share of taxes paid by a flow-through entity
+16 under part 4.
+17 (c) Add any carryback or carryover of a net operating loss to
+18 the extent deducted in arriving at federal taxable income.
+19 (d) To the extent included in federal taxable income, deduct
+20 dividends and royalties received from persons other than United
+21 States persons and foreign operating entities, including, but not
+22 limited to, amounts determined under section 78 of the internal
+23 revenue code or sections 951 to 965 of the internal revenue code.
+24 (e) Except as otherwise provided under this subdivision, to
+25 the extent deducted in arriving at federal taxable income, add any
+26 royalty, interest, or other expense paid to a person related to the
+27 taxpayer by ownership or control for the use of an intangible asset
+28 if the person is not included in the taxpayer's unitary business
+29 group. The addition of any royalty, interest, or other expense
+KAS H02009'25 (H-1) a6e2kg
+3
+1 described under this subdivision is not required to be added if the
+2 taxpayer can demonstrate that the transaction has a nontax business
+3 purpose, is conducted with arm's-length pricing and rates and terms
+4 as applied in accordance with sections 482 and 1274(d) of the
+5 internal revenue code, and 1 of the following is true:
+6 (i) The transaction is a pass through of another transaction
+7 between a third party and the related person with comparable rates
+8 and terms.
+9 (ii) An addition would result in double taxation. For purposes
+10 of this subparagraph, double taxation exists if the transaction is
+11 subject to tax in another jurisdiction.
+12 (iii) An addition would be unreasonable as determined by the
+13 state treasurer.
+14 (iv) The related person recipient of the transaction is
+15 organized under the laws of a foreign nation which that has in
+16 force a comprehensive income tax treaty with the United States.
+17 (f) To the extent included in federal taxable income, deduct
+18 interest income derived from United States obligations.
+19 (g) Eliminate all of the following:
+20 (i) Income from producing oil and gas to the extent included in
+21 federal taxable income.
+22 (ii) Expenses of producing oil and gas to the extent deducted
+23 in arriving at federal taxable income.
+24 (h) For a qualified taxpayer, eliminate all of the following:
+25 (i) Income derived from a mineral to the extent included in
+26 federal taxable income.
+27 (ii) Expenses related to the income deductible under
+28 subparagraph (i) to the extent deducted in arriving at federal
+29 taxable income.
+KAS H02009'25 (H-1) a6e2kg
+4
+1 (3) For purposes of subsection (2), the business income of a
+2 unitary business group is the sum of the business income of each
+3 person included in the unitary business group less any items of
+4 income and related deductions arising from transactions including
+5 dividends between persons included in the unitary business group.
+6 (4) Deduct any available business loss incurred after December
+7 31, 2011. As used in this subsection, "business loss" means a
+8 negative business income taxable amount after allocation or
+9 apportionment. For purposes of this subsection, a taxpayer that
+10 acquires the assets of another corporation in a transaction
+11 described under section 381(a)(1) or (2) of the internal revenue
+12 code may deduct any business loss attributable to that distributor
+13 or transferor corporation. The business loss shall be carried
+14 forward to the year immediately succeeding the loss year as an
+15 offset to the allocated or apportioned corporate income tax base,
+16 then successively to the next 9 taxable years following the loss
+17 year or until the loss is used up, whichever occurs first.
+18 (5) As used in this section, "oil and gas" means oil and gas
+19 that is subject to severance tax under 1929 PA 48, MCL 205.301 to
+20 205.317.
+21 Sec. 695. (1) Except as otherwise provided under this section,
+22 the revenue collected under this part shall be distributed to the
+23 general fund. If the amendatory act that added section 51h takes
+24 effect before April 18, 2023, then for the 2021-2022 state fiscal
+25 year only, from the tax levied under this part, $800,000,000.00 of
+26 the revenue collected is appropriated and must be deposited into
+27 the state treasury to the credit of the Michigan taxpayer rebate
+28 fund created in section 51h, and the balance of the revenue
+29 collected under this part for that state fiscal year shall be
+KAS H02009'25 (H-1) a6e2kg
+5
+1 deposited to the general fund.
+2 (1) (2) Beginning with the 2022-2023 state fiscal year and,
+3 except as otherwise provided under this subsection, through the
+4 2024-2025 state fiscal year, from the tax levied under this part,
+5 the revenue collected under this part shall must be deposited in
+6 the following manner:
+7 (a) Up to $1,200,000,000.00 to the general fund.
+8 (b) After For the state fiscal years ending before October 1,
+9 2024, after the deposit under subdivision (a), up to
+10 $50,000,000.00, if available, to the Michigan housing and community
+11 development fund created in section 58a of the state housing
+12 development authority act of 1966, 1966 PA 346, MCL 125.1458a.
+13 (c) After For the state fiscal years ending before October 1,
+14 2024, after the deposits under subdivisions (a) and (b), up to
+15 $50,000,000.00, if available, to the revitalization and placemaking
+16 fund created in section 696.
+17 (d) After For the state fiscal years ending before October 1,
+18 2024, after the deposits under subdivisions (a), (b), and (c), up
+19 to $500,000,000.00, if available, to the strategic outreach and
+20 attraction reserve fund created in section 4 of the Michigan trust
+21 fund act, 2000 PA 489, MCL 12.254.
+22 (e) The balance of any revenue collected under this part after
+23 the deposits under subdivisions (a), (b), (c), and (d), to the
+24 general fund.
+25 (2) (3) Beginning with the 2025-2026 state fiscal year through
+26 the 2029-2030 state fiscal year, from the tax levied under this
+27 part, $50,000,000.00 up to $2,200,000,000.00 of the revenue
+28 collected under this part shall must be deposited to the Michigan
+29 housing and community development fund created in section 58a of
+KAS H02009'25 (H-1) a6e2kg
+6
+1 the state housing development authority act of 1966, 1966 PA 346,
+2 MCL 125.1458a, and the balance of the revenue collected under this
+3 part for that state fiscal year shall be deposited in the following
+4 manner and the balance of any revenue after the following
+5 distributions to the general fund:
+6 (a) Ninety percent to local road agencies as follows:
+7 (i) 18.94% to the neighborhood roads fund created in section
+8 13c of 1951 PA 51, MCL 247.663c.
+9 (ii) 44.58% to the department of transportation for county road
+10 commissions of this state. Funds distributed to county road
+11 commissions under this subparagraph must be distributed among
+12 county road commissions in accordance with section 12 of 1951 PA
+13 51, MCL 247.662.
+14 (iii) 36.48% to the department of transportation for cities and
+15 villages of this state. Funds distributed to cities and villages
+16 under this subparagraph must be distributed among cities and
+17 villages in accordance with section 13 of 1951 PA 51, MCL 247.663.
+18 (b) Ten percent to the state trunk line fund created in
+19 section 11 of 1951 PA 51, MCL 247.661.
+20 to the general fund.
+21 (3) Beginning with the 2030-2031 state fiscal year and each
+22 subsequent state fiscal year, from the tax levied under this part,
+23 up to $2,200,000,000.00 of the revenue collected under this part
+24 must be deposited in the following manner and the balance of any
+25 revenue after the following distributions to the general fund:
+26 (a) Ninety percent to local road agencies as follows:
+27 (i) 13.89% to the neighborhood roads fund created in section
+28 13c of 1951 PA 51, MCL 247.663c.
+29 (ii) 47.36% to the department of transportation for county road
+KAS H02009'25 (H-1) a6e2kg
+7
+1 commissions of this state. Funds distributed to county road
+2 commissions under this subparagraph must be distributed among
+3 county road commissions in accordance with section 12 of 1951 PA
+4 51, MCL 247.662.
+5 (iii) 38.75% to the department of transportation for cities and
+6 villages of this state. Funds distributed to cities and villages
+7 under this subparagraph must be distributed among cities and
+8 villages in accordance with section 13 of 1951 PA 51, MCL 247.663.
+9 (b) Ten percent to the state trunk line fund created in
+10 section 11 of 1951 PA 51, MCL 247.661.
+11 (4) As used in this section, "county road commissions" means
+12 that term as defined in section 10c of 1951 PA 51, MCL 247.660c.
+13 Enacting section 1. This amendatory act does not take effect
+14 unless all of the following bills of the 103rd Legislature are
+15 enacted into law:
+16 (a) House Bill No. 4180.
+17 (b) House Bill No. 4181.
+18 (c) House Bill No. 4182.
+19 (d) House Bill No. 4183.
+20 (e) House Bill No. 4184.
+21 (f) House Bill No. 4185.
+22 (g) House Bill No. 4186.
+23 (h) House Bill No. 4230.
+Final Page
+KAS H02009'25 (H-1) a6e2kg
+[DELETED:   H a S i b b a c a]
+[DELETED:   H a 6 ( i a a ( o t p i c ( t d o u ( t ( d S l r ( t r t i g]
+[DELETED:   H a d t p a i () b a () o s () s () o h f ( i ( () f () i ( () f () s() t]
+[DELETED:   H a ( u p i d ( 3 n a a d c o f o t y ( t 2 S t g e y t t f c]
+[DELETED:   H a d   (   2 t b t ( ( t $ d d ( t $ f ( t t a f ( t g   ( , p o c b h]
+[DELETED:   H a t M p )) )  t) )]
+[DELETED:   H a) E u e ( ( ( ( ( ( ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4187
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 623 and 695 (MCL 206.623 and 206.695), section
+623 as amended by 2021 PA 135 and section 695 as amended by 2023 PA
+4.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 623. (1) Except as otherwise provided in this part, there
+2 is levied and imposed a corporate income tax on every taxpayer with
+3 business activity within this state or ownership interest or
+4 beneficial interest in a flow-through entity that has business
+5 activity in this state unless prohibited by 15 USC 381 to 384. The
+6 corporate income tax is imposed on the corporate income tax base,
+7 after allocation or apportionment to this state, at the rate of
+KAS H02009'25 (H-1) a6e2kg
+
+2
+1 6.0%.
+2 (2) The corporate income tax base means a taxpayer's business
+3 income subject to the following adjustments, before allocation or
+4 apportionment, and the adjustment in subsection (4) after
+5 allocation or apportionment:
+6 (a) Add interest income and dividends derived from obligations
+7 or securities of states other than this state, in the same amount
+8 that was excluded from federal taxable income, less the related
+9 portion of expenses not deducted in computing federal taxable
+10 income because of sections 265 and 291 of the internal revenue
+11 code.
+12 (b) Add all taxes on or measured by net income including the
+13 tax imposed under this part to the extent that the taxes were
+14 deducted in arriving at federal taxable income including any direct
+15 or indirect allocated share of taxes paid by a flow-through entity
+16 under part 4.
+17 (c) Add any carryback or carryover of a net operating loss to
+18 the extent deducted in arriving at federal taxable income.
+19 (d) To the extent included in federal taxable income, deduct
+20 dividends and royalties received from persons other than United
+21 States persons and foreign operating entities, including, but not
+22 limited to, amounts determined under section 78 of the internal
+23 revenue code or sections 951 to 965 of the internal revenue code.
+24 (e) Except as otherwise provided under this subdivision, to
+25 the extent deducted in arriving at federal taxable income, add any
+26 royalty, interest, or other expense paid to a person related to the
+27 taxpayer by ownership or control for the use of an intangible asset
+28 if the person is not included in the taxpayer's unitary business
+29 group. The addition of any royalty, interest, or other expense
+KAS H02009'25 (H-1) a6e2kg
+
+3
+1 described under this subdivision is not required to be added if the
+2 taxpayer can demonstrate that the transaction has a nontax business
+3 purpose, is conducted with arm's-length pricing and rates and terms
+4 as applied in accordance with sections 482 and 1274(d) of the
+5 internal revenue code, and 1 of the following is true:
+6 (i) The transaction is a pass through of another transaction
+7 between a third party and the related person with comparable rates
+8 and terms.
+9 (ii) An addition would result in double taxation. For purposes
+10 of this subparagraph, double taxation exists if the transaction is
+11 subject to tax in another jurisdiction.
+12 (iii) An addition would be unreasonable as determined by the
+13 state treasurer.
+14 (iv) The related person recipient of the transaction is
+15 organized under the laws of a foreign nation which that has in
+16 force a comprehensive income tax treaty with the United States.
+17 (f) To the extent included in federal taxable income, deduct
+18 interest income derived from United States obligations.
+19 (g) Eliminate all of the following:
+20 (i) Income from producing oil and gas to the extent included in
+21 federal taxable income.
+22 (ii) Expenses of producing oil and gas to the extent deducted
+23 in arriving at federal taxable income.
+24 (h) For a qualified taxpayer, eliminate all of the following:
+25 (i) Income derived from a mineral to the extent included in
+26 federal taxable income.
+27 (ii) Expenses related to the income deductible under
+28 subparagraph (i) to the extent deducted in arriving at federal
+29 taxable income.
+KAS H02009'25 (H-1) a6e2kg
+
+4
+1 (3) For purposes of subsection (2), the business income of a
+2 unitary business group is the sum of the business income of each
+3 person included in the unitary business group less any items of
+4 income and related deductions arising from transactions including
+5 dividends between persons included in the unitary business group.
+6 (4) Deduct any available business loss incurred after December
+7 31, 2011. As used in this subsection, "business loss" means a
+8 negative business income taxable amount after allocation or
+9 apportionment. For purposes of this subsection, a taxpayer that
+10 acquires the assets of another corporation in a transaction
+11 described under section 381(a)(1) or (2) of the internal revenue
+12 code may deduct any business loss attributable to that distributor
+13 or transferor corporation. The business loss shall be carried
+14 forward to the year immediately succeeding the loss year as an
+15 offset to the allocated or apportioned corporate income tax base,
+16 then successively to the next 9 taxable years following the loss
+17 year or until the loss is used up, whichever occurs first.
+18 (5) As used in this section, "oil and gas" means oil and gas
+19 that is subject to severance tax under 1929 PA 48, MCL 205.301 to
+20 205.317.
+21 Sec. 695. (1) Except as otherwise provided under this section,
+22 the revenue collected under this part shall be distributed to the
+23 general fund. If the amendatory act that added section 51h takes
+24 effect before April 18, 2023, then for the 2021-2022 state fiscal
+25 year only, from the tax levied under this part, $800,000,000.00 of
+26 the revenue collected is appropriated and must be deposited into
+27 the state treasury to the credit of the Michigan taxpayer rebate
+28 fund created in section 51h, and the balance of the revenue
+29 collected under this part for that state fiscal year shall be
+KAS H02009'25 (H-1) a6e2kg
+
+5
+1 deposited to the general fund.
+2 (1) (2) Beginning with the 2022-2023 state fiscal year and,
+3 except as otherwise provided under this subsection, through the
+4 2024-2025 state fiscal year, from the tax levied under this part,
+5 the revenue collected under this part shall must be deposited in
+6 the following manner:
+7 (a) Up to $1,200,000,000.00 to the general fund.
+8 (b) After For the state fiscal years ending before October 1,
+9 2024, after the deposit under subdivision (a), up to
+10 $50,000,000.00, if available, to the Michigan housing and community
+11 development fund created in section 58a of the state housing
+12 development authority act of 1966, 1966 PA 346, MCL 125.1458a.
+13 (c) After For the state fiscal years ending before October 1,
+14 2024, after the deposits under subdivisions (a) and (b), up to
+15 $50,000,000.00, if available, to the revitalization and placemaking
+16 fund created in section 696.
+17 (d) After For the state fiscal years ending before October 1,
+18 2024, after the deposits under subdivisions (a), (b), and (c), up
+19 to $500,000,000.00, if available, to the strategic outreach and
+20 attraction reserve fund created in section 4 of the Michigan trust
+21 fund act, 2000 PA 489, MCL 12.254.
+22 (e) The balance of any revenue collected under this part after
+23 the deposits under subdivisions (a), (b), (c), and (d), to the
+24 general fund.
+25 (2) (3) Beginning with the 2025-2026 state fiscal year through
+26 the 2029-2030 state fiscal year, from the tax levied under this
+27 part, $50,000,000.00 up to $2,200,000,000.00 of the revenue
+28 collected under this part shall must be deposited to the Michigan
+29 housing and community development fund created in section 58a of
+KAS H02009'25 (H-1) a6e2kg
+
+6
+1 the state housing development authority act of 1966, 1966 PA 346,
+2 MCL 125.1458a, and the balance of the revenue collected under this
+3 part for that state fiscal year shall be deposited in the following
+4 manner and the balance of any revenue after the following
+5 distributions to the general fund:
+6 (a) Ninety percent to local road agencies as follows:
+7 (i) 18.94% to the neighborhood roads fund created in section
+8 13c of 1951 PA 51, MCL 247.663c.
+9 (ii) 44.58% to the department of transportation for county road
+10 commissions of this state. Funds distributed to county road
+11 commissions under this subparagraph must be distributed among
+12 county road commissions in accordance with section 12 of 1951 PA
+13 51, MCL 247.662.
+14 (iii) 36.48% to the department of transportation for cities and
+15 villages of this state. Funds distributed to cities and villages
+16 under this subparagraph must be distributed among cities and
+17 villages in accordance with section 13 of 1951 PA 51, MCL 247.663.
+18 (b) Ten percent to the state trunk line fund created in
+19 section 11 of 1951 PA 51, MCL 247.661.
+20 to the general fund.
+21 (3) Beginning with the 2030-2031 state fiscal year and each
+22 subsequent state fiscal year, from the tax levied under this part,
+23 up to $2,200,000,000.00 of the revenue collected under this part
+24 must be deposited in the following manner and the balance of any
+25 revenue after the following distributions to the general fund:
+26 (a) Ninety percent to local road agencies as follows:
+27 (i) 13.89% to the neighborhood roads fund created in section
+28 13c of 1951 PA 51, MCL 247.663c.
+29 (ii) 47.36% to the department of transportation for county road
+KAS H02009'25 (H-1) a6e2kg
+
+7
+1 commissions of this state. Funds distributed to county road
+2 commissions under this subparagraph must be distributed among
+3 county road commissions in accordance with section 12 of 1951 PA
+4 51, MCL 247.662.
+5 (iii) 38.75% to the department of transportation for cities and
+6 villages of this state. Funds distributed to cities and villages
+7 under this subparagraph must be distributed among cities and
+8 villages in accordance with section 13 of 1951 PA 51, MCL 247.663.
+9 (b) Ten percent to the state trunk line fund created in
+10 section 11 of 1951 PA 51, MCL 247.661.
+11 (4) As used in this section, "county road commissions" means
+12 that term as defined in section 10c of 1951 PA 51, MCL 247.660c.
+13 Enacting section 1. This amendatory act does not take effect
+14 unless all of the following bills of the 103rd Legislature are
+15 enacted into law:
+16 (a) House Bill No. 4180.
+17 (b) House Bill No. 4181.
+18 (c) House Bill No. 4182.
+19 (d) House Bill No. 4183.
+20 (e) House Bill No. 4184.
+21 (f) House Bill No. 4185.
+22 (g) House Bill No. 4186.
+23 (h) House Bill No. 4230.
+Final Page
+KAS H02009'25 (H-1) a6e2kg
+
+[DELETED:   H a S i b b a c a]
+[DELETED:   H a 6 ( i a a ( o t p i c ( t d o u ( t ( d S l r ( t r t i g]
+[DELETED:   H a d t p a i () b a () o s () s () o h f ( i ( () f () i ( () f () s() t]
+[DELETED:   H a ( u p i d ( 3 n a a d c o f o t y ( t 2 S t g e y t t f c]
+[DELETED:   H a d   (   2 t b t ( ( t $ d d ( t $ f ( t t a f ( t g   ( , p o c b h]
+[DELETED:   H a t M p )) )  t) )]
+[DELETED:   H a) E u e ( ( ( ( ( ( ( (]

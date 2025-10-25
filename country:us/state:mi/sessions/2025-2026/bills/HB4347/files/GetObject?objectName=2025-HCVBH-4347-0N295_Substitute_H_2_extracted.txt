@@ -1,0 +1,1195 @@
+Title: HOUSE BILL NO. 4347
+Official Title: HOUSE BILL NO. 4347
+Number of Sections: 2
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1995 PA 279, entitled
+"Horse racing law of 1995,"
+by amending sections 2, 20, and 26 (MCL 431.302, 431.320, and
+
+Section 2:
+431.326), section 2 as amended by 2016 PA 271 and section 20 as
+amended by 2019 PA 153.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Affiliate" means a person who, directly or indirectly,
+3 controls, is controlled by, or is under common control with; is in
+4 a partnership or joint venture relationship with; or is a co-
+5 shareholder of a corporation, co-member of a limited liability
+6 company, or co-partner in a limited liability partnership with a
+7 person who holds or applies for a race meeting or track license
+THS H01712'25 (H-2) 02yb78
+2
+1 under this act. For purposes of this subdivision, a controlling
+2 interest is a pecuniary interest of more than 15%.
+3 (b) "Breaks" means the cents over any multiple of 10 otherwise
+4 payable to a patron on a wager of $1.00.
+5 (c) "Certified horsemen's organization" means an organization
+6 that is registered with the office of racing commissioner in a
+7 manner and form required by the racing commissioner and that can
+8 demonstrate all of the following:
+9 (i) The organization's capacity to supply horses.
+10 (ii) The organization's ability to assist a race meeting
+11 licensee in conducting the licensee's racing program.
+12 (iii) The organization's ability to monitor and improve physical
+13 conditions and controls for individuals and horses participating at
+14 licensed race meetings.
+15 (iv) The organization's ability to protect the financial
+16 interests of the individuals participating at licensed race
+17 meetings.
+18 (d) "Commissioner" or "racing commissioner" means the
+19 executive director of the Michigan gaming control board appointed
+20 under section 4 of the Michigan gaming control and revenue act,
+21 Gaming Control and Revenue Act, 1996 IL 1, MCL 432.204, who is
+22 ordered under Executive Reorganization Order No. 2009-31, MCL
+23 324.99919, to perform all the functions and exercise the powers
+24 performed and exercised by the racing commissioner before that
+25 position was abolished.
+26 (e) "Controlled substance" means that term as defined in
+27 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+28 (f) "Day of operation" means a period of 24 hours beginning at
+29 12 noon and ending at 11:59 a.m. the following day.
+THS H01712'25 (H-2) 02yb78
+3
+1 (g) "Drug" means any of the following:
+2 (i) A substance intended for use in the diagnosis, cure,
+3 mitigation, treatment, or prevention of disease in humans or other
+4 animals.
+5 (ii) A substance, other than food, intended to affect the
+6 structure or condition or any function of the body of humans or
+7 other animals.
+8 (iii) A substance intended for use as a component of a substance
+9 specified in subparagraph (i) or (ii).
+10 (h) "Eligible recipient" means a resident of this state.
+11 (i) (h) "Fair" means a county, district, or community fair or
+12 a state fair.
+13 (j) (i) "Foreign substance" means a substance, or its
+14 metabolites, that does not exist naturally in an untreated horse
+15 or, if natural to an untreated horse, exists at an unnaturally high
+16 physiological concentration as a result of having been administered
+17 to the horse.
+18 (k) (j) "Full card simulcast" means an entire simulcast racing
+19 program of 1 or more race meeting licensees located in this state,
+20 or an entire simulcast racing program of 1 or more races
+21 simulcasted from 1 or more racetracks located outside of this
+22 state.
+23 (l) (k) "Horsemen's simulcast purse account" means an account
+24 maintained with a financial institution and managed by a designated
+25 agent as described in section 19 to receive and distribute money as
+26 provided in this act.
+27 (m) (l) "Member of the immediate family" means the spouse,
+28 child, parent, or sibling.
+29 (n) (m) "Net commission" means the amount determined under
+THS H01712'25 (H-2) 02yb78
+4
+1 section 17(3), after first deducting from the licensee's statutory
+2 commission the applicable state tax on wagering due and payable
+3 under section 22 and the actual verified fee paid by the licensee
+4 to the sending host track to receive the simulcast signal.
+5 (o) (n) "Office of the racing commissioner" means the horse
+6 racing section of the horse racing, audit, and gaming technology
+7 division of the Michigan gaming control board created by section 4
+8 of the Michigan gaming control and revenue act, Gaming Control and
+9 Revenue Act, 1996 IL 1, MCL 432.204, which operates under the
+10 direction of the executive director of the Michigan gaming control
+11 board, to which Executive Reorganization Order No. 2009-31, MCL
+12 324.99919, transferred all of the authority, powers, duties,
+13 functions, records, personnel, property, unexpended balances of
+14 appropriations, allocations, or other funds of the office of racing
+15 commissioner that previously existed under this act and that was
+16 abolished by that executive reorganization order.
+17 (p) (o) "Pari-mutuel" and "pari-mutuel wagering" mean the form
+18 or system of gambling in which the winner or winners divide the
+19 total amount of money bet, after deducting the net commission.
+20 (q) (p) "Person" means an individual, firm, partnership,
+21 corporation, association, or other legal entity.
+22 (r) (q) "Purse pool" means an amount of money allocated or
+23 apportioned to pay prizes for horse races and from which payments
+24 may be made to certified horsemen's organizations as provided in
+25 this act.
+26 (s) (r) "Standardbred" means a horse registered with the
+27 United States Trotting Association that races on designated gaits
+28 of pace or trot.
+29 (t) (s) "Thoroughbred" means a thoroughbred, quarter, paint,
+THS H01712'25 (H-2) 02yb78
+5
+1 Arabian, or other breed horse. Thoroughbred does not include a
+2 standardbred.
+3 (u) (t) "Veterinarian" means an individual licensed to
+4 practice veterinary medicine under part 188 of the public health
+5 code, 1978 PA 368, MCL 333.18801 to 333.18838, or under a state or
+6 federal law applicable to the individual.
+7 Sec. 20. (1) It is the policy of this state to encourage the
+8 breeding of horses of all breeds in this state and the ownership of
+9 such horses by residents of this state to provide for sufficient
+10 numbers of high quality race horses of all breeds to participate in
+11 licensed race meetings in this state; to promote the positive
+12 growth and development of high quality horse racing and other
+13 equine competitions in this state as a business and entertainment
+14 activity for residents of this state; and to establish and preserve
+15 the substantial agricultural and commercial benefits of the horse
+16 racing and breeding industry to this state. It is the intent of the
+17 legislature to further this policy by the provisions of this act
+18 and annual appropriations to administer this act and adequately
+19 fund the agriculture and equine industry programs established by
+20 this section.
+21 (2) Except for money generated from the tax on wagers
+22 processed through licensed third-party facilitators operating under
+23 this act under section 22, money received by the racing
+24 commissioner and the state treasurer under this act must be paid
+25 promptly into the state treasury and placed in the Michigan
+26 agriculture equine industry development fund created in subsection
+27 (3).
+28 (3) The Michigan agriculture equine industry development fund
+29 is created in the department of treasury. The Michigan agriculture
+THS H01712'25 (H-2) 02yb78
+6
+1 equine industry development fund must be administered by the
+2 director of the department of agriculture and rural development
+3 with the assistance and advice of the racing commissioner.
+4 (4) Money must not be expended from the Michigan agriculture
+5 equine industry development fund except as appropriated by the
+6 legislature. Money appropriated by the legislature from the
+7 Michigan agriculture equine industry development fund must be
+8 expended by the director of the department of agriculture and rural
+9 development with the advice and assistance of the racing
+10 commissioner to provide funding for agriculture and equine industry
+11 development programs only as provided in subsections (5) to (11),
+12 (13), (15), and (18).
+13 (5) The Subject to subsection (18), the following amounts, as
+14 a percentage of the prior fiscal year end balance of Michigan
+15 agriculture equine industry development fund, must be paid to
+16 standardbred and fair programs:
+17 (a) A sum not to exceed 75% of the Sixteen percent for purses
+18 for standardbred harness horse races offered by fairs and races at
+19 licensed pari-mutuel racetracks. Purse supplements paid under this
+20 subdivision for overnight races at fairs for which Michigan sired,
+21 Michigan bred, or Michigan owned harness horses are eligible must
+22 be $1,000.00. However, if the average purse offered for maiden
+23 overnight races of the same breed at any licensed race meeting in
+24 this state during the previous year as calculated by the department
+25 of agriculture and rural development was less than $1,000.00, purse
+26 supplements for overnight races at fairs paid under this
+27 subdivision must not exceed that average purse.
+28 (b) A sum to be allotted on a matching basis, but not to
+29 exceed $15,000.00 each year to a single fair, for the purpose of
+THS H01712'25 (H-2) 02yb78
+7
+1 equipment rental during fairs; ground improvement; constructing,
+2 maintaining, and repairing buildings; and making the racetrack more
+3 suitable and safe for racing at fairs.Except for a program under
+4 subdivision (f), 6% to be distributed in equal amounts by the state
+5 treasurer to every county fair in this state.
+6 (c) A sum to be allotted Twenty-five percent for paying
+7 special purses at fairs on in this state for 2-year-old and 3-year-
+8 old standardbred harness horses conceived after January 1, 1992,
+9 that is are Michigan bred, or that is were sired by a standardbred
+10 stallion registered with the department of agriculture and rural
+11 development, that was leased or owned by a resident or residents of
+12 this state, and that did not serve a mare at a location outside of
+13 this state from February 1 through July 31 of the calendar year in
+14 which the conception occurred. A foal that is born on or after
+15 January 1, 2002 of a mare owned by a nonresident of this state and
+16 that is conceived outside of this state from transported semen of a
+17 stallion registered with the department of agriculture and rural
+18 development is eligible for Michigan tax-supported races only if,
+19 in the year that the foal is conceived, the department of
+20 agriculture and rural development's agent for receiving funds as
+21 the holding agent for stakes and futurities is paid a transport fee
+22 as determined by the department of agriculture and rural
+23 development and administered by the Michigan Harness Horsemen's
+24 Association.
+25 (d) A sum to pay not more than 75% of an eligible cash premium
+26 paid by a fair or exposition. The commission of agriculture and
+27 rural development shall promulgate rules establishing which
+28 premiums are eligible for payment and a dollar limit for all
+29 eligible payments.
+THS H01712'25 (H-2) 02yb78
+8
+1 (d) (e) A sum Twelve percent to pay breeders' awards in an
+2 amount not to exceed 10% 20% of the gross purse to breeders of
+3 Michigan bred Michigan-bred standardbred harness horses for each
+4 time the horse wins a race at a licensed race meeting or fair in or
+5 outside of this state. As used in this subdivision, "Michigan bred
+6 "Michigan-bred standardbred harness horse" means a horse from a
+7 mare owned by a resident or residents of this state at the time of
+8 conception, that was conceived after January 1, 1992, and sired by
+9 a standardbred stallion registered with the department of
+10 agriculture and rural development that was leased or owned by a
+11 resident or residents of this state an eligible recipient and that
+12 did not serve a mare at a location outside of this state from
+13 February 1 through July 31 of the calendar year in which the
+14 conception occurred. To be eligible, each mare must be registered
+15 with the department of agriculture and rural development. A foal
+16 that is born on or after January 1, 2002 of a mare owned by a
+17 nonresident of this state and that is conceived outside of this
+18 state from transported semen of a stallion registered with the
+19 department of agriculture and rural development is eligible for
+20 Michigan tax-supported races only if, in the year that the foal is
+21 conceived, the department of agriculture and rural development's
+22 agent for receiving funds as the holding agent for stakes and
+23 futurities is paid a transport fee as determined by the department
+24 of agriculture and rural development and administered by the
+25 Michigan Harness Horsemen's Association.
+26 (e) (f) A sum not to exceed $4,000.00 each year to be allotted
+27 to fairs to provide training and stabling facilities for
+28 standardbred harness horses.Two percent to be distributed in equal
+29 amounts by the state treasurer to each fair that held standardbred
+THS H01712'25 (H-2) 02yb78
+9
+1 harness racing in the previous calendar year and that will hold
+2 standardbred harness racing in the current calendar year.
+3 (f) (g) A sum Eight percent to be allotted to pay distributed
+4 by the director of the department of agriculture and rural
+5 development to fairs for some or all of the following, as
+6 determined by each fair receiving money under this subdivision:
+7 (i) The payment of the presiding judges and clerks of the
+8 course at fairs. Presiding judges and clerks of the course must be
+9 hired by the fair's administrative body with the advice and
+10 approval of the racing commissioner. The director of the department
+11 of agriculture and rural development may allot funds for a horse
+12 racing advisory commission.
+13 (ii) A photo finish system, and a mobile starting gate, a water
+14 truck, track maintenance vehicles, an announcer, an ambulance, an
+15 outrider, and advertising.
+16 (iii) An on-site veterinarian to ensure animal health and the
+17 soundness of participating horses. The director of the department
+18 of agriculture and rural development shall allot funds for the
+19 (iv) The conducting of tests, the collection and laboratory
+20 analysis of urine, saliva, blood, and other samples from horses,
+21 and the taking of blood alcohol tests on drivers, jockeys, and
+22 starting gate employees, for those races described in this
+23 subdivision. The department may require a driver, jockey, or
+24 starting gate employee to submit to a breathalyzer test, urine
+25 test, or other noninvasive fluid test to detect the presence of
+26 alcohol or a controlled substance. If the results of a test show
+27 that a person an individual has more than .05% of alcohol in his or
+28 her the individual's blood, or has present in his or her the
+29 individual's body a controlled substance, the person individual is
+THS H01712'25 (H-2) 02yb78
+10
+1 not permitted to continue in his or her the individual's duties on
+2 that race day and until he or she the individual can produce, at
+3 his or her the individual's own expense, a negative test result.
+4 (g) (h) A sum Five percent to pay purse supplements to
+5 licensed pari-mutuel harness race meetings or fairs for special 4-
+6 year-old filly and colt horse races.
+7 (h) (i) A sum not to exceed 0.25% of all money wagered on live
+8 and simulcast horse races in this state Fifteen percent must be
+9 placed in a special standardbred sire stakes fund each year, 100%
+10 of which must be used to provide purses for races run exclusively
+11 for 2-year-old and 3-year-old Michigan sired Michigan-sired
+12 standardbred horses at a county fair or licensed harness race
+13 meetings meeting in this state. As used in this subdivision,
+14 "Michigan sired "Michigan-sired standardbred horses" means
+15 standardbred horses conceived after January 1, 1992 and sired by a
+16 standardbred stallion registered with the department of agriculture
+17 and rural development that was leased or owned by a resident or
+18 residents of this state and that did not serve a mare at a location
+19 outside of this state from February 1 through July 31 of the
+20 calendar year in which the conception occurred. A foal that is born
+21 on or after January 1, 2002 of a mare owned by a nonresident of
+22 this state and that is conceived outside of this state from
+23 transported semen of a stallion registered with the department of
+24 agriculture and rural development is eligible for Michigan tax-
+25 supported races only if, in the year that the foal is conceived,
+26 the department of agriculture and rural development's agent for
+27 receiving funds as the holding agent for stakes and futurities is
+28 paid a transport fee as determined by the department of agriculture
+29 and rural development and administered by the Michigan Harness
+THS H01712'25 (H-2) 02yb78
+11
+1 Horsemen's Association.
+2 (6) The Subject to subsection (18), the following amounts, as
+3 a percentage of the prior fiscal year end balance of the Michigan
+4 agriculture equine industry development fund, must be paid to
+5 thoroughbred programs:
+6 (a) A sum to be allotted thoroughbred race meeting licensees
+7 to supplement the purses for races to be conducted exclusively for
+8 Michigan bred horses.
+9 (a) (b) A sum Three percent to pay awards in an amount not to
+10 exceed 30% of the gross purse to owners of Michigan bred Michigan-
+11 sired horses that finish first, second, or third in races open to
+12 non-Michigan bred non-Michigan sired horses in and outside of this
+13 state. Owner awards under this subdivision may be paid only if the
+14 owner is an eligible recipient.
+15 (b) (c) A sum Three percent to pay breeders' awards in an
+16 amount not to exceed 10% 30% of the gross purse to the breeders of
+17 Michigan bred Michigan-sired thoroughbred horses for each time
+18 Michigan bred Michigan-sired thoroughbred horses win at a licensed
+19 race meeting in and outside of this state. Breeders' awards under
+20 this subdivision may be paid only if the owner is an eligible
+21 recipient.
+22 (c) (d) A sum One percent to pay purse supplements to licensed
+23 thoroughbred race meetings for special 4-year-old and older
+24 Michigan-sired filly and colt horse races. If there is no
+25 thoroughbred race meeting in the state, or the race meeting is
+26 unable to conduct the races under this subdivision, the director of
+27 the department of agriculture and rural development shall allot a
+28 special thoroughbred sires stakes fund for 4-year-olds to provide
+29 an award to the owners of the top 5 highest earning Michigan-sired
+THS H01712'25 (H-2) 02yb78
+12
+1 4-year-olds by sex and distribute money as follows: 50% of the fund
+2 to the top earning 4-year-old horse and mare; 25% of the fund to
+3 the second top earning 4-year-old horse and mare; 12% of the fund
+4 to the third top earning 4-year-old horse and mare; 8% of the fund
+5 to the fourth top earning 4-year-old horse and mare; and 5% of the
+6 fund to the fifth top earning 4-year-old horse and mare. Awards
+7 under this subdivision may be paid only if the owner is an eligible
+8 recipient and submits an annual supplemental purse/award
+9 eligibility form to the department of agriculture and rural
+10 development not later than January 15 for the horse's earnings for
+11 the previous calendar year. The department of agriculture and rural
+12 development shall verify eligibility and that the owner is an
+13 eligible recipient and submit results to the state treasurer not
+14 later than February 15.
+15 (d) (e) A sum not to exceed 0.25% of all money wagered on live
+16 and simulcast horse races in this state Three percent must be
+17 placed in a special thoroughbred sire stakes fund each year, 100%
+18 of which must be used to provide purses for races run exclusively
+19 for 2-year-old and 3-year-old and older Michigan sired Michigan-
+20 sired thoroughbred horses at licensed thoroughbred race meetings in
+21 this state and awards for owners of Michigan sired Michigan-sired
+22 horses or stallions. As used in this subdivision, "Michigan sired
+23 "Michigan-sired thoroughbred horses" means thoroughbred horses
+24 sired by a stallion registered with the department of agriculture
+25 and rural development that was leased or owned exclusively by a
+26 resident or residents of this state an eligible recipient and that
+27 did not serve a mare at a location outside of this state during the
+28 calendar year in which the service occurred. If there is no
+29 thoroughbred race meeting in the state, or the race meeting is
+THS H01712'25 (H-2) 02yb78
+13
+1 unable to conduct the races under this subdivision, the director of
+2 the department of agriculture and rural development shall allot a
+3 special thoroughbred sires stakes fund for 2-year-olds and 3-year-
+4 olds to provide an award to the owners of the top 5 highest earning
+5 Michigan-sired 2-year-old and 3-year-old colts and fillies by age
+6 and sex and distribute money as follows: 50% of the fund to the top
+7 earning 2-year-old and 3-year-old colt and filly; 25% of the fund
+8 to the second top earning 2-year-old and 3-year-old colt and filly;
+9 12% of the fund to the third top earning 2-year-old and 3-year-old
+10 colt and filly; 8% of the fund to the fourth top earning 2-year-old
+11 and 3-year-old colt and filly; and 5% of the fund to the fifth top
+12 earning 2-year-old and 3-year-old colt and filly. Awards under this
+13 subdivision may be paid only if the owner is an eligible recipient
+14 and submits an annual supplemental purse/award eligibility form to
+15 the department of agriculture and rural development not later than
+16 January 15 for the horse's earnings for the previous calendar year.
+17 The department of agriculture and rural development shall verify
+18 eligibility and that the owner is an eligible recipient and submit
+19 results to the state treasurer not later than February 15.
+20 (7) The following amounts must be paid for quarter horse
+21 programs:
+22 (a) A sum to supplement the purses for races to be conducted
+23 exclusively for Michigan bred Michigan-bred quarter horses.
+24 (b) A sum to pay not more than 75% of the purses for
+25 registered quarter horse races offered by fairs.
+26 (c) A sum to pay breeders' awards in an amount not to exceed
+27 10% of a gross purse to breeders of Michigan bred Michigan-bred
+28 quarter horses for each time a Michigan bred Michigan-bred quarter
+29 horse wins at a county fair or licensed race meeting in this state.
+THS H01712'25 (H-2) 02yb78
+14
+1 (d) As used in this subsection, "Michigan bred "Michigan-bred
+2 quarter horse" means Michigan bred Michigan-bred quarter horse as
+3 that term is defined in R 285.817.1 of the Michigan Administrative
+4 Code. Each mare and stallion must be registered with the director
+5 of the department of agriculture and rural development.
+6 (8) The following amounts must be paid for Appaloosa programs:
+7 (a) A sum to supplement the purses for races to be conducted
+8 exclusively for Michigan bred Michigan-bred Appaloosa horses.
+9 (b) A sum to pay not more than 75% of the purses for
+10 registered Appaloosa horse races offered by fairs.
+11 (c) A sum to pay breeders' awards in an amount not to exceed
+12 10% of the gross purse to the breeders of Michigan bred Michigan-
+13 bred Appaloosa horses for each time Michigan bred Michigan-bred
+14 horses win at a fair or licensed race meeting in this state.
+15 (d) As used in this subsection, "Michigan bred "Michigan-bred
+16 Appaloosa horse" means a Michigan bred Michigan-bred Appaloosa
+17 horse as that term is defined in R 285.819.1 of the Michigan
+18 Administrative Code. Each mare and stallion must be registered with
+19 the director of the department of agriculture and rural
+20 development.
+21 (9) The following amounts must be paid for Arabian programs:
+22 (a) A sum to supplement the purses for races to be conducted
+23 exclusively for Michigan bred Michigan-bred Arabian horses.
+24 (b) A sum to pay not more than 75% of the purses for
+25 registered Arabian horse races offered by fairs.
+26 (c) A sum to pay breeders' awards in an amount not to exceed
+27 10% of the gross purse to the breeders of Michigan bred Michigan-
+28 bred Arabian horses for each time Michigan bred Michigan-bred
+29 horses win at a fair or licensed racetrack in this state.
+THS H01712'25 (H-2) 02yb78
+15
+1 (d) As used in this subsection, "Michigan bred "Michigan-bred
+2 Arabian horse" means a Michigan bred Michigan-bred horse as that
+3 term is defined in R 285.822.1(i) of the Michigan Administrative
+4 Code. Each mare and stallion shall be registered with the director
+5 of the department of agriculture and rural development.
+6 (10) The following sums must be paid for American paint horse
+7 programs:
+8 (a) A sum to supplement the purses for races to be conducted
+9 exclusively for Michigan bred Michigan-bred American paint horses.
+10 (b) A sum to pay not more than 75% of the purses for
+11 registered American paint horse races offered by fairs.
+12 (c) A sum to pay breeders' awards in an amount not to exceed
+13 10% of the gross purse to the breeders of Michigan bred Michigan-
+14 bred American paint horses for each time a Michigan bred Michigan-
+15 bred American paint horse wins at a county fair or licensed race
+16 meeting in this state.
+17 (d) As used in this subsection, "Michigan bred "Michigan-bred
+18 American paint horse" means a Michigan bred Michigan-bred paint
+19 horse as that term is defined in R 285.823.1 of the Michigan
+20 Administrative Code.
+21 (11) The Subject to subsection (18), the following amounts, as
+22 a percentage of the prior fiscal year end balance of the Michigan
+23 agriculture equine industry development fund, must be paid for the
+24 equine industry research, planning, and development grant fund
+25 program:
+26 (a) A sum 0.5% to fund grants for research projects conducted
+27 by persons affiliated with a university or governmental research
+28 agency or institution or other private research entity approved by
+29 the racing commissioner, which are beneficial to the horse racing
+THS H01712'25 (H-2) 02yb78
+16
+1 and breeding industry in this state.
+2 (b) A sum 0.5% to fund the development, implementation, and
+3 administration of new programs that promote the proper growth and
+4 development of the horse racing and breeding industry in this state
+5 and other valuable equine-related commercial and recreational
+6 activities in this state.
+7 (12) As used in subsection (11), "equine industry research"
+8 means the study, discovery and generation of accurate and reliable
+9 information, findings, conclusions, and recommendations that are
+10 useful or beneficial to the horse racing and breeding industry in
+11 this state through improvement of the health of horses; prevention
+12 of equine illness and disease, and performance-related accidents
+13 and injuries; improvement of breeding technique and racing
+14 performance; and compilation and study of valuable and reliable
+15 statistical data regarding the size, organization, and economics of
+16 the industry in this state; and strategic planning for the
+17 effective promotion, growth, and development of the industry in
+18 this state.
+19 (13) An amount must be allotted annually to the racing
+20 commissioner that is sufficient to pay for the collection and
+21 laboratory analysis of urine, saliva, blood, and other samples from
+22 horses and licensed individuals involved in horse racing on which
+23 pari-mutuel wagers are made and for the conducting of tests
+24 described in section 16(4).
+25 (14) Money appropriated and allotted to the Michigan
+26 agriculture equine industry development fund must not revert to the
+27 general fund and must be carried forward from year to year until
+28 disbursed to fund grants for research projects beneficial to the
+29 industry.
+THS H01712'25 (H-2) 02yb78
+17
+1 (15) A percentage of the Michigan agriculture equine industry
+2 development fund that is equal to 1/15 of 1% of the gross wagers
+3 made each year in each of the racetracks licensed under this act
+4 must be deposited in the compulsive gaming prevention fund created
+5 in section 3 of the compulsive gaming prevention act, 1997 PA 70,
+6 MCL 432.253.
+7 (16) The director of the department of agriculture and rural
+8 development shall promulgate rules pursuant to the administrative
+9 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, to
+10 implement this section. The rules promulgated under this subsection
+11 must do all of the following:
+12 (a) Prescribe the conditions under which the Michigan
+13 agriculture equine industry development fund and related programs
+14 described in subsections (1) to (14) must be funded.
+15 (b) Establish conditions and penalties regarding the programs
+16 described in subsections (5) to (12).(11).
+17 (c) Develop and maintain informational programs related to
+18 this section.
+19 (17) Funds under the control of the department of agriculture
+20 and rural development in this section must be disbursed under the
+21 rules promulgated under subsection (16). All funds under the
+22 control of the department of agriculture and rural development
+23 approved for purse supplements and breeders' awards must be paid by
+24 the state treasurer not later than 45 days from the date of the
+25 race.
+26 (18) The prior fiscal year end balance used to calculate the
+27 money received as a percentage of the Michigan agriculture equine
+28 industry development fund under subsections (5), (6), and (11) is
+29 determined after all of the following from the fund occur:
+THS H01712'25 (H-2) 02yb78
+18
+1 (a) $1,500,000.00 is allotted to the Michigan gaming control
+2 board.
+3 (b) The department of agriculture and rural development pays
+4 the department's costs to administer this act.
+5 (c) The sum under subsection (13) is allotted to the racing
+6 commissioner.
+7 (d) The sum under subsection (15) is deposited into the
+8 compulsive gaming prevention fund created in section 3 of the
+9 compulsive gaming prevention act, 1997 PA 70, MCL 432.253.
+10 (19) (18) Purses paid under this section must be based on
+11 actual purses awarded in a race. If the actual purses awarded are
+12 less than the purse supplement amount requested by a fair or
+13 licensed pari-mutuel racetrack at the time they applied to the
+14 department of agriculture and rural development for the purse
+15 supplement, the purse supplement paid must be the lesser amount.
+16 (19) If the amount allocated to the Michigan agriculture
+17 equine industry development fund under this act or any other source
+18 exceeds $8,000,000.00 in a fiscal year, the amount in excess of
+19 $8,000,000.00 must be allocated to the pari-mutuel horse racing
+20 disbursement account under section 19.
+21 Sec. 26. (1) Except as provided for in section 20, this act
+22 applies to county or state fairs or to agricultural or livestock
+23 exhibitions only if the pari-mutuel system of wagering upon on the
+24 result of horse racing is conducted.
+25 (2) This act does not permit the pari-mutuel system of
+26 wagering upon a racetrack on live or simulcast horse races unless
+27 the racetrack, is licensed as provided by including any racetrack
+28 at a fairground, fair, or agricultural or livestock exhibition, at
+29 which the live horse races occur and the simulcast horse races are
+THS H01712'25 (H-2) 02yb78
+19
+1 televised holds a current track license under this act. Wagering on
+2 a live or simulcast horse race, whether in person or through a
+3 third-party facilitator, may be offered only by a race meeting
+4 licensee and only if all licenses, permits, and other approvals
+5 required under this act have been issued by the racing commissioner
+6 and are in effect. A race meeting licensee shall not simulcast
+7 horse races or offer pari-mutuel wagering on live or simulcast
+8 horse races except at the licensed racetrack identified in the race
+9 meeting license.
+10 (3) A person shall not permit, conduct, or supervise upon
+11 racetrack grounds, the pari-mutuel system of wagering on live or
+12 simulcast horse races, except in accordance with this act.
+13 Enacting section 1. This amendatory act does not take effect
+14 unless Senate Bill No. ____ (request no. S01228'25) or House Bill
+15 No. 4346 of the 103rd Legislature is enacted into law.
+Final Page
+THS H01712'25 (H-2) 02yb78
+[DELETED:   H 0 S ( c a s c p]
+[DELETED:   H 0 u i ( p ( t m d () () l () c l () i m ( e u 1 o 3 p p ( s ( 1]
+[DELETED:   H 0 ( () m a () s o () s()()i  ( a ( m o p t ( p o s s) ( m a p () c (]
+[DELETED:   H 0 s c u t ( r d o 1 d b 3 f a c a ( o t ( c ( a m t ( U o (]
+[DELETED:   H 0 A s ( p c f S b s n l g e a t r l a f t ( p t c p a ( ( i]
+[DELETED:   H 0 e d w ( e l M e d c d a , . ( f ,   s ( p f l s M b o t o s s ( e]
+[DELETED:   H 0 e m s  ( f s 2 o t M s w s d t t w J t s d i a t a d A ( p r p e]
+[DELETED:   H 0 T ( t a o M s t t s m c a a r a d F c w t n s d M c a f o M ( t s]
+[DELETED:   H 0  E d ( t) t c h a o) ,, pm ) . o) c a a s s s t a t h h b t i b i]
+[DELETED:   H 0 n d t c h o F ( t l f y ( a m p o f s l m i " s s s a r o c o t t a s t r p a]
+[DELETED:   H 0 H ( f ,   t ( t M T i ( t M t h n h  e    T ( t a o M t M t r t    O ( t t   f]
+[DELETED:   H 0  ( a m p o f t t h t s a r a d c]
+[DELETED:   H 0  ( p ( e q ( r ( 1 q q h]
+[DELETED:   H 0 ( q q t C o ( ( e A ( r ( 1 M A h ( A A h A t d ( ( e A ( r ( 1 M A h]
+[DELETED:   H 0 ( A h t C o ( p ( e A ( r ( 1 M A A m ( A p h A ( f ,   e p ( t b a t]
+[DELETED:   H 0 a ( t a d a a ( m i u t o a p s t e t ( c l h p d ( a g d i]
+[DELETED:   H 0 ( d m m i M ( d p i m ( a d ( d. ( t ( a r c a t r]
+[DELETED:   H 0  ( a l l d s ( e e $ d S a e t r ( w u tk i]
+[DELETED:   H 0 W t A r , E u N]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4347
+A bill to amend 1995 PA 279, entitled
+"Horse racing law of 1995,"
+by amending sections 2, 20, and 26 (MCL 431.302, 431.320, and
+431.326), section 2 as amended by 2016 PA 271 and section 20 as
+amended by 2019 PA 153.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Affiliate" means a person who, directly or indirectly,
+3 controls, is controlled by, or is under common control with; is in
+4 a partnership or joint venture relationship with; or is a co-
+5 shareholder of a corporation, co-member of a limited liability
+6 company, or co-partner in a limited liability partnership with a
+7 person who holds or applies for a race meeting or track license
+THS H01712'25 (H-2) 02yb78
+
+2
+1 under this act. For purposes of this subdivision, a controlling
+2 interest is a pecuniary interest of more than 15%.
+3 (b) "Breaks" means the cents over any multiple of 10 otherwise
+4 payable to a patron on a wager of $1.00.
+5 (c) "Certified horsemen's organization" means an organization
+6 that is registered with the office of racing commissioner in a
+7 manner and form required by the racing commissioner and that can
+8 demonstrate all of the following:
+9 (i) The organization's capacity to supply horses.
+10 (ii) The organization's ability to assist a race meeting
+11 licensee in conducting the licensee's racing program.
+12 (iii) The organization's ability to monitor and improve physical
+13 conditions and controls for individuals and horses participating at
+14 licensed race meetings.
+15 (iv) The organization's ability to protect the financial
+16 interests of the individuals participating at licensed race
+17 meetings.
+18 (d) "Commissioner" or "racing commissioner" means the
+19 executive director of the Michigan gaming control board appointed
+20 under section 4 of the Michigan gaming control and revenue act,
+21 Gaming Control and Revenue Act, 1996 IL 1, MCL 432.204, who is
+22 ordered under Executive Reorganization Order No. 2009-31, MCL
+23 324.99919, to perform all the functions and exercise the powers
+24 performed and exercised by the racing commissioner before that
+25 position was abolished.
+26 (e) "Controlled substance" means that term as defined in
+27 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+28 (f) "Day of operation" means a period of 24 hours beginning at
+29 12 noon and ending at 11:59 a.m. the following day.
+THS H01712'25 (H-2) 02yb78
+
+3
+1 (g) "Drug" means any of the following:
+2 (i) A substance intended for use in the diagnosis, cure,
+3 mitigation, treatment, or prevention of disease in humans or other
+4 animals.
+5 (ii) A substance, other than food, intended to affect the
+6 structure or condition or any function of the body of humans or
+7 other animals.
+8 (iii) A substance intended for use as a component of a substance
+9 specified in subparagraph (i) or (ii).
+10 (h) "Eligible recipient" means a resident of this state.
+11 (i) (h) "Fair" means a county, district, or community fair or
+12 a state fair.
+13 (j) (i) "Foreign substance" means a substance, or its
+14 metabolites, that does not exist naturally in an untreated horse
+15 or, if natural to an untreated horse, exists at an unnaturally high
+16 physiological concentration as a result of having been administered
+17 to the horse.
+18 (k) (j) "Full card simulcast" means an entire simulcast racing
+19 program of 1 or more race meeting licensees located in this state,
+20 or an entire simulcast racing program of 1 or more races
+21 simulcasted from 1 or more racetracks located outside of this
+22 state.
+23 (l) (k) "Horsemen's simulcast purse account" means an account
+24 maintained with a financial institution and managed by a designated
+25 agent as described in section 19 to receive and distribute money as
+26 provided in this act.
+27 (m) (l) "Member of the immediate family" means the spouse,
+28 child, parent, or sibling.
+29 (n) (m) "Net commission" means the amount determined under
+THS H01712'25 (H-2) 02yb78
+
+4
+1 section 17(3), after first deducting from the licensee's statutory
+2 commission the applicable state tax on wagering due and payable
+3 under section 22 and the actual verified fee paid by the licensee
+4 to the sending host track to receive the simulcast signal.
+5 (o) (n) "Office of the racing commissioner" means the horse
+6 racing section of the horse racing, audit, and gaming technology
+7 division of the Michigan gaming control board created by section 4
+8 of the Michigan gaming control and revenue act, Gaming Control and
+9 Revenue Act, 1996 IL 1, MCL 432.204, which operates under the
+10 direction of the executive director of the Michigan gaming control
+11 board, to which Executive Reorganization Order No. 2009-31, MCL
+12 324.99919, transferred all of the authority, powers, duties,
+13 functions, records, personnel, property, unexpended balances of
+14 appropriations, allocations, or other funds of the office of racing
+15 commissioner that previously existed under this act and that was
+16 abolished by that executive reorganization order.
+17 (p) (o) "Pari-mutuel" and "pari-mutuel wagering" mean the form
+18 or system of gambling in which the winner or winners divide the
+19 total amount of money bet, after deducting the net commission.
+20 (q) (p) "Person" means an individual, firm, partnership,
+21 corporation, association, or other legal entity.
+22 (r) (q) "Purse pool" means an amount of money allocated or
+23 apportioned to pay prizes for horse races and from which payments
+24 may be made to certified horsemen's organizations as provided in
+25 this act.
+26 (s) (r) "Standardbred" means a horse registered with the
+27 United States Trotting Association that races on designated gaits
+28 of pace or trot.
+29 (t) (s) "Thoroughbred" means a thoroughbred, quarter, paint,
+THS H01712'25 (H-2) 02yb78
+
+5
+1 Arabian, or other breed horse. Thoroughbred does not include a
+2 standardbred.
+3 (u) (t) "Veterinarian" means an individual licensed to
+4 practice veterinary medicine under part 188 of the public health
+5 code, 1978 PA 368, MCL 333.18801 to 333.18838, or under a state or
+6 federal law applicable to the individual.
+7 Sec. 20. (1) It is the policy of this state to encourage the
+8 breeding of horses of all breeds in this state and the ownership of
+9 such horses by residents of this state to provide for sufficient
+10 numbers of high quality race horses of all breeds to participate in
+11 licensed race meetings in this state; to promote the positive
+12 growth and development of high quality horse racing and other
+13 equine competitions in this state as a business and entertainment
+14 activity for residents of this state; and to establish and preserve
+15 the substantial agricultural and commercial benefits of the horse
+16 racing and breeding industry to this state. It is the intent of the
+17 legislature to further this policy by the provisions of this act
+18 and annual appropriations to administer this act and adequately
+19 fund the agriculture and equine industry programs established by
+20 this section.
+21 (2) Except for money generated from the tax on wagers
+22 processed through licensed third-party facilitators operating under
+23 this act under section 22, money received by the racing
+24 commissioner and the state treasurer under this act must be paid
+25 promptly into the state treasury and placed in the Michigan
+26 agriculture equine industry development fund created in subsection
+27 (3).
+28 (3) The Michigan agriculture equine industry development fund
+29 is created in the department of treasury. The Michigan agriculture
+THS H01712'25 (H-2) 02yb78
+
+6
+1 equine industry development fund must be administered by the
+2 director of the department of agriculture and rural development
+3 with the assistance and advice of the racing commissioner.
+4 (4) Money must not be expended from the Michigan agriculture
+5 equine industry development fund except as appropriated by the
+6 legislature. Money appropriated by the legislature from the
+7 Michigan agriculture equine industry development fund must be
+8 expended by the director of the department of agriculture and rural
+9 development with the advice and assistance of the racing
+10 commissioner to provide funding for agriculture and equine industry
+11 development programs only as provided in subsections (5) to (11),
+12 (13), (15), and (18).
+13 (5) The Subject to subsection (18), the following amounts, as
+14 a percentage of the prior fiscal year end balance of Michigan
+15 agriculture equine industry development fund, must be paid to
+16 standardbred and fair programs:
+17 (a) A sum not to exceed 75% of the Sixteen percent for purses
+18 for standardbred harness horse races offered by fairs and races at
+19 licensed pari-mutuel racetracks. Purse supplements paid under this
+20 subdivision for overnight races at fairs for which Michigan sired,
+21 Michigan bred, or Michigan owned harness horses are eligible must
+22 be $1,000.00. However, if the average purse offered for maiden
+23 overnight races of the same breed at any licensed race meeting in
+24 this state during the previous year as calculated by the department
+25 of agriculture and rural development was less than $1,000.00, purse
+26 supplements for overnight races at fairs paid under this
+27 subdivision must not exceed that average purse.
+28 (b) A sum to be allotted on a matching basis, but not to
+29 exceed $15,000.00 each year to a single fair, for the purpose of
+THS H01712'25 (H-2) 02yb78
+
+7
+1 equipment rental during fairs; ground improvement; constructing,
+2 maintaining, and repairing buildings; and making the racetrack more
+3 suitable and safe for racing at fairs.Except for a program under
+4 subdivision (f), 6% to be distributed in equal amounts by the state
+5 treasurer to every county fair in this state.
+6 (c) A sum to be allotted Twenty-five percent for paying
+7 special purses at fairs on in this state for 2-year-old and 3-year-
+8 old standardbred harness horses conceived after January 1, 1992,
+9 that is are Michigan bred, or that is were sired by a standardbred
+10 stallion registered with the department of agriculture and rural
+11 development, that was leased or owned by a resident or residents of
+12 this state, and that did not serve a mare at a location outside of
+13 this state from February 1 through July 31 of the calendar year in
+14 which the conception occurred. A foal that is born on or after
+15 January 1, 2002 of a mare owned by a nonresident of this state and
+16 that is conceived outside of this state from transported semen of a
+17 stallion registered with the department of agriculture and rural
+18 development is eligible for Michigan tax-supported races only if,
+19 in the year that the foal is conceived, the department of
+20 agriculture and rural development's agent for receiving funds as
+21 the holding agent for stakes and futurities is paid a transport fee
+22 as determined by the department of agriculture and rural
+23 development and administered by the Michigan Harness Horsemen's
+24 Association.
+25 (d) A sum to pay not more than 75% of an eligible cash premium
+26 paid by a fair or exposition. The commission of agriculture and
+27 rural development shall promulgate rules establishing which
+28 premiums are eligible for payment and a dollar limit for all
+29 eligible payments.
+THS H01712'25 (H-2) 02yb78
+
+8
+1 (d) (e) A sum Twelve percent to pay breeders' awards in an
+2 amount not to exceed 10% 20% of the gross purse to breeders of
+3 Michigan bred Michigan-bred standardbred harness horses for each
+4 time the horse wins a race at a licensed race meeting or fair in or
+5 outside of this state. As used in this subdivision, "Michigan bred
+6 "Michigan-bred standardbred harness horse" means a horse from a
+7 mare owned by a resident or residents of this state at the time of
+8 conception, that was conceived after January 1, 1992, and sired by
+9 a standardbred stallion registered with the department of
+10 agriculture and rural development that was leased or owned by a
+11 resident or residents of this state an eligible recipient and that
+12 did not serve a mare at a location outside of this state from
+13 February 1 through July 31 of the calendar year in which the
+14 conception occurred. To be eligible, each mare must be registered
+15 with the department of agriculture and rural development. A foal
+16 that is born on or after January 1, 2002 of a mare owned by a
+17 nonresident of this state and that is conceived outside of this
+18 state from transported semen of a stallion registered with the
+19 department of agriculture and rural development is eligible for
+20 Michigan tax-supported races only if, in the year that the foal is
+21 conceived, the department of agriculture and rural development's
+22 agent for receiving funds as the holding agent for stakes and
+23 futurities is paid a transport fee as determined by the department
+24 of agriculture and rural development and administered by the
+25 Michigan Harness Horsemen's Association.
+26 (e) (f) A sum not to exceed $4,000.00 each year to be allotted
+27 to fairs to provide training and stabling facilities for
+28 standardbred harness horses.Two percent to be distributed in equal
+29 amounts by the state treasurer to each fair that held standardbred
+THS H01712'25 (H-2) 02yb78
+
+9
+1 harness racing in the previous calendar year and that will hold
+2 standardbred harness racing in the current calendar year.
+3 (f) (g) A sum Eight percent to be allotted to pay distributed
+4 by the director of the department of agriculture and rural
+5 development to fairs for some or all of the following, as
+6 determined by each fair receiving money under this subdivision:
+7 (i) The payment of the presiding judges and clerks of the
+8 course at fairs. Presiding judges and clerks of the course must be
+9 hired by the fair's administrative body with the advice and
+10 approval of the racing commissioner. The director of the department
+11 of agriculture and rural development may allot funds for a horse
+12 racing advisory commission.
+13 (ii) A photo finish system, and a mobile starting gate, a water
+14 truck, track maintenance vehicles, an announcer, an ambulance, an
+15 outrider, and advertising.
+16 (iii) An on-site veterinarian to ensure animal health and the
+17 soundness of participating horses. The director of the department
+18 of agriculture and rural development shall allot funds for the
+19 (iv) The conducting of tests, the collection and laboratory
+20 analysis of urine, saliva, blood, and other samples from horses,
+21 and the taking of blood alcohol tests on drivers, jockeys, and
+22 starting gate employees, for those races described in this
+23 subdivision. The department may require a driver, jockey, or
+24 starting gate employee to submit to a breathalyzer test, urine
+25 test, or other noninvasive fluid test to detect the presence of
+26 alcohol or a controlled substance. If the results of a test show
+27 that a person an individual has more than .05% of alcohol in his or
+28 her the individual's blood, or has present in his or her the
+29 individual's body a controlled substance, the person individual is
+THS H01712'25 (H-2) 02yb78
+
+10
+1 not permitted to continue in his or her the individual's duties on
+2 that race day and until he or she the individual can produce, at
+3 his or her the individual's own expense, a negative test result.
+4 (g) (h) A sum Five percent to pay purse supplements to
+5 licensed pari-mutuel harness race meetings or fairs for special 4-
+6 year-old filly and colt horse races.
+7 (h) (i) A sum not to exceed 0.25% of all money wagered on live
+8 and simulcast horse races in this state Fifteen percent must be
+9 placed in a special standardbred sire stakes fund each year, 100%
+10 of which must be used to provide purses for races run exclusively
+11 for 2-year-old and 3-year-old Michigan sired Michigan-sired
+12 standardbred horses at a county fair or licensed harness race
+13 meetings meeting in this state. As used in this subdivision,
+14 "Michigan sired "Michigan-sired standardbred horses" means
+15 standardbred horses conceived after January 1, 1992 and sired by a
+16 standardbred stallion registered with the department of agriculture
+17 and rural development that was leased or owned by a resident or
+18 residents of this state and that did not serve a mare at a location
+19 outside of this state from February 1 through July 31 of the
+20 calendar year in which the conception occurred. A foal that is born
+21 on or after January 1, 2002 of a mare owned by a nonresident of
+22 this state and that is conceived outside of this state from
+23 transported semen of a stallion registered with the department of
+24 agriculture and rural development is eligible for Michigan tax-
+25 supported races only if, in the year that the foal is conceived,
+26 the department of agriculture and rural development's agent for
+27 receiving funds as the holding agent for stakes and futurities is
+28 paid a transport fee as determined by the department of agriculture
+29 and rural development and administered by the Michigan Harness
+THS H01712'25 (H-2) 02yb78
+
+11
+1 Horsemen's Association.
+2 (6) The Subject to subsection (18), the following amounts, as
+3 a percentage of the prior fiscal year end balance of the Michigan
+4 agriculture equine industry development fund, must be paid to
+5 thoroughbred programs:
+6 (a) A sum to be allotted thoroughbred race meeting licensees
+7 to supplement the purses for races to be conducted exclusively for
+8 Michigan bred horses.
+9 (a) (b) A sum Three percent to pay awards in an amount not to
+10 exceed 30% of the gross purse to owners of Michigan bred Michigan-
+11 sired horses that finish first, second, or third in races open to
+12 non-Michigan bred non-Michigan sired horses in and outside of this
+13 state. Owner awards under this subdivision may be paid only if the
+14 owner is an eligible recipient.
+15 (b) (c) A sum Three percent to pay breeders' awards in an
+16 amount not to exceed 10% 30% of the gross purse to the breeders of
+17 Michigan bred Michigan-sired thoroughbred horses for each time
+18 Michigan bred Michigan-sired thoroughbred horses win at a licensed
+19 race meeting in and outside of this state. Breeders' awards under
+20 this subdivision may be paid only if the owner is an eligible
+21 recipient.
+22 (c) (d) A sum One percent to pay purse supplements to licensed
+23 thoroughbred race meetings for special 4-year-old and older
+24 Michigan-sired filly and colt horse races. If there is no
+25 thoroughbred race meeting in the state, or the race meeting is
+26 unable to conduct the races under this subdivision, the director of
+27 the department of agriculture and rural development shall allot a
+28 special thoroughbred sires stakes fund for 4-year-olds to provide
+29 an award to the owners of the top 5 highest earning Michigan-sired
+THS H01712'25 (H-2) 02yb78
+
+12
+1 4-year-olds by sex and distribute money as follows: 50% of the fund
+2 to the top earning 4-year-old horse and mare; 25% of the fund to
+3 the second top earning 4-year-old horse and mare; 12% of the fund
+4 to the third top earning 4-year-old horse and mare; 8% of the fund
+5 to the fourth top earning 4-year-old horse and mare; and 5% of the
+6 fund to the fifth top earning 4-year-old horse and mare. Awards
+7 under this subdivision may be paid only if the owner is an eligible
+8 recipient and submits an annual supplemental purse/award
+9 eligibility form to the department of agriculture and rural
+10 development not later than January 15 for the horse's earnings for
+11 the previous calendar year. The department of agriculture and rural
+12 development shall verify eligibility and that the owner is an
+13 eligible recipient and submit results to the state treasurer not
+14 later than February 15.
+15 (d) (e) A sum not to exceed 0.25% of all money wagered on live
+16 and simulcast horse races in this state Three percent must be
+17 placed in a special thoroughbred sire stakes fund each year, 100%
+18 of which must be used to provide purses for races run exclusively
+19 for 2-year-old and 3-year-old and older Michigan sired Michigan-
+20 sired thoroughbred horses at licensed thoroughbred race meetings in
+21 this state and awards for owners of Michigan sired Michigan-sired
+22 horses or stallions. As used in this subdivision, "Michigan sired
+23 "Michigan-sired thoroughbred horses" means thoroughbred horses
+24 sired by a stallion registered with the department of agriculture
+25 and rural development that was leased or owned exclusively by a
+26 resident or residents of this state an eligible recipient and that
+27 did not serve a mare at a location outside of this state during the
+28 calendar year in which the service occurred. If there is no
+29 thoroughbred race meeting in the state, or the race meeting is
+THS H01712'25 (H-2) 02yb78
+
+13
+1 unable to conduct the races under this subdivision, the director of
+2 the department of agriculture and rural development shall allot a
+3 special thoroughbred sires stakes fund for 2-year-olds and 3-year-
+4 olds to provide an award to the owners of the top 5 highest earning
+5 Michigan-sired 2-year-old and 3-year-old colts and fillies by age
+6 and sex and distribute money as follows: 50% of the fund to the top
+7 earning 2-year-old and 3-year-old colt and filly; 25% of the fund
+8 to the second top earning 2-year-old and 3-year-old colt and filly;
+9 12% of the fund to the third top earning 2-year-old and 3-year-old
+10 colt and filly; 8% of the fund to the fourth top earning 2-year-old
+11 and 3-year-old colt and filly; and 5% of the fund to the fifth top
+12 earning 2-year-old and 3-year-old colt and filly. Awards under this
+13 subdivision may be paid only if the owner is an eligible recipient
+14 and submits an annual supplemental purse/award eligibility form to
+15 the department of agriculture and rural development not later than
+16 January 15 for the horse's earnings for the previous calendar year.
+17 The department of agriculture and rural development shall verify
+18 eligibility and that the owner is an eligible recipient and submit
+19 results to the state treasurer not later than February 15.
+20 (7) The following amounts must be paid for quarter horse
+21 programs:
+22 (a) A sum to supplement the purses for races to be conducted
+23 exclusively for Michigan bred Michigan-bred quarter horses.
+24 (b) A sum to pay not more than 75% of the purses for
+25 registered quarter horse races offered by fairs.
+26 (c) A sum to pay breeders' awards in an amount not to exceed
+27 10% of a gross purse to breeders of Michigan bred Michigan-bred
+28 quarter horses for each time a Michigan bred Michigan-bred quarter
+29 horse wins at a county fair or licensed race meeting in this state.
+THS H01712'25 (H-2) 02yb78
+
+14
+1 (d) As used in this subsection, "Michigan bred "Michigan-bred
+2 quarter horse" means Michigan bred Michigan-bred quarter horse as
+3 that term is defined in R 285.817.1 of the Michigan Administrative
+4 Code. Each mare and stallion must be registered with the director
+5 of the department of agriculture and rural development.
+6 (8) The following amounts must be paid for Appaloosa programs:
+7 (a) A sum to supplement the purses for races to be conducted
+8 exclusively for Michigan bred Michigan-bred Appaloosa horses.
+9 (b) A sum to pay not more than 75% of the purses for
+10 registered Appaloosa horse races offered by fairs.
+11 (c) A sum to pay breeders' awards in an amount not to exceed
+12 10% of the gross purse to the breeders of Michigan bred Michigan-
+13 bred Appaloosa horses for each time Michigan bred Michigan-bred
+14 horses win at a fair or licensed race meeting in this state.
+15 (d) As used in this subsection, "Michigan bred "Michigan-bred
+16 Appaloosa horse" means a Michigan bred Michigan-bred Appaloosa
+17 horse as that term is defined in R 285.819.1 of the Michigan
+18 Administrative Code. Each mare and stallion must be registered with
+19 the director of the department of agriculture and rural
+20 development.
+21 (9) The following amounts must be paid for Arabian programs:
+22 (a) A sum to supplement the purses for races to be conducted
+23 exclusively for Michigan bred Michigan-bred Arabian horses.
+24 (b) A sum to pay not more than 75% of the purses for
+25 registered Arabian horse races offered by fairs.
+26 (c) A sum to pay breeders' awards in an amount not to exceed
+27 10% of the gross purse to the breeders of Michigan bred Michigan-
+28 bred Arabian horses for each time Michigan bred Michigan-bred
+29 horses win at a fair or licensed racetrack in this state.
+THS H01712'25 (H-2) 02yb78
+
+15
+1 (d) As used in this subsection, "Michigan bred "Michigan-bred
+2 Arabian horse" means a Michigan bred Michigan-bred horse as that
+3 term is defined in R 285.822.1(i) of the Michigan Administrative
+4 Code. Each mare and stallion shall be registered with the director
+5 of the department of agriculture and rural development.
+6 (10) The following sums must be paid for American paint horse
+7 programs:
+8 (a) A sum to supplement the purses for races to be conducted
+9 exclusively for Michigan bred Michigan-bred American paint horses.
+10 (b) A sum to pay not more than 75% of the purses for
+11 registered American paint horse races offered by fairs.
+12 (c) A sum to pay breeders' awards in an amount not to exceed
+13 10% of the gross purse to the breeders of Michigan bred Michigan-
+14 bred American paint horses for each time a Michigan bred Michigan-
+15 bred American paint horse wins at a county fair or licensed race
+16 meeting in this state.
+17 (d) As used in this subsection, "Michigan bred "Michigan-bred
+18 American paint horse" means a Michigan bred Michigan-bred paint
+19 horse as that term is defined in R 285.823.1 of the Michigan
+20 Administrative Code.
+21 (11) The Subject to subsection (18), the following amounts, as
+22 a percentage of the prior fiscal year end balance of the Michigan
+23 agriculture equine industry development fund, must be paid for the
+24 equine industry research, planning, and development grant fund
+25 program:
+26 (a) A sum 0.5% to fund grants for research projects conducted
+27 by persons affiliated with a university or governmental research
+28 agency or institution or other private research entity approved by
+29 the racing commissioner, which are beneficial to the horse racing
+THS H01712'25 (H-2) 02yb78
+
+16
+1 and breeding industry in this state.
+2 (b) A sum 0.5% to fund the development, implementation, and
+3 administration of new programs that promote the proper growth and
+4 development of the horse racing and breeding industry in this state
+5 and other valuable equine-related commercial and recreational
+6 activities in this state.
+7 (12) As used in subsection (11), "equine industry research"
+8 means the study, discovery and generation of accurate and reliable
+9 information, findings, conclusions, and recommendations that are
+10 useful or beneficial to the horse racing and breeding industry in
+11 this state through improvement of the health of horses; prevention
+12 of equine illness and disease, and performance-related accidents
+13 and injuries; improvement of breeding technique and racing
+14 performance; and compilation and study of valuable and reliable
+15 statistical data regarding the size, organization, and economics of
+16 the industry in this state; and strategic planning for the
+17 effective promotion, growth, and development of the industry in
+18 this state.
+19 (13) An amount must be allotted annually to the racing
+20 commissioner that is sufficient to pay for the collection and
+21 laboratory analysis of urine, saliva, blood, and other samples from
+22 horses and licensed individuals involved in horse racing on which
+23 pari-mutuel wagers are made and for the conducting of tests
+24 described in section 16(4).
+25 (14) Money appropriated and allotted to the Michigan
+26 agriculture equine industry development fund must not revert to the
+27 general fund and must be carried forward from year to year until
+28 disbursed to fund grants for research projects beneficial to the
+29 industry.
+THS H01712'25 (H-2) 02yb78
+
+17
+1 (15) A percentage of the Michigan agriculture equine industry
+2 development fund that is equal to 1/15 of 1% of the gross wagers
+3 made each year in each of the racetracks licensed under this act
+4 must be deposited in the compulsive gaming prevention fund created
+5 in section 3 of the compulsive gaming prevention act, 1997 PA 70,
+6 MCL 432.253.
+7 (16) The director of the department of agriculture and rural
+8 development shall promulgate rules pursuant to the administrative
+9 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, to
+10 implement this section. The rules promulgated under this subsection
+11 must do all of the following:
+12 (a) Prescribe the conditions under which the Michigan
+13 agriculture equine industry development fund and related programs
+14 described in subsections (1) to (14) must be funded.
+15 (b) Establish conditions and penalties regarding the programs
+16 described in subsections (5) to (12).(11).
+17 (c) Develop and maintain informational programs related to
+18 this section.
+19 (17) Funds under the control of the department of agriculture
+20 and rural development in this section must be disbursed under the
+21 rules promulgated under subsection (16). All funds under the
+22 control of the department of agriculture and rural development
+23 approved for purse supplements and breeders' awards must be paid by
+24 the state treasurer not later than 45 days from the date of the
+25 race.
+26 (18) The prior fiscal year end balance used to calculate the
+27 money received as a percentage of the Michigan agriculture equine
+28 industry development fund under subsections (5), (6), and (11) is
+29 determined after all of the following from the fund occur:
+THS H01712'25 (H-2) 02yb78
+
+18
+1 (a) $1,500,000.00 is allotted to the Michigan gaming control
+2 board.
+3 (b) The department of agriculture and rural development pays
+4 the department's costs to administer this act.
+5 (c) The sum under subsection (13) is allotted to the racing
+6 commissioner.
+7 (d) The sum under subsection (15) is deposited into the
+8 compulsive gaming prevention fund created in section 3 of the
+9 compulsive gaming prevention act, 1997 PA 70, MCL 432.253.
+10 (19) (18) Purses paid under this section must be based on
+11 actual purses awarded in a race. If the actual purses awarded are
+12 less than the purse supplement amount requested by a fair or
+13 licensed pari-mutuel racetrack at the time they applied to the
+14 department of agriculture and rural development for the purse
+15 supplement, the purse supplement paid must be the lesser amount.
+16 (19) If the amount allocated to the Michigan agriculture
+17 equine industry development fund under this act or any other source
+18 exceeds $8,000,000.00 in a fiscal year, the amount in excess of
+19 $8,000,000.00 must be allocated to the pari-mutuel horse racing
+20 disbursement account under section 19.
+21 Sec. 26. (1) Except as provided for in section 20, this act
+22 applies to county or state fairs or to agricultural or livestock
+23 exhibitions only if the pari-mutuel system of wagering upon on the
+24 result of horse racing is conducted.
+25 (2) This act does not permit the pari-mutuel system of
+26 wagering upon a racetrack on live or simulcast horse races unless
+27 the racetrack, is licensed as provided by including any racetrack
+28 at a fairground, fair, or agricultural or livestock exhibition, at
+29 which the live horse races occur and the simulcast horse races are
+THS H01712'25 (H-2) 02yb78
+
+19
+1 televised holds a current track license under this act. Wagering on
+2 a live or simulcast horse race, whether in person or through a
+3 third-party facilitator, may be offered only by a race meeting
+4 licensee and only if all licenses, permits, and other approvals
+5 required under this act have been issued by the racing commissioner
+6 and are in effect. A race meeting licensee shall not simulcast
+7 horse races or offer pari-mutuel wagering on live or simulcast
+8 horse races except at the licensed racetrack identified in the race
+9 meeting license.
+10 (3) A person shall not permit, conduct, or supervise upon
+11 racetrack grounds, the pari-mutuel system of wagering on live or
+12 simulcast horse races, except in accordance with this act.
+13 Enacting section 1. This amendatory act does not take effect
+14 unless Senate Bill No. ____ (request no. S01228'25) or House Bill
+15 No. 4346 of the 103rd Legislature is enacted into law.
+Final Page
+THS H01712'25 (H-2) 02yb78
+
+[DELETED:   H 0 S ( c a s c p]
+[DELETED:   H 0 u i ( p ( t m d () () l () c l () i m ( e u 1 o 3 p p ( s ( 1]
+[DELETED:   H 0 ( () m a () s o () s()()i  ( a ( m o p t ( p o s s) ( m a p () c (]
+[DELETED:   H 0 s c u t ( r d o 1 d b 3 f a c a ( o t ( c ( a m t ( U o (]
+[DELETED:   H 0 A s ( p c f S b s n l g e a t r l a f t ( p t c p a ( ( i]
+[DELETED:   H 0 e d w ( e l M e d c d a , . ( f ,   s ( p f l s M b o t o s s ( e]
+[DELETED:   H 0 e m s  ( f s 2 o t M s w s d t t w J t s d i a t a d A ( p r p e]
+[DELETED:   H 0 T ( t a o M s t t s m c a a r a d F c w t n s d M c a f o M ( t s]
+[DELETED:   H 0  E d ( t) t c h a o) ,, pm ) . o) c a a s s s t a t h h b t i b i]
+[DELETED:   H 0 n d t c h o F ( t l f y ( a m p o f s l m i " s s s a r o c o t t a s t r p a]
+[DELETED:   H 0 H ( f ,   t ( t M T i ( t M t h n h  e    T ( t a o M t M t r t    O ( t t   f]
+[DELETED:   H 0  ( a m p o f t t h t s a r a d c]
+[DELETED:   H 0  ( p ( e q ( r ( 1 q q h]
+[DELETED:   H 0 ( q q t C o ( ( e A ( r ( 1 M A h ( A A h A t d ( ( e A ( r ( 1 M A h]
+[DELETED:   H 0 ( A h t C o ( p ( e A ( r ( 1 M A A m ( A p h A ( f ,   e p ( t b a t]
+[DELETED:   H 0 a ( t a d a a ( m i u t o a p s t e t ( c l h p d ( a g d i]
+[DELETED:   H 0 ( d m m i M ( d p i m ( a d ( d. ( t ( a r c a t r]
+[DELETED:   H 0  ( a l l d s ( e e $ d S a e t r ( w u tk i]
+[DELETED:   H 0 W t A r , E u N]

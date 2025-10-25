@@ -1,0 +1,78 @@
+Title: HOUSE BILL NO. 4369
+Official Title: HOUSE BILL NO. 4369
+Number of Sections: 1
+Source: versions - Substitute (H-3) - 2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2000 PA 92, entitled
+"Food law,"
+(MCL 289.1101 to 289.8111) by adding section 7134.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7134. (1) Beginning July 1, 2028, a food establishment
+2 distributor that distributes, sells, or otherwise provides food to
+3 a school for use in a school meal program established under section
+4 1272a of the revised school code, 1976 PA 451, MCL 380.1272a, or
+5 for use in any other school meal program that serves breakfast or
+6 lunch to students, shall not distribute, sell, or otherwise provide
+7 a food that contains any of the following:
+8 (a) Brominated vegetable oil.
+9 (b) Potassium bromate.
+RMH H02087'25 (H-3) w14je8
+2
+1 (c) Propylparaben.
+2 (d) Any of the following dyes:
+3 (i) Red 40.
+4 (ii) Green 3.
+5 (iii) Blue 1.
+6 (iv) Blue 2.
+7 (v) Yellow 6.
+8 (2) As used in this section, "school" means a public school or
+9 a nonpublic school as those terms are defined in section 5 of the
+10 revised school code, 1976 PA 451, MCL 380.5.
+Final Page
+RMH H02087'25 (H-3) w14je8
+[DELETED:   H w]
+[DELETED:   H w  ))))) ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4369
+A bill to amend 2000 PA 92, entitled
+"Food law,"
+(MCL 289.1101 to 289.8111) by adding section 7134.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7134. (1) Beginning July 1, 2028, a food establishment
+2 distributor that distributes, sells, or otherwise provides food to
+3 a school for use in a school meal program established under section
+4 1272a of the revised school code, 1976 PA 451, MCL 380.1272a, or
+5 for use in any other school meal program that serves breakfast or
+6 lunch to students, shall not distribute, sell, or otherwise provide
+7 a food that contains any of the following:
+8 (a) Brominated vegetable oil.
+9 (b) Potassium bromate.
+RMH H02087'25 (H-3) w14je8
+
+2
+1 (c) Propylparaben.
+2 (d) Any of the following dyes:
+3 (i) Red 40.
+4 (ii) Green 3.
+5 (iii) Blue 1.
+6 (iv) Blue 2.
+7 (v) Yellow 6.
+8 (2) As used in this section, "school" means a public school or
+9 a nonpublic school as those terms are defined in section 5 of the
+10 revised school code, 1976 PA 451, MCL 380.5.
+Final Page
+RMH H02087'25 (H-3) w14je8
+
+[DELETED:   H w]
+[DELETED:   H w  ))))) ]

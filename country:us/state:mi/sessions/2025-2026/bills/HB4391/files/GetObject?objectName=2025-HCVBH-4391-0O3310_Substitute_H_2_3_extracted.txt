@@ -1,0 +1,854 @@
+Title: HOUSE BILL NO. 4391
+Official Title: HOUSE BILL NO. 4391
+Number of Sections: 2
+Source: versions - Substitute (H-2) - 3
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending sections 625a, 625c, and 625g (MCL 257.625a, 257.625c,
+and 257.625g), sections 625a and 625g as amended by 2021 PA 85 and
+
+Section 2:
+section 625c as amended by 2014 PA 315.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 625a. (1) A peace officer may arrest a person without a
+2 warrant under either of the following circumstances:
+3 (a) The peace officer has reasonable cause to believe the
+4 person was, at the time of an accident in this state, the operator
+5 of a vehicle involved in the accident and was operating the vehicle
+6 in violation of section 625 or a local ordinance substantially
+7 corresponding to section 625.
+SCS H02293'25 (H-2) 031ced
+2
+1 (b) The person is found in the driver's seat of a vehicle
+2 parked or stopped on a highway or street within this state if any
+3 part of the vehicle intrudes into the roadway and the peace officer
+4 has reasonable cause to believe the person was operating the
+5 vehicle in violation of section 625 or a local ordinance
+6 substantially corresponding to section 625.
+7 (2) A peace officer who has reasonable cause to believe that a
+8 person was operating a vehicle upon a public highway or other place
+9 open to the public or generally accessible to motor vehicles,
+10 including an area designated for the parking of vehicles, within
+11 this state and that the person by the consumption of alcoholic
+12 liquor, a controlled substance, or other intoxicating substance or
+13 a combination of them may have affected his or her the person's
+14 ability to operate a vehicle, or reasonable cause to believe that a
+15 person was operating a commercial motor vehicle within the state
+16 while the person's blood, breath, or urine, or other bodily fluid
+17 contained any measurable amount of alcohol, a controlled substance,
+18 or any other intoxicating substance or while the person had any
+19 detectable presence of alcoholic liquor, a controlled substance or
+20 any other intoxicating substance, or any combination of them, or
+21 reasonable cause to believe that a person who is less than 21 years
+22 of age was operating a vehicle upon a public highway or other place
+23 open to the public or generally accessible to motor vehicles,
+24 including an area designated for the parking of vehicles, within
+25 this state while the person had any bodily alcohol content as that
+26 term is defined in section 625(6), may require the person to submit
+27 to a preliminary chemical breath analysis or a preliminary oral
+28 fluid analysis. The following provisions apply to a preliminary
+29 chemical breath analysis or a preliminary oral fluid analysis
+SCS H02293'25 (H-2) 031ced
+3
+1 administered under this subsection:
+2 (a) A peace officer may arrest a person based in whole or in
+3 part upon the results of a preliminary chemical breath analysis or
+4 a preliminary oral fluid analysis.
+5 (b) The results of a preliminary chemical breath analysis or a
+6 preliminary oral fluid analysis are admissible in a criminal
+7 prosecution for a crime enumerated in section 625c(1) or in an
+8 administrative hearing for 1 or more of the following purposes:
+9 (i) To assist the court or hearing officer in determining a
+10 challenge to the validity of an arrest. This subparagraph does not
+11 limit the introduction of other competent evidence offered to
+12 establish the validity of an arrest.
+13 (ii) As evidence of the defendant's breath alcohol content, if
+14 offered by the defendant to rebut testimony elicited on cross-
+15 examination of a defense witness that the defendant's breath
+16 alcohol content was higher at the time of the charged offense than
+17 when a chemical test was administered under subsection (6).
+18 (iii) As evidence of the defendant's breath alcohol content, if
+19 offered by the prosecution to rebut testimony elicited on cross-
+20 examination of a prosecution witness that the defendant's breath
+21 alcohol content was lower at the time of the charged offense than
+22 when a chemical test was administered under subsection (6).
+23 (iv) As evidence of the presence or nonpresence of a controlled
+24 substance in the defendant's oral fluid, if offered by the
+25 defendant to rebut testimony elicited on cross-examination of a
+26 defense witness that a preliminary oral fluid analysis of the
+27 defendant's oral fluid showed the presence of a controlled
+28 substance that was not found to be present when a chemical test of
+29 the defendant's blood, urine, or other bodily fluid was
+SCS H02293'25 (H-2) 031ced
+4
+1 administered under subsection (6).
+2 (v) As evidence of the presence or nonpresence of a controlled
+3 substance in the defendant's oral fluid, if offered by the
+4 prosecution to rebut testimony elicited on cross-examination of a
+5 prosecution witness that a preliminary oral fluid analysis of the
+6 defendant's oral fluid showed no presence of a controlled substance
+7 that was found to be present when a chemical test of the
+8 defendant's blood, urine, or other bodily fluid was administered
+9 under subsection (6).
+10 (c) A person who submits to a preliminary chemical breath
+11 analysis or a preliminary oral fluid analysis remains subject to
+12 the requirements of sections 625c, 625d, 625e, and 625f for
+13 purposes of chemical tests described in those sections.
+14 (d) Except as provided in subsection (5), a person who refuses
+15 to submit to a preliminary chemical breath analysis or a
+16 preliminary oral fluid analysis upon a lawful request by a peace
+17 officer is responsible for a civil infraction.
+18 (3) A peace officer shall use the results of a preliminary
+19 chemical breath analysis or a preliminary oral fluid analysis
+20 conducted under this section to determine whether to order a person
+21 out-of-service under section 319d. A peace officer shall order out-
+22 of-service as required under section 319d a person who was
+23 operating a commercial motor vehicle and who refuses to submit to a
+24 preliminary chemical breath analysis as provided in this section.
+25 This section does not limit use of other competent evidence by the
+26 peace officer to determine whether to order a person out-of-service
+27 under section 319d.
+28 (4) A person who was operating a commercial motor vehicle and
+29 who is requested to submit to a preliminary chemical breath
+SCS H02293'25 (H-2) 031ced
+5
+1 analysis or a preliminary oral fluid analysis under this section
+2 must be advised that refusing a peace officer's request to take a
+3 test described in this section is a misdemeanor punishable by
+4 imprisonment for not more than 93 days or a fine of not more than
+5 $100.00, or both, and will result in the issuance of a 24-hour out-
+6 of-service order.
+7 (5) A person who was operating a commercial motor vehicle and
+8 who refuses to submit to a preliminary chemical breath analysis or
+9 a preliminary oral fluid analysis upon a peace officer's lawful
+10 request is guilty of a misdemeanor punishable by imprisonment for
+11 not more than 93 days or a fine of not more than $100.00, or both.
+12 (6) The following provisions apply to chemical tests and
+13 analysis of a person's blood, breath, urine, or breath, other
+14 bodily fluid other than a preliminary chemical breath analysis or
+15 preliminary oral fluid analysis:
+16 (a) The amount of alcohol or presence of a controlled
+17 substance or other intoxicating substance in a driver's blood, or
+18 urine, or other bodily fluid or the amount of alcohol in a person's
+19 breath at the time alleged as shown by chemical analysis of the
+20 person's blood, breath, urine, or breath other bodily fluid is
+21 admissible into evidence in any civil or criminal proceeding and is
+22 presumed to be the same as at the time the person operated the
+23 vehicle.
+24 (b) A person arrested for a crime described in section 625c(1)
+25 must be advised of all of the following:
+26 (i) If he or she the person takes a chemical test of his or her
+27 the person's blood, breath, urine, or breath other bodily fluid
+28 administered at the request of a peace officer, he or she the
+29 person has the right to demand that a person of his or her the
+SCS H02293'25 (H-2) 031ced
+6
+1 person's own choosing administer 1 of the chemical tests.
+2 (ii) The results of the test are admissible in a judicial
+3 proceeding as provided under this act and will be considered with
+4 other admissible evidence in determining the defendant's innocence
+5 or guilt.
+6 (iii) He or she The person is responsible for obtaining a
+7 chemical analysis of a test sample obtained at his or her the
+8 person's own request.
+9 (iv) If he or she the person refuses the request of a peace
+10 officer to take a test described in subparagraph (i), a test must
+11 not be given without a court order, but the peace officer may seek
+12 to obtain a court order.
+13 (v) Refusing a peace officer's request to take a test
+14 described in subparagraph (i) will result in the suspension of his
+15 or her the person's operator's or chauffeur's license and vehicle
+16 group designation or operating privilege and in the addition of 6
+17 points to his or her the person's driver record.
+18 (c) A sample or specimen of breath, urine, or breath other
+19 bodily fluid must be taken and collected in a reasonable manner.
+20 Only a licensed physician, or an individual operating under the
+21 delegation of a licensed physician under section 16215 of the
+22 public health code, 1978 PA 368, MCL 333.16215, qualified to
+23 withdraw blood and acting in a medical environment, may withdraw
+24 blood at a peace officer's request to determine the amount of
+25 alcohol or presence of a controlled substance or other intoxicating
+26 substance in the person's blood, as provided in this subsection.
+27 Liability for a crime or civil damages predicated on the act of
+28 withdrawing or analyzing blood and related procedures does not
+29 attach to a licensed physician or individual operating under the
+SCS H02293'25 (H-2) 031ced
+7
+1 delegation of a licensed physician who withdraws or analyzes blood
+2 or assists in the withdrawal or analysis in accordance with this
+3 act unless the withdrawal or analysis is performed in a negligent
+4 manner.
+5 (d) A chemical test described in this subsection must be
+6 administered at the request of a peace officer having reasonable
+7 grounds to believe the person has committed a crime described in
+8 section 625c(1). A person who takes a chemical test administered at
+9 a peace officer's request as provided in this section must be given
+10 a reasonable opportunity to have a person of his or her the
+11 person's own choosing administer 1 of the chemical tests described
+12 in this subsection within a reasonable time after his or her the
+13 person's detention. The test results are admissible and must be
+14 considered with other admissible evidence in determining the
+15 defendant's innocence or guilt. If the person charged is
+16 administered a chemical test by a person of his or her the person's
+17 own choosing, the person charged is responsible for obtaining a
+18 chemical analysis of the test sample.
+19 (e) If, after an accident, the driver of a vehicle involved in
+20 the accident is transported to a medical facility and a sample of
+21 the driver's blood or other bodily fluid is withdrawn at that time
+22 for medical treatment, the results of a chemical analysis of that
+23 sample are admissible in any civil or criminal proceeding to show
+24 the amount of alcohol or presence of a controlled substance or
+25 other intoxicating substance in the person's blood at the time
+26 alleged, regardless of whether the person had been offered or had
+27 refused a chemical test. The medical facility or person performing
+28 the chemical analysis shall disclose the results of the analysis to
+29 a prosecuting attorney who requests the results for use in a
+SCS H02293'25 (H-2) 031ced
+8
+1 criminal prosecution as provided in this subdivision. A medical
+2 facility or person disclosing information in compliance with this
+3 subsection is not civilly or criminally liable for making the
+4 disclosure.
+5 (f) If, after an accident, the driver of a vehicle involved in
+6 the accident is deceased, a sample of the decedent's blood or other
+7 bodily fluid must be withdrawn in a manner directed by the medical
+8 examiner to determine the amount of alcohol or the presence of a
+9 controlled substance or other intoxicating substance, or any
+10 combination of them, in the decedent's blood. The medical examiner
+11 shall give the results of the chemical analysis of the sample to
+12 the law enforcement agency investigating the accident and that
+13 agency shall forward the results to the department of state police.
+14 (g) The department of state police shall promulgate uniform
+15 rules in compliance with the administrative procedures act of 1969,
+16 1969 PA 306, MCL 24.201 to 24.328, for the administration of
+17 chemical tests for the purposes of this section. An instrument used
+18 for a preliminary chemical breath analysis or preliminary oral
+19 fluid analysis may be used for a chemical test described in this
+20 subsection if approved under rules promulgated by the department of
+21 state police.
+22 (7) The provisions of subsection (6) relating to chemical
+23 testing do not limit the introduction of any other admissible
+24 evidence bearing upon any of the following questions:
+25 (a) Whether the person was impaired by, or under the influence
+26 of, alcoholic liquor, a controlled substance or other intoxicating
+27 substance, or a combination of alcoholic liquor, a controlled
+28 substance, or other intoxicating substance.
+29 (b) Whether the person had an alcohol content of 0.08 grams or
+SCS H02293'25 (H-2) 031ced
+9
+1 more per 100 milliliters of blood, per 210 liters of breath, or per
+2 67 milliliters of urine or, beginning 5 years after the state
+3 treasurer publishes a certification under section 625(28), the
+4 person had an alcohol content of 0.10 grams or more per 100
+5 milliliters of blood, per 210 liters of breath, or per 67
+6 milliliters of urine.
+7 (c) If the person is less than 21 years of age, whether the
+8 person had any bodily alcohol content within his or her the
+9 person's body. As used in this subdivision, "any bodily alcohol
+10 content" means either of the following:
+11 (i) An alcohol content of 0.02 grams or more but less than 0.08
+12 grams per 100 milliliters of blood, per 210 liters of breath, or
+13 per 67 milliliters of urine or, beginning 5 years after the state
+14 treasurer publishes a certification under section 625(28), the
+15 person had an alcohol content of 0.02 grams or more but less than
+16 0.10 grams or more per 100 milliliters of blood, per 210 liters of
+17 breath, or per 67 milliliters of urine.
+18 (ii) Any presence of alcohol within a person's body resulting
+19 from the consumption of alcoholic liquor, other than the
+20 consumption of alcoholic liquor as a part of a generally recognized
+21 religious service or ceremony.
+22 (8) If a chemical test described in subsection (6) is
+23 administered, the test results must be made available to the person
+24 charged or the person's attorney upon written request to the
+25 prosecution, with a copy of the request filed with the court. The
+26 prosecution shall furnish the results at least 2 days before the
+27 day of the trial. The prosecution shall offer the test results as
+28 evidence in that trial. Failure to fully comply with the request
+29 bars the admission of the results into evidence by the prosecution.
+SCS H02293'25 (H-2) 031ced
+10
+1 (9) A person's refusal to submit to a chemical test as
+2 provided in subsection (6) is admissible in a criminal prosecution
+3 for a crime described in section 625c(1) only to show that a test
+4 was offered to the defendant, but not as evidence in determining
+5 the defendant's innocence or guilt. The jury must be instructed
+6 accordingly.
+7 (10) As used in this section:
+8 (a) "Controlled substance" means that term as defined in
+9 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+10 (b) "Intoxicating substance" means that term as defined in
+11 section 625.
+12 Sec. 625c. (1) A person who operates a vehicle upon a public
+13 highway or other place open to the general public or generally
+14 accessible to motor vehicles, including an area designated for the
+15 parking of vehicles, within this state is considered to have given
+16 consent to chemical tests of his or her the person's blood, breath,
+17 or urine, or other bodily fluid for the purpose of determining the
+18 amount of alcohol or presence of a controlled substance or other
+19 intoxicating substance, or any combination of them, in his or her
+20 the person's blood, or urine, or other bodily fluid or the amount
+21 of alcohol in his or her the person's breath in all of the
+22 following circumstances:
+23 (a) If the person is arrested for a violation of section
+24 625(1), (3), (4), (5), (6), (7), or (8), section 625a(5), or
+25 section 625m or a local ordinance substantially corresponding to
+26 section 625(1), (3), (6), or (8), section 625a(5), or section 625m.
+27 (b) If the person is arrested for a violation of section 601d,
+28 section 626(3) or (4), or manslaughter, or murder resulting from
+29 the operation of a motor vehicle, and the peace officer had
+SCS H02293'25 (H-2) 031ced
+11
+1 reasonable grounds to believe the person was operating the vehicle
+2 in violation of section 625.
+3 (2) A person who is afflicted with hemophilia, diabetes, or a
+4 condition requiring the use of an anticoagulant under the direction
+5 of a physician is not considered to have given consent to the
+6 withdrawal of blood.
+7 (3) The tests shall must be administered as provided in
+8 section 625a(6).
+9 (4) As used in this section:
+10 (a) "Controlled substance" means that term as defined in
+11 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+12 (b) "Intoxicating substance" means that term as defined in
+13 section 625.
+14 Sec. 625g. (1) If a person refuses a chemical test offered
+15 under section 625a(6), the peace officer who requested the person
+16 to submit to the chemical test shall comply with subdivisions (a)
+17 and (b). If a person submits to the chemical test or a chemical
+18 test is performed under a court order and the test reveals an
+19 unlawful alcohol content, or the presence of a controlled substance
+20 or other intoxicating substance, or any combination of them, the
+21 peace officer who requested the person to submit to the test shall
+22 do all of the following, other than subdivision (b)(i):
+23 (a) On behalf of the secretary of state, immediately
+24 confiscate the person's license or permit to operate a motor
+25 vehicle and, if the person is otherwise eligible for a license or
+26 permit, issue a temporary license or permit to the person. The
+27 temporary license or permit must be on a form provided by the
+28 secretary of state.
+29 (b) Except as provided in subsection (2), immediately do all
+SCS H02293'25 (H-2) 031ced
+12
+1 of the following:
+2 (i) Forward a copy of the written report of the person's
+3 refusal to submit to a chemical test required under section 625d to
+4 the secretary of state.
+5 (ii) Notify the secretary of state by means of the law
+6 enforcement information network that a temporary license or permit
+7 was issued to the person.
+8 (iii) Destroy the person's driver license or permit.
+9 (2) If a person submits to a chemical test offered under
+10 section 625a(6) that requires an analysis of blood, or urine, or
+11 other bodily fluid and a report of the results of that chemical
+12 test is not immediately available, the peace officer who requested
+13 the person to submit to the test shall comply with subsection
+14 (1)(a) and (b)(ii) and indicate in the notice under subsection
+15 (1)(b)(ii) that a subsequent chemical test is pending. If the report
+16 reveals an unlawful alcohol content, or the presence of a
+17 controlled substance or other intoxicating substance, or any
+18 combination of them, the peace officer who requested the person to
+19 submit to the test shall immediately comply with subsection
+20 (1)(b)(iii). If the report does not reveal an unlawful alcohol
+21 content, or the presence of a controlled substance or other
+22 intoxicating substance, or any combination of them, the peace
+23 officer who requested the person to submit to the test shall
+24 immediately notify the person of the test results and immediately
+25 return the person's license or permit by first-class mail to the
+26 address provided at the time of arrest.
+27 (3) A temporary license or permit issued under this section is
+28 valid for 1 of the following time periods:
+29 (a) If the case is not prosecuted, for the earlier of 90 days
+SCS H02293'25 (H-2) 031ced
+13
+1 after issuance or until the person's license or permit is suspended
+2 under section 625f. The prosecuting attorney shall notify the
+3 secretary of state if a case referred to the prosecuting attorney
+4 is not prosecuted. The arresting law enforcement agency shall
+5 notify the secretary of state if a case is not referred to the
+6 prosecuting attorney for prosecution.
+7 (b) If the case is prosecuted, until the criminal charges
+8 against the person are dismissed, the person is acquitted of those
+9 charges, or the person's license or permit is suspended,
+10 restricted, or revoked.
+11 (4) As used in this section:
+12 (a) "Controlled substance" means that term as defined in
+13 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+14 (b) "Intoxicating substance" means that term as defined in
+15 section 625.
+16 (c) "Unlawful alcohol content" means any of the following, as
+17 applicable:
+18 (i) If the person tested is less than 21 years of age, 0.02
+19 grams or more of alcohol per 100 milliliters of blood, per 210
+20 liters of breath, or per 67 milliliters of urine.
+21 (ii) If the person tested was operating a commercial motor
+22 vehicle within this state, 0.04 grams or more of alcohol per 100
+23 milliliters of blood, per 210 liters of breath, or per 67
+24 milliliters of urine.
+25 (iii) If the person tested is not a person described in
+26 subparagraph (i) or (ii), 0.08 grams or more of alcohol per 100
+27 milliliters of blood, per 210 liters of breath, or per 67
+28 milliliters of urine or, beginning 5 years after the state
+29 treasurer publishes a certification under section 625(28), 0.10
+SCS H02293'25 (H-2) 031ced
+14
+1 grams or more of alcohol per 100 milliliters of blood, per 210
+2 liters of breath, or per 67 milliliters of urine.
+3 Enacting section 1. This amendatory act takes effect 90 days
+4 after the date it is enacted into law.
+5 Enacting section 2. This amendatory act does not take effect
+6 unless House Bill No. 4390 of the 103rd Legislature is enacted into
+7 law.
+Final Page
+SCS H02293'25 (H-2) 031ced
+[DELETED:   H 0 S w ( p o i c]
+[DELETED:   H 0 ( p p h v s ( p o i t l a a p we c o d a r o o i t t t . c]
+[DELETED:   H 0 a ( p . ( a p a () c l e () o e a w () o e a w)]
+[DELETED:   H 0)  ( a r t p ( t u o ( c c o o o p T p u ( w]
+[DELETED:   H 0 a u m t i $ o ( w u r n ( a u o   o : ( sd  ue  b p u i o a p v ( m () t b o b u a t h]
+[DELETED:   H 0 o () p o o () i c o () r o() n t () d() o o g p d ( ue  ,o m O d p w b a s L w a]
+[DELETED:   H 0 d o a m ( a g s a a o i d c d a o c ( t t i f s t o a r t a]
+[DELETED:   H 0 c f s d ( t m e c c s t a ( r 1 c f   s s ( t e ( o s s (]
+[DELETED:   H 0 m 6 t p m m ( p b c () g p t p 0 b () f c r ( a c p p d e b]
+[DELETED:   H 0 ( p f w t a ( ( s ( s S h a p c b oe  a i ,, bd e  o b f ( 6 s s ( s t]
+[DELETED:   H 0 r i ( c o w ( b s ( ( s ( s S u t a t u o p d() ( c v p t s (]
+[DELETED:   H 0 o () r t () e w () ( sd ,   t t (() (() r c c s (() c i o i r a ( v (]
+[DELETED:   H 0 a u s i n p ( a c r ( ( s ( s ( a () g l () v m m () s()()i m m t]
+[DELETED:   H 0 g l E a E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4391
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending sections 625a, 625c, and 625g (MCL 257.625a, 257.625c,
+and 257.625g), sections 625a and 625g as amended by 2021 PA 85 and
+section 625c as amended by 2014 PA 315.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 625a. (1) A peace officer may arrest a person without a
+2 warrant under either of the following circumstances:
+3 (a) The peace officer has reasonable cause to believe the
+4 person was, at the time of an accident in this state, the operator
+5 of a vehicle involved in the accident and was operating the vehicle
+6 in violation of section 625 or a local ordinance substantially
+7 corresponding to section 625.
+SCS H02293'25 (H-2) 031ced
+
+2
+1 (b) The person is found in the driver's seat of a vehicle
+2 parked or stopped on a highway or street within this state if any
+3 part of the vehicle intrudes into the roadway and the peace officer
+4 has reasonable cause to believe the person was operating the
+5 vehicle in violation of section 625 or a local ordinance
+6 substantially corresponding to section 625.
+7 (2) A peace officer who has reasonable cause to believe that a
+8 person was operating a vehicle upon a public highway or other place
+9 open to the public or generally accessible to motor vehicles,
+10 including an area designated for the parking of vehicles, within
+11 this state and that the person by the consumption of alcoholic
+12 liquor, a controlled substance, or other intoxicating substance or
+13 a combination of them may have affected his or her the person's
+14 ability to operate a vehicle, or reasonable cause to believe that a
+15 person was operating a commercial motor vehicle within the state
+16 while the person's blood, breath, or urine, or other bodily fluid
+17 contained any measurable amount of alcohol, a controlled substance,
+18 or any other intoxicating substance or while the person had any
+19 detectable presence of alcoholic liquor, a controlled substance or
+20 any other intoxicating substance, or any combination of them, or
+21 reasonable cause to believe that a person who is less than 21 years
+22 of age was operating a vehicle upon a public highway or other place
+23 open to the public or generally accessible to motor vehicles,
+24 including an area designated for the parking of vehicles, within
+25 this state while the person had any bodily alcohol content as that
+26 term is defined in section 625(6), may require the person to submit
+27 to a preliminary chemical breath analysis or a preliminary oral
+28 fluid analysis. The following provisions apply to a preliminary
+29 chemical breath analysis or a preliminary oral fluid analysis
+SCS H02293'25 (H-2) 031ced
+
+3
+1 administered under this subsection:
+2 (a) A peace officer may arrest a person based in whole or in
+3 part upon the results of a preliminary chemical breath analysis or
+4 a preliminary oral fluid analysis.
+5 (b) The results of a preliminary chemical breath analysis or a
+6 preliminary oral fluid analysis are admissible in a criminal
+7 prosecution for a crime enumerated in section 625c(1) or in an
+8 administrative hearing for 1 or more of the following purposes:
+9 (i) To assist the court or hearing officer in determining a
+10 challenge to the validity of an arrest. This subparagraph does not
+11 limit the introduction of other competent evidence offered to
+12 establish the validity of an arrest.
+13 (ii) As evidence of the defendant's breath alcohol content, if
+14 offered by the defendant to rebut testimony elicited on cross-
+15 examination of a defense witness that the defendant's breath
+16 alcohol content was higher at the time of the charged offense than
+17 when a chemical test was administered under subsection (6).
+18 (iii) As evidence of the defendant's breath alcohol content, if
+19 offered by the prosecution to rebut testimony elicited on cross-
+20 examination of a prosecution witness that the defendant's breath
+21 alcohol content was lower at the time of the charged offense than
+22 when a chemical test was administered under subsection (6).
+23 (iv) As evidence of the presence or nonpresence of a controlled
+24 substance in the defendant's oral fluid, if offered by the
+25 defendant to rebut testimony elicited on cross-examination of a
+26 defense witness that a preliminary oral fluid analysis of the
+27 defendant's oral fluid showed the presence of a controlled
+28 substance that was not found to be present when a chemical test of
+29 the defendant's blood, urine, or other bodily fluid was
+SCS H02293'25 (H-2) 031ced
+
+4
+1 administered under subsection (6).
+2 (v) As evidence of the presence or nonpresence of a controlled
+3 substance in the defendant's oral fluid, if offered by the
+4 prosecution to rebut testimony elicited on cross-examination of a
+5 prosecution witness that a preliminary oral fluid analysis of the
+6 defendant's oral fluid showed no presence of a controlled substance
+7 that was found to be present when a chemical test of the
+8 defendant's blood, urine, or other bodily fluid was administered
+9 under subsection (6).
+10 (c) A person who submits to a preliminary chemical breath
+11 analysis or a preliminary oral fluid analysis remains subject to
+12 the requirements of sections 625c, 625d, 625e, and 625f for
+13 purposes of chemical tests described in those sections.
+14 (d) Except as provided in subsection (5), a person who refuses
+15 to submit to a preliminary chemical breath analysis or a
+16 preliminary oral fluid analysis upon a lawful request by a peace
+17 officer is responsible for a civil infraction.
+18 (3) A peace officer shall use the results of a preliminary
+19 chemical breath analysis or a preliminary oral fluid analysis
+20 conducted under this section to determine whether to order a person
+21 out-of-service under section 319d. A peace officer shall order out-
+22 of-service as required under section 319d a person who was
+23 operating a commercial motor vehicle and who refuses to submit to a
+24 preliminary chemical breath analysis as provided in this section.
+25 This section does not limit use of other competent evidence by the
+26 peace officer to determine whether to order a person out-of-service
+27 under section 319d.
+28 (4) A person who was operating a commercial motor vehicle and
+29 who is requested to submit to a preliminary chemical breath
+SCS H02293'25 (H-2) 031ced
+
+5
+1 analysis or a preliminary oral fluid analysis under this section
+2 must be advised that refusing a peace officer's request to take a
+3 test described in this section is a misdemeanor punishable by
+4 imprisonment for not more than 93 days or a fine of not more than
+5 $100.00, or both, and will result in the issuance of a 24-hour out-
+6 of-service order.
+7 (5) A person who was operating a commercial motor vehicle and
+8 who refuses to submit to a preliminary chemical breath analysis or
+9 a preliminary oral fluid analysis upon a peace officer's lawful
+10 request is guilty of a misdemeanor punishable by imprisonment for
+11 not more than 93 days or a fine of not more than $100.00, or both.
+12 (6) The following provisions apply to chemical tests and
+13 analysis of a person's blood, breath, urine, or breath, other
+14 bodily fluid other than a preliminary chemical breath analysis or
+15 preliminary oral fluid analysis:
+16 (a) The amount of alcohol or presence of a controlled
+17 substance or other intoxicating substance in a driver's blood, or
+18 urine, or other bodily fluid or the amount of alcohol in a person's
+19 breath at the time alleged as shown by chemical analysis of the
+20 person's blood, breath, urine, or breath other bodily fluid is
+21 admissible into evidence in any civil or criminal proceeding and is
+22 presumed to be the same as at the time the person operated the
+23 vehicle.
+24 (b) A person arrested for a crime described in section 625c(1)
+25 must be advised of all of the following:
+26 (i) If he or she the person takes a chemical test of his or her
+27 the person's blood, breath, urine, or breath other bodily fluid
+28 administered at the request of a peace officer, he or she the
+29 person has the right to demand that a person of his or her the
+SCS H02293'25 (H-2) 031ced
+
+6
+1 person's own choosing administer 1 of the chemical tests.
+2 (ii) The results of the test are admissible in a judicial
+3 proceeding as provided under this act and will be considered with
+4 other admissible evidence in determining the defendant's innocence
+5 or guilt.
+6 (iii) He or she The person is responsible for obtaining a
+7 chemical analysis of a test sample obtained at his or her the
+8 person's own request.
+9 (iv) If he or she the person refuses the request of a peace
+10 officer to take a test described in subparagraph (i), a test must
+11 not be given without a court order, but the peace officer may seek
+12 to obtain a court order.
+13 (v) Refusing a peace officer's request to take a test
+14 described in subparagraph (i) will result in the suspension of his
+15 or her the person's operator's or chauffeur's license and vehicle
+16 group designation or operating privilege and in the addition of 6
+17 points to his or her the person's driver record.
+18 (c) A sample or specimen of breath, urine, or breath other
+19 bodily fluid must be taken and collected in a reasonable manner.
+20 Only a licensed physician, or an individual operating under the
+21 delegation of a licensed physician under section 16215 of the
+22 public health code, 1978 PA 368, MCL 333.16215, qualified to
+23 withdraw blood and acting in a medical environment, may withdraw
+24 blood at a peace officer's request to determine the amount of
+25 alcohol or presence of a controlled substance or other intoxicating
+26 substance in the person's blood, as provided in this subsection.
+27 Liability for a crime or civil damages predicated on the act of
+28 withdrawing or analyzing blood and related procedures does not
+29 attach to a licensed physician or individual operating under the
+SCS H02293'25 (H-2) 031ced
+
+7
+1 delegation of a licensed physician who withdraws or analyzes blood
+2 or assists in the withdrawal or analysis in accordance with this
+3 act unless the withdrawal or analysis is performed in a negligent
+4 manner.
+5 (d) A chemical test described in this subsection must be
+6 administered at the request of a peace officer having reasonable
+7 grounds to believe the person has committed a crime described in
+8 section 625c(1). A person who takes a chemical test administered at
+9 a peace officer's request as provided in this section must be given
+10 a reasonable opportunity to have a person of his or her the
+11 person's own choosing administer 1 of the chemical tests described
+12 in this subsection within a reasonable time after his or her the
+13 person's detention. The test results are admissible and must be
+14 considered with other admissible evidence in determining the
+15 defendant's innocence or guilt. If the person charged is
+16 administered a chemical test by a person of his or her the person's
+17 own choosing, the person charged is responsible for obtaining a
+18 chemical analysis of the test sample.
+19 (e) If, after an accident, the driver of a vehicle involved in
+20 the accident is transported to a medical facility and a sample of
+21 the driver's blood or other bodily fluid is withdrawn at that time
+22 for medical treatment, the results of a chemical analysis of that
+23 sample are admissible in any civil or criminal proceeding to show
+24 the amount of alcohol or presence of a controlled substance or
+25 other intoxicating substance in the person's blood at the time
+26 alleged, regardless of whether the person had been offered or had
+27 refused a chemical test. The medical facility or person performing
+28 the chemical analysis shall disclose the results of the analysis to
+29 a prosecuting attorney who requests the results for use in a
+SCS H02293'25 (H-2) 031ced
+
+8
+1 criminal prosecution as provided in this subdivision. A medical
+2 facility or person disclosing information in compliance with this
+3 subsection is not civilly or criminally liable for making the
+4 disclosure.
+5 (f) If, after an accident, the driver of a vehicle involved in
+6 the accident is deceased, a sample of the decedent's blood or other
+7 bodily fluid must be withdrawn in a manner directed by the medical
+8 examiner to determine the amount of alcohol or the presence of a
+9 controlled substance or other intoxicating substance, or any
+10 combination of them, in the decedent's blood. The medical examiner
+11 shall give the results of the chemical analysis of the sample to
+12 the law enforcement agency investigating the accident and that
+13 agency shall forward the results to the department of state police.
+14 (g) The department of state police shall promulgate uniform
+15 rules in compliance with the administrative procedures act of 1969,
+16 1969 PA 306, MCL 24.201 to 24.328, for the administration of
+17 chemical tests for the purposes of this section. An instrument used
+18 for a preliminary chemical breath analysis or preliminary oral
+19 fluid analysis may be used for a chemical test described in this
+20 subsection if approved under rules promulgated by the department of
+21 state police.
+22 (7) The provisions of subsection (6) relating to chemical
+23 testing do not limit the introduction of any other admissible
+24 evidence bearing upon any of the following questions:
+25 (a) Whether the person was impaired by, or under the influence
+26 of, alcoholic liquor, a controlled substance or other intoxicating
+27 substance, or a combination of alcoholic liquor, a controlled
+28 substance, or other intoxicating substance.
+29 (b) Whether the person had an alcohol content of 0.08 grams or
+SCS H02293'25 (H-2) 031ced
+
+9
+1 more per 100 milliliters of blood, per 210 liters of breath, or per
+2 67 milliliters of urine or, beginning 5 years after the state
+3 treasurer publishes a certification under section 625(28), the
+4 person had an alcohol content of 0.10 grams or more per 100
+5 milliliters of blood, per 210 liters of breath, or per 67
+6 milliliters of urine.
+7 (c) If the person is less than 21 years of age, whether the
+8 person had any bodily alcohol content within his or her the
+9 person's body. As used in this subdivision, "any bodily alcohol
+10 content" means either of the following:
+11 (i) An alcohol content of 0.02 grams or more but less than 0.08
+12 grams per 100 milliliters of blood, per 210 liters of breath, or
+13 per 67 milliliters of urine or, beginning 5 years after the state
+14 treasurer publishes a certification under section 625(28), the
+15 person had an alcohol content of 0.02 grams or more but less than
+16 0.10 grams or more per 100 milliliters of blood, per 210 liters of
+17 breath, or per 67 milliliters of urine.
+18 (ii) Any presence of alcohol within a person's body resulting
+19 from the consumption of alcoholic liquor, other than the
+20 consumption of alcoholic liquor as a part of a generally recognized
+21 religious service or ceremony.
+22 (8) If a chemical test described in subsection (6) is
+23 administered, the test results must be made available to the person
+24 charged or the person's attorney upon written request to the
+25 prosecution, with a copy of the request filed with the court. The
+26 prosecution shall furnish the results at least 2 days before the
+27 day of the trial. The prosecution shall offer the test results as
+28 evidence in that trial. Failure to fully comply with the request
+29 bars the admission of the results into evidence by the prosecution.
+SCS H02293'25 (H-2) 031ced
+
+10
+1 (9) A person's refusal to submit to a chemical test as
+2 provided in subsection (6) is admissible in a criminal prosecution
+3 for a crime described in section 625c(1) only to show that a test
+4 was offered to the defendant, but not as evidence in determining
+5 the defendant's innocence or guilt. The jury must be instructed
+6 accordingly.
+7 (10) As used in this section:
+8 (a) "Controlled substance" means that term as defined in
+9 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+10 (b) "Intoxicating substance" means that term as defined in
+11 section 625.
+12 Sec. 625c. (1) A person who operates a vehicle upon a public
+13 highway or other place open to the general public or generally
+14 accessible to motor vehicles, including an area designated for the
+15 parking of vehicles, within this state is considered to have given
+16 consent to chemical tests of his or her the person's blood, breath,
+17 or urine, or other bodily fluid for the purpose of determining the
+18 amount of alcohol or presence of a controlled substance or other
+19 intoxicating substance, or any combination of them, in his or her
+20 the person's blood, or urine, or other bodily fluid or the amount
+21 of alcohol in his or her the person's breath in all of the
+22 following circumstances:
+23 (a) If the person is arrested for a violation of section
+24 625(1), (3), (4), (5), (6), (7), or (8), section 625a(5), or
+25 section 625m or a local ordinance substantially corresponding to
+26 section 625(1), (3), (6), or (8), section 625a(5), or section 625m.
+27 (b) If the person is arrested for a violation of section 601d,
+28 section 626(3) or (4), or manslaughter, or murder resulting from
+29 the operation of a motor vehicle, and the peace officer had
+SCS H02293'25 (H-2) 031ced
+
+11
+1 reasonable grounds to believe the person was operating the vehicle
+2 in violation of section 625.
+3 (2) A person who is afflicted with hemophilia, diabetes, or a
+4 condition requiring the use of an anticoagulant under the direction
+5 of a physician is not considered to have given consent to the
+6 withdrawal of blood.
+7 (3) The tests shall must be administered as provided in
+8 section 625a(6).
+9 (4) As used in this section:
+10 (a) "Controlled substance" means that term as defined in
+11 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+12 (b) "Intoxicating substance" means that term as defined in
+13 section 625.
+14 Sec. 625g. (1) If a person refuses a chemical test offered
+15 under section 625a(6), the peace officer who requested the person
+16 to submit to the chemical test shall comply with subdivisions (a)
+17 and (b). If a person submits to the chemical test or a chemical
+18 test is performed under a court order and the test reveals an
+19 unlawful alcohol content, or the presence of a controlled substance
+20 or other intoxicating substance, or any combination of them, the
+21 peace officer who requested the person to submit to the test shall
+22 do all of the following, other than subdivision (b)(i):
+23 (a) On behalf of the secretary of state, immediately
+24 confiscate the person's license or permit to operate a motor
+25 vehicle and, if the person is otherwise eligible for a license or
+26 permit, issue a temporary license or permit to the person. The
+27 temporary license or permit must be on a form provided by the
+28 secretary of state.
+29 (b) Except as provided in subsection (2), immediately do all
+SCS H02293'25 (H-2) 031ced
+
+12
+1 of the following:
+2 (i) Forward a copy of the written report of the person's
+3 refusal to submit to a chemical test required under section 625d to
+4 the secretary of state.
+5 (ii) Notify the secretary of state by means of the law
+6 enforcement information network that a temporary license or permit
+7 was issued to the person.
+8 (iii) Destroy the person's driver license or permit.
+9 (2) If a person submits to a chemical test offered under
+10 section 625a(6) that requires an analysis of blood, or urine, or
+11 other bodily fluid and a report of the results of that chemical
+12 test is not immediately available, the peace officer who requested
+13 the person to submit to the test shall comply with subsection
+14 (1)(a) and (b)(ii) and indicate in the notice under subsection
+15 (1)(b)(ii) that a subsequent chemical test is pending. If the report
+16 reveals an unlawful alcohol content, or the presence of a
+17 controlled substance or other intoxicating substance, or any
+18 combination of them, the peace officer who requested the person to
+19 submit to the test shall immediately comply with subsection
+20 (1)(b)(iii). If the report does not reveal an unlawful alcohol
+21 content, or the presence of a controlled substance or other
+22 intoxicating substance, or any combination of them, the peace
+23 officer who requested the person to submit to the test shall
+24 immediately notify the person of the test results and immediately
+25 return the person's license or permit by first-class mail to the
+26 address provided at the time of arrest.
+27 (3) A temporary license or permit issued under this section is
+28 valid for 1 of the following time periods:
+29 (a) If the case is not prosecuted, for the earlier of 90 days
+SCS H02293'25 (H-2) 031ced
+
+13
+1 after issuance or until the person's license or permit is suspended
+2 under section 625f. The prosecuting attorney shall notify the
+3 secretary of state if a case referred to the prosecuting attorney
+4 is not prosecuted. The arresting law enforcement agency shall
+5 notify the secretary of state if a case is not referred to the
+6 prosecuting attorney for prosecution.
+7 (b) If the case is prosecuted, until the criminal charges
+8 against the person are dismissed, the person is acquitted of those
+9 charges, or the person's license or permit is suspended,
+10 restricted, or revoked.
+11 (4) As used in this section:
+12 (a) "Controlled substance" means that term as defined in
+13 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+14 (b) "Intoxicating substance" means that term as defined in
+15 section 625.
+16 (c) "Unlawful alcohol content" means any of the following, as
+17 applicable:
+18 (i) If the person tested is less than 21 years of age, 0.02
+19 grams or more of alcohol per 100 milliliters of blood, per 210
+20 liters of breath, or per 67 milliliters of urine.
+21 (ii) If the person tested was operating a commercial motor
+22 vehicle within this state, 0.04 grams or more of alcohol per 100
+23 milliliters of blood, per 210 liters of breath, or per 67
+24 milliliters of urine.
+25 (iii) If the person tested is not a person described in
+26 subparagraph (i) or (ii), 0.08 grams or more of alcohol per 100
+27 milliliters of blood, per 210 liters of breath, or per 67
+28 milliliters of urine or, beginning 5 years after the state
+29 treasurer publishes a certification under section 625(28), 0.10
+SCS H02293'25 (H-2) 031ced
+
+14
+1 grams or more of alcohol per 100 milliliters of blood, per 210
+2 liters of breath, or per 67 milliliters of urine.
+3 Enacting section 1. This amendatory act takes effect 90 days
+4 after the date it is enacted into law.
+5 Enacting section 2. This amendatory act does not take effect
+6 unless House Bill No. 4390 of the 103rd Legislature is enacted into
+7 law.
+Final Page
+SCS H02293'25 (H-2) 031ced
+
+[DELETED:   H 0 S w ( p o i c]
+[DELETED:   H 0 ( p p h v s ( p o i t l a a p we c o d a r o o i t t t . c]
+[DELETED:   H 0 a ( p . ( a p a () c l e () o e a w () o e a w)]
+[DELETED:   H 0)  ( a r t p ( t u o ( c c o o o p T p u ( w]
+[DELETED:   H 0 a u m t i $ o ( w u r n ( a u o   o : ( sd  ue  b p u i o a p v ( m () t b o b u a t h]
+[DELETED:   H 0 o () p o o () i c o () r o() n t () d() o o g p d ( ue  ,o m O d p w b a s L w a]
+[DELETED:   H 0 d o a m ( a g s a a o i d c d a o c ( t t i f s t o a r t a]
+[DELETED:   H 0 c f s d ( t m e c c s t a ( r 1 c f   s s ( t e ( o s s (]
+[DELETED:   H 0 m 6 t p m m ( p b c () g p t p 0 b () f c r ( a c p p d e b]
+[DELETED:   H 0 ( p f w t a ( ( s ( s S h a p c b oe  a i ,, bd e  o b f ( 6 s s ( s t]
+[DELETED:   H 0 r i ( c o w ( b s ( ( s ( s S u t a t u o p d() ( c v p t s (]
+[DELETED:   H 0 o () r t () e w () ( sd ,   t t (() (() r c c s (() c i o i r a ( v (]
+[DELETED:   H 0 a u s i n p ( a c r ( ( s ( s ( a () g l () v m m () s()()i m m t]
+[DELETED:   H 0 g l E a E u l]

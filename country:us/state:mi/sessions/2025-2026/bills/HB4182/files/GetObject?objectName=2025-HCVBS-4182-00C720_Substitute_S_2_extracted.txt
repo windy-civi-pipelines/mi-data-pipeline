@@ -1,0 +1,360 @@
+Title: HOUSE BILL NO. 4182
+Official Title: HOUSE BILL NO. 4182
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending section 21 (MCL 205.111), as amended by 2023 PA 175,
+and by adding section 4gg.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 4gg. (1) Beginning January 1, 2026, the storage, use, or
+2 consumption of eligible fuel is exempt from the tax under this act.
+3 (2) As used in this section:
+4 (a) "Alternative fuel" means that term as defined in section
+5 151 of the motor fuel tax act, 2000 PA 403, MCL 207.1151.
+6 (b) "Eligible fuel" means motor fuel, alternative fuel, and
+7 leaded racing fuel, except that eligible fuel does not include any
+8 of the following:
+ERE H00188'25 (S-2) qrov1n
+2
+1 (i) Motor fuel that is sold for use in aircraft if the
+2 purchaser paid the privilege tax imposed by section 203 of the
+3 aeronautics code of the state of Michigan, 1945 PA 327, MCL
+4 259.203, on the motor fuel and the purchaser is registered under
+5 section 94 of the motor fuel tax act, 2000 PA 403, MCL 207.1094, if
+6 required to be registered under that section.
+7 (ii) Aviation fuel on which the privilege tax is due under
+8 section 203 of the aeronautics code of the state of Michigan, 1945
+9 PA 327, MCL 259.203.
+10 (iii) Motor fuel on which the privilege tax imposed under
+11 section 203 of the aeronautics code of the state of Michigan, 1945
+12 PA 327, MCL 259.203, has been paid and that is identified on the
+13 shipping paper or invoice as aviation fuel and sold as aviation
+14 fuel.
+15 (iv) Motor fuel or alternative fuel sold for residential,
+16 commercial, or industrial use for heating, cooling, or ventilation
+17 purposes, such as for use in home or building utility systems,
+18 furnaces, boilers, space heaters, water heaters, dryers and similar
+19 appliances, and heat pumps, including, but not limited to, motor
+20 fuel or alternative fuel that is exempt from the use tax at the
+21 additional rate of 2% approved by the electors on March 15, 1994
+22 under section 4n.
+23 (v) Liquified petroleum gas, unless the liquified petroleum
+24 gas is used or for use as those terms are defined in section 151(j)
+25 of the motor fuel tax act, 2000 PA 403, MCL 207.1151.
+26 (c) "Leaded racing fuel" means that term as defined in section
+27 4 of the motor fuel tax act, 2000 PA 403, MCL 207.1004.
+28 (d) "Liquified petroleum gas" means that term as defined in
+29 section 151 of the motor fuel tax act, 2000 PA 403, MCL 207.1151.
+ERE H00188'25 (S-2) qrov1n
+3
+1 (e) "Motor fuel" means that term as defined in section 4 of
+2 the motor fuel tax act, 2000 PA 403, MCL 207.1004.
+3 Sec. 21. (1) Except as otherwise provided in this section, all
+4 money received and collected under this act must be deposited by
+5 the department of treasury in the state treasury to the credit of
+6 the general fund, to be disbursed only by appropriations by the
+7 legislature.
+8 (2) The collections from the use tax imposed at the additional
+9 rate of 2% approved by the electors on March 15, 1994 must be
+10 deposited in the state school aid fund.
+11 (3) In addition to the money deposited in the state school aid
+12 fund under subsection (2), from the money received and collected
+13 under this act for the state share, an amount equal to the sum of
+14 the following, as determined by the department, must be deposited
+15 in the state school aid fund:
+16 (a) All revenue lost under the state education tax act, 1993
+17 PA 331, MCL 211.901 to 211.906, as a result of the exemption of
+18 personal property under sections 9m, 9n, and 9o of the general
+19 property tax act, 1893 PA 206, MCL 211.9m, 211.9n, and 211.9o.
+20 (b) All revenue lost from basic school operating mills as a
+21 result of the exemption of personal property under sections 9m, 9n,
+22 and 9o of the general property tax act, 1893 PA 206, MCL 211.9m,
+23 211.9n, and 211.9o.
+24 (c) All revenue lost to the state school aid fund as a result
+25 of the exemption under section 4(1)(gg).
+26 (d) All revenue lost to the state school aid fund as a result
+27 of the exemption under section 4cc. A person that claims an
+28 exemption under section 4cc shall report the purchase price of the
+29 data center equipment as that term is defined in section 4cc and
+ERE H00188'25 (S-2) qrov1n
+4
+1 any other information necessary to determine the amount of revenue
+2 lost to the state school aid fund as a result of the exemption
+3 under section 4cc annually on a form at the time and in a manner
+4 prescribed by the department. The report required under this
+5 subdivision must not include any remittance for tax and does not
+6 constitute a return or otherwise alleviate the person's obligations
+7 under section 6.
+8 (e) All revenue lost to the state school aid fund as a result
+9 of the exclusion under section 2(1)(f)(xv).
+10 (4) Money received and collected under this act for the local
+11 community stabilization share is not state funds, must not be
+12 credited to the state treasury, and must be transmitted to the
+13 authority for deposit in the treasury of the authority, to be
+14 disbursed by the authority only as authorized under the local
+15 community stabilization authority act, 2014 PA 86, MCL 123.1341 to
+16 123.1362. The local community stabilization share is a local tax,
+17 not a state tax, and money received and collected for the local
+18 community stabilization share is money of the authority and not
+19 money of this state.
+20 (5) Beginning October 1, 2016 and the first day of each
+21 calendar quarter thereafter, from the money received and collected
+22 under this act for the state share, an amount equal to the
+23 collections for the calendar quarter that is 2 calendar quarters
+24 immediately preceding the current calendar quarter of the tax
+25 imposed under this act at the additional rate of 2% approved by the
+26 electors on March 15, 1994 from the use, storage, or consumption of
+27 aviation fuel must be distributed as follows:
+28 (a) An amount equal to 35% of the collections of the tax
+29 imposed at a rate of 2% on the use, storage, or consumption of
+ERE H00188'25 (S-2) qrov1n
+5
+1 aviation fuel must be deposited in the state aeronautics fund and
+2 must be expended, on appropriation, only for those purposes
+3 authorized in the aeronautics code of the state of Michigan, 1945
+4 PA 327, MCL 259.1 to 259.208.
+5 (b) An amount equal to 65% of the collections of the tax
+6 imposed at a rate of 2% on the use, storage, or consumption of
+7 aviation fuel must be deposited in the qualified airport fund and
+8 must be expended, on appropriation, only for those purposes
+9 authorized under section 35 of the aeronautics code of the state of
+10 Michigan, 1945 PA 327, MCL 259.35.
+11 (6) The department shall, on an annual basis, reconcile the
+12 amounts distributed under subsection (5) during each fiscal year
+13 with the amounts actually collected for a particular fiscal year
+14 and shall make any necessary adjustments, positive or negative, to
+15 the amounts to be distributed for the next successive calendar
+16 quarter that begins January 1. The state treasurer or the state
+17 treasurer's designee shall annually provide to the operator of each
+18 qualified airport a report of the reconciliation performed under
+19 this subsection. The reconciliation report is subject to the
+20 confidentiality restrictions and penalties provided in section
+21 28(1)(f) of 1941 PA 122, MCL 205.28.
+22 (7) Beginning with the fiscal year ending September 30, 2024
+23 and each fiscal year thereafter, from the money received and
+24 collected under this act for the state share, $75,000,000.00 must
+25 be deposited into the local government reimbursement fund created
+26 in section 3a of the Michigan trust fund act, 2000 PA 489, MCL
+27 12.253a.
+28 (8) As used in this section:
+29 (a) "Aviation fuel" means fuel as that term is defined in
+ERE H00188'25 (S-2) qrov1n
+6
+1 section 4 of the aeronautics code of the state of Michigan, 1945 PA
+2 327, MCL 259.4.
+3 (b) "Qualified airport" means that term as defined in section
+4 109 of the aeronautics code of the state of Michigan, 1945 PA 327,
+5 MCL 259.109.
+6 (c) "Qualified airport fund" means the qualified airport fund
+7 created in section 34(2) of the aeronautics code of the state of
+8 Michigan, 1945 PA 327, MCL 259.34.
+9 (d) "State aeronautics fund" means the state aeronautics fund
+10 created in section 34(1) of the aeronautics code of the state of
+11 Michigan, 1945 PA 327, MCL 259.34.
+12 (e) "State school aid fund" means the state school aid fund
+13 established in section 11 of article IX of the state constitution
+14 of 1963.
+15 Enacting section 1. This amendatory act does not take effect
+16 unless all of the following bills of the 103rd Legislature are
+17 enacted into law:
+18 (a) Senate Bill No. 578.
+19 (b) House Bill No. 4180.
+20 (c) House Bill No. 4181.
+21 (d) House Bill No. 4183.
+Final Page
+ERE H00188'25 (S-2) qrov1n
+[DELETED:   H q ]
+[DELETED:   H q)))))]
+[DELETED:   H q S m t t l ( r d ( f u t i ( P p p ( r a 2 ( o ( o e d d]
+[DELETED:   H q a l u p s c u ( o() ( c c a d c 1 n c m ( c u c i i e a ( i]
+[DELETED:   H q a m a P ( i a m a M ( a w a t q t q t c 2 ( a c b i 1 ( (]
+[DELETED:   H q s 3 ( 1 M ( c M ( c M ( e o E u e ( ( ( (]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4182
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending section 21 (MCL 205.111), as amended by 2023 PA 175,
+and by adding section 4gg.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 4gg. (1) Beginning January 1, 2026, the storage, use, or
+2 consumption of eligible fuel is exempt from the tax under this act.
+3 (2) As used in this section:
+4 (a) "Alternative fuel" means that term as defined in section
+5 151 of the motor fuel tax act, 2000 PA 403, MCL 207.1151.
+6 (b) "Eligible fuel" means motor fuel, alternative fuel, and
+7 leaded racing fuel, except that eligible fuel does not include any
+8 of the following:
+ERE H00188'25 (S-2) qrov1n
+
+2
+1 (i) Motor fuel that is sold for use in aircraft if the
+2 purchaser paid the privilege tax imposed by section 203 of the
+3 aeronautics code of the state of Michigan, 1945 PA 327, MCL
+4 259.203, on the motor fuel and the purchaser is registered under
+5 section 94 of the motor fuel tax act, 2000 PA 403, MCL 207.1094, if
+6 required to be registered under that section.
+7 (ii) Aviation fuel on which the privilege tax is due under
+8 section 203 of the aeronautics code of the state of Michigan, 1945
+9 PA 327, MCL 259.203.
+10 (iii) Motor fuel on which the privilege tax imposed under
+11 section 203 of the aeronautics code of the state of Michigan, 1945
+12 PA 327, MCL 259.203, has been paid and that is identified on the
+13 shipping paper or invoice as aviation fuel and sold as aviation
+14 fuel.
+15 (iv) Motor fuel or alternative fuel sold for residential,
+16 commercial, or industrial use for heating, cooling, or ventilation
+17 purposes, such as for use in home or building utility systems,
+18 furnaces, boilers, space heaters, water heaters, dryers and similar
+19 appliances, and heat pumps, including, but not limited to, motor
+20 fuel or alternative fuel that is exempt from the use tax at the
+21 additional rate of 2% approved by the electors on March 15, 1994
+22 under section 4n.
+23 (v) Liquified petroleum gas, unless the liquified petroleum
+24 gas is used or for use as those terms are defined in section 151(j)
+25 of the motor fuel tax act, 2000 PA 403, MCL 207.1151.
+26 (c) "Leaded racing fuel" means that term as defined in section
+27 4 of the motor fuel tax act, 2000 PA 403, MCL 207.1004.
+28 (d) "Liquified petroleum gas" means that term as defined in
+29 section 151 of the motor fuel tax act, 2000 PA 403, MCL 207.1151.
+ERE H00188'25 (S-2) qrov1n
+
+3
+1 (e) "Motor fuel" means that term as defined in section 4 of
+2 the motor fuel tax act, 2000 PA 403, MCL 207.1004.
+3 Sec. 21. (1) Except as otherwise provided in this section, all
+4 money received and collected under this act must be deposited by
+5 the department of treasury in the state treasury to the credit of
+6 the general fund, to be disbursed only by appropriations by the
+7 legislature.
+8 (2) The collections from the use tax imposed at the additional
+9 rate of 2% approved by the electors on March 15, 1994 must be
+10 deposited in the state school aid fund.
+11 (3) In addition to the money deposited in the state school aid
+12 fund under subsection (2), from the money received and collected
+13 under this act for the state share, an amount equal to the sum of
+14 the following, as determined by the department, must be deposited
+15 in the state school aid fund:
+16 (a) All revenue lost under the state education tax act, 1993
+17 PA 331, MCL 211.901 to 211.906, as a result of the exemption of
+18 personal property under sections 9m, 9n, and 9o of the general
+19 property tax act, 1893 PA 206, MCL 211.9m, 211.9n, and 211.9o.
+20 (b) All revenue lost from basic school operating mills as a
+21 result of the exemption of personal property under sections 9m, 9n,
+22 and 9o of the general property tax act, 1893 PA 206, MCL 211.9m,
+23 211.9n, and 211.9o.
+24 (c) All revenue lost to the state school aid fund as a result
+25 of the exemption under section 4(1)(gg).
+26 (d) All revenue lost to the state school aid fund as a result
+27 of the exemption under section 4cc. A person that claims an
+28 exemption under section 4cc shall report the purchase price of the
+29 data center equipment as that term is defined in section 4cc and
+ERE H00188'25 (S-2) qrov1n
+
+4
+1 any other information necessary to determine the amount of revenue
+2 lost to the state school aid fund as a result of the exemption
+3 under section 4cc annually on a form at the time and in a manner
+4 prescribed by the department. The report required under this
+5 subdivision must not include any remittance for tax and does not
+6 constitute a return or otherwise alleviate the person's obligations
+7 under section 6.
+8 (e) All revenue lost to the state school aid fund as a result
+9 of the exclusion under section 2(1)(f)(xv).
+10 (4) Money received and collected under this act for the local
+11 community stabilization share is not state funds, must not be
+12 credited to the state treasury, and must be transmitted to the
+13 authority for deposit in the treasury of the authority, to be
+14 disbursed by the authority only as authorized under the local
+15 community stabilization authority act, 2014 PA 86, MCL 123.1341 to
+16 123.1362. The local community stabilization share is a local tax,
+17 not a state tax, and money received and collected for the local
+18 community stabilization share is money of the authority and not
+19 money of this state.
+20 (5) Beginning October 1, 2016 and the first day of each
+21 calendar quarter thereafter, from the money received and collected
+22 under this act for the state share, an amount equal to the
+23 collections for the calendar quarter that is 2 calendar quarters
+24 immediately preceding the current calendar quarter of the tax
+25 imposed under this act at the additional rate of 2% approved by the
+26 electors on March 15, 1994 from the use, storage, or consumption of
+27 aviation fuel must be distributed as follows:
+28 (a) An amount equal to 35% of the collections of the tax
+29 imposed at a rate of 2% on the use, storage, or consumption of
+ERE H00188'25 (S-2) qrov1n
+
+5
+1 aviation fuel must be deposited in the state aeronautics fund and
+2 must be expended, on appropriation, only for those purposes
+3 authorized in the aeronautics code of the state of Michigan, 1945
+4 PA 327, MCL 259.1 to 259.208.
+5 (b) An amount equal to 65% of the collections of the tax
+6 imposed at a rate of 2% on the use, storage, or consumption of
+7 aviation fuel must be deposited in the qualified airport fund and
+8 must be expended, on appropriation, only for those purposes
+9 authorized under section 35 of the aeronautics code of the state of
+10 Michigan, 1945 PA 327, MCL 259.35.
+11 (6) The department shall, on an annual basis, reconcile the
+12 amounts distributed under subsection (5) during each fiscal year
+13 with the amounts actually collected for a particular fiscal year
+14 and shall make any necessary adjustments, positive or negative, to
+15 the amounts to be distributed for the next successive calendar
+16 quarter that begins January 1. The state treasurer or the state
+17 treasurer's designee shall annually provide to the operator of each
+18 qualified airport a report of the reconciliation performed under
+19 this subsection. The reconciliation report is subject to the
+20 confidentiality restrictions and penalties provided in section
+21 28(1)(f) of 1941 PA 122, MCL 205.28.
+22 (7) Beginning with the fiscal year ending September 30, 2024
+23 and each fiscal year thereafter, from the money received and
+24 collected under this act for the state share, $75,000,000.00 must
+25 be deposited into the local government reimbursement fund created
+26 in section 3a of the Michigan trust fund act, 2000 PA 489, MCL
+27 12.253a.
+28 (8) As used in this section:
+29 (a) "Aviation fuel" means fuel as that term is defined in
+ERE H00188'25 (S-2) qrov1n
+
+6
+1 section 4 of the aeronautics code of the state of Michigan, 1945 PA
+2 327, MCL 259.4.
+3 (b) "Qualified airport" means that term as defined in section
+4 109 of the aeronautics code of the state of Michigan, 1945 PA 327,
+5 MCL 259.109.
+6 (c) "Qualified airport fund" means the qualified airport fund
+7 created in section 34(2) of the aeronautics code of the state of
+8 Michigan, 1945 PA 327, MCL 259.34.
+9 (d) "State aeronautics fund" means the state aeronautics fund
+10 created in section 34(1) of the aeronautics code of the state of
+11 Michigan, 1945 PA 327, MCL 259.34.
+12 (e) "State school aid fund" means the state school aid fund
+13 established in section 11 of article IX of the state constitution
+14 of 1963.
+15 Enacting section 1. This amendatory act does not take effect
+16 unless all of the following bills of the 103rd Legislature are
+17 enacted into law:
+18 (a) Senate Bill No. 578.
+19 (b) House Bill No. 4180.
+20 (c) House Bill No. 4181.
+21 (d) House Bill No. 4183.
+Final Page
+ERE H00188'25 (S-2) qrov1n
+
+[DELETED:   H q ]
+[DELETED:   H q)))))]
+[DELETED:   H q S m t t l ( r d ( f u t i ( P p p ( r a 2 ( o ( o e d d]
+[DELETED:   H q a l u p s c u ( o() ( c c a d c 1 n c m ( c u c i i e a ( i]
+[DELETED:   H q a m a P ( i a m a M ( a w a t q t q t c 2 ( a c b i 1 ( (]
+[DELETED:   H q s 3 ( 1 M ( c M ( c M ( e o E u e ( ( ( (]

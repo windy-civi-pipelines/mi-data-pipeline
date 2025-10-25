@@ -1,0 +1,545 @@
+Title: HOUSE BILL NO. 4047
+Official Title: HOUSE BILL NO. 4047
+Number of Sections: 1
+Source: versions - Substitute (S-3) - 5
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to impose civil liability and prescribe criminal
+penalties for the nonconsensual creation or dissemination of deep
+fake sexual images; and to provide for remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "protection from intimate
+2 deep fakes act".
+3 Sec. 2. As used in this act:
+4 (a) "Deep fake" means a video recording, motion-picture film,
+5 sound recording, electronic image, or photograph, or a
+6 technological representation of speech or conduct substantially
+7 derivative of such a recording, film, image, or photograph, that is
+8 not an original recording of an actual occurrence or an original
+9 photograph without substantial modification to which both of the
+TDR H00831'25 (S-3) nzkuot
+2
+1 following apply:
+2 (i) It is so realistic that a reasonable person would believe
+3 it depicts speech or conduct of a depicted individual.
+4 (ii) The production of it was substantially dependent on
+5 technical means, rather than the ability of another individual to
+6 physically or verbally impersonate the depicted individual.
+7 (b) "Depicted individual" means an individual in a deep fake
+8 who is identifiable by virtue of the person's face, likeness, or
+9 other distinguishing characteristic.
+10 (c) "Dissemination" means distribution to 1 or more persons,
+11 other than the individual depicted in the deep fake, or publication
+12 by any publicly available medium.
+13 (d) "Harass" means an act that would cause a substantial
+14 adverse effect on the safety, security, or privacy of a reasonable
+15 person.
+16 (e) "Intimate parts" means an individual's genitalia or anus
+17 or, if the individual is a female, her nipple.
+18 (f) "Personal information" means any identifier that permits
+19 communication or in-person contact with an individual. Personal
+20 information includes, but is not limited to, all of the following:
+21 (i) The individual's first and last name, first initial and
+22 last name, first name and last initial, or nickname.
+23 (ii) The individual's home, school, or work address.
+24 (iii) The individual's telephone number, email address, or
+25 social media account information.
+26 (iv) The individual's geolocation data.
+27 (g) "Sexual act" means either sexual contact or sexual
+28 penetration.
+29 (h) "Sexual contact" means the intentional touching of
+TDR H00831'25 (S-3) nzkuot
+3
+1 intimate parts or intentional touching with seminal fluid onto
+2 another individual's body.
+3 (i) "Sexual penetration" means any of the following acts:
+4 (i) Sexual intercourse, cunnilingus, fellatio, or anal
+5 intercourse.
+6 (ii) An intrusion, however slight, into the genital or anal
+7 openings of an individual by another's body part or an object used
+8 by another for this purpose.
+9 (j) "Social media" means any electronic medium, including an
+10 interactive computer service, telephone network, or data network,
+11 that allows users to create, share, and view user-generated
+12 content.
+13 Sec. 3. A depicted individual or a person representing the
+14 depicted individual may bring a civil action against a person for
+15 the nonconsensual creation or dissemination of a deep fake if all
+16 of the following apply:
+17 (a) The person who created or disseminated the deep fake knew
+18 or reasonably should have known that the creation, distribution, or
+19 reproduction of the deep fake would cause physical, emotional,
+20 reputational, or economic harm to an individual falsely depicted;
+21 or created or disseminated the deep fake in order to harass,
+22 extort, threaten, or cause physical, emotional, reputational, or
+23 economic harm to an individual falsely depicted.
+24 (b) The deep fake realistically depicts any of the following:
+25 (i) The intimate parts of the depicted individual.
+26 (ii) The depicted individual engaging in a sexual act.
+27 (c) The depicted individual is identifiable in either of the
+28 following ways:
+29 (i) From the deep fake itself, by the depicted individual or by
+TDR H00831'25 (S-3) nzkuot
+4
+1 a reasonable individual viewing or listening to the deep fake.
+2 (ii) From the personal information displayed in connection with
+3 the deep fake.
+4 Sec. 4. (1) A cause of action under section 3 accrues at the
+5 time that the depicted individual discovers that the deep fake has
+6 been created or disseminated.
+7 (2) An action under section 3 may be filed in either of the
+8 following:
+9 (a) The county where the defendant or the plaintiff resides.
+10 (b) The county where the deep fake was produced, reproduced,
+11 or stored.
+12 (3) The court shall allow confidential filings to protect the
+13 privacy of the plaintiff in an action under section 3. In ordering
+14 relief under this subsection, the court may grant injunctive relief
+15 to maintain the confidentiality of the plaintiff using a pseudonym.
+16 Sec. 5. (1) It is not a defense to an action under section 3
+17 that the depicted individual consented to the creation or
+18 possession of the deep fake or to the voluntary private or public
+19 transmission of the deep fake unless both of the following apply:
+20 (a) The consent is contained in an agreement written in plain
+21 language signed knowingly and voluntarily by the depicted
+22 individual.
+23 (b) The consent includes a general description of the intimate
+24 digital depiction and, if applicable, the audiovisual work into
+25 which it will be incorporated.
+26 (2) It is a defense to an action under section 3 that 1 or
+27 more of the following apply:
+28 (a) The creation or dissemination was made for the purpose of
+29 a criminal investigation or prosecution that is otherwise lawful.
+TDR H00831'25 (S-3) nzkuot
+5
+1 (b) The creation or dissemination was for the purpose of, or
+2 in connection with, the reporting of unlawful conduct.
+3 (c) The creation or dissemination was made in the course of
+4 seeking or receiving medical or mental health treatment, and the
+5 image is protected from further dissemination.
+6 (d) The deep fake related to a matter of public interest, the
+7 creation or dissemination served a lawful public purpose, the
+8 person creating or disseminating the deep fake as a matter of
+9 public interest clearly identified that the video recording,
+10 motion-picture film, sound recording, electronic image, photograph,
+11 or other item was a deep fake, and the person acted in good faith
+12 to prevent further dissemination of the deep fake.
+13 (e) The creation or dissemination was made for legal
+14 proceedings and was consistent with common practice in civil
+15 proceedings necessary for the proper functioning of the civil
+16 justice system, or protected by court order that prohibited any
+17 further dissemination.
+18 Sec. 6. (1) In an action under section 3, the plaintiff may
+19 recover all of the following damages from a person found liable:
+20 (a) Economic and noneconomic damages, including, but not
+21 limited to, financial losses because of the creation or
+22 dissemination of the deep fake and damages for mental anguish,
+23 embarrassment, and humiliation.
+24 (b) An amount equal to any profit made from the creation or
+25 dissemination of the deep fake by the person found liable.
+26 (c) Actual court costs and fees and reasonable attorney fees.
+27 (2) In an action under section 3, the court may enter a
+28 temporary restraining order or a permanent injunction to prevent
+29 further harm to the plaintiff. The court may award the plaintiff a
+TDR H00831'25 (S-3) nzkuot
+6
+1 civil fine for the violation of an order entered under this
+2 subsection of not more than $1,000.00 per day.
+3 Sec. 7. (1) Sections 3 to 6 must not be construed to impose
+4 liability on the following entities for providing the transmission
+5 infrastructure or access to content created by another person:
+6 (a) An interactive computer service as defined in 47 USC
+7 230(f)(2).
+8 (b) A provider of public mobile services or private radio
+9 services.
+10 (c) A telecommunications network or broadband provider.
+11 (d) A provider or developer of a technology used in the
+12 creation of a deep fake, if the technology is not designed for,
+13 marketed for, or deployed for the nonconsensual creation or
+14 dissemination of deep fakes that realistically depict the intimate
+15 parts of depicted individuals or depicted individuals engaging in
+16 sexual acts, and if the provider or developer has prohibited
+17 explicit deep fake content in accordance with the provider's or
+18 developer's terms of service.
+19 (2) Liability under sections 3 to 6 does not affect any other
+20 remedy available under law.
+21 Sec. 8. (1) An individual shall not intentionally create or
+22 disseminate a deep fake if all of the following apply:
+23 (a) The individual knew or reasonably should have known that
+24 the creation, distribution, dissemination, or reproduction of the
+25 deep fake would cause physical, emotional, reputational, or
+26 economic harm to an individual falsely depicted.
+27 (b) The deep fake realistically depicts any of the following:
+28 (i) The intimate parts of the depicted individual.
+29 (ii) The depicted individual engaging in a sexual act.
+TDR H00831'25 (S-3) nzkuot
+7
+1 (c) The depicted individual is identifiable in either of the
+2 following ways:
+3 (i) From the deep fake itself, by the depicted individual or by
+4 a reasonable individual viewing or listening to the deep fake.
+5 (ii) From the personal information displayed in connection with
+6 the deep fake.
+7 (2) Except as provided in subsection (3), an individual who
+8 violates subsection (1) is guilty of a misdemeanor punishable by
+9 imprisonment for not more than 1 year, a fine of not more than
+10 $3,000.00, or both.
+11 (3) An individual who violates subsection (1) is guilty of a
+12 felony punishable by imprisonment for not more than 3 years, a fine
+13 of not more than $5,000.00, or both, if 1 or more of the following
+14 apply:
+15 (a) The depicted individual suffers financial loss because of
+16 the creation or dissemination of the deep fake.
+17 (b) The individual creates or disseminates the deep fake with
+18 intent to profit from the dissemination.
+19 (c) The individual maintains an internet website, online
+20 service, online application, or mobile application for the purpose
+21 of creating or disseminating the deep fake.
+22 (d) The individual posts the deep fake on a website.
+23 (e) The individual creates or disseminates the deep fake with
+24 intent to harass, extort, threaten, or cause physical, emotional,
+25 reputational, or economic harm to the depicted individual.
+26 (f) The individual has previously been convicted of violating
+27 subsection (1).
+28 (4) It is not a defense to a prosecution under this section
+29 that the depicted individual consented to the creation or
+TDR H00831'25 (S-3) nzkuot
+8
+1 possession of the deep fake, or to the voluntary private or public
+2 transmission of the deep fake, unless both of the following apply:
+3 (a) The consent is contained in an agreement written in plain
+4 language signed knowingly and voluntarily by the depicted
+5 individual.
+6 (b) The consent includes a general description of the intimate
+7 digital depiction and, if applicable, the audiovisual work into
+8 which it will be incorporated.
+9 (5) This section does not apply if any of the following apply:
+10 (a) The creation or dissemination is made for the purpose of a
+11 criminal investigation or prosecution that is otherwise lawful.
+12 (b) The creation or dissemination is for the purpose of, or in
+13 connection with, the reporting of unlawful conduct.
+14 (c) The creation or dissemination is made in the course of
+15 seeking or receiving medical or mental health treatment, and the
+16 image is protected from further dissemination.
+17 (d) The deep fake relates to a matter of public interest and
+18 creation or dissemination serves a lawful public purpose.
+19 (e) The creation or dissemination is made for legal
+20 proceedings and is consistent with common practice in civil
+21 proceedings necessary for the proper functioning of the civil
+22 justice system, or protected by court order that prohibits any
+23 further dissemination.
+24 (6) This section must not be construed to impose liability on
+25 the following entities for providing the transmission
+26 infrastructure or access to content created by another person:
+27 (a) An interactive computer service as defined in 47 USC
+28 230(f)(2).
+29 (b) A provider of public mobile services or private radio
+TDR H00831'25 (S-3) nzkuot
+9
+1 services.
+2 (c) A telecommunications network or broadband provider.
+3 (d) A provider or developer of a technology used in the
+4 creation of a deep fake, if the technology is not designed for,
+5 marketed for, or deployed for the nonconsensual creation or
+6 dissemination of deep fakes that realistically depict the intimate
+7 parts of depicted individuals or depicted individuals engaging in
+8 sexual acts, and if the provider or developer has prohibited
+9 explicit deep fake content in accordance with the provider's or
+10 developer's terms of service.
+11 Sec. 9. (1) This act does not affect the ability to bring a
+12 civil action under any other law.
+13 (2) This act does not limit the ability to prosecute a person
+14 under any other law.
+15 Sec. 10. As provided in section 5 of 1846 RS 1, MCL 8.5, this
+16 act is severable.
+Final Page
+TDR H00831'25 (S-3) nzkuot
+[DELETED:   H n S d S ( s t d n p]
+[DELETED:   H n f () i () t p ( w o ( o b ( a p ( o ( c i () l () () s () ( p (]
+[DELETED:   H n i a ( () i () o b ( i t c S d t o ( o r r o e e ( () () ( f ()]
+[DELETED:   H n a () t S t b ( f ( ( o ( p r t S t p t ( l i ( d w ( m ( a]
+[DELETED:   H n ( i ( s i ( c p p m o t ( p p j f S r ( l d e ( d ( ( t f]
+[DELETED:   H n c s S l i ( 2 ( s ( ( c m d p s e d ( r S d ( t d e ( () ()]
+[DELETED:   H n ( f () a () t ( v i $ ( f o a ( t ( i ( s o ( ( i r ( s ( t]
+[DELETED:   H n p t ( l i ( d w ( ( c ( c ( s i ( c ( p p j f ( t i ( 2 (]
+[DELETED:   H n s ( ( c m d p s e d S c ( u S a]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4047
+A bill to impose civil liability and prescribe criminal
+penalties for the nonconsensual creation or dissemination of deep
+fake sexual images; and to provide for remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "protection from intimate
+2 deep fakes act".
+3 Sec. 2. As used in this act:
+4 (a) "Deep fake" means a video recording, motion-picture film,
+5 sound recording, electronic image, or photograph, or a
+6 technological representation of speech or conduct substantially
+7 derivative of such a recording, film, image, or photograph, that is
+8 not an original recording of an actual occurrence or an original
+9 photograph without substantial modification to which both of the
+TDR H00831'25 (S-3) nzkuot
+
+2
+1 following apply:
+2 (i) It is so realistic that a reasonable person would believe
+3 it depicts speech or conduct of a depicted individual.
+4 (ii) The production of it was substantially dependent on
+5 technical means, rather than the ability of another individual to
+6 physically or verbally impersonate the depicted individual.
+7 (b) "Depicted individual" means an individual in a deep fake
+8 who is identifiable by virtue of the person's face, likeness, or
+9 other distinguishing characteristic.
+10 (c) "Dissemination" means distribution to 1 or more persons,
+11 other than the individual depicted in the deep fake, or publication
+12 by any publicly available medium.
+13 (d) "Harass" means an act that would cause a substantial
+14 adverse effect on the safety, security, or privacy of a reasonable
+15 person.
+16 (e) "Intimate parts" means an individual's genitalia or anus
+17 or, if the individual is a female, her nipple.
+18 (f) "Personal information" means any identifier that permits
+19 communication or in-person contact with an individual. Personal
+20 information includes, but is not limited to, all of the following:
+21 (i) The individual's first and last name, first initial and
+22 last name, first name and last initial, or nickname.
+23 (ii) The individual's home, school, or work address.
+24 (iii) The individual's telephone number, email address, or
+25 social media account information.
+26 (iv) The individual's geolocation data.
+27 (g) "Sexual act" means either sexual contact or sexual
+28 penetration.
+29 (h) "Sexual contact" means the intentional touching of
+TDR H00831'25 (S-3) nzkuot
+
+3
+1 intimate parts or intentional touching with seminal fluid onto
+2 another individual's body.
+3 (i) "Sexual penetration" means any of the following acts:
+4 (i) Sexual intercourse, cunnilingus, fellatio, or anal
+5 intercourse.
+6 (ii) An intrusion, however slight, into the genital or anal
+7 openings of an individual by another's body part or an object used
+8 by another for this purpose.
+9 (j) "Social media" means any electronic medium, including an
+10 interactive computer service, telephone network, or data network,
+11 that allows users to create, share, and view user-generated
+12 content.
+13 Sec. 3. A depicted individual or a person representing the
+14 depicted individual may bring a civil action against a person for
+15 the nonconsensual creation or dissemination of a deep fake if all
+16 of the following apply:
+17 (a) The person who created or disseminated the deep fake knew
+18 or reasonably should have known that the creation, distribution, or
+19 reproduction of the deep fake would cause physical, emotional,
+20 reputational, or economic harm to an individual falsely depicted;
+21 or created or disseminated the deep fake in order to harass,
+22 extort, threaten, or cause physical, emotional, reputational, or
+23 economic harm to an individual falsely depicted.
+24 (b) The deep fake realistically depicts any of the following:
+25 (i) The intimate parts of the depicted individual.
+26 (ii) The depicted individual engaging in a sexual act.
+27 (c) The depicted individual is identifiable in either of the
+28 following ways:
+29 (i) From the deep fake itself, by the depicted individual or by
+TDR H00831'25 (S-3) nzkuot
+
+4
+1 a reasonable individual viewing or listening to the deep fake.
+2 (ii) From the personal information displayed in connection with
+3 the deep fake.
+4 Sec. 4. (1) A cause of action under section 3 accrues at the
+5 time that the depicted individual discovers that the deep fake has
+6 been created or disseminated.
+7 (2) An action under section 3 may be filed in either of the
+8 following:
+9 (a) The county where the defendant or the plaintiff resides.
+10 (b) The county where the deep fake was produced, reproduced,
+11 or stored.
+12 (3) The court shall allow confidential filings to protect the
+13 privacy of the plaintiff in an action under section 3. In ordering
+14 relief under this subsection, the court may grant injunctive relief
+15 to maintain the confidentiality of the plaintiff using a pseudonym.
+16 Sec. 5. (1) It is not a defense to an action under section 3
+17 that the depicted individual consented to the creation or
+18 possession of the deep fake or to the voluntary private or public
+19 transmission of the deep fake unless both of the following apply:
+20 (a) The consent is contained in an agreement written in plain
+21 language signed knowingly and voluntarily by the depicted
+22 individual.
+23 (b) The consent includes a general description of the intimate
+24 digital depiction and, if applicable, the audiovisual work into
+25 which it will be incorporated.
+26 (2) It is a defense to an action under section 3 that 1 or
+27 more of the following apply:
+28 (a) The creation or dissemination was made for the purpose of
+29 a criminal investigation or prosecution that is otherwise lawful.
+TDR H00831'25 (S-3) nzkuot
+
+5
+1 (b) The creation or dissemination was for the purpose of, or
+2 in connection with, the reporting of unlawful conduct.
+3 (c) The creation or dissemination was made in the course of
+4 seeking or receiving medical or mental health treatment, and the
+5 image is protected from further dissemination.
+6 (d) The deep fake related to a matter of public interest, the
+7 creation or dissemination served a lawful public purpose, the
+8 person creating or disseminating the deep fake as a matter of
+9 public interest clearly identified that the video recording,
+10 motion-picture film, sound recording, electronic image, photograph,
+11 or other item was a deep fake, and the person acted in good faith
+12 to prevent further dissemination of the deep fake.
+13 (e) The creation or dissemination was made for legal
+14 proceedings and was consistent with common practice in civil
+15 proceedings necessary for the proper functioning of the civil
+16 justice system, or protected by court order that prohibited any
+17 further dissemination.
+18 Sec. 6. (1) In an action under section 3, the plaintiff may
+19 recover all of the following damages from a person found liable:
+20 (a) Economic and noneconomic damages, including, but not
+21 limited to, financial losses because of the creation or
+22 dissemination of the deep fake and damages for mental anguish,
+23 embarrassment, and humiliation.
+24 (b) An amount equal to any profit made from the creation or
+25 dissemination of the deep fake by the person found liable.
+26 (c) Actual court costs and fees and reasonable attorney fees.
+27 (2) In an action under section 3, the court may enter a
+28 temporary restraining order or a permanent injunction to prevent
+29 further harm to the plaintiff. The court may award the plaintiff a
+TDR H00831'25 (S-3) nzkuot
+
+6
+1 civil fine for the violation of an order entered under this
+2 subsection of not more than $1,000.00 per day.
+3 Sec. 7. (1) Sections 3 to 6 must not be construed to impose
+4 liability on the following entities for providing the transmission
+5 infrastructure or access to content created by another person:
+6 (a) An interactive computer service as defined in 47 USC
+7 230(f)(2).
+8 (b) A provider of public mobile services or private radio
+9 services.
+10 (c) A telecommunications network or broadband provider.
+11 (d) A provider or developer of a technology used in the
+12 creation of a deep fake, if the technology is not designed for,
+13 marketed for, or deployed for the nonconsensual creation or
+14 dissemination of deep fakes that realistically depict the intimate
+15 parts of depicted individuals or depicted individuals engaging in
+16 sexual acts, and if the provider or developer has prohibited
+17 explicit deep fake content in accordance with the provider's or
+18 developer's terms of service.
+19 (2) Liability under sections 3 to 6 does not affect any other
+20 remedy available under law.
+21 Sec. 8. (1) An individual shall not intentionally create or
+22 disseminate a deep fake if all of the following apply:
+23 (a) The individual knew or reasonably should have known that
+24 the creation, distribution, dissemination, or reproduction of the
+25 deep fake would cause physical, emotional, reputational, or
+26 economic harm to an individual falsely depicted.
+27 (b) The deep fake realistically depicts any of the following:
+28 (i) The intimate parts of the depicted individual.
+29 (ii) The depicted individual engaging in a sexual act.
+TDR H00831'25 (S-3) nzkuot
+
+7
+1 (c) The depicted individual is identifiable in either of the
+2 following ways:
+3 (i) From the deep fake itself, by the depicted individual or by
+4 a reasonable individual viewing or listening to the deep fake.
+5 (ii) From the personal information displayed in connection with
+6 the deep fake.
+7 (2) Except as provided in subsection (3), an individual who
+8 violates subsection (1) is guilty of a misdemeanor punishable by
+9 imprisonment for not more than 1 year, a fine of not more than
+10 $3,000.00, or both.
+11 (3) An individual who violates subsection (1) is guilty of a
+12 felony punishable by imprisonment for not more than 3 years, a fine
+13 of not more than $5,000.00, or both, if 1 or more of the following
+14 apply:
+15 (a) The depicted individual suffers financial loss because of
+16 the creation or dissemination of the deep fake.
+17 (b) The individual creates or disseminates the deep fake with
+18 intent to profit from the dissemination.
+19 (c) The individual maintains an internet website, online
+20 service, online application, or mobile application for the purpose
+21 of creating or disseminating the deep fake.
+22 (d) The individual posts the deep fake on a website.
+23 (e) The individual creates or disseminates the deep fake with
+24 intent to harass, extort, threaten, or cause physical, emotional,
+25 reputational, or economic harm to the depicted individual.
+26 (f) The individual has previously been convicted of violating
+27 subsection (1).
+28 (4) It is not a defense to a prosecution under this section
+29 that the depicted individual consented to the creation or
+TDR H00831'25 (S-3) nzkuot
+
+8
+1 possession of the deep fake, or to the voluntary private or public
+2 transmission of the deep fake, unless both of the following apply:
+3 (a) The consent is contained in an agreement written in plain
+4 language signed knowingly and voluntarily by the depicted
+5 individual.
+6 (b) The consent includes a general description of the intimate
+7 digital depiction and, if applicable, the audiovisual work into
+8 which it will be incorporated.
+9 (5) This section does not apply if any of the following apply:
+10 (a) The creation or dissemination is made for the purpose of a
+11 criminal investigation or prosecution that is otherwise lawful.
+12 (b) The creation or dissemination is for the purpose of, or in
+13 connection with, the reporting of unlawful conduct.
+14 (c) The creation or dissemination is made in the course of
+15 seeking or receiving medical or mental health treatment, and the
+16 image is protected from further dissemination.
+17 (d) The deep fake relates to a matter of public interest and
+18 creation or dissemination serves a lawful public purpose.
+19 (e) The creation or dissemination is made for legal
+20 proceedings and is consistent with common practice in civil
+21 proceedings necessary for the proper functioning of the civil
+22 justice system, or protected by court order that prohibits any
+23 further dissemination.
+24 (6) This section must not be construed to impose liability on
+25 the following entities for providing the transmission
+26 infrastructure or access to content created by another person:
+27 (a) An interactive computer service as defined in 47 USC
+28 230(f)(2).
+29 (b) A provider of public mobile services or private radio
+TDR H00831'25 (S-3) nzkuot
+
+9
+1 services.
+2 (c) A telecommunications network or broadband provider.
+3 (d) A provider or developer of a technology used in the
+4 creation of a deep fake, if the technology is not designed for,
+5 marketed for, or deployed for the nonconsensual creation or
+6 dissemination of deep fakes that realistically depict the intimate
+7 parts of depicted individuals or depicted individuals engaging in
+8 sexual acts, and if the provider or developer has prohibited
+9 explicit deep fake content in accordance with the provider's or
+10 developer's terms of service.
+11 Sec. 9. (1) This act does not affect the ability to bring a
+12 civil action under any other law.
+13 (2) This act does not limit the ability to prosecute a person
+14 under any other law.
+15 Sec. 10. As provided in section 5 of 1846 RS 1, MCL 8.5, this
+16 act is severable.
+Final Page
+TDR H00831'25 (S-3) nzkuot
+
+[DELETED:   H n S d S ( s t d n p]
+[DELETED:   H n f () i () t p ( w o ( o b ( a p ( o ( c i () l () () s () ( p (]
+[DELETED:   H n i a ( () i () o b ( i t c S d t o ( o r r o e e ( () () ( f ()]
+[DELETED:   H n a () t S t b ( f ( ( o ( p r t S t p t ( l i ( d w ( m ( a]
+[DELETED:   H n ( i ( s i ( c p p m o t ( p p j f S r ( l d e ( d ( ( t f]
+[DELETED:   H n c s S l i ( 2 ( s ( ( c m d p s e d ( r S d ( t d e ( () ()]
+[DELETED:   H n ( f () a () t ( v i $ ( f o a ( t ( i ( s o ( ( i r ( s ( t]
+[DELETED:   H n p t ( l i ( d w ( ( c ( c ( s i ( c ( p p j f ( t i ( 2 (]
+[DELETED:   H n s ( ( c m d p s e d S c ( u S a]

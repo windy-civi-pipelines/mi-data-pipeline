@@ -1,0 +1,171 @@
+Title: SENATE BILL NO. 401
+Official Title: SENATE BILL NO. 401
+Number of Sections: 2
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending section 17744b (MCL 333.17744b), as amended by 2024 PA
+
+Section 2:
+232.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 17744b. (1) Notwithstanding any provision of this act to
+2 the contrary, a prescriber may issue a prescription for and a
+3 dispensing prescriber or pharmacist may dispense an opioid
+4 antagonist to any of the following:
+5 (a) An individual patient at risk of experiencing an opioid-
+6 related overdose.
+7 (b) A family member, friend, or other individual in a position
+8 to assist an individual at risk of experiencing an opioid-related
+EMR S00529'25 (S-1) 1gktj7
+2
+1 overdose.
+2 (c) A person other than an individual that meets all of the
+3 following requirements:
+4 (i) Acts at the direction of the prescriber or dispensing
+5 prescriber.
+6 (ii) Upon receipt of an opioid antagonist, stores the opioid
+7 antagonist in compliance with this part.
+8 (iii) Dispenses or administers an opioid antagonist under a
+9 valid prescription issued to an individual or a patient.
+10 (iv) Performs the requirements under this subsection without
+11 charge or compensation.
+12 (d) An agency authorized to purchase or otherwise obtain,
+13 possess, and distribute an opioid antagonist under the
+14 administration of opioid antagonists act, 2019 PA 39, MCL 15.671 to
+15 15.677.
+16 (2) When issuing a prescription for or dispensing an opioid
+17 antagonist as authorized under this section to an agency described
+18 in subsection (1)(d) or a person other than a patient, the
+19 prescriber, dispensing prescriber, or pharmacist, as appropriate,
+20 shall insert the name of the agency or the person as the name of
+21 the patient.
+22 (3) Notwithstanding any provision of this act to the contrary,
+23 a prescriber who issues a prescription to a patient for an opioid
+24 shall, at that time, offer the patient a prescription for an opioid
+25 antagonist if any of the following apply:
+26 (a) The prescription for the opioid is for a dosage that is
+27 equal to or greater than 50 morphine milligram equivalents per day.
+28 (b) The opioid is prescribed concurrently with a prescription
+29 for a benzodiazepine.
+EMR S00529'25 (S-1) 1gktj7
+3
+1 (c) The patient is at an increased risk of experiencing an
+2 opioid-related overdose. For purposes of this subdivision, a
+3 patient is considered to be at an increased risk of experiencing an
+4 opioid-related overdose if the patient has a known history of
+5 opioid-related overdose or substance use disorder or the patient is
+6 at risk for returning to a high dose of an opioid to which the
+7 patient is no longer tolerant.
+8 (4) (3) Notwithstanding any provision of this act to the
+9 contrary, a person that is acting in good faith and with reasonable
+10 care may possess and dispense an opioid antagonist.
+11 (5) (4) Notwithstanding any provision of this act to the
+12 contrary, an agency described in subsection (1)(d) or an employee
+13 or agent of an agency described in subsection (1)(d) may, subject
+14 to the administration of opioid antagonists act, 2019 PA 39, MCL
+15 15.671 to 15.677, possess, administer, and distribute an opioid
+16 antagonist dispensed to the agency under this section.
+17 (6) (5) A prescriber who issues a prescription for or a
+18 dispensing prescriber or pharmacist who dispenses an opioid
+19 antagonist as authorized under this section is not liable in a
+20 civil action for a properly stored and dispensed opioid antagonist
+21 that was a proximate cause of injury or death to an individual due
+22 to the administration of or failure to administer the opioid
+23 antagonist.
+Final Page
+EMR S00529'25 (S-1) 1gktj7
+[DELETED:   S 1 S t d a ( r ( t]
+[DELETED:   S 1 o ( f () p () a () v () c ( p a 1 ( a i p s t]
+[DELETED:   S 1  ( c c ( c o t 1 a ( d a c t t a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 401
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending section 17744b (MCL 333.17744b), as amended by 2024 PA
+232.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 17744b. (1) Notwithstanding any provision of this act to
+2 the contrary, a prescriber may issue a prescription for and a
+3 dispensing prescriber or pharmacist may dispense an opioid
+4 antagonist to any of the following:
+5 (a) An individual patient at risk of experiencing an opioid-
+6 related overdose.
+7 (b) A family member, friend, or other individual in a position
+8 to assist an individual at risk of experiencing an opioid-related
+EMR S00529'25 (S-1) 1gktj7
+
+2
+1 overdose.
+2 (c) A person other than an individual that meets all of the
+3 following requirements:
+4 (i) Acts at the direction of the prescriber or dispensing
+5 prescriber.
+6 (ii) Upon receipt of an opioid antagonist, stores the opioid
+7 antagonist in compliance with this part.
+8 (iii) Dispenses or administers an opioid antagonist under a
+9 valid prescription issued to an individual or a patient.
+10 (iv) Performs the requirements under this subsection without
+11 charge or compensation.
+12 (d) An agency authorized to purchase or otherwise obtain,
+13 possess, and distribute an opioid antagonist under the
+14 administration of opioid antagonists act, 2019 PA 39, MCL 15.671 to
+15 15.677.
+16 (2) When issuing a prescription for or dispensing an opioid
+17 antagonist as authorized under this section to an agency described
+18 in subsection (1)(d) or a person other than a patient, the
+19 prescriber, dispensing prescriber, or pharmacist, as appropriate,
+20 shall insert the name of the agency or the person as the name of
+21 the patient.
+22 (3) Notwithstanding any provision of this act to the contrary,
+23 a prescriber who issues a prescription to a patient for an opioid
+24 shall, at that time, offer the patient a prescription for an opioid
+25 antagonist if any of the following apply:
+26 (a) The prescription for the opioid is for a dosage that is
+27 equal to or greater than 50 morphine milligram equivalents per day.
+28 (b) The opioid is prescribed concurrently with a prescription
+29 for a benzodiazepine.
+EMR S00529'25 (S-1) 1gktj7
+
+3
+1 (c) The patient is at an increased risk of experiencing an
+2 opioid-related overdose. For purposes of this subdivision, a
+3 patient is considered to be at an increased risk of experiencing an
+4 opioid-related overdose if the patient has a known history of
+5 opioid-related overdose or substance use disorder or the patient is
+6 at risk for returning to a high dose of an opioid to which the
+7 patient is no longer tolerant.
+8 (4) (3) Notwithstanding any provision of this act to the
+9 contrary, a person that is acting in good faith and with reasonable
+10 care may possess and dispense an opioid antagonist.
+11 (5) (4) Notwithstanding any provision of this act to the
+12 contrary, an agency described in subsection (1)(d) or an employee
+13 or agent of an agency described in subsection (1)(d) may, subject
+14 to the administration of opioid antagonists act, 2019 PA 39, MCL
+15 15.671 to 15.677, possess, administer, and distribute an opioid
+16 antagonist dispensed to the agency under this section.
+17 (6) (5) A prescriber who issues a prescription for or a
+18 dispensing prescriber or pharmacist who dispenses an opioid
+19 antagonist as authorized under this section is not liable in a
+20 civil action for a properly stored and dispensed opioid antagonist
+21 that was a proximate cause of injury or death to an individual due
+22 to the administration of or failure to administer the opioid
+23 antagonist.
+Final Page
+EMR S00529'25 (S-1) 1gktj7
+
+[DELETED:   S 1 S t d a ( r ( t]
+[DELETED:   S 1 o ( f () p () a () v () c ( p a 1 ( a i p s t]
+[DELETED:   S 1  ( c c ( c o t 1 a ( d a c t t a]

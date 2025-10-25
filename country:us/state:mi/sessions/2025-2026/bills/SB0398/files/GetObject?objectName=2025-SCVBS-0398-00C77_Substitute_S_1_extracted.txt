@@ -1,0 +1,137 @@
+Title: SENATE BILL NO. 398
+Official Title: SENATE BILL NO. 398
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 6230 and 6234 (MCL 333.6230 and 333.6234), as
+added by 2012 PA 501.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 6230. As used in this part:
+2 (a) "Department" means the department of licensing and
+3 regulatory affairs.
+4 (b) "Director" means the director of the department or his or
+5 her the director's designee.
+6 (c) "Mobile unit" means a mobile unit assigned to the location
+7 of a substance use disorder services program that supervises and
+8 administers the mobile unit.
+EMR S00526'25 (S-1) irqds7
+2
+1 (d) (c) "Substance use disorder services" means substance use
+2 disorder prevention services or substance use disorder treatment
+3 and rehabilitation services, or both, as those terms are defined in
+4 section 100d of the mental health code, 1974 PA 258, MCL 330.1100d.
+5 Sec. 6234. (1) The department may promulgate rules under the
+6 administrative procedures act of 1969 for the administration of
+7 this part and the licensing of substance use disorder services
+8 programs under this part. Rules promulgated under former section
+9 6231 relating to the licensing of substance use disorder services
+10 programs remain effective and applicable on and after the effective
+11 date of this section until rules are promulgated by the department
+12 under this section.
+13 (2) Beginning January 1, 2026, the department shall not
+14 promulgate or enforce a rule that does any of the following:
+15 (a) Requires that, as a condition of licensure for a mobile
+16 unit, the substance use disorder services program supervising and
+17 administering the mobile unit provide the treatment or
+18 rehabilitation services offered in the mobile unit.
+19 (b) Places a restriction on the total number of mobile units
+20 that a substance use disorder services program may supervise and
+21 administer.
+22 (c) Requires an individual to have a documented opioid use
+23 disorder for 1 year or more as a condition to receiving treatment
+24 from a substance use disorder services program offering methadone
+25 treatment.
+26 (d) Requires a health professional who is licensed,
+27 registered, or otherwise authorized under article 15 to engage in a
+28 health profession to document the medical necessity for an
+29 individual's continued treatment in a substance use disorder
+EMR S00526'25 (S-1) irqds7
+3
+1 services program offering methadone treatment.
+2 (e) Requires that, as a goal or objective of a substance use
+3 disorder services program, an individual discontinue the use of a
+4 medication for opioid use disorder.
+5 (f) Authorizes a substance use disorder services program to
+6 discharge an individual from treatment for the individual's failure
+7 to participate in ancillary services and counseling.
+Final Page
+EMR S00526'25 (S-1) irqds7
+[DELETED:   S i S ( r ( h d  ]
+[DELETED:   S i ( d a s S T a t p 6 p d u  ]
+[DELETED:   S i ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 398
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 6230 and 6234 (MCL 333.6230 and 333.6234), as
+added by 2012 PA 501.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 6230. As used in this part:
+2 (a) "Department" means the department of licensing and
+3 regulatory affairs.
+4 (b) "Director" means the director of the department or his or
+5 her the director's designee.
+6 (c) "Mobile unit" means a mobile unit assigned to the location
+7 of a substance use disorder services program that supervises and
+8 administers the mobile unit.
+EMR S00526'25 (S-1) irqds7
+
+2
+1 (d) (c) "Substance use disorder services" means substance use
+2 disorder prevention services or substance use disorder treatment
+3 and rehabilitation services, or both, as those terms are defined in
+4 section 100d of the mental health code, 1974 PA 258, MCL 330.1100d.
+5 Sec. 6234. (1) The department may promulgate rules under the
+6 administrative procedures act of 1969 for the administration of
+7 this part and the licensing of substance use disorder services
+8 programs under this part. Rules promulgated under former section
+9 6231 relating to the licensing of substance use disorder services
+10 programs remain effective and applicable on and after the effective
+11 date of this section until rules are promulgated by the department
+12 under this section.
+13 (2) Beginning January 1, 2026, the department shall not
+14 promulgate or enforce a rule that does any of the following:
+15 (a) Requires that, as a condition of licensure for a mobile
+16 unit, the substance use disorder services program supervising and
+17 administering the mobile unit provide the treatment or
+18 rehabilitation services offered in the mobile unit.
+19 (b) Places a restriction on the total number of mobile units
+20 that a substance use disorder services program may supervise and
+21 administer.
+22 (c) Requires an individual to have a documented opioid use
+23 disorder for 1 year or more as a condition to receiving treatment
+24 from a substance use disorder services program offering methadone
+25 treatment.
+26 (d) Requires a health professional who is licensed,
+27 registered, or otherwise authorized under article 15 to engage in a
+28 health profession to document the medical necessity for an
+29 individual's continued treatment in a substance use disorder
+EMR S00526'25 (S-1) irqds7
+
+3
+1 services program offering methadone treatment.
+2 (e) Requires that, as a goal or objective of a substance use
+3 disorder services program, an individual discontinue the use of a
+4 medication for opioid use disorder.
+5 (f) Authorizes a substance use disorder services program to
+6 discharge an individual from treatment for the individual's failure
+7 to participate in ancillary services and counseling.
+Final Page
+EMR S00526'25 (S-1) irqds7
+
+[DELETED:   S i S ( r ( h d  ]
+[DELETED:   S i ( d a s S T a t p 6 p d u  ]
+[DELETED:   S i ]
