@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 445 A bill to amend 1953 PA 232, entitled "Corrections code of 1953," (MCL 791.201 to 791.285) by adding section 7b. the people of the state of michigan enact: Sec. 7b. (1) Beginning 6 months after the effective date of the amendatory act that added this section and every 90 days thereafter, the department shall publish a report on the department's website that contains all of the following aggregate data pertaining to qualified prisoners: (a) Immigration statuses. (b) Each conviction for which a qualified prisoner is serving a sentence. (c) Home countries. (2) As used in this section: (a) "Home country" means the country of birthplace. (b) "Qualified prisoner" means a prisoner who is under the jurisdiction of the department on the date of the report and who is not a citizen of the United States.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 445 A bill to amend 1953 PA 232, entitled "Corrections code of 1953," (MCL 791.201 to 791.285) by adding section 7b. the people of the state of michigan enact: Sec. 7b. (1) Beginning 6 months after the effective date of the amendatory act that added this section and every 90 days thereafter, the department shall publish a report on the department's website that contains all of the following aggregate data pertaining to qualified prisoners: (a) Immigration statuses. (b) Each conviction for which a qualified prisoner is serving a sentence. (c) Home countries. (2) As used in this section: (a) "Home country" means the country of birthplace. (b) "Qualified prisoner" means a prisoner who is under the jurisdiction of the department on the date of the report and who is not a citizen of the United States.

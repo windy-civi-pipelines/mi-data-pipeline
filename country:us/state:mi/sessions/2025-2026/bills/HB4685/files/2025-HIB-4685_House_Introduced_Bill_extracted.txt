@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4685 A bill to amend 1956 PA 218, entitled "The insurance code of 1956," (MCL 500.100 to 500.8302) by adding section 3406uu. the people of the state of michigan enact: Sec. 3406uu. (1) An insurer that delivers, issues for delivery, or renews in this state a health insurance policy that provides mental health and substance use disorder benefits shall provide reimbursement for the benefits that are delivered through the psychiatric collaborative care model, which must include the following Current Procedural Terminology billing codes established by the American Medical Association: (a) 90844. (b) 99492. (c) 99493. (d) 99494. (e) G2214. (2) The director shall update the list of codes under subsection (1) if there are any alterations or additions to the billing codes for the psychiatric collaborative care model. (3) An insurer described in subsection (1) may deny reimbursement of any Current Procedural Terminology billing code listed in this section on the grounds of medical necessity if the medical necessity determinations are in compliance with the Paul Wellstone and Pete Domenici mental health parity and addiction equity act of 2008, Public Law 110-343, and its implementing and related regulations and the determinations are made in accordance with the utilization review requirements under section 2212e. (4) As used in this section, "psychiatric collaborative care model" means the evidence-based, integrated behavioral health service delivery method described in 81 FR 80230.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4685 A bill to amend 1956 PA 218, entitled "The insurance code of 1956," (MCL 500.100 to 500.8302) by adding section 3406uu. the people of the state of michigan enact: Sec. 3406uu. (1) An insurer that delivers, issues for delivery, or renews in this state a health insurance policy that provides mental health and substance use disorder benefits shall provide reimbursement for the benefits that are delivered through the psychiatric collaborative care model, which must include the following Current Procedural Terminology billing codes established by the American Medical Association: (a) 90844. (b) 99492. (c) 99493. (d) 99494. (e) G2214. (2) The director shall update the list of codes under subsection (1) if there are any alterations or additions to the billing codes for the psychiatric collaborative care model. (3) An insurer described in subsection (1) may deny reimbursement of any Current Procedural Terminology billing code listed in this section on the grounds of medical necessity if the medical necessity determinations are in compliance with the Paul Wellstone and Pete Domenici mental health parity and addiction equity act of 2008, Public Law 110-343, and its implementing and related regulations and the determinations are made in accordance with the utilization review requirements under section 2212e. (4) As used in this section, "psychiatric collaborative care model" means the evidence-based, integrated behavioral health service delivery method described in 81 FR 80230.

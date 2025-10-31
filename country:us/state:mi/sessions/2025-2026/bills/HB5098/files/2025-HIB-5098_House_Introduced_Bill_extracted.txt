@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5098 A bill to amend 1936 (Ex Sess) PA 1, entitled "Michigan employment security act," (MCL 421.1 to 421.75) by adding section 32e. the people of the state of michigan enact: Sec. 32e. (1) Notwithstanding any other provision of this act, the unemployment insurance agency shall not discontinue the use of its fraud detection software for any period of time, except as necessary to perform routine maintenance on the fraud detection software to ensure the fraud detection software functions properly. (2) Any routine maintenance performed under subsection (1) must be documented and limited in duration. At the time the maintenance is completed, the fraud detection software must be immediately restored for use. (3) As used in this section, "fraud detection software" means any program, database, or software the unemployment insurance agency uses to evaluate claims for potential fraud.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5098 A bill to amend 1936 (Ex Sess) PA 1, entitled "Michigan employment security act," (MCL 421.1 to 421.75) by adding section 32e. the people of the state of michigan enact: Sec. 32e. (1) Notwithstanding any other provision of this act, the unemployment insurance agency shall not discontinue the use of its fraud detection software for any period of time, except as necessary to perform routine maintenance on the fraud detection software to ensure the fraud detection software functions properly. (2) Any routine maintenance performed under subsection (1) must be documented and limited in duration. At the time the maintenance is completed, the fraud detection software must be immediately restored for use. (3) As used in this section, "fraud detection software" means any program, database, or software the unemployment insurance agency uses to evaluate claims for potential fraud.

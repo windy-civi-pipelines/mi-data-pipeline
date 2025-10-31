@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4510 A bill to amend 1965 PA 314, entitled "Public employee retirement system investment act," (MCL 38.1132 to 38.1141) by adding section 19c. the people of the state of michigan enact: Sec. 19c. (1) For a system in which the state treasurer is the investment fiduciary, the investment fiduciary may invest in cryptocurrency that has a market capitalization of at least $250,000,000,000.00 averaged over the previous calendar year. Any digital asset held by this state in any of the previously listed funds must be held in the form of an exchange-traded product issued by a registered investment company. (2) As used in this section, "cryptocurrency" means digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, and that operates independently of a central bank.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4510 A bill to amend 1965 PA 314, entitled "Public employee retirement system investment act," (MCL 38.1132 to 38.1141) by adding section 19c. the people of the state of michigan enact: Sec. 19c. (1) For a system in which the state treasurer is the investment fiduciary, the investment fiduciary may invest in cryptocurrency that has a market capitalization of at least $250,000,000,000.00 averaged over the previous calendar year. Any digital asset held by this state in any of the previously listed funds must be held in the form of an exchange-traded product issued by a registered investment company. (2) As used in this section, "cryptocurrency" means digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, and that operates independently of a central bank.

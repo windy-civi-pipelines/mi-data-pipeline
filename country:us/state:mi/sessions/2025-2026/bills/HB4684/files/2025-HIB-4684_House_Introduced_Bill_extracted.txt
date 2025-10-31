@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4684 A bill to amend 1956 PA 218, entitled "The insurance code of 1956," (MCL 500.100 to 500.8302) by adding section 3406ww. the people of the state of michigan enact: Sec. 3406ww. (1) An insurer that delivers, issues for delivery, or renews in this state a health insurance policy shall develop a plan to provide adequate coverage of and access to a broad spectrum of pain management services, including, but not limited to, nonopioid, nonnarcotic medication for pain management and nonmedication pain management services that serve as alternatives to the prescribing of opioid or narcotic drugs in accordance with guidelines developed by the department. (2) An insurer shall file a plan required under subsection (1) with the department for approval. In its review, the department shall consider the adequacy of access to a broad spectrum of pain management services under the plan and whether any policies adopted by the insurer may create unduly preferential coverage of and access to prescribed opioids for pain management without consideration of other pain management services. (3) An insurer shall distribute educational materials to network providers about a pain management access plan under subsection (1) and post information about the pain management access plan on the insurer's publicly accessible website.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4684 A bill to amend 1956 PA 218, entitled "The insurance code of 1956," (MCL 500.100 to 500.8302) by adding section 3406ww. the people of the state of michigan enact: Sec. 3406ww. (1) An insurer that delivers, issues for delivery, or renews in this state a health insurance policy shall develop a plan to provide adequate coverage of and access to a broad spectrum of pain management services, including, but not limited to, nonopioid, nonnarcotic medication for pain management and nonmedication pain management services that serve as alternatives to the prescribing of opioid or narcotic drugs in accordance with guidelines developed by the department. (2) An insurer shall file a plan required under subsection (1) with the department for approval. In its review, the department shall consider the adequacy of access to a broad spectrum of pain management services under the plan and whether any policies adopted by the insurer may create unduly preferential coverage of and access to prescribed opioids for pain management without consideration of other pain management services. (3) An insurer shall distribute educational materials to network providers about a pain management access plan under subsection (1) and post information about the pain management access plan on the insurer's publicly accessible website.

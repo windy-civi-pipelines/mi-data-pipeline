@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4537 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 107b. the people of the state of michigan enact: Sec. 107b. The department or a contracted health plan shall not deny, modify, or delay a claim under the medical assistance program based on a review using artificial intelligence.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4537 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 107b. the people of the state of michigan enact: Sec. 107b. The department or a contracted health plan shall not deny, modify, or delay a claim under the medical assistance program based on a review using artificial intelligence.

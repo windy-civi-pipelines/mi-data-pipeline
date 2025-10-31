@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 66 A bill to amend 1976 PA 399, entitled "Safe drinking water act," (MCL 325.1001 to 325.1023) by adding section 15a. the people of the state of michigan enact: Sec. 15a. (1) If an adult foster care facility is supplied by well water that is of sufficient volume and that does not exceed the maximum permissible level for any contaminant, a local unit of government or an authority established by 1 or more local units of government shall not require the facility to connect to a different waterworks system. (2) As used in this section, "adult foster care facility" or "facility" means an adult foster care facility as defined in section 3 of the adult foster care facilities licensing act, 1979 PA 218, MCL 400.703, that provides care to 50 or fewer residents.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 66 A bill to amend 1976 PA 399, entitled "Safe drinking water act," (MCL 325.1001 to 325.1023) by adding section 15a. the people of the state of michigan enact: Sec. 15a. (1) If an adult foster care facility is supplied by well water that is of sufficient volume and that does not exceed the maximum permissible level for any contaminant, a local unit of government or an authority established by 1 or more local units of government shall not require the facility to connect to a different waterworks system. (2) As used in this section, "adult foster care facility" or "facility" means an adult foster care facility as defined in section 3 of the adult foster care facilities licensing act, 1979 PA 218, MCL 400.703, that provides care to 50 or fewer residents.
