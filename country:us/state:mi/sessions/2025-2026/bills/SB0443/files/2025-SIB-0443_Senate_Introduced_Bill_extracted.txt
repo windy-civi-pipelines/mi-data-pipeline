@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 443 A bill to amend 1978 PA 368, entitled "Public health code," (MCL 333.1101 to 333.25211) by adding section 20187. the people of the state of michigan enact: Sec. 20187. (1) A health facility or agency that provides a surgical procedure using heat-producing equipment that is likely to generate surgical smoke plume shall develop and implement a policy that requires the use of a surgical smoke plume evacuation system during a procedure described in this subsection. (2) As used in this section: (a) "Surgical procedure using heat-producing equipment" means any of the following: (i) A procedure that uses an electric current to cut, remove, or destroy tissue and control bleeding. (ii) A procedure using a laser. (iii) Any other procedure that uses heat-generating surgical instruments. (b) "Surgical smoke plume" means a vapor, gas, or harmful particle produced as a byproduct of a surgical procedure using heat-producing equipment. (c) "Surgical smoke plume evacuation system" means a dedicated device that is designed to capture, transport, filter, and neutralize surgical smoke plume at the site of origin and before surgical smoke plume can make ocular contact or contact with the respiratory tract of an individual.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 443 A bill to amend 1978 PA 368, entitled "Public health code," (MCL 333.1101 to 333.25211) by adding section 20187. the people of the state of michigan enact: Sec. 20187. (1) A health facility or agency that provides a surgical procedure using heat-producing equipment that is likely to generate surgical smoke plume shall develop and implement a policy that requires the use of a surgical smoke plume evacuation system during a procedure described in this subsection. (2) As used in this section: (a) "Surgical procedure using heat-producing equipment" means any of the following: (i) A procedure that uses an electric current to cut, remove, or destroy tissue and control bleeding. (ii) A procedure using a laser. (iii) Any other procedure that uses heat-generating surgical instruments. (b) "Surgical smoke plume" means a vapor, gas, or harmful particle produced as a byproduct of a surgical procedure using heat-producing equipment. (c) "Surgical smoke plume evacuation system" means a dedicated device that is designed to capture, transport, filter, and neutralize surgical smoke plume at the site of origin and before surgical smoke plume can make ocular contact or contact with the respiratory tract of an individual.

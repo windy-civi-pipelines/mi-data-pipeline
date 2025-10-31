@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5032 A bill to amend 1976 PA 451, entitled "The revised school code," by amending section 1361 (MCL 380.1361), as amended by 2003 PA 299. the people of the state of michigan enact: 1 2 3 4 5 Sec. 1361. (1) School district elections upon concerning the issuance of bonds shall must be held and conducted in accordance with this act and chapter XIV of the Michigan election law, MCL 168.301 to 168.315. 168.316. Members of the school board shall not serve on a board of election inspectors. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 (2) The question shall must be submitted by ballot in substantially the following form: "Shall __________________________________________________, (here state the legal name of the school district) county/or counties of _____________ and state of Michigan, borrow the sum of not to exceed dollars ($_______________) and issue its bonds therefor, for the purpose of ________? Yes ( ) No ( )". (3) Anything contained in the ballot not specified in this section shall be is considered surplusage and of no legal effect. (4) A school district shall not use funds received under the state school aid act of 1979 for any costs associated with an election held and conducted under this section. All costs associated with an election held and conducted under this section must be paid for through private donation.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5032 A bill to amend 1976 PA 451, entitled "The revised school code," by amending section 1361 (MCL 380.1361), as amended by 2003 PA 299. the people of the state of michigan enact: 1 2 3 4 5 Sec. 1361. (1) School district elections upon concerning the issuance of bonds shall must be held and conducted in accordance with this act and chapter XIV of the Michigan election law, MCL 168.301 to 168.315. 168.316. Members of the school board shall not serve on a board of election inspectors. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 (2) The question shall must be submitted by ballot in substantially the following form: "Shall __________________________________________________, (here state the legal name of the school district) county/or counties of _____________ and state of Michigan, borrow the sum of not to exceed dollars ($_______________) and issue its bonds therefor, for the purpose of ________? Yes ( ) No ( )". (3) Anything contained in the ballot not specified in this section shall be is considered surplusage and of no legal effect. (4) A school district shall not use funds received under the state school aid act of 1979 for any costs associated with an election held and conducted under this section. All costs associated with an election held and conducted under this section must be paid for through private donation.

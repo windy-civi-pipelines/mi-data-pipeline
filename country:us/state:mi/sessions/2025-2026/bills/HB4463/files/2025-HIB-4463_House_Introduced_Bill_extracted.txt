@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4463 A bill to amend 1954 PA 116, entitled "Michigan election law," (MCL 168.1 to 168.992) by adding section 495b. the people of the state of michigan enact: Sec. 495b. (1) Subject to subsection (2), at least once before each even year general November election, the secretary of state must review the instructions on the voter registration application to ensure that the voter registration application clearly does both of the following: (a) Describes the United States citizenship requirement for voter registration. (b) Informs an individual who does not meet the United States citizenship requirement that the individual must not register to vote. (2) In conducting the review under subsection (1), the secretary of state must consult with an expert on the usability of election or governmental forms or instructions.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4463 A bill to amend 1954 PA 116, entitled "Michigan election law," (MCL 168.1 to 168.992) by adding section 495b. the people of the state of michigan enact: Sec. 495b. (1) Subject to subsection (2), at least once before each even year general November election, the secretary of state must review the instructions on the voter registration application to ensure that the voter registration application clearly does both of the following: (a) Describes the United States citizenship requirement for voter registration. (b) Informs an individual who does not meet the United States citizenship requirement that the individual must not register to vote. (2) In conducting the review under subsection (1), the secretary of state must consult with an expert on the usability of election or governmental forms or instructions.

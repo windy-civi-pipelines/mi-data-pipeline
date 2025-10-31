@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4487 A bill to amend 1967 PA 281, entitled "Income tax act of 1967," (MCL 206.1 to 206.847) by adding section 272b. the people of the state of michigan enact: Sec. 272b. (1) Subject to the limitations under this section, for tax years that begin on and after January 1, 2025, a qualified taxpayer may claim a credit against the tax imposed by this part equal to $2,500.00 for each qualified dependent of the taxpayer who is at least 4 years of age but not more than 6 years of age on the last day of the tax year for which the credit is claimed and for which an exemption was claimed under section 30(2)(b) for that same tax year. (2) A taxpayer shall not claim a credit under this section for more than 3 qualified dependents in a single tax year. (3) If the credit allowed under this section exceeds the tax liability of the taxpayer for the tax year, that portion of the credit that exceeds the tax liability must be refunded. (4) As used in this section: (a) "Earned income" means that term as defined under section 32 of the internal revenue code. (b) "Qualifying child" means that term as defined in section 152 of the internal revenue code. (c) "Qualified dependent" means a dependent who is a qualifying child. (d) "Qualified taxpayer" means a taxpayer who has earned income of at least $10,000.00 for the tax year.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4487 A bill to amend 1967 PA 281, entitled "Income tax act of 1967," (MCL 206.1 to 206.847) by adding section 272b. the people of the state of michigan enact: Sec. 272b. (1) Subject to the limitations under this section, for tax years that begin on and after January 1, 2025, a qualified taxpayer may claim a credit against the tax imposed by this part equal to $2,500.00 for each qualified dependent of the taxpayer who is at least 4 years of age but not more than 6 years of age on the last day of the tax year for which the credit is claimed and for which an exemption was claimed under section 30(2)(b) for that same tax year. (2) A taxpayer shall not claim a credit under this section for more than 3 qualified dependents in a single tax year. (3) If the credit allowed under this section exceeds the tax liability of the taxpayer for the tax year, that portion of the credit that exceeds the tax liability must be refunded. (4) As used in this section: (a) "Earned income" means that term as defined under section 32 of the internal revenue code. (b) "Qualifying child" means that term as defined in section 152 of the internal revenue code. (c) "Qualified dependent" means a dependent who is a qualifying child. (d) "Qualified taxpayer" means a taxpayer who has earned income of at least $10,000.00 for the tax year.
