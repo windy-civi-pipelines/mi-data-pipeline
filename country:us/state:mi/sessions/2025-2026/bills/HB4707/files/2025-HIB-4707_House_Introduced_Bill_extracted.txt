@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 4707 A bill to amend 1954 PA 116, entitled "Michigan election law," (MCL 168.1 to 168.992) by adding section 642e. the people of the state of michigan enact: Sec. 642e. (1) Notwithstanding any law or charter provision to the contrary, this state, a city, or a township is prohibited from conducting an election using ranked choice voting. (2) A city or township shall not enact or enforce any law or ordinance that authorizes the use of ranked choice voting to conduct an election. Any law or ordinance that violates this subsection is void and unenforceable. (3) As used in this section, "ranked choice voting" means a method of voting that allows a voter to rank the candidates for an office in order of preference and the ballots cast are tabulated in multiple rounds following the elimination of candidates until a single candidate is declared the winner, or any other method of voting that allows voters to vote for more candidates for an office than the total number of positions to be filled for that office at an election.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 4707 A bill to amend 1954 PA 116, entitled "Michigan election law," (MCL 168.1 to 168.992) by adding section 642e. the people of the state of michigan enact: Sec. 642e. (1) Notwithstanding any law or charter provision to the contrary, this state, a city, or a township is prohibited from conducting an election using ranked choice voting. (2) A city or township shall not enact or enforce any law or ordinance that authorizes the use of ranked choice voting to conduct an election. Any law or ordinance that violates this subsection is void and unenforceable. (3) As used in this section, "ranked choice voting" means a method of voting that allows a voter to rank the candidates for an office in order of preference and the ballots cast are tabulated in multiple rounds following the elimination of candidates until a single candidate is declared the winner, or any other method of voting that allows voters to vote for more candidates for an office than the total number of positions to be filled for that office at an election.

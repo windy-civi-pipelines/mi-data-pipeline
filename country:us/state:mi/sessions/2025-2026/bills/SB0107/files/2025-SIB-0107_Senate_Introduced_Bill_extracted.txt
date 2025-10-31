@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 107 A bill to amend 1956 PA 218, entitled "The insurance code of 1956," (MCL 500.100 to 500.8302) by adding section 3406ss. the people of the state of michigan enact: Sec. 3406ss. (1) Beginning January 1, 2026, an insurer that delivers, issues for delivery, or renews in this state a health insurance policy that provides coverage for immunization agents shall provide coverage for all of the following: (a) A qualified immunizing agent listed on the Immunization Schedules of the Centers for Disease Control and Prevention that is administered by a pharmacist as provided in section 17724 of the public health code, 1978 PA 368, MCL 333.17724, at a pharmacy within the insurer's network. (b) A qualified laboratory test ordered by a pharmacist as provided under section 17724a of the public health code, 1978 PA 368, MCL 333.17724a, at a pharmacy within the insurer's network. (c) A drug dispensed by a pharmacist as provided under section 17724a of the public health code, 1978 PA 368, MCL 333.17724a, at a pharmacy within the insurer's network. (2) The coverage required under subsection (1) is subject to a health insurance policy's utilization management, prior authorization, or precertification requirements. (3) An insurer described in subsection (1) may subject coverage required under subsection (1) to applicable cost-sharing, including deductible, co-insurance, or co-pay provisions of the insurer's health insurance policy.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 107 A bill to amend 1956 PA 218, entitled "The insurance code of 1956," (MCL 500.100 to 500.8302) by adding section 3406ss. the people of the state of michigan enact: Sec. 3406ss. (1) Beginning January 1, 2026, an insurer that delivers, issues for delivery, or renews in this state a health insurance policy that provides coverage for immunization agents shall provide coverage for all of the following: (a) A qualified immunizing agent listed on the Immunization Schedules of the Centers for Disease Control and Prevention that is administered by a pharmacist as provided in section 17724 of the public health code, 1978 PA 368, MCL 333.17724, at a pharmacy within the insurer's network. (b) A qualified laboratory test ordered by a pharmacist as provided under section 17724a of the public health code, 1978 PA 368, MCL 333.17724a, at a pharmacy within the insurer's network. (c) A drug dispensed by a pharmacist as provided under section 17724a of the public health code, 1978 PA 368, MCL 333.17724a, at a pharmacy within the insurer's network. (2) The coverage required under subsection (1) is subject to a health insurance policy's utilization management, prior authorization, or precertification requirements. (3) An insurer described in subsection (1) may subject coverage required under subsection (1) to applicable cost-sharing, including deductible, co-insurance, or co-pay provisions of the insurer's health insurance policy.

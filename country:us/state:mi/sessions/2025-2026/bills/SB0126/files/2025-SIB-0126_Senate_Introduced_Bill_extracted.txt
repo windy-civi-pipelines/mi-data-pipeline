@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 126 A bill to provide for the elimination of daylight saving time in this state; and to provide for a referendum. the people of the state of michigan enact: Sec. 1. As authorized in 15 USC 260a, this entire state, including all political subdivisions of this state, is exempt from and shall not follow daylight saving time or the advancement of time as it is otherwise referred to. Enacting section 1. This act does not take effect unless approved by a majority of the electors of this state voting on the question at the general election to be held November 3, 2026. This act must be submitted to the qualified electors of this state at that election as provided by the Michigan election law, 1954 PA 116, MCL 168.1 to 168.992. If approved by the electors, this act takes effect 30 days after the date of the official declaration of the vote.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 126 A bill to provide for the elimination of daylight saving time in this state; and to provide for a referendum. the people of the state of michigan enact: Sec. 1. As authorized in 15 USC 260a, this entire state, including all political subdivisions of this state, is exempt from and shall not follow daylight saving time or the advancement of time as it is otherwise referred to. Enacting section 1. This act does not take effect unless approved by a majority of the electors of this state voting on the question at the general election to be held November 3, 2026. This act must be submitted to the qualified electors of this state at that election as provided by the Michigan election law, 1954 PA 116, MCL 168.1 to 168.992. If approved by the electors, this act takes effect 30 days after the date of the official declaration of the vote.
